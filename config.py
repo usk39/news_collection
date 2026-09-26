@@ -16,7 +16,7 @@ except ImportError:  # pragma: no cover
 # 空の場合はチャンネルページから自動解決を試みる。
 # name はAPI/RSSで取得したチャンネル名があればそちらで上書きされる。
 CHANNELS = [
-    {"name": "すみれ＆あおいの時事ニュース", "handle": "@sumiaojiji", "channel_id": ""},
+    {"name": "すみれ＆あおいの時事ニュース", "handle": "@sumiaojiji", "channel_id": "UCU0RzfCCmIsWa0iVpbzExFQ"},
     {"name": "プク太の世界時事ニュース", "handle": "@pukujiji", "channel_id": "UCe3SZWQT_t4fgf6CrsAf_ow"},
 ]
 

@@ -1,0 +1,880 @@
+{
+  "generated_at": "2026-09-26T03:42:06+00:00",
+  "channels": [
+    {
+      "name": "すみれ＆あおいの時事ニュース",
+      "handle": "@sumiaojiji"
+    },
+    {
+      "name": "プク太の世界時事ニュース",
+      "handle": "@pukujiji"
+    }
+  ],
+  "by_channel": [
+    {
+      "name": "すみれ＆あおいの時事ニュース",
+      "handle": "@sumiaojiji",
+      "channel_id": "UCU0RzfCCmIsWa0iVpbzExFQ",
+      "videos": []
+    },
+    {
+      "name": "プク太の世界時事ニュース",
+      "handle": "@pukujiji",
+      "channel_id": "UCe3SZWQT_t4fgf6CrsAf_ow",
+      "videos": []
+    }
+  ],
+  "keyword_profile": {},
+  "keyword_profile_en": {
+    "Trump": 0.4,
+    "White House": 0.4,
+    "election": 0.4,
+    "immigration": 0.4,
+    "border": 0.4,
+    "China": 0.4,
+    "Xi Jinping": 0.4,
+    "Taiwan": 0.4,
+    "Russia": 0.4,
+    "Ukraine": 0.4,
+    "Putin": 0.4,
+    "Israel": 0.4,
+    "Gaza": 0.4,
+    "Iran": 0.4,
+    "North Korea": 0.4,
+    "South Korea": 0.4,
+    "Japan": 0.4,
+    "tariff": 0.4,
+    "inflation": 0.4,
+    "Hollywood": 0.4,
+    "Disney": 0.4,
+    "Marvel": 0.4,
+    "Netflix": 0.4,
+    "box office": 0.4,
+    "Oscars": 0.4,
+    "woke": 0.4,
+    "DEI": 0.4,
+    "transgender": 0.4,
+    "free speech": 0.4,
+    "cancel culture": 0.4,
+    "boycott": 0.4,
+    "Elon Musk": 0.4,
+    "AI": 0.4,
+    "Olympics": 0.4
+  },
+  "general_trends": [
+    {
+      "title": "印旛沼決壊、養殖のウナギ「全滅だろう」・４代続く稲作農家「廃業も考えざるを得ない」…農漁業に大打撃 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYTE1TNmtTTUVIaW56U1JZTVRIaC1jdzhNYzltaGloQU40ckp2VGVtMVJ5Z2FqaU8zUHlrbHBGeVVyZ0tLaVA3WTFyY0RDX20t?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "Fri, 25 Sep 2026 23:25:28 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "群馬・太田の女性殺害、長女の元夫を長男への殺人未遂容疑で公開手配…群馬県警 - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xX1FlWUpKb19vME03X3ZfQ2xPS2FhY3h0M3RVSXg1YnM5TXdPb2FjaE93N2lYMjVYd0R6TEpsc1N3ZWdjT19XeGduc0s1bTlhYmgzYTNLV3l0NW85OGR5X2s4N1RDZw?oc=5",
+      "source": "読売新聞",
+      "published_at": "Sat, 26 Sep 2026 00:26:00 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "ネパール土石流 捜索打ち切り検討 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DTXplTU9TbG9vVHBMR01qZlFta2NlVW1ma1VtV3QtdlBoeU9SdjJ4YXBKTjlILWVaaXoxZ0tsbVR1aE1Wc01iQV9lM2tTY0Vq?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "Sat, 26 Sep 2026 03:01:59 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "4歳の長女と1歳の次女をベランダから投げ落とした疑い 25歳の父親を現行犯逮捕 - 中日新聞Web",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaNWJscHRoZkpSSlBObGROS3RBTHJvV2FicUZid0kzelF2a0c0bm9zcDBuQWdRRHlLc2ZGcnJIM09fdzlBYjFpMG1BWWZTbTJqc1Zzbw?oc=5",
+      "source": "中日新聞Web",
+      "published_at": "Sat, 26 Sep 2026 02:18:05 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "「緊急動議！」の林県議に『問責決議案』 匿名アカウントで“金銭授受疑惑”告発した吉松県議に攻撃的投稿【福岡発】 - FNNプライムオンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tYjB1a0djeDFCcS1pM0FBelFHZmxpdUZOdE03VUc2dlA2SlZGcFhrVnEyLVM4RlZWdjlqaUpLel94eGo5UlpyZUZfT1RLUQ?oc=5",
+      "source": "FNNプライムオンライン",
+      "published_at": "Fri, 25 Sep 2026 09:59:00 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "関越道で事故、作業員の男女2人が死亡 工事現場にイラン国籍男性運転の車が突っ込む - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DcWdoNkJ4NjBCeUNrd3ZoTWFwdW5Xa0xuZHhIbk1XYUo1QXJjTE00LVZUVGppM09SMGVDSjZUY0Y1THlyczhlbDN1eDA2RUJlaDh0QlFGUlI5OHRDck1oaS02NWVDaDRfS3l4UkkzMjN4TFNQd0E?oc=5",
+      "source": "産経ニュース",
+      "published_at": "Fri, 25 Sep 2026 16:20:21 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "玉城デニー沖縄県知事「SNSのおぞましさ対処を」 最後の定例会見 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JVkI4Q2lQYjhIY1poM1pBQk1KYUxtU0VuelBqbi0wOTdnRmZrT0NlaWVLWXVSNlgtTHN6eGpRd1VfaVdDU29CQTZob0twQS1BQUYwd2hIWnk4SGxaLU05aHpfOU45TmltWklxUw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "Fri, 25 Sep 2026 10:09:46 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "津市の公園に毒キノコが大量自生、食べると嘔吐や下痢などの症状…回収追いつかず市「子供やペットを近づけないで」 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pWGJzb2xuclJ6UmN4SENiQXJmRFFlcmJkd3Fyand2R2JES05QbFZPaVF3THVycU54aFY3MVFqVm1RVWFtVnhDSm1ud3ZLbDhzQ0FHTGN6U29uOFFPVElGcnlJZmZWTXV0ZFViVnJKTGpqTFNmNjJxTVhCbjlYUWM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "Fri, 25 Sep 2026 21:55:47 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "立花孝志被告が再び不起訴…兵庫県議への脅迫容疑、捜査終結へ - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SUFl5NzFHWFlfZThWYVlzaDdPNUdsUGFvc19ibmxqLUNzR21rZkVqYkV5akZJRFNiLUV6Z2FaU1dVTEVLQURTWDBSaWxMQlI3bEkzVEFBZUtTRl9SYk5QRmZhS0hmZw?oc=5",
+      "source": "読売新聞",
+      "published_at": "Fri, 25 Sep 2026 23:57:00 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "「越前がに」に規定以上の水がに、ふるさと納税返礼品除外で風評被害懸念「打撃を受けるのは漁師」（読売新聞オンライン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xYWJrajVQZ3ZVVTlnSVkwdFc4YUI0SFBoXzhuTEIwVk5WRXVMMXpjbl9vcndTbDl0d2puSzZsZ0V2RHVtU1FjTHYtMEJDWENvTC1xR3RMSVZTTFk2dU56QmlTWGViV09ndjlMTmVQOFZGSE85b3REUHRaREFWR2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "Sat, 26 Sep 2026 02:39:24 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "アメリカ陸軍のタイフォン中距離ミサイルシステムを沖縄県の嘉手納基地で恒久的に「保管」する計画を発表（JSF） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFc5dmFUUVZwVnlqQVVwNEQ2QnpQSFJIOWZVcEJtTXZjR0I4Q0ZuRGp1Q3lfOHVSck0zM1ZwTXUtaHhVOEdxMS01MUlVak5DVGs1bVdOOWpLejctUXQzeXh4OFZIbl9CNUMxTEVfVTBiWnhIaXRjc2R1cldHRWNVTUlmX1BiRlRU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "Fri, 25 Sep 2026 19:02:00 GMT",
+      "category": "NATION",
+      "topic_weight": 1.2,
+      "interest_score": 1.2
+    },
+    {
+      "title": "【詳報】群馬･太田市で女性が刺され死亡 逃走した男は長女の元夫か 群馬県警が行方追う - 上毛新聞電子版",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RElFakZRR2ZnYzdvTjZnU1NqMUxZM1VWY0RIYWFvSF9qd3FMQ1dvVG5OMnY4dEVFa2xxa0ZJOEVET080d3ZpYTFZWGVKRUN3S3VSd054dnJLdw?oc=5",
+      "source": "上毛新聞電子版",
+      "published_at": "Fri, 25 Sep 2026 23:55:09 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "習氏厚遇「やり過ぎ」、共和党議員もトランプ氏批判…民主党議員ら「圧政に立ち向かわず豪華な晩さん会選んだ」 - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PbnB1M0JrdnR6RDd4U2xnUmd2cmNtclFYQmxWODNydXBJNU9FdW44eWQzS19faVF1c3V0bVBSdmZQbElqel8yTWM4bFpySU5lMkI2cVY3UVgxRUpSTktWTDBn?oc=5",
+      "source": "読売新聞",
+      "published_at": "Fri, 25 Sep 2026 20:00:00 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "台風26号(スリゲ) 沖縄は高波など長引くおそれ 来週にかけ動向注意 - ウェザーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZbEQwUFJPdGJBRU5UZjU1VldoWTgtc0ROckowNW4wSTA1MUExUzZYLXJiMVBtanktTDdrcXE2TUJnMm4zNDZIdGFwZS1zbnE2Z0d3Mw?oc=5",
+      "source": "ウェザーニュース",
+      "published_at": "Sat, 26 Sep 2026 01:33:00 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "【速報】4歳と１歳の娘2人をマンション6階のベランダから投げ落とす 25歳父親を殺人未遂の疑いで現行犯逮捕 岐阜･各務原市 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBN2I5WmM3SDd6NHNqQjVXcDlES0tkWExHUDJYMTRmWURPSTQ2TUhOMXhKQnAtNHVJT3NKVFFaVVktU0xXTzBFZDJEbl84SVhCVmoyR3dGdw?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "Sat, 26 Sep 2026 00:44:00 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "シジミ漁場へと流れる川に大人用おむつを大量投棄、容疑の男書類送検…漁協「発見遅れていたら甚大な風評被害に」 - 読売新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12eFBRTE5xTlhBcDVkanJhcW90Y29qMTZkZk05ektJdGF2cXdrb0xfZ0o5a0U0NFJEeGZaWFZmMlVUdnlkbl83em94NFhULW9tTUs4YndtWl9PVkF2ZjhSZjRrUURtdw?oc=5",
+      "source": "読売新聞",
+      "published_at": "Fri, 25 Sep 2026 22:21:00 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "台風で土砂流入 20代女性連絡取れず 夫「妻の姿が見たい」 - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zSV92elljQTZ6UGdtb1Y5MTB2akpMWDV0d2UzcUM1S1ZmelkxYjhhS0pEQWlwZldOYzJOUUdTV0hoUzdfUGdYWmZFbF84cjFsajNJQWdxRzFtYkxxQ1E4?oc=5",
+      "source": "NHKニュース",
+      "published_at": "Fri, 25 Sep 2026 09:08:03 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "九州から東北南部で広く雨　関東は新たな大雨災害に警戒　今日26日(土)の天気(気象予報士 日直主任 2026年09月26日) - tenki.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41Y0NZa1hPU3RneVFUNXlTNm01Zno5V2xfLUxtcTdFbWk5ZlBmUnVRUnNTcFJFQlBJUHVyRVl6enFKN3FqWU9YcEZGTExpZGdtWlItVXFsNkdsQWNxU253MWpUdmlEc0lIb3fSAW9BVV95cUxQNlpXMklUd0pfYzNEV2h3OTBHSHN2OEJkeHhWdjEwRW9zNVJMZjdqMUgxdVZncnlwaWJpdFBtVGMwbEpfWlAtMWVMUGh5V1I3MWEtQjhubzNIcER4OFJLaWNDOGhleFNmMVdMdHVKdGM?oc=5",
+      "source": "tenki.jp",
+      "published_at": "Fri, 25 Sep 2026 23:16:51 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "熊本県熊本地方でM4.5の地震 最大震度4 津波の心配なし - ウェザーニュース",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TOGFsN2Y1bUQ3NHFKMHpFZXFtTnlBeWNkaWh6ZkZRT0ZZZ1BMelhvcDF3cDdqd1ktVlhLek9tamRjYlRRRkpLaHhyVDlDRjR2dnN0NG12cVdJaGs?oc=5",
+      "source": "ウェザーニュース",
+      "published_at": "Sat, 26 Sep 2026 01:36:00 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "ネパール土石流発生から1か月 生活再建踏み出せず - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sNzhUbGw2alFfaGRLSnYyblg0aTZkM3A0cjBYZFBTZWlhQXg0ZFpaRmNRY3NtUVNZcWpLSG0yTjhMOGtuM0dyeVVxSjF0SnY1NnVtN21DejdpVldjUHE0?oc=5",
+      "source": "NHKニュース",
+      "published_at": "Fri, 25 Sep 2026 20:57:00 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "《結局、誰に手を振っている？》高市首相の“エアお手振り動画”で露呈した広報費の“お粗末な使い方”…世界的美術家も呆れ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VMlVDRmJ2LXNvNThnUF9OUVlOWm12M1hSU2ZJc0NpdVo4TDBLcGFKT016N3NWU3NUVTlOUi00Nk9CSjFyVkMzQ2t5SjFnN0U0SG9UdzJoLW0xMlJRel84U1hkbTdNeFBCVFM5RU5JNVlJMkNKWEJyZEx3dUpITWM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "Fri, 25 Sep 2026 21:08:38 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "イラン外相「ホルムズ海峡を7日以内に開放」 米国が提案受諾なら - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52clNYZHlpOHNPODFwNkpLbGh3UHhCUXhWYnFlcEx4VTFVNTRNSk5yVldVVmwzNEtmM2NRNTkzb2tRM2E0ZU1CWHVFVU01Z0RYRmZEZU5GWkM1Nm82WkpNNEdZdzBCXzFpQ21NaA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "Sat, 26 Sep 2026 02:18:31 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "焦点：スペイン・カタルーニャで極右独立派政党の支持拡大、移民巡る不安が背景 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3TGJwU3ZNV2hiTVZkZEJfaU8xSWNjNjFBTThid3hJRWFocTlEamVOQnlzemQ0U1BBQXJJWUl4dGc3SDM0VjJ0eHZEdUNlS1VRRjBNVmVXaEtCZGoyTnF6eWd3aUlaR2V0ZlF5SzlfWFg4RGlLTExYd3FyZDVGQQ?oc=5",
+      "source": "Reuters",
+      "published_at": "Fri, 25 Sep 2026 23:05:39 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "台湾反発「米国と共に戦ったのは中華民国だ」 中国の目標は「米の第1列島線撤退」と分析 - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDWlMzN21wT01aY0RFSW1ESDItX0FkTmNhNDlVQzdxUFp4Z3JWZ1B1QjBYQXlHU201d3lOQjZUNlJ6akgyS0xaejE1bm9KNnhhbmpocXoxSmpCekp6ZWRKamM0Zi1Yb1QzZkdOUVExZHNMWG9lb3c?oc=5",
+      "source": "産経ニュース",
+      "published_at": "Fri, 25 Sep 2026 14:00:00 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    },
+    {
+      "title": "トランプ氏のＩＣＣ脱退呼びかけ、呼応はナウルだけ 欧州など反発（ロイター） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NM29oZkYzZkhGdW1nWUVjWXE2djd4TmxRcms2Zk92MG9uazRfTlZnYWhJRGxqSkY1MTVvTHJRU0lZYkpoZzJmd1Y2V0VXaGQ5QmM0Uk12dEthVXVDcU1kcVhCVHVrMGlLcE9kSW9TRFptbnRyOXpBelFCcERMV2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "Thu, 24 Sep 2026 23:25:01 GMT",
+      "category": "トップストーリー",
+      "topic_weight": 1.15,
+      "interest_score": 1.15
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "Xi calls for U.S. to ‘oppose’ Taiwan independence as Trump hails China as WWII ally",
+      "link": "https://www.japantimes.co.jp/news/2026/09/25/asia-pacific/politics/trump-xi-taiwan-world-war-ii/",
+      "source": "The Japan Times",
+      "summary": "Trump hailed the superpowers' \"common interests\" that he said made the two \"allies in World War II\" — remarks likely to raise eyebrows in Tokyo.",
+      "published_at": "2026-09-25T16:37:00+09:00",
+      "category": "japan",
+      "coverage": 2,
+      "interest_score": 3.432,
+      "matched_keywords": [
+        "Trump",
+        "China",
+        "Taiwan"
+      ]
+    },
+    {
+      "title": "CNN left off Air Force One for Trump’s trip to Tennessee as White House installs new media restriction",
+      "link": "https://nypost.com/2026/09/25/us-news/cnn-left-off-air-force-one-for-trumps-trip-to-tennessee-as-white-house-installs-new-media-restriction/",
+      "source": "New York Post",
+      "summary": "The White House excluded CNN from Air Force One for Trump's Tennessee trip, replacing it with conservative outlet Real America's Voice News.",
+      "published_at": "2026-09-25T22:27:24-04:00",
+      "category": "us_politics",
+      "coverage": 4,
+      "interest_score": 3.312,
+      "matched_keywords": [
+        "Trump",
+        "White House"
+      ]
+    },
+    {
+      "title": "Pomp over progress in Xi’s US summit with Trump is a win for China",
+      "link": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+      "source": "The Guardian",
+      "summary": "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issues Key takeaways from the Trump-Xi summit in Washington If the Beijing meeting between Donald Trump and Xi Jinping in May was the “ stalemate summit ”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs. Ins",
+      "published_at": "2026-09-25T12:41:14+00:00",
+      "category": "world",
+      "coverage": 3,
+      "interest_score": 3.246,
+      "matched_keywords": [
+        "Trump",
+        "China",
+        "Xi Jinping"
+      ]
+    },
+    {
+      "title": "After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing's advantage?",
+      "link": "https://www.dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijing-s-advantage/a-79427127?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "summary": "The US president showcased White House construction projects and hosted a lavish dinner with tech CEOs, but the summit made little progress on key issues such as trade tensions and AI regulation.",
+      "published_at": "2026-09-25T11:35:00+00:00",
+      "category": "world",
+      "coverage": 2,
+      "interest_score": 3.146,
+      "matched_keywords": [
+        "Trump",
+        "White House",
+        "China",
+        "AI"
+      ]
+    },
+    {
+      "title": "Trump hails WWII ‘ally’ China as Xi tells of bonds ‘forged in blood and fire’",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3368844/trump-hails-wwii-ally-china-xi-tells-bonds-forged-blood-and-fire?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "summary": "In a surprise nod to shared history, US President Donald Trump called China a World War II ally as he welcomed Xi Jinping to the White House on Thursday ahead of summit talks. But the historical reference was far from one-sided, with both leaders repeatedly referring to the joint fight against Japanese aggression as they sought to emphasise the long history of US-China friendship and the need to s",
+      "published_at": "2026-09-25T12:06:23+00:00",
+      "category": "asia",
+      "coverage": 2,
+      "interest_score": 3.146,
+      "matched_keywords": [
+        "Trump",
+        "White House",
+        "China",
+        "Xi Jinping"
+      ]
+    },
+    {
+      "title": "Iran offers US plan to reopen Hormuz within 7 days",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3368872/iran-offers-us-plan-reopen-hormuz-within-7-days?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "summary": "Iran’s Foreign Minister Abbas Araghchi said on Friday that Tehran had offered Washington a plan that would see the Strait of Hormuz reopened to maritime navigation within seven days once agreed. Araghchi met with US President Donald Trump’s envoy Steve Witkoff for talks on Tuesday, and previously set out conditions for ending the war and reopening the vital energy shipping channel. “Iran has conve",
+      "published_at": "2026-09-25T21:03:29+00:00",
+      "category": "asia",
+      "coverage": 5,
+      "interest_score": 2.986,
+      "matched_keywords": [
+        "Trump",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "published_at": "2026-09-23T22:01:17+00:00",
+      "category": "world",
+      "coverage": 2,
+      "interest_score": 2.887,
+      "matched_keywords": [
+        "Trump",
+        "China",
+        "AI"
+      ]
+    },
+    {
+      "title": "Xi presses Trump to take the next step on Taiwan: oppose independence",
+      "link": "https://www.scmp.com/news/china/military/article/3368829/xi-presses-trump-take-next-step-taiwan-oppose-independence?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "summary": "Chinese President Xi Jinping pressed his US counterpart Donald Trump to explicitly oppose Taiwan independence – a call that would require a shift in Washington’s long-standing position and further restraint on American arms sales to the island, according to analysts. During the meeting between the two leaders on Thursday, Xi said he hoped the US side would “adhere to the correct position of opposi",
+      "published_at": "2026-09-25T12:00:06+00:00",
+      "category": "asia",
+      "coverage": 2,
+      "interest_score": 2.86,
+      "matched_keywords": [
+        "Trump",
+        "Xi Jinping",
+        "Taiwan"
+      ]
+    },
+    {
+      "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+      "link": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+      "source": "The Guardian",
+      "summary": "Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and trade Xi Jinping has called for extensive cooperation with Washington to avoid the “Thucydides trap” that could put the US and China on a military collision course amid rising tensions over artificial intelligence, trade and Taiwan. At the start of his summit meeting w",
+      "published_at": "2026-09-24T23:58:11+00:00",
+      "category": "world",
+      "coverage": 1,
+      "interest_score": 2.83,
+      "matched_keywords": [
+        "Trump",
+        "China",
+        "Xi Jinping",
+        "Taiwan",
+        "AI"
+      ]
+    },
+    {
+      "title": "GOP senators not happy with Trump's embrace of Xi after China helped Iran",
+      "link": "https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome/",
+      "source": "The Hill",
+      "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP senators not happy with Trump's embrace of Xi after China helped Iran Republican senators are dismayed over President Trump’s lavish welcome of Chinese President Xi Jinping to the U.S. after the discovery that Iran used...",
+      "published_at": "2026-09-25T23:36:03+00:00",
+      "category": "us_politics",
+      "coverage": 1,
+      "interest_score": 2.76,
+      "matched_keywords": [
+        "Trump",
+        "China",
+        "Xi Jinping",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Iran pitches 7-day plan to restart US talks, reopen Strait of Hormuz",
+      "link": "https://thehill.com/policy/international/6112561-iran-us-seven-day-peace-plan/",
+      "source": "The Hill",
+      "summary": "Iran has shared a seven-day plan with the U.S. to end fighting between the two countries, reopen the Strait of Hormuz and restart talks for a final peace deal, Tehran’s foreign minister told multiple outlets Thursday in New York City. Iranian Foreign Minister Abbas Araghchi told a group of reporters at the United Nations General...",
+      "published_at": "2026-09-25T22:16:56+00:00",
+      "category": "us_politics",
+      "coverage": 5,
+      "interest_score": 2.731,
+      "matched_keywords": [
+        "Iran"
+      ]
+    },
+    {
+      "title": "White House Blocks CNN From Covering Trump On Air Force One As TV Pool Network",
+      "link": "https://deadline.com/2026/09/white-house-again-blocks-cnn-trump-air-force-one-1237114388/",
+      "source": "Deadline",
+      "summary": "The White House has blocked CNN from flying on Air Force One as the TV pool network traveling with Donald Trump on his trip to Tennessee on Saturday. A CNN spokesperson confirmed reports that the network was pulled from as a scheduled network providing TV coverage of the president. Because of space limitations, much of […]",
+      "published_at": "2026-09-26T02:18:10+00:00",
+      "category": "entertainment",
+      "coverage": 3,
+      "interest_score": 2.656,
+      "matched_keywords": [
+        "Trump",
+        "White House"
+      ]
+    },
+    {
+      "title": "Japan wary China could use Trump-Xi summit to bolster narrative against Tokyo",
+      "link": "https://www.japantimes.co.jp/news/2026/09/26/japan/politics/japan-trump-xi-summit/",
+      "source": "The Japan Times",
+      "summary": "Prime Minister Sanae Takaichi is believed to be seeking a call with U.S. President Donald Trump to dispel Tokyo's concerns.",
+      "published_at": "2026-09-26T12:25:00+09:00",
+      "category": "japan",
+      "coverage": 1,
+      "interest_score": 2.64,
+      "matched_keywords": [
+        "Trump",
+        "China",
+        "Japan"
+      ]
+    },
+    {
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "published_at": "2026-09-25T23:38:48+00:00",
+      "category": "world",
+      "coverage": 5,
+      "interest_score": 2.613,
+      "matched_keywords": [
+        "Iran"
+      ]
+    },
+    {
+      "title": "White House blocks CNN from Air Force One in latest escalation with news media",
+      "link": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
+      "source": "The Guardian",
+      "summary": "Outlet had been scheduled to fly with Donald Trump to Tennessee for a college football game, network said Friday The White House has blocked CNN from traveling aboard Air Force One on Saturday, impeding its TV press pool duties in the latest escalation of the administration’s battle with the news media. CNN had been scheduled to fly with Donald Trump to Tennessee for a college football game, the n",
+      "published_at": "2026-09-26T01:31:05+00:00",
+      "category": "world",
+      "coverage": 3,
+      "interest_score": 2.597,
+      "matched_keywords": [
+        "Trump",
+        "White House"
+      ]
+    },
+    {
+      "title": "Supreme Court blocks Missouri from using new congressional map in 2026 election",
+      "link": "https://www.foxnews.com/politics/supreme-court-blocks-missouri-from-using-new-congressional-map-2026-election",
+      "source": "Fox News",
+      "summary": "The Supreme Court ordered Missouri Friday to use its 2022 congressional map for the 2026 election, blocking use of the state's newer 2025 map.",
+      "published_at": "2026-09-25T18:27:23-04:00",
+      "category": "us_politics",
+      "coverage": 4,
+      "interest_score": 2.576,
+      "matched_keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Lots of pomp but little progress as Trump and Xi end state visit to DC",
+      "link": "https://www.france24.com/en/americas/20260925-lots-of-pomp-but-no-progress-as-trump-and-xi-end-state-visit",
+      "source": "© Saul Loeb, AFP",
+      "summary": "US President Donald Trump and Chinese leader Xi Jinping capped a state visit to Washington on Friday with pomp and pageantry but no real breakthroughs. Trump said he discussed the Iran war with Xi during his two-day visit, with both men confirming they will meet twice more before the end of the year.",
+      "published_at": "2026-09-25T16:58:08+00:00",
+      "category": "world",
+      "coverage": 2,
+      "interest_score": 2.574,
+      "matched_keywords": [
+        "Trump",
+        "Xi Jinping",
+        "Iran"
+      ]
+    },
+    {
+      "title": "CNN blocked from Trump’s trip as White House signals new media curb",
+      "link": "https://www.scmp.com/news/us/politics/article/3368881/cnn-blocked-trumps-trip-white-house-signals-new-media-curb?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "summary": "The White House signalled on Friday night that CNN would be left off Air Force One for President Donald Trump’s Saturday trip, the latest media restriction from the administration in an ongoing dispute with First Amendment implications. The news organisation was replaced by Real America’s Voice News, a conservative network, for the president’s trip to Knoxville, Tennessee, according to White House",
+      "published_at": "2026-09-26T03:26:19+00:00",
+      "category": "asia",
+      "coverage": 2,
+      "interest_score": 2.574,
+      "matched_keywords": [
+        "Trump",
+        "White House"
+      ]
+    },
+    {
+      "title": "Supreme court blocks Trump-backed Missouri congressional map from use in midterms",
+      "link": "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-missouri-maps-trump",
+      "source": "The Guardian",
+      "summary": "Court puts end to long-running legal dispute as it rules Republican-friendly map cannot be used in November The supreme court on Friday turned away an attempt to use a new Missouri congressional map backed by Donald Trump, putting an end to a long-running legal dispute as absentee voting is under way in the midterm elections. The justices halted a federal appeals court ruling that would have reviv",
+      "published_at": "2026-09-25T22:33:14+00:00",
+      "category": "world",
+      "coverage": 4,
+      "interest_score": 2.464,
+      "matched_keywords": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "Iran's FM says the \"choice rests with the US\" to approve the proposed seven-day proposal to reopen Hormuz.",
+      "published_at": "2026-09-26T00:00:00+00:00",
+      "category": "world",
+      "coverage": 4,
+      "interest_score": 2.464,
+      "matched_keywords": [
+        "Iran"
+      ]
+    },
+    {
+      "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
+      "link": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace.",
+      "published_at": "2026-09-25T23:21:52+00:00",
+      "category": "world",
+      "coverage": 4,
+      "interest_score": 2.464,
+      "matched_keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "Iran says it has given the US a seven-day plan to reopen the Strait of Hormuz, with the choice to accept now up to them",
+      "published_at": "2026-09-25T22:33:27+00:00",
+      "category": "world",
+      "coverage": 4,
+      "interest_score": 2.464,
+      "matched_keywords": [
+        "Iran"
+      ]
+    },
+    {
+      "title": "Supreme Court blocks Missouri congressional map favoring GOP for third time",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1FWRkJHRHFGWlV6aDJ6UnZzVzVfUk5YTmtwWUk5NjlkQzNNeFY5cS0yYUdmbDY0Mm1obkRQdW83aER6UWpWem9XUlBPN2xfdHI0Z0NwMWtMQWl4VzFKMjNZTWlSTGU5bWNsUW1pRmNZejVBSjB2U0VENFhiaEVkQmRFT2NzbEJpTE5vdXNLaHJPUmxVbndqU1pETUNRLWtFLUJuNHA4QkxFNUhyWmJNQVQ0aThKdTlWbHA1ZTJrMlc?oc=5",
+      "source": "The Washington Post",
+      "summary": "Supreme Court blocks Missouri congressional map favoring GOP for third time The Washington Post Election Dispatches: Democrats Notch a Win as the Supreme Court Tosses a Republican Gerrymander in Missouri The New York Times Supreme court blocks Trump-backed Missouri congressional map from use in midterms The Guardian Supreme Court rejects GOP’s third effort to capture Democratic House seat in Misso",
+      "published_at": "2026-09-26T01:39:28+00:00",
+      "category": "world",
+      "coverage": 4,
+      "interest_score": 2.464,
+      "matched_keywords": [
+        "Trump",
+        "election"
+      ]
+    },
+    {
+      "title": "Pope in Paris, Xi in DC, AI at a Crossroads",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads",
+      "source": "France 24",
+      "summary": "It’s been a week of walkouts, power plays and diplomatic theatre — from a battle over press freedom in Washington, to a United Nations General Assembly marked by protests and departures, as leaders clashed over Iran, Cuba and Venezuela. There was also a rare red-carpet meeting between Donald Trump and Xi Jinping, as the US and China extended their trade truce and turned their attention to the race",
+      "published_at": "2026-09-25T18:52:55+00:00",
+      "category": "world",
+      "coverage": 1,
+      "interest_score": 2.42,
+      "matched_keywords": [
+        "Trump",
+        "China",
+        "Xi Jinping",
+        "Iran",
+        "AI"
+      ]
+    },
+    {
+      "title": "Xi seizes Trump detente to seek lasting gains on trade and Taiwan",
+      "link": "https://www.japantimes.co.jp/news/2026/09/26/world/politics/xi-trump-us-china-focus/",
+      "source": "The Japan Times",
+      "summary": "Underneath many of U.S. President Donald Trump's grand gestures at his summit with Xi Jinping, there were signs of the limits to their relationship.",
+      "published_at": "2026-09-26T08:33:00+09:00",
+      "category": "japan",
+      "coverage": 1,
+      "interest_score": 2.4,
+      "matched_keywords": [
+        "Trump",
+        "Xi Jinping",
+        "Taiwan"
+      ]
+    },
+    {
+      "title": "Why Russia’s Potemkin election actually matters",
+      "link": "https://www.japantimes.co.jp/commentary/2026/09/25/world/russias-potemkin-election/",
+      "source": "The Japan Times",
+      "summary": "There's little purpose to parsing who won the vote; the point is that opponents of Putin and his war were jailed, exiled or banned from running.",
+      "published_at": "2026-09-25T17:13:00+09:00",
+      "category": "japan",
+      "coverage": 1,
+      "interest_score": 2.4,
+      "matched_keywords": [
+        "election",
+        "Russia",
+        "Putin"
+      ]
+    },
+    {
+      "title": "China's Xi urges U.S. to cooperate on AI",
+      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+      "source": "CNBC",
+      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+      "published_at": "2026-09-25T01:22:17+00:00",
+      "category": "business",
+      "coverage": 1,
+      "interest_score": 2.384,
+      "matched_keywords": [
+        "Trump",
+        "White House",
+        "China",
+        "Xi Jinping",
+        "AI"
+      ]
+    },
+    {
+      "title": "Iran pitches 7-day plan to US to reopen strait",
+      "link": "https://thehill.com/newsletters/energy-environment/6112626-iran-pitches-7-day-plan-to-us-to-reopen-strait/",
+      "source": "The Hill",
+      "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Iran pitches 7-day plan Iran has shared a seven-day plan with the U.S. to end fighting between the two countries, reopen the Strait of Hormuz and restart talks for a final peace deal, Tehran’s foreign minister told multiple outlets Thursday in New York City....",
+      "published_at": "2026-09-25T22:46:19+00:00",
+      "category": "us_politics",
+      "coverage": 3,
+      "interest_score": 2.376,
+      "matched_keywords": [
+        "Iran"
+      ]
+    },
+    {
+      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+      "link": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+      "source": "CNBC",
+      "summary": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
+      "published_at": "2026-09-25T13:45:18+00:00",
+      "category": "business",
+      "coverage": 5,
+      "interest_score": 2.375,
+      "matched_keywords": [
+        "Iran"
+      ]
+    },
+    {
+      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+      "link": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+      "source": "CNBC",
+      "summary": "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.",
+      "published_at": "2026-09-25T21:38:38+00:00",
+      "category": "business",
+      "coverage": 2,
+      "interest_score": 2.34,
+      "matched_keywords": [
+        "Trump",
+        "Taiwan",
+        "Iran"
+      ]
+    }
+  ],
+  "japan_in_overseas": [
+    {
+      "title": "Donald Trump raised weak yen with Sanae Takaichi, Japan finance minister says",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHNueHE3WldVU08xREJoeGhHUzVYNTR4SGRWa09SZTNaWTZ5b0JLRExrZUJ5ek95Y1pXMmVUa2t2aHpKbjlWNlFLSG8xRlFzZzdwWnd3UzM4ZF9udDRRWG1xLUoxalptc29tNnZTSFhDb1B5TWJpOHlIZkZHbU9rVWFmd0Q?oc=5",
+      "source": "Financial Times",
+      "summary": "Donald Trump raised weak yen with Sanae Takaichi, Japan finance minister says Financial Times",
+      "published_at": "2026-09-25T04:58:32+00:00",
+      "category": "search",
+      "coverage": 3,
+      "interest_score": 1.475
+    },
+    {
+      "title": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWktjMDdkQnB1X0lhbng2UTd3US1GWldqQXllcnM1SVAxbmZjR0EwbEV6NjI1aVBWM1VGeWRDUGVncW9XbzA3M3Z6SHNMUkxzX0lxMjN6TW1ET2ZBRVhuVWlYekRDeEpEVTZnM2FKcHczTnFNZG5GSUpPMXA5RXVuTkNSeF9fN0xrbm81a2p6NnIwNUVLSEZDMXFYNDc1eHBrZWZqRGI3ZE1jXzdvblpKWVJzTQ?oc=5",
+      "source": "The Guardian",
+      "summary": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides The Guardian",
+      "published_at": "2026-09-23T17:20:00+00:00",
+      "category": "search",
+      "coverage": 3,
+      "interest_score": 1.335
+    },
+    {
+      "title": "Japan says Trump voiced concern over weak yen in summit with PM Takaichi",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3368863/japan-says-trump-voiced-concern-over-weak-yen-summit-pm-takaichi?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "summary": "US President Donald Trump raised concerns about yen weakness at a summit with Japanese Prime Minister Sanae Takaichi, Japan’s Finance Minister Satsuki Katayama said on Friday, offering an unusually detailed account of the leaders’ talks on currencies. “At the recent Japan-US summit meeting, President Trump expressed concern about the yen’s weakness,” Katayama said at a regular news conference, add",
+      "published_at": "2026-09-25T15:52:59+00:00",
+      "category": "asia",
+      "coverage": 2,
+      "interest_score": 1.3
+    },
+    {
+      "title": "Trump hails WWII ‘ally’ China as Xi tells of bonds ‘forged in blood and fire’",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3368844/trump-hails-wwii-ally-china-xi-tells-bonds-forged-blood-and-fire?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "summary": "In a surprise nod to shared history, US President Donald Trump called China a World War II ally as he welcomed Xi Jinping to the White House on Thursday ahead of summit talks. But the historical reference was far from one-sided, with both leaders repeatedly referring to the joint fight against Japanese aggression as they sought to emphasise the long history of US-China friendship and the need to s",
+      "published_at": "2026-09-25T12:06:23+00:00",
+      "category": "asia",
+      "coverage": 2,
+      "interest_score": 1.3
+    },
+    {
+      "title": "Trump Expressed Concerns About Yen Weakness, Japan Finance Minister Says",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3VnY0xlZ0NXQzJnSXFtQ0VQTnpnNk13cDA3aDBXWWQ2ckFvdjlqWi1fVGZDbDAwLUo2SFBEbldPRkJjNEhOM3BVZ3FpRkJ5dHBscFdEQUVpUndoR3NuWF9nUmc1OFR5S243Vm8xVmZaQ1luN2dlMkZjeHJYS3d4N3NIakE5NFlXb05KeGIyemoxYVQydlUwTHZpRjRYWHhxczIxRENxYzBvaHhDdU0tQXF2blZxcDkyZVZv?oc=5",
+      "source": "WSJ",
+      "summary": "Trump Expressed Concerns About Yen Weakness, Japan Finance Minister Says WSJ",
+      "published_at": "2026-09-25T04:23:00+00:00",
+      "category": "search",
+      "coverage": 2,
+      "interest_score": 1.3
+    },
+    {
+      "title": "Xi calls for U.S. to ‘oppose’ Taiwan independence as Trump hails China as WWII ally",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlJQQmQzYkgxYjlpd21QUEc4UWtzSU9WU2RtdFFUWUVNS2ttZWYwRUNSQmliRE9zS0JZZ1liNHhvN1R2SEhBb050UVZLQjIxR1h4SkgxYkkwNzdHaXdVbGs4S1daUEhOM2RsYVRYV0RWMWJpRWF5TTlsUXl4UFk1QXBNRlV1QUFfZkZ1WFYwb1M4UXFFYzJsWkwyQjQ?oc=5",
+      "source": "The Japan Times",
+      "summary": "Xi calls for U.S. to ‘oppose’ Taiwan independence as Trump hails China as WWII ally The Japan Times",
+      "published_at": "2026-09-25T13:17:47+00:00",
+      "category": "search",
+      "coverage": 2,
+      "interest_score": 1.3
+    },
+    {
+      "title": "Japan’s Leader Calls on U.N. to Drop ‘Enemy State’ Label From Charter",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDktdVBhUkcycVVPdGpnU1ZtV0ViUWNaMHZOSk03MDFuN2FiT3VqdHQ3SlJVanJIdUlkQUFPZGx0VGNIREVDMHVkblg0RW5wb0Z4Zk12ZGZEdzBZbXNza244OV9uZTRrOW82VUxxVWlmVEp3VFUwaktkVVN1TldUZkNST1FzYVdmel9wbW9DLS1xQy1mUGdV?oc=5",
+      "source": "WSJ",
+      "summary": "Japan’s Leader Calls on U.N. to Drop ‘Enemy State’ Label From Charter WSJ",
+      "published_at": "2026-09-23T02:32:00+00:00",
+      "category": "search",
+      "coverage": 3,
+      "interest_score": 1.274
+    },
+    {
+      "title": "Typhoon Dujuan leaves at least nine dead and four missing near Tokyo",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3Vya000a0dHSWw4Sk45TXdTZDc2RDQ1WTBqZl8wVGhKWlZ1ODNRa3MyNlVjSG1wQjNBM2FURTEwbElmdlJzd0haYUpNOVIxUXYwYjBfLWdVNU5weUdJNm5sUEZ0V00wTUJDbmhWVlU2T1QzQTVac1JIRUtCSk9vNHZR?oc=5",
+      "source": "The Japan Times",
+      "summary": "Typhoon Dujuan leaves at least nine dead and four missing near Tokyo The Japan Times",
+      "published_at": "2026-09-23T09:47:07+00:00",
+      "category": "search",
+      "coverage": 2,
+      "interest_score": 1.149
+    },
+    {
+      "title": "At the U.N., Japan’s Leader Says It’s Time to End ‘Enemy State’ Label",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWUVLSUNJanBocXRPdExuUTRQVWNQc1dkR1hzNE1mQlRtZjB2NmRyXzgxdTVDM1NoU0dWbHZpVzYxLXV3aDZ1TWFzOC1Fd21ucmc5WVdBNEQxMDZhSU5zZEJJNE9uVDBseGV2ZDk0TUxKb3p3RTFRRDlaYVdBS0F3S1Y1djVqbzAwdnc?oc=5",
+      "source": "The New York Times",
+      "summary": "At the U.N., Japan’s Leader Says It’s Time to End ‘Enemy State’ Label The New York Times",
+      "published_at": "2026-09-23T09:03:00+00:00",
+      "category": "search",
+      "coverage": 2,
+      "interest_score": 1.146
+    },
+    {
+      "title": "In first U.N. speech, Takaichi calls for removal of Japan’s wartime ‘enemy state’ label",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3FILVZHWXZxckk1ZXhxbXV3c0tsTk0zM29JWWRQNWNiSE1HVVVMSFR5MTdRWjMzQmhLR3FjcktzNmZLTkExV3RLSTY1cXhSMU5qeVVBQ2ZDamg1S25DMlF2TDMzdDRGZnMtREd4c24yRnBMcHJkVFdQX1Bia21zSlJoeW1vd2l3TDVLOWZla3Y4LWc4RFE?oc=5",
+      "source": "The Japan Times",
+      "summary": "In first U.N. speech, Takaichi calls for removal of Japan’s wartime ‘enemy state’ label The Japan Times",
+      "published_at": "2026-09-23T02:41:00+00:00",
+      "category": "search",
+      "coverage": 2,
+      "interest_score": 1.123
+    },
+    {
+      "title": "Typhoon Dujuan Brings Record Rain to Japan, Killing 5 People",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1ZxbG8tekdEbGtEdl9xR2JsUE00SUF5Q1l2eDdTUndlQ3ZRVDVHR1ZHcWR2TXJqS010NFlpTmROUzlfRlJHOHlKelZETUw0MFpnZkxReGdmS0xQSFU0MGcyRU1ESERKQW52SnVPaVRlWnNna1h4bm5ucEpDWXBKV2JzWQ?oc=5",
+      "source": "The New York Times",
+      "summary": "Typhoon Dujuan Brings Record Rain to Japan, Killing 5 People The New York Times",
+      "published_at": "2026-09-22T07:51:32+00:00",
+      "category": "search",
+      "coverage": 2,
+      "interest_score": 1.055
+    },
+    {
+      "title": "At least four killed as Typhoon Dujuan hits Japan",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeTFMUzhZa3ROWVllRWt6VDVWVVVPUlFaTmNNejV6dG44X2pOUFhITEttQ2dmUHdZcTdTTThQRkdXNjR6T1V1VnlYNzFRS2xjb1M2d21hY3BaVUc0WGhWVGkzVVBhQWsxZV9FeEVWU2RJbDlxV0xycDgxNTF6ZDdVOElxTEJSSWp1Zm9WOW4wbzJjM2c4U0wwSXVPZ3BwazExcUZLU084UExIZGU2TWfSAbMBQVVfeXFMT2JIWi1ycG9yY3J5VUlNd1hUVnEyeWtNV25YMzNGZVpNdzB2X19fcVhGeWVrcU5OVnNFazNpU2VXajJwMlJmOUtDVkQ4bjBGNUVMZGYzSGhfVkRKWU9YNFkwWUFVVFpLYUJOZmFkTmh3MUpzN2E5WU9tUG4tQmNzLTNhVGdYMC03LTNFNThRUERETk94VGVaNzdoSTRYM1NlMC1nU0Z0aUc5RjdVaVBXQ2FzRjA?oc=5",
+      "source": "Al Jazeera",
+      "summary": "At least four killed as Typhoon Dujuan hits Japan Al Jazeera",
+      "published_at": "2026-09-22T06:55:05+00:00",
+      "category": "search",
+      "coverage": 2,
+      "interest_score": 1.052
+    },
+    {
+      "title": "North Korea launches ballistic missile off east coast, Japan says",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMTBMWG9adG5rYlJsOS1fMERvQWNnWmgyTHRyRXpVdmw5ZkMtODFOZV9ENUQzVUI5d0FSUC1zSWZieTZLOUl3WTQxZWtmLXFqQ2NPWTgxWEhxTWZ5QXNpTjYwSFJUdWMxMjc0dWVVLTNOMEdQbmxlS1pTOGFHTFJBclhpMHl3NWRHRGFCODRUbkUxOTFQZHR4eXR6V2RITWkyRmdyZ3NUbmRKaFU?oc=5",
+      "source": "The Independent",
+      "summary": "North Korea launches ballistic missile off east coast, Japan says The Independent",
+      "published_at": "2026-09-20T09:37:00+00:00",
+      "category": "search",
+      "coverage": 3,
+      "interest_score": 1.008
+    },
+    {
+      "title": "Sony and UMG are suing Suno again",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "source": "The Verge",
+      "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign […]",
+      "published_at": "2026-09-25T15:09:57-04:00",
+      "category": "tech",
+      "coverage": 1,
+      "interest_score": 1.0
+    },
+    {
+      "title": "Gaming’s biggest horror series are more vital than ever",
+      "link": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
+      "source": "The Verge",
+      "summary": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall, trying my best […]",
+      "published_at": "2026-09-25T10:06:58-04:00",
+      "category": "tech",
+      "coverage": 1,
+      "interest_score": 1.0
+    }
+  ]
+}
