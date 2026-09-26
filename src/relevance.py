@@ -54,3 +54,35 @@ def build_keyword_profile(all_video_keywords: list[list[str]], top_n: int = 30) 
         for kw in keywords:
             counter[kw] += 1
     return [word for word, _ in counter.most_common(top_n)]
+
+
+def video_weights(videos: list[dict]) -> list[float]:
+    """動画ごとの「視聴者の反応の強さ」の重みを返す。
+
+    チャンネル内の再生数中央値に対する比率 (0.5〜3.0 にクリップ)。
+    再生数が取れない場合は全て 1.0。よく再生された動画のテーマ = 視聴者の関心が強いテーマ。
+    """
+    views = sorted(v.get("view_count", 0) for v in videos if v.get("view_count"))
+    if not views:
+        return [1.0 for _ in videos]
+    median = views[len(views) // 2] or 1
+    return [
+        min(3.0, max(0.5, v.get("view_count", 0) / median)) if v.get("view_count") else 1.0
+        for v in videos
+    ]
+
+
+def build_weighted_profile(
+    weighted_keywords: list[tuple[list[str], float]],
+    top_n: int = 30,
+) -> dict[str, float]:
+    """(キーワードリスト, 重み) の組から、重み付き関心プロファイル {語: 0〜1} を作る。"""
+    counter: Counter[str] = Counter()
+    for keywords, weight in weighted_keywords:
+        for kw in keywords:
+            counter[kw] += weight
+    top = counter.most_common(top_n)
+    if not top:
+        return {}
+    max_w = top[0][1]
+    return {word: round(w / max_w, 3) for word, w in top}

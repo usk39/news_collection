@@ -8,7 +8,7 @@ on:
 
 permissions:
   contents: write
-  
+
 jobs:
   collect:
     runs-on: ubuntu-latest
@@ -18,6 +18,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      - name: Restore translation cache
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: translations-${{ github.run_id }}
+          restore-keys: translations-
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -31,12 +38,14 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: news-report-${{ github.run_id }}
-          path: output/news_report_*.md
+          path: |
+            output/news_report_*.md
+            output/news_report_*.json
 
       - name: Commit latest report
         run: |
           git config user.name "news-collection-bot"
           git config user.email "actions@github.com"
-          git add output/latest.md
+          git add output/latest.md output/latest.json
           git diff --cached --quiet || git commit -m "chore: update latest news report"
           git push

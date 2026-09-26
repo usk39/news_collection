@@ -4,5 +4,7 @@ __pycache__/
 output/*
 !output/.gitkeep
 !output/latest.md
+!output/latest.json
 .venv/
 venv/
+cache/
