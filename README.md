@@ -24,6 +24,9 @@
    ├─▶ 海外各社の最新記事をスコアリング ──▶ 海外で話題 × 視聴者が興味を持ちそうなニュース
    ├─▶ 日本に言及した海外記事を抽出     ──▶ 海外メディアが報じる日本
    └─▶ 日本語Google Newsの見出しをスコアリング ──▶ 国内トレンド
+
+ [Claude API] (ANTHROPIC_API_KEY 設定時)
+   海外記事の見出し ──▶ 日本語訳 + 2〜3文の日本語要約 (原題も併記)
 ```
 
 ### 動画に関連するニュース
@@ -59,6 +62,21 @@ score = カテゴリ重み × (1 + 関心プロファイル一致度) × (1 + �
 
 `config.OVERSEAS_FEEDS` にRSSのURLを追加・削除するだけで対象サイトを変更できます。
 
+### 海外記事の日本語訳・要約 (Claude API)
+
+`ANTHROPIC_API_KEY` を設定すると、レポートに載る海外記事の見出しを Claude で日本語に訳し、2〜3文の日本語要約を付けます。レポートでは日本語見出しがリンクになり、その下に原題と要約が並びます。
+
+```
+- **[トランプ氏、トランスジェンダー選手に関する大統領令に署名](https://...)** - Fox News (2026-09-25T10:00) [score: 2.64] _[米国政治・社会 / 3媒体が報道 / 関心語: Trump, transgender]_
+  - 原題: Trump signs order on transgender athletes
+  - 要約: トランプ米大統領が…する大統領令に署名したと報じている。
+```
+
+- **根拠はRSSの見出しとリード文だけ**: 記事本文は取得しません。書かれていない数字・発言・背景は付け足さず、「〜と報じている」など報道であることが分かる書き方をするよう指示しています。台本に使う前に、元記事で事実を確認してください。
+- **費用を抑える工夫**: 15件ずつまとめて1リクエストで処理し、訳した結果は記事URLごとに `cache/ja_summaries.json` にキャッシュします。毎日の実行では新しい記事だけが翻訳されます。1回の実行で新たに翻訳する件数は `JA_SUMMARY_MAX_ARTICLES` (初期値150) が上限で、スコア上位の記事から順に処理します。
+- **モデル**: 初期設定は `claude-opus-5`、思考の深さ (effort) は `low` です (翻訳・要約はこれで十分な品質になります)。環境変数 `NEWS_CLAUDE_MODEL` / `NEWS_CLAUDE_EFFORT` で変更できます。安全分類器が拒否した場合は、サーバー側で別モデルに自動フォールバックします (`fallbacks: "default"`)。
+- APIキーが未設定、または `--no-ja-summary` を付けた場合は、英語の見出しのまま出力されます。
+
 ## セットアップ
 
 ```bash
@@ -81,6 +99,7 @@ python collect_news.py
 python collect_news.py --max-videos 10 --output-dir output
 python collect_news.py --no-domestic   # 海外ニュースだけ収集
 python collect_news.py --no-overseas   # 国内ニュースだけ収集
+python collect_news.py --no-ja-summary # 海外記事の日本語訳・要約を省略
 ```
 
 実行すると `output/` 配下に以下が生成されます。
@@ -113,14 +132,16 @@ python collect_news.py --no-overseas   # 国内ニュースだけ収集
 | `OVERSEAS_GOOGLE_NEWS_EDITIONS` | 横断検索に使う英語版Google Newsのエディション |
 | `INTEREST_SEED_KEYWORDS_EN` | 視聴者の定番関心テーマ (英語) |
 | `KEYWORD_TRANSLATIONS` | 日本語→英語の手動翻訳辞書 (訳を固定したい語を追加) |
+| `CLAUDE_MODEL` / `CLAUDE_EFFORT` | 日本語訳・要約に使うモデルと effort (環境変数 `NEWS_CLAUDE_MODEL` / `NEWS_CLAUDE_EFFORT`) |
+| `JA_SUMMARY_BATCH_SIZE` / `JA_SUMMARY_MAX_ARTICLES` | 1リクエストの記事数 / 1回の実行で新規に翻訳する上限 |
 | `COMMENT_VIDEOS_PER_CHANNEL` / `MAX_COMMENTS_PER_VIDEO` | コメント分析の対象動画数・コメント数 |
 
 ## 定期自動実行 (GitHub Actions)
 
 `.github/workflows/collect_news.yml` で毎日1回 (JST 22:00) 自動実行するワークフローを用意しています。
 
-1. リポジトリの Settings → Secrets and variables → Actions に `YOUTUBE_API_KEY` を登録
-2. ワークフローが自動実行され、`output/latest.md` / `latest.json` がリポジトリにコミットされます (翻訳キャッシュは Actions のキャッシュに保存) (手動実行は `workflow_dispatch` から可能)
+1. リポジトリの Settings → Secrets and variables → Actions に `YOUTUBE_API_KEY` と `ANTHROPIC_API_KEY` を登録 (どちらも任意)
+2. ワークフローが自動実行され、`output/latest.md` / `latest.json` がリポジトリにコミットされます (キーワード英訳・日本語要約のキャッシュは Actions のキャッシュに保存) (手動実行は `workflow_dispatch` から可能)
 
 ローカルの cron で動かす場合は以下のようなエントリでも実行できます。
 
@@ -140,6 +161,7 @@ news_collection/
 │   ├── news_search.py        # 日本語 Google News RSS 検索
 │   ├── overseas_news.py      # 海外ニュースサイト収集・スコアリング
 │   ├── translator.py         # キーワード英訳 (辞書 + Wikipedia)
+│   ├── ja_summarizer.py      # 海外記事の日本語訳・要約 (Claude API)
 │   ├── trend_collector.py    # 国内トレンドニュース収集・スコアリング
 │   ├── relevance.py          # 関連度スコアリング・関心プロファイル
 │   └── report.py             # Markdown/JSONレポート生成
@@ -153,4 +175,4 @@ news_collection/
 - キーワード抽出は正規表現ベースの軽量実装のため、複雑な固有名詞や口語表現は取りこぼす場合があります。精度を上げたい場合は `janome` または `sudachipy` の導入を検討してください (`keyword_extractor.py` は `janome` があれば自動的に優先利用します)。
 - 海外記事の英訳は固有名詞中心のため、「大コケ」のような口語は訳されず海外検索には使われません。訳を固定したい語は `KEYWORD_TRANSLATIONS` に追加してください。
 - 海外ニュースサイトのRSS URLは各社の都合で変わることがあります。取得に失敗したフィードは警告ログを出してスキップされます。
-- 実行環境からのアウトバウンドHTTPS通信 (YouTube / news.google.com / 各海外ニュースサイト / ja.wikipedia.org) が必要です。サンドボックス環境などでネットワークが制限されている場合は動作しません。
+- 実行環境からのアウトバウンドHTTPS通信 (YouTube / news.google.com / 各海外ニュースサイト / ja.wikipedia.org / api.anthropic.com) が必要です。サンドボックス環境などでネットワークが制限されている場合は動作しません。

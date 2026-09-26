@@ -10,10 +10,12 @@
 3. 再生数で重み付けした動画テーマ + 視聴者コメントから「視聴者の関心プロファイル」を作成
 4. そのプロファイルを使って、視聴者が関心を持ちそうなニュースを国内・海外それぞれ収集
    さらに「海外メディアが報じる日本」も収集
-5. Markdown / JSON レポートとして出力
+5. (ANTHROPIC_API_KEY があれば) 海外記事の見出しを日本語訳し、日本語要約を付与
+6. Markdown / JSON レポートとして出力
 
 使い方:
     export YOUTUBE_API_KEY=xxxxx   # 任意。未設定でもRSSで動画取得できる (コメント分析は不可)
+    export ANTHROPIC_API_KEY=xxxxx # 任意。海外記事の見出しの日本語訳・要約を付ける
     python collect_news.py
 """
 
@@ -30,7 +32,7 @@ from config import (
     MAX_VIDEOS_PER_CHANNEL,
     OUTPUT_DIR,
 )
-from src import translator
+from src import ja_summarizer, translator
 from src.keyword_extractor import build_query, extract_keywords
 from src.news_search import search_news
 from src.overseas_news import (
@@ -61,6 +63,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-dir", type=str, default=OUTPUT_DIR, help="レポート出力先ディレクトリ")
     parser.add_argument("--no-domestic", action="store_true", help="国内ニュース (日本語Google News) の収集を省略")
     parser.add_argument("--no-overseas", action="store_true", help="海外ニュースの収集を省略")
+    parser.add_argument(
+        "--no-ja-summary", action="store_true", help="Claude API による海外記事の日本語訳・要約を省略"
+    )
     return parser.parse_args()
 
 
@@ -180,6 +185,17 @@ def main() -> None:
         overseas_trends = collect_overseas_trends(feed_pool, profile_en)
         japan_in_overseas = collect_japan_in_overseas(feed_pool)
         translator.save_cache()
+
+        if ja_summarizer.is_enabled() and not args.no_ja_summary:
+            logger.info("海外記事の日本語訳・要約を作成中 (Claude API)...")
+            # スコア上位の一覧から順に翻訳されるよう、トレンド → 日本 → 動画関連の順で渡す
+            article_lists = [overseas_trends, japan_in_overseas] + [
+                v["overseas_news"] for ch in by_channel for v in ch["videos"]
+            ]
+            count = ja_summarizer.annotate_japanese(article_lists)
+            logger.info("  新規に翻訳した記事: %d件", count)
+        elif not args.no_ja_summary:
+            logger.info("ANTHROPIC_API_KEY 未設定のため、海外記事の日本語訳・要約はスキップします。")
 
     result = {
         "generated_at": datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds"),

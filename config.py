@@ -191,6 +191,19 @@ KEYWORD_TRANSLATIONS = {
     "選挙": "election",
 }
 
+# ------------------------------------------------------------------
+# 海外記事の日本語訳・要約 (Claude API)
+# ------------------------------------------------------------------
+# 設定されている場合のみ、海外記事の見出しを日本語訳し、日本語の要約を付ける
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+CLAUDE_MODEL = os.environ.get("NEWS_CLAUDE_MODEL", "claude-opus-5")
+# 思考の深さ (low / medium / high / xhigh / max)。翻訳・要約は low で十分な品質になる
+CLAUDE_EFFORT = os.environ.get("NEWS_CLAUDE_EFFORT", "low")
+# 1リクエストでまとめて処理する記事数
+JA_SUMMARY_BATCH_SIZE = 15
+# 1回の実行で新たに翻訳する記事数の上限 (費用の上限。キャッシュ済みの記事は数えない)
+JA_SUMMARY_MAX_ARTICLES = int(os.environ.get("JA_SUMMARY_MAX_ARTICLES", "150"))
+
 # 翻訳結果などのキャッシュ保存先
 CACHE_DIR = os.environ.get("NEWS_COLLECTION_CACHE_DIR", "cache")
 WIKIPEDIA_API_URL = "https://ja.wikipedia.org/w/api.php"

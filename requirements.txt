@@ -1,4 +1,6 @@
 requests>=2.31
 python-dotenv>=1.0
+# 海外記事の日本語訳・要約 (ANTHROPIC_API_KEY 設定時のみ使用)
+anthropic>=1.8
 # 任意: より高精度な日本語キーワード抽出をしたい場合はインストールしてください
 # janome>=0.5

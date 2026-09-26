@@ -19,17 +19,25 @@ _CATEGORY_LABELS = {
 }
 
 
-def _fmt_article_line(article: dict, score_key: str | None = None) -> str:
+def _fmt_article_line(article: dict, score_key: str | None = None, indent: str = "") -> str:
     source = f" - {article['source']}" if article.get("source") else ""
     date = f" ({article['published_at'][:16]})" if article.get("published_at") else ""
     score = ""
     if score_key and article.get(score_key) is not None:
         score = f" [score: {article[score_key]}]"
-    return f"- [{article['title']}]({article['link']}){source}{date}{score}"
+    # 日本語訳がある海外記事は、日本語見出しをリンクにし原題と要約を添える
+    if article.get("title_ja"):
+        line = f"{indent}- **[{article['title_ja']}]({article['link']})**{source}{date}{score}"
+        line += f"\n{indent}  - 原題: {article['title']}"
+        if article.get("summary_ja"):
+            line += f"\n{indent}  - 要約: {article['summary_ja']}"
+        return line
+    return f"{indent}- [{article['title']}]({article['link']}){source}{date}{score}"
 
 
 def _fmt_overseas_line(article: dict, score_key: str) -> str:
     line = _fmt_article_line(article, score_key)
+    first, sep, rest = line.partition("\n")
     tags = []
     if article.get("category") in _CATEGORY_LABELS:
         tags.append(_CATEGORY_LABELS[article["category"]])
@@ -38,8 +46,8 @@ def _fmt_overseas_line(article: dict, score_key: str) -> str:
     if article.get("matched_keywords"):
         tags.append("関心語: " + ", ".join(article["matched_keywords"][:4]))
     if tags:
-        line += " _[" + " / ".join(tags) + "]_"
-    return line
+        first += " _[" + " / ".join(tags) + "]_"
+    return first + sep + rest
 
 
 def _fmt_count(value) -> str:
@@ -78,11 +86,11 @@ def build_markdown_report(result: dict) -> str:
             if v.get("related_news"):
                 add("- 国内の関連ニュース:")
                 for a in v["related_news"]:
-                    add("  " + _fmt_article_line(a, "relevance_score"))
+                    add(_fmt_article_line(a, "relevance_score", indent="  "))
             if v.get("overseas_news"):
                 add("- 海外の関連ニュース:")
                 for a in v["overseas_news"]:
-                    add("  " + _fmt_article_line(a, "relevance_score"))
+                    add(_fmt_article_line(a, "relevance_score", indent="  "))
             if not v.get("related_news") and not v.get("overseas_news"):
                 add("- 関連ニュース: 見つかりませんでした")
             add("")
