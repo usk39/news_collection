@@ -121,7 +121,9 @@ def parse_feed(xml_text: str, default_source: str = "") -> list[dict]:
             continue
         source = default_source
         for child in el:
-            if _local(child.tag) == "source" and child.text:
+            # RSS 2.0 の <source> (名前空間なし) のみ媒体名として使う。
+            # dc:source / media:credit などの写真クレジット等は無視する
+            if child.tag == "source" and child.text:
                 source = child.text.strip()
         published = _child_text(el, "pubDate", "published", "updated", "date")
         summary = _strip_html(_child_text(el, "description", "summary", "encoded"))[:400]

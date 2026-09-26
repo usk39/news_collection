@@ -220,14 +220,27 @@ def _get_recent_videos_rss(channel_conf: dict, max_results: int) -> tuple[dict, 
             channel_conf["handle"],
         )
         return {}, []
-    try:
-        resp = _session.get(YOUTUBE_FEED_URL, params={"channel_id": channel_id}, timeout=HTTP_TIMEOUT)
-        resp.raise_for_status()
-        channel, videos = parse_channel_feed(resp.text)
-    except (requests.RequestException, ET.ParseError) as exc:
-        logger.warning("チャンネルRSSの取得に失敗しました (%s): %s", channel_id, exc)
-        return {}, []
-    return channel, videos[:max_results]
+    # チャンネルRSSは環境によって404を返すことがあるため、
+    # アップロード再生リスト (UC... → UU...) のRSSも順に試す
+    attempts = [{"channel_id": channel_id}]
+    if channel_id.startswith("UC"):
+        attempts.append({"playlist_id": "UU" + channel_id[2:]})
+    for params in attempts:
+        try:
+            resp = _session.get(YOUTUBE_FEED_URL, params=params, timeout=HTTP_TIMEOUT)
+            resp.raise_for_status()
+            channel, videos = parse_channel_feed(resp.text)
+        except (requests.RequestException, ET.ParseError) as exc:
+            logger.warning("YouTube RSSの取得に失敗しました (%s): %s", params, exc)
+            continue
+        channel["channel_id"] = channel.get("channel_id") or channel_id
+        return channel, videos[:max_results]
+    logger.warning(
+        "%s の動画をRSSで取得できませんでした。GitHub Actions の Secrets に YOUTUBE_API_KEY を登録すると"
+        "YouTube Data API で確実に取得できます。",
+        channel_conf["handle"],
+    )
+    return {}, []
 
 
 # ------------------------------------------------------------------

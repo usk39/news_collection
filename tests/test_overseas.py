@@ -90,6 +90,12 @@ class FeedParserTest(unittest.TestCase):
         self.assertEqual(items[0]["title"], "Disney stock falls after boycott")
         self.assertEqual(items[0]["source"], "Reuters")
 
+    def test_namespaced_source_is_not_used_as_outlet(self):
+        xml = """<rss xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><item>
+<title>Summit ends</title><link>https://f24.example/1</link><dc:source>© Saul Loeb, AFP</dc:source>
+</item></channel></rss>"""
+        self.assertEqual(parse_feed(xml, "France 24")[0]["source"], "France 24")
+
     def test_broken_xml_returns_empty(self):
         self.assertEqual(parse_feed("<rss><broken", "x"), [])
 
@@ -160,6 +166,30 @@ class YouTubeFeedTest(unittest.TestCase):
         self.assertEqual(videos[0]["view_count"], 120000)
         self.assertEqual(videos[0]["like_count"], 1500)
         self.assertEqual(videos[0]["description"], "今回はディズニーの話題です")
+
+
+class YouTubeRssFallbackTest(unittest.TestCase):
+    def test_falls_back_to_uploads_playlist_feed(self):
+        from src import youtube_collector
+
+        calls = []
+
+        def fake_get(url, params=None, **kw):
+            calls.append(params)
+            resp = mock.Mock()
+            if "channel_id" in params:
+                resp.raise_for_status.side_effect = youtube_collector.requests.HTTPError("404")
+            else:
+                resp.raise_for_status.return_value = None
+                resp.text = YT_FEED
+            return resp
+
+        with mock.patch.object(youtube_collector._session, "get", side_effect=fake_get):
+            channel, videos = youtube_collector._get_recent_videos_rss(
+                {"handle": "@pukujiji", "channel_id": "UCe3SZWQT_t4fgf6CrsAf_ow"}, 15
+            )
+        self.assertEqual(calls[1], {"playlist_id": "UUe3SZWQT_t4fgf6CrsAf_ow"})
+        self.assertEqual(len(videos), 1)
 
 
 class ProfileTest(unittest.TestCase):
