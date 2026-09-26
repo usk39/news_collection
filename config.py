@@ -109,6 +109,8 @@ OVERSEAS_FEEDS = [
     {"name": "Deadline", "url": "https://deadline.com/feed/", "category": "entertainment"},
     {"name": "Variety", "url": "https://variety.com/feed/", "category": "entertainment"},
     {"name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/feed/", "category": "entertainment"},
+    {"name": "The Hollywood Reporter", "url": "https://boundingintocomics.com/feed/", "category": "entertainment"},
+    {"name": "The Hollywood Reporter", "url": "https://thatparkplace.com/feed/", "category": "entertainment"},
     {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/rss.xml", "category": "sports"},
     # --- アジア・日本 (海外メディアから見た日本) ---
     {"name": "The Japan Times", "url": "https://www.japantimes.co.jp/feed/", "category": "japan"},
