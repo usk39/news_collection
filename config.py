@@ -18,6 +18,7 @@ except ImportError:  # pragma: no cover
 CHANNELS = [
     {"name": "すみれ＆あおいの時事ニュース", "handle": "@sumiaojiji", "channel_id": "UCU0RzfCCmIsWa0iVpbzExFQ"},
     {"name": "プク太の世界時事ニュース", "handle": "@pukujiji", "channel_id": "UCe3SZWQT_t4fgf6CrsAf_ow"},
+    {"name": "にっしー映画感想", "handle": "@にっしー映画感想", "channel_id": "UC1vWbSpG34fE4Z00ZGBZuuA"},
 ]
 
 # ------------------------------------------------------------------
