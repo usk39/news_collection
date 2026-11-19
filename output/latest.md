@@ -1,4 +1,4 @@
-# ニュース自動収集レポート (2026-11-18T21:06:12+00:00)
+# ニュース自動収集レポート (2026-11-19T21:10:49+00:00)
 
 対象チャンネル: すみれ&あおいの時事ニュース【すみあお時事】 (@sumiaojiji), プク太の世界時事ニュース (@pukujiji)
 
@@ -6,897 +6,986 @@
 
 ### すみれ&あおいの時事ニュース【すみあお時事】 (@sumiaojiji)
 
+#### 動画: [アダム･ドライバー､幻の｢ザ･ハント･フォー･ベン･ソロ｣の打ち切りを｢犯罪的｣と非難! ベン･ソロ映画はなぜ実現しなかった?【すみあお時事】](https://www.youtube.com/watch?v=foEjEPwwUCs)
+- 公開日: 2026-11-19 / 再生数: 349 / 高評価: 15 / 視聴者関心度: x0.5
+- キーワード: ベン, ソロ, すみあお時事, 映画, アダム, ドライバー, ハント, フォー
+- 英訳キーワード: Ben, Solo, Film, Adam, Driver, Hunt, Pho
+- 国内の関連ニュース:
+  - [稲葉浩志 来年8月ソロ初の東京ドーム公演 デビュー30周年「節目の年のチャレンジ」（スポニチアネックス） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE04YlRGTjFCNjdJVEdHUGd2YU90eC1fOGhwSFlaT1o2YXVhaXNWTF9TOTFMYm9rQm1aYlNpbkVFVGpxRU9kMy1VTkNWTTN3WFdGR0xyQllSa3ZkZG56RElPckFLWG9IaGhIX1JXS3p2cUkzZ0xSVnVnRklFd3A1SEE?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.125]
+  - [竹中雄大 ソロカバーアルバム第二弾『DIVA 2』2027年2月3日発売 - タワーレコード オンライン](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wRU5pd0U3V2NRZk4tTTBRdGZ2Slc0NXQ0M2N3ZXBvVENxcUg2YUcyWW5QZkRTT3Vrd3NTcDAzR05FRFJQQVFRTGsya2czYXZOYm1oMERTTG9BTmQ1ODNLbFc2Yw?oc=5) - タワーレコード オンライン (Mon, 16 Nov 2026) [score: 0.125]
+  - [【稲葉浩志】ソロデビュー30周年を迎える来年 ソロとして初となる東京ドーム公演開催「節目の年のチャレンジとして、東京ドーム公演が決まりました」 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fQVI2TGJCQ2dZcGlKbnR0elNiWTRuVnRGRDJyTHA0Qks5cl9PRElHSXAzYWVSMVg5RzBXVnNJTXQ3T1ZYVjRMZzBMOUhybWoxbXhjSUM5QQ?oc=5) - TBS NEWS DIG (Tue, 17 Nov 2026) [score: 0.125]
+  - [面会（ベン・ホロウィッツ アンドリーセンホロウィッツ社ゼネラルパートナー兼共同創業者）|令和8年(2026年)10月|知事の部屋 - 都庁総合ホームページ](https://news.google.com/rss/articles/CBMidkFVX3lxTE93UVdzUlBaVHowMXlxRHg5Q3dPcmdjNEtOaWhkWGd2MHdiOF9lOGxoeGtZbmhnTjlxbkNUM0s5SFB6U05lcUhsNm1WTWpZR0VrWTFrbjRPQS0xaFl1XzhJSzhIMWRPTDN6Q1p6bHBOTlh5MGxwQVE?oc=5) - 都庁総合ホームページ (Thu, 19 Nov 2026) [score: 0.125]
+  - [Stray KidsのI․N、ソロ曲「NO RETURN」MV公開！共存する“2人の自分”の対立を表現 - Kstyle](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HcW1Rb0N0UVVGdWh3d3ZEUVg2TXVnY29DU0w5ekNhUGJ6Q0lLLXZwWkdxS3RNaU43ZEpGdnJodlNncExDTGxiTUh5ZnplYWxwZlF1Nm5vMDBMRzU1?oc=5) - Kstyle (Tue, 17 Nov 2026) [score: 0.125]
+- 海外の関連ニュース:
+  - **[アダム・ドライバー、ディズニーの企画中止を「犯罪的」と批判](https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWhzVHpESmdvRHVQMDVLbm9NX2UxSE5TYTZZa2xMQVE5T3lxQ2JPWjQyTHVKWThpS1dUcnpLM21mWVAzWE1TTEl6em05aGo0cERjMDlSUTJjcTZBNThtY0pyWjdrSFVXQlVqRTJza3hQOU9hX1hPbFZOUDRmNHJFZTh1cHZDbHRlcURlN3Z6TXgxV0t5eDJ3N1BtVm12NlVRdVU3WmxR?oc=5)** - Hypebeast (2026-11-16T04:09) [score: 0.585]
+    - 原題: Adam Driver Calls Disney's Cancellation of 'The Hunt for Ben Solo' Criminal
+    - 要約: 俳優アダム・ドライバーが、ディズニーによる映画企画『The Hunt for Ben Solo』の中止を「犯罪的」と評したと報じられている。
+  - **[アダム・ドライバー「犯罪的に感じた」　ベン・ソロ企画中止に](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckc0WnRJLWJmdHJPYW51TThrY2dVVWJQaHV3Y1luMG9kMXk4MGRoRW00WThzRDVTWWh2QjlIcmltd3o3d0hzaG9PZDVZcWFheDZhQmlsXzFzUXR6N3FLcE5VTTYtSHJGMHpMeEdSbUJJT1ozb0s1OW9BTmpGWmtDb0xaX3dwcE1VeElNcWdOWllhcVBlRnpDeXNiRGY1STRFUl90MV9hanBkdw?oc=5)** - Men's Journal (2026-11-14T23:26) [score: 0.528]
+    - 原題: Adam Driver Says ‘It Felt Criminal’ When ‘The Hunt For Ben Solo’ Was Canceled
+    - 要約: アダム・ドライバーは『The Hunt For Ben Solo』が中止になった際、「犯罪的に感じた」と語ったとメンズ・ジャーナルが報じている。
+  - **[アダム・ドライバー、ベン・ソロ企画の中止に今も納得できず](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmxvVHlBeVhrRTVSZGFac2kxeHJyN19vaXhDSWNWLVE1czQ0WmU4NVJBNHZLV041U2xLTEJNYXdock1iUHFyOGNudlNyUFJhaHZ0aldYdVRGSHMtQnp2cGgzMUMxUkctY2d5U2RJa1VEb1loeERFbzlvVVB5T2t4ZE1ocW1LT2xSUHBqM3MxaVcxQzN2bFdhTHk5elg?oc=5)** - A.V. Club (2026-11-14T20:28) [score: 0.523]
+    - 原題: Adam Driver still kind of can't get over how dumb killing The Hunt For Ben Solo was
+    - 要約: A.V.クラブは、アダム・ドライバーが『The Hunt For Ben Solo』の企画中止をいかに愚かだったかと今なお割り切れずにいると伝えている。
+  - **[アダム・ドライバー、ディズニーの企画中止は「犯罪的」](https://news.google.com/rss/articles/CBMilwFBVV95cUxObDRmY2FQWTA1NlRVVjB1T1JvbUhrSkFaTXJtNENZRmhKd3FpTjZtMVZMMjBJTDhQaGRpMEtwaWk4NjlSa0JxNDdGbzVOZUZkYjhjdUtNOWJ5Y1hFU2J5U1Vnb3Z2b3A1Vlh1SERISWk0MGIwMFl6SnR1RmtzVi12c3NjenZVRWo3YkhMUTZYTU4tRHZYZkFJ?oc=5)** - Variety (2026-11-14T16:02) [score: 0.514]
+    - 原題: Adam Driver: Disney Killing 'The Hunt for Ben Solo' Felt 'Criminal'
+    - 要約: 俳優アダム・ドライバーが、ディズニーによるスター・ウォーズ映画企画『The Hunt for Ben Solo』の中止について「犯罪的」と感じたと語ったと、Varietyが報じている。
+  - **[『ベン・ソロの捜索』は形を変えて実現か](https://news.google.com/rss/articles/CBMic0FVX3lxTE5acGVyVjJrbF8yWUpmeHdieXBEa3pzZ0dKSmVjcDJ6WEJDRktRdUtURXpfSzQ2M1FMaTdxWHhvSVBwbVZlT1pTX1R3NDZNeDZkRDZWcTd1aDhfQ19RNUpoQkdySjZqWk5GbTFVbGFoVk9pdDg?oc=5)** - ScreenRant (2026-11-14T16:56) [score: 0.309]
+    - 原題: The Hunt For Ben Solo Will Probably Still Happen - Just Not In The Way Star Wars Fans Expect
+    - 要約: ScreenRantは、幻となったスター・ウォーズ企画『The Hunt for Ben Solo』の物語が、ファンの期待とは異なる形でいずれ実現する可能性が高いとの見方を伝えている。
+
 #### 動画: [世界で絶賛の｢ゴジラ-0.0｣､IMDb上で｢星1｣低評価攻撃!? そんな中､北米2週目はなんと73%減に...【すみあお時事】](https://www.youtube.com/watch?v=cyIUsGiqeqk)
-- 公開日: 2026-11-18 / 再生数: 482 / 高評価: 25 / 視聴者関心度: x0.5
+- 公開日: 2026-11-18 / 再生数: 1,540 / 高評価: 34 / 視聴者関心度: x1.25
 - キーワード: ゴジラ, すみあお時事, IMDb, 絶賛, 北米, 週目, 映画, 低評価攻撃
 - 英訳キーワード: Godzilla, IMDb, North America, Film
+- 視聴者コメントの頻出語: ゴジラ, インド, キングギドラ, ドラマ, スッキリ, シーン, バレ, 映画業界, 相手, 勝負
 - 国内の関連ニュース:
-  - [『ゴジラ-0.0』が北米に襲来！実写日本映画初の初登場No. 1など快挙続々、気になる現地での評価は？ - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9oUjYwWXEwb2diWWJ5ODNBaWFleThGUEVYb01pd2IyTEx1Nk1GdXNaZXg3bzU1bkk1MnMzOElGYVJxQUNkOW9QdEpIS25qdmFjT1pCQWt6ZE1vWGgtZG9zVi1DWHlpSzFWTTBwajhTRW9TM2haVEwxTlcxQXhRUzQ?oc=5) - Yahoo!ニュース (Sun, 15 Nov 2026) [score: 0.375]
-  - [【11月14日（土）宮崎戦】『映画 ゴジラ-0.0』コラボグッズが登場！ - アルビレックス新潟 公式サイト](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FZzRPdVJJYlVUR3Z1cVEtbjlDZVZpV3owdi03OVlja3Rrckxpa21EUnBuSGxUQ3VQWlJBTFRjT3QzUndvVEtBXzRMcWJyUQ?oc=5) - アルビレックス新潟 公式サイト (Thu, 12 Nov 2026) [score: 0.25]
+  - [『ゴジラ-0.0』全世界興収150億円突破 実写映画のIMAX累計興収歴代1位に…場面写真も一挙解禁 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SeFFuSFJOWm12OThoODdfTk9GMUllbld4Z0U3by0xeEVvay0wT043eUJkaE1zVEh6WXhMaEN6dTF1TE9TakJMZU9FR0xFYzly?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.25]
   - [映画「ゴジラ－0.0」はなぜ人を集め続けるのか。ヒットの二つの理由 #エキスパートトピ（中西正男） - エキスパート - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODhNUTI4VVRUT3o5ZU1qNjF3c3hTUHpGaEd0VTZfb2FqQlFGeE9IQlZRbjl6enhETGlBcW8yRTZJcUd2bHdWZ0l3SlEzNl8yLWhUY0VvWTBocUJfdjJXd2VhS3d6eXFuS1N3Q2cxSmlZT0pYaUhnSVEtaWpWNW9JdkVDZU13Z0lO?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 0.25]
   - [映画『ゴジラ-0.0』興行収入が40億円を突破、シリーズ初の100億円に期待がかかる 国内実写IMAX映画での興収は1位に - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9xajM3ekV5QzR6UU5MdDNCcnFfZFF2UEJaYnZjdDhTM05MV1BvOGtZc1VYVXNIV3NIWWpMUkpzVk5kNXB3TjRxUDh4RkVWbUJNXzRNU2tTX1VpQUl4VnBjUzJ6ZUxwLTBIRnBuMGhGQUhkNk8wRWhDMnpndzUxUHM?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.25]
   - [11/21（土）より『ゴジラ-0.0』| 松本山雅FC コラボレーショングッズ 通常販売開始のお知らせ - 松本山雅FC](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZZ0QxbTloM3gtX1ZGZnhRSUgwaDc0YVF3a0J5dkVjcFFHbjk0OVc0RzdraXhTczFac05ZZHNEbWJzQ2wtc3ZlOGVjdlc5YUFXdG04?oc=5) - 松本山雅FC (Tue, 17 Nov 2026) [score: 0.125]
+  - [「ゴジラ-0.0」ゴジラ、キングギドラのTシャツやパーカーなどアパレル商品各種がプレバンで予約受付中♪ 普段使いにもばっちりなデザイン（アニメ！アニメ！） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBmMjVMdU0yNURLd2lzTlJ1SXdzMkZ3QXJHZDhTbDIzbjY1Qk9fZTE5QzZwcGl3cGRGMHM3d1d1cHhNUGtiSXRVUHI4bHJDWGRPNVpqeWFOV21RR3BySUdCQkRGX0dlR1ZSNHJoeVZRWk9fRGs4UXZsWC1yV3dLZEk?oc=5) - Yahoo!ニュース (Sun, 15 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[映画『ラーマーヤナ』、北米興行でインド映画歴代4位に](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNm9hTl90b25WM1JUTEtzbmtTTW40S0dManEwejFiZXVDd3NqOXc2Tmhzd0ZXYWgtTlo5aTJOb0tfem9pY29yYWZhakNiYkhvc2N6SWlhQkNBMVFaWVlxQ3JB?oc=5)** - IMDb (2026-11-15T06:27) [score: 0.516]
-    - 原題: Ramayana North America Box Office: Beats Kalki 2898 Ad In 9 Days, Becomes 4th Highest-Grossing Indian Film
-    - 要約: IMDbによると、インド映画『ラーマーヤナ』が公開9日間で『カルキ2898AD』の北米興行収入を上回り、インド映画として歴代4位の興収となったと報じられている。
-  - **[映画『ゴジラ マイナスゼロ』は怪物級の傑作](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzdjdNeXFHaURONUJSQW8ybDlmWnBhSzJhU3VPV29CVVJOdmRBdE9XWlhzTlVpRER0S3RGMkVjakxHcmZNWjJ4ZlJNc0ZXLW01aUlidUQ4OG1xY0xUVktOalB4bXdkYVdZS0N1a1dhVVNjS1ZZLWFZSQ?oc=5)** - The Rider News (2026-11-18T15:19) [score: 0.5]
+  - **[『ラーマーヤナ』北米興収、12日で『ナーザ2』超え](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuQnNUVXA0OGEwdmZEUzZCUFpTSmVkaGY2OHBKZURzOHI0bjAwSkUxZkpoMzJ1TFF5NFVLQm5adGN3ZDYyaVBWb3hUTVVTM0FoUllabXpYSnRRT2xseFJleA?oc=5)** - IMDb (2026-11-19T07:52) [score: 0.625]
+    - 原題: Ramayana North America Box Office: Nitesh Tiwari’s Film Takes Down Ne Zha 2’s Lifetime Collection In Just 12 Days!
+    - 要約: ニテーシュ・ティワーリー監督のインド映画『ラーマーヤナ』が、北米興行収入で公開12日間にして『ナーザ2』の累計興収を上回ったとIMDbが報じている。
+  - **[映画『ゴジラ マイナスゼロ』は怪物級の傑作](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzdjdNeXFHaURONUJSQW8ybDlmWnBhSzJhU3VPV29CVVJOdmRBdE9XWlhzTlVpRER0S3RGMkVjakxHcmZNWjJ4ZlJNc0ZXLW01aUlidUQ4OG1xY0xUVktOalB4bXdkYVdZS0N1a1dhVVNjS1ZZLWFZSQ?oc=5)** - The Rider News (2026-11-18T15:19) [score: 0.492]
     - 原題: “Godzilla Minus Zero:” a monstrously good film
     - 要約: 米学生紙ザ・ライダー・ニュースが、映画『ゴジラ マイナスゼロ』を高く評価するレビューを掲載した。
-  - **[短編映画『Dear Respacted』予告編公開](https://news.google.com/rss/articles/CBMiUEFVX3lxTE45NjNfQVQ1YjhwRExXaVkxdkNDR3VBSHFyOUlQaG8zMmRIdUxPWXpxMTFxeHZaSnZTZGRUUkxRTHIzMjJkVHVqYm1LYzdQbTVC?oc=5)** - IMDb (2026-11-18T19:16) [score: 0.375]
-    - 原題: ▶️ Trailer Dear Respacted Short Film
-    - 要約: IMDbが短編映画『Dear Respacted』の予告編を紹介している。
-  - **[『リロ&スクラッチ』、オリジナル版の背景を4分の1再利用](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SSEI2dkN0dVZoUlZfeDRyVTZFSU95QTZqNlVRcFc0NXczLW1zYi1sckk2SlV2STdZR2tWbXlzTThMdThRWHlIQUdQOUkyQjhvT0xYNHpPS0F3UGRqRzBZbkxB?oc=5)** - IMDb (2026-11-18T17:58) [score: 0.375]
-    - 原題: Lilo & Scratch reuses a quarter of the original film’s backgrounds
-    - 要約: IMDbは、作品『リロ&スクラッチ』がオリジナル映画の背景美術の約4分の1を再利用していると伝えている。
-  - **[『ジェイラー2』北米興行、4週間でどれだけ黒字か](https://news.google.com/rss/articles/CBMiYEFVX3lxTE04TFpaN3Mya3VQVmhmdnF5QVdLY1JadGdYajBhRHRUdVhtWnRWaTBFQkktR0lna1ozblJNUE1ZNHZEeEhoTzlDSFZFMU9OX0ZPbGtwOVNpcnY0dURXUVptNg?oc=5)** - IMDb (2026-11-14T15:07) [score: 0.294]
-    - 原題: Jailer 2 North America Box Office: How Much Profit Did Rajinikanth Starrer Make In 4 Weeks?
-    - 要約: IMDbが、ラジニカーント主演作『ジェイラー2』の北米での興行成績と公開4週間での利益について取り上げている。
+  - **[映画『ラーマーヤナ』、北米興行でインド映画歴代4位に](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNm9hTl90b25WM1JUTEtzbmtTTW40S0dManEwejFiZXVDd3NqOXc2Tmhzd0ZXYWgtTlo5aTJOb0tfem9pY29yYWZhakNiYkhvc2N6SWlhQkNBMVFaWVlxQ3JB?oc=5)** - IMDb (2026-11-15T06:27) [score: 0.475]
+    - 原題: Ramayana North America Box Office: Beats Kalki 2898 Ad In 9 Days, Becomes 4th Highest-Grossing Indian Film
+    - 要約: IMDbによると、インド映画『ラーマーヤナ』が公開9日間で『カルキ2898AD』の北米興行収入を上回り、インド映画として歴代4位の興収となったと報じられている。
+  - **[『オブセッション』監督、次回作にホラーの大物を起用](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6cTVJY3U2S0ZIYzM5aklDNXJyLUdVN0w4QjRDRmZMQjZMai1hbFZRMnBCMldJMkhDQlA3QWNSMTBENkVvU0xuSEc2dU5UZmFaUzhyUFEwWkNPZTJPaWJ1Z05udDY2Rlk?oc=5)** - IMDb (2026-11-19T19:46) [score: 0.375]
+    - 原題: Obsession Director Officially Casts Horror Icon in Next Film
+    - 要約: 『オブセッション』の監督が次回作にホラー映画界の象徴的な俳優を正式にキャスティングしたと、IMDbが伝えている。
+  - **[強盗映画を決定づけたカジノの名場面](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVEN0VHBaWm92ZWlSMkdlUVBuYWtsS09Hbk8tNTZvWUY2MTRKdWJaOUQwbDFWWC1CWlBjdm5rN3RMaDZrbHJqWXJ4OHRlczdURFdDdmtZUUtYQTQxR2NGVWREV3dDRjA?oc=5)** - IMDb (2026-11-19T16:57) [score: 0.375]
+    - 原題: The Casino Scenes That Defined the Heist Film
+    - 要約: IMDbが、ヒースト(強盗)映画のジャンルを特徴づけてきた代表的なカジノシーンを振り返る記事を掲載している。
 
 #### 動画: [J･K･ローリングが｢分霊箱(ホークラックス)｣ジョークでハリー･ポッターボイコット批判者を揶揄!【すみあお時事】](https://www.youtube.com/watch?v=DBQ2IofmKhA)
-- 公開日: 2026-11-16 / 再生数: 822 / 高評価: 22 / 視聴者関心度: x0.69
+- 公開日: 2026-11-16 / 再生数: 840 / 高評価: 22 / 視聴者関心度: x0.68
 - キーワード: すみあお時事, ローリング, ハリー, ホークラックス, 分霊箱, ジョーク, ポッターボイコット, 批判者
 - 英訳キーワード: Harry, Joke, Critic
+- 国内の関連ニュース:
+  - [ドレスコーズ志磨遼平が語る「ローリングストーンズ」 - NHK](https://news.google.com/rss/articles/CBMifkFVX3lxTE9sVDV5U1VKblIzOURTOU5KX3drRURVTzVYUE5YTDRaSDhwQkYxdW1LbVh4UUNhTjZyaWg3QzdFcHVldkpnZlMxWGdQYTdTeEx3QzlNUlY0ZWFXRGJ1NFIzRjJDUDBvZ09kSGxoblR2bUQzTVdxZzhxTW1pYlRodw?oc=5) - NHK (Mon, 16 Nov 2026) [score: 0.125]
+  - [JR九州×「ハリー・ポッター」コラボ列車の出発式（KBC九州朝日放送） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE43WHB2aVctU2ZlUkpwXzY3X3lpdW9SaE9VQTJkdU1rZTg0Ti1naFBNblloVC1MVVNLeUZDWjQwZzhuc0NRaHFBUmNnOUFHVUd0RnNRWXNERk1pSWpQUEdDdWQzd3duWWsyZjJYQXJib2JYUTRqUDVLMDZGSE5mRzQ?oc=5) - Yahoo!ニュース (Sat, 14 Nov 2026) [score: 0.125]
+  - [『ハリー・ポッターと賢者の石』映画公開25周年記念「Harry Potter Magic Christmas～魔法の贈り物～ by LOFT」開催 11月20日より - cinemacafe.net](https://news.google.com/rss/articles/CBMiaEFVX3lxTE42UUw2alFEci0zQlZVWktvdlBkMFp6b0VZeU9vOXpXSnFYOGhRVWVtU0ItaEl3eDdGZjR3RE5DTXVISV9KNEV1THdHdEpOSzAtNnd0UUphT0Ftay1IN1hyZnNwUEFpdzIw?oc=5) - cinemacafe.net (Sat, 14 Nov 2026) [score: 0.125]
+  - [丸ビルに「ハリー・ポッター」ツリー登場 丸の内が魔法の世界に スタンプラリーも開催 - オリコンニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zcXVHX1ZVZlZ5QWZCa0Z3YUVkWE5CcXBNTVBTS3I1OEtoaFFhMTJfSnlzUm1GTnFJTnZZQ1RVVHNqaDZTOTRyVDM4SEdyazh0Qm1iWTF3?oc=5) - オリコンニュース (Sat, 14 Nov 2026) [score: 0.125]
+  - [【007】「オデュッセイア」「ハリー・ポッター」の俳優がジェームズ・ボンド役に！ - テレ朝NEWS](https://news.google.com/rss/articles/CBMicEFVX3lxTE5HSkUxakpsMHBEbkxOcnlFTExuNkQxQUtLejBaOEx6MFpxU1VjcEtXTEdLajZYNEswRFpaaG1yV2ZTUGMzeXU4cXdqVWEyWVhCa1E0RE9LaE94TUJyVlRQMjdTMmZ5VkdDSndhYUhtRTc?oc=5) - テレ朝NEWS (Tue, 17 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[ハリー・シャム・Jr.の『DWTS』脱落は「予兆があった」](https://decider.com/2026/11/18/harry-shum-jrs-dancing-with-the-stars-elimination-explained/)** - New York Post (2026-11-18T16:00) [score: 0.333]
-    - 原題: Why Harry Shum Jr.’s shocking ‘DWTS’ elimination was written on the wall
-    - 要約: 米ダンス番組『ダンシング・ウィズ・ザ・スターズ』で、ハリー・シャム・Jr.が脱落し衝撃が広がっている。ジェナ・ディーワンに続く連続脱落が番組の現状を映しているのではないか、と報じている。
-  - **[キンメルの緊急警報ジョーク、観客沈黙](https://www.breitbart.com/entertainment/2026/11/18/video-kimmel-live-audience-goes-silent-after-emergency-alert-joke-about-dozens-dying-falls-flat/)** - Breitbart (2026-11-18T15:25) [score: 0.333]
-    - 原題: Video: 'Kimmel Live' Audience Goes Silent After Emergency Alert Joke About Dozens Dying Falls Flat
-    - 要約: ABCの深夜番組で司会のジミー・キンメルが、FEMAとFCCの緊急警報システムの試験で多数が死亡したとする不謹慎なジョークを披露。観客が沈黙し「冗談だよ」と促す場面があったとブライトバートが伝えている。
-  - **[『GTA6』に「GTA7」ネタのジョーク](https://kotaku.com/grand-theft-auto-6-includes-a-joke-about-gta-7-2000755921)** - Kotaku (2026-11-18T12:00) [score: 0.333]
-    - 原題: Grand Theft Auto 6 Includes A Joke About GTA 7
-    - 要約: 大型オープンワールドゲーム『グランド・セフト・オート6』に、ゲーム内SNSを通じた「GTA7」に言及するジョークが含まれているとKotakuが報じている。
-  - **[DWTSの「いじめ」で「トラウマの絆」と2人](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVlCbVcwbWJiTmFMdURydDZDSnBxalVRcmJZRlZNNU5zdnRHTFFidGpJM0NoUFdvamVBQ1p6RTBxTnBqd0xRWk94bzRhM2VYMVJoNUZlNEFWeGxBbWJjR0xiVlMtRGhrN290MExyWHpYYnRNRFVVX1NucjhZLTAxeWhNWVEwT0hFeXN0Y2djdWpic29FVDdRM18tYmU1aXlhaVhsVGtkUQ?oc=5)** - E! News (2026-11-18T05:13) [score: 0.333]
-    - 原題: Jenna Johnson and Harry Shum Jr. Say They Have “Trauma Bond” After DWTS “Bullying”
-    - 要約: ジェナ・ジョンソンとハリー・シャム・Jr.が、『ダンシング・ウィズ・ザ・スターズ』での「いじめ」を経て「トラウマボンド(トラウマによる絆)」ができたと語ったとE! Newsが伝えている。
-  - **[ジョーク・ウォーク:ホリデーの憂鬱](https://news.google.com/rss/articles/CBMifkFVX3lxTE1DYTVUaGEtd3VfSVN5MVVIRkJ6X2o3SXFLOU5ydy1LWGN3UUIzWlRmU2JoUUk2R3pqYnVrTXBWUkczSkIySUpWSTZ3MmNNM0NIZy10OTRYM0ZFeEtBRmJXVjdVYU5GdThqZEtROE5UZTQ0aFh2dzhmOXQ4NHJYdw?oc=5)** - The Daily Northwestern (2026-11-18T04:15) [score: 0.333]
-    - 原題: Joke Walk: Holiday blues
-    - 要約: 米ノースウェスタン大学の学生紙デイリー・ノースウェスタンのコラム「Joke Walk」が、ホリデーシーズンの憂鬱をテーマに取り上げている。
+  - **[ヘンリー王子、ウクライナ支援で「米政権と国民に大きな隔たり」](https://abcnews.com/International/wireStory/uks-prince-harry-sees-big-separation-us-administration-138263585)** - ABC News (US) (2026-11-18T17:40) [score: 0.333]
+    - 原題: UK's Prince Harry sees 'big separation' between US administration, public on support for Ukraine
+    - 要約: 英国のヘンリー王子がインタビューで、ウクライナ支援をめぐり米政権の姿勢と米国民の考えには「大きな隔たり」があるとの見方を示し、米政府の政策を遠回しに批判したと報じられている。
+  - **[ニッキー・グレイザー、ネットフリックス新部門と契約](https://www.hollywoodreporter.com/tv/tv-news/nikki-glaser-overall-deal-netflix-1236759294/)** - The Hollywood Reporter (2026-11-19T19:00) [score: 0.333]
+    - 原題: Nikki Glaser Signs Deal With Newly Created Netflix Is a Joke Studios
+    - 要約: コメディアンのニッキー・グレイザーが、新設された「Netflix Is a Joke Studios」と契約。同部門はスタンダップにとどまらない企画の育成拠点になるという。
+  - **[ニコラ・コクラン、HBO版ハリポタ「絶対に出ない」](https://boundingintocomics.com/movies/movie-news/nicola-coughlan-wont-watch-hbos-harry-potter-series-i-would-never-be-in-it)** - Bounding into comics (2026-11-18T23:39) [score: 0.333]
+    - 原題: Nicola Coughlan won’t watch HBO’s Harry Potter series: ‘I would never be in it’
+    - 要約: 女優ニコラ・コクランが、J.K.ローリングを理由にHBOの『ハリー・ポッター』シリーズを見ないし出演もしないと語ったと報じられた。同作は12月25日に配信開始予定。
+  - **[コクラン、ローリング理由にHBO版ハリポタ視聴拒否](https://thatparkplace.com/nicola-coughlan-wont-watch-hbo-harry-potter-series/)** - That park place (2026-11-18T23:39) [score: 0.333]
+    - 原題: Nicola Coughlan Says She Won’t Watch HBO’s Harry Potter Series Over J.K. Rowling
+    - 要約: ニコラ・コクランがJ.K.ローリングを理由にHBOの『ハリー・ポッター』シリーズを視聴せず、出演もしないと発言したと報じられている。作品は12月25日に公開予定。
+  - **[ヘンリー王子「required なら再入隊」ロシアの脅威警告](https://www.breitbart.com/europe/2026/11/19/prince-harry-warns-he-is-ready-to-re-enlist-and-fight-russia-in-ukraine/)** - Breitbart (2026-11-19T10:58) [score: 0.333]
+    - 原題: Prince Harry Warns He Is Ready to re-Enlist and Fight Russia in Ukraine
+    - 要約: ヘンリー王子が、ウクライナ訪問からの帰途、「国に仕えるよう求められれば」英陸軍に復帰する意向を示し、ロシアの脅威に警鐘を鳴らしたとBreitbartが報じている。
 
 #### 動画: [【迷走】映画｢クレイフェイス｣がDC正史から突然の除外!?【すみあお時事】](https://www.youtube.com/watch?v=DKUVM6GJvW8)
-- 公開日: 2026-11-15 / 再生数: 554 / 高評価: 6 / 視聴者関心度: x0.5
+- 公開日: 2026-11-15 / 再生数: 558 / 高評価: 6 / 視聴者関心度: x0.5
 - キーワード: 時事, 迷走, クレイフェイス, DC, 映画, 正史, 突然, 除外
 - 英訳キーワード: Clayface, DC, Film, Official history
 - 国内の関連ニュース:
-  - [時事通信の「首相も飲酒した」から産経新聞の「飲酒せず」まで1カ月…各紙の報道を並べてわかった、高市首相“G7欠席”の迷走 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBuTld3cU1QbWZqbmJQcG9TVXJQc2tHaFU4M19vdUxQX2o0d3FjX1VuS3ptU0FpUURtWFFoVUpuUUZyUFc3YWxvaTcxZHRkZ0VvQjB5QUdZcFBZdS0yX2hiNE93cE9VYlNrZVNFOWU0bFE4RHZhS2xZdVV2b2l0WlU?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.25]
-  - [米軍がイラン・ケシム島攻撃 革命防衛隊ミサイル施設に報復 - 時事ドットコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRmRSbXZ6LUNyY3ZXYkJuTkVLbERON3RjbEhwZ1Q3TlhNY3BOb1VqbmRySmV0ZG9nSWhBMENWZkZMc3Y5NDJHZnVLcGxtb2JKZkVpSkYyTERGMFVhczFlbndoNA?oc=5) - 時事ドットコム (Wed, 18 Nov 2026) [score: 0.125]
-  - [時事雑感(2026年12月号) | 嶌峰 義清 | 第一ライフ資産運用経済研究所 - 第一ライフ資産運用経済研究所](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzbHhYZ2ZIcEl5SEZpSUlWWFZqbDZ2bFNBUjBUX1h3ZkFYcDNMZTMyQjhRLVFxa0FxRkxTZm1LUExpN1NnNVQtRWRQVXRaLU9JSE9kZlpuZzdmUQ?oc=5) - 第一ライフ資産運用経済研究所 (Wed, 18 Nov 2026) [score: 0.125]
-  - [ギリヤーク尼ケ崎さん死去（時事通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9fRkxnS19iUVFGUDUyTDNCUl9hTjRhRzNCTDBtS1J4SkVsbkhqbi1wY01VUHQ3TzlCTy1yRmJ2cHdscU5MRVJ0V195RkVKTXpJNkxSQ1VPUEZ0c0lxSXpJU0pJSGdVY2kzZC1SVElRZ3Etb2hnTi1DLXZtOHVXcGs?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 0.125]
-  - [猪木さん孫「祖父超えたい」 新日本プロレス入団：時事ドットコム - 時事ドットコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XZGV2ODctYWI2YlFrVmFiQjI0ZmNlOWdIN01tVW03MWJDNW9sWjRxYnBWRzJheVJTcnd2aGs1b3dseFlac2Y0S0Y3bDUtUDVRZWs2OE8wZ3NJR1AzblF2RHU0QQ?oc=5) - 時事ドットコム (Wed, 18 Nov 2026) [score: 0.125]
+  - [内閣支持率は微増の42.8% 時事 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpREhpWHNLRzd3QS1VUzhyRjF5Z0lEMFI0VUVKRHNCR3p2dUwzM0NhX0ZyajVQZmtEOWVGZ1BYSWJhM2dBbHQzS0pnYTRLNkVp?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 0.125]
+  - [ギリヤーク尼ケ崎さん死去 ９６歳、「伝説の大道芸人」：時事ドットコム - 時事ドットコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVQlRSSUxxYlFpY09HekYxellXNG1mRGFnS0NXNVdDX3RYMEpPemdrdmE1cTZ3NHNVYnljdXJiRDd0T1V6MVhCa0JIWXF3TGE3cUNqNlRxVXY2c2RvdHBlREhNTQ?oc=5) - 時事ドットコム (Wed, 18 Nov 2026) [score: 0.125]
+  - [若隆景が１１勝目（時事通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBzdlpPTHpVeGIwTTJkX0VDU1NxVnRhZklkc05CZGJOMVFQcWJvSGdqckVPYjlBZE4yOVZaR3NQQXVicmJKUEhVT0lhcHMyWnhRZU91MzhIeWRaUnJINGIwc2FsX1VOX3lyLVFyZzJuOGR3S0xrc2trc3FCaXRub0U?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 0.125]
+  - [高市首相、ロシア大統領と意見交換 ７年ぶり直接対話、記者解放要求 - 時事ドットコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qS0xtMVJQbVBhdUJPZ0xRT0ZjdU1Jb29Hbm13RnlLODUyWXdweGpFV1FZbktfZWVVQllPcnFHeU9EM3pNVms4em8wdHNCN09qQ3Nyd0pBZkFxc3FYT3U1VTg3NA?oc=5) - 時事ドットコム (Wed, 18 Nov 2026) [score: 0.125]
+  - [あいさつを交わす日中首脳（時事通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9QR0VTUDc1cjZhOGg3TW5Uam5oOURzSklEeFhHUzA0eVFsUFRRVWYzNnBKdDIzZmZfbmNWVWhuU2FCVDltQzM1MV9HVWRaT2ZjU3pxYzUySEdZWXFWVVJJdjM0bllQMnlqeTJuLXdIdkRtZndzMnA0YkRITGNTUHc?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[DC映画『クレイフェイス』中国公開へ　記録的スコア](https://cosmicbook.news/clayface-china)** - Cosmic Book News (2026-11-18T13:49) [score: 0.5]
-    - 原題: ‘Clayface’ Heads To China With Record DC Score, Eyes ‘Supergirl’ Box Office
-    - 要約: ワーナー・ブラザースがDCのホラー映画『クレイフェイス』を11月27日に中国で劇場公開すると発表したと報じられている。DC作品として記録的な評価を得ており、『スーパーガール』の興行成績を視野に入れているという。
-  - **[映画レビュー：「クレイフェイス」](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pdmtVS3BFckRjdG1aakR5RjlvZC1iRTZMRm80eE5JcWdkQWhtR1pnSmpBZHVSem96YnVOdC11aTctTElZNmpBZFBpaURsSWEtUm53WjJRdl9mXzVmZURlM1lR?oc=5)** - Joyzine (2026-11-15T19:42) [score: 0.431]
+  - **[映画「クレイフェイス」はDCの正しい一歩](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVBkbzh2aFIyTVRJU2V3bGZibHBiUkFyeUp2Wm5qMUlqeTBhamdpczU4WEM5dWRVYms3Z1E4aGJ3bmItaTRaMzFyNFU4WjVNYkdrTU9vOFJoQlVCTHJIWU1fdENvSVJUNEJtdnFSX2FsZXVIRlROTEFubVFxR3VEYkNDOTc?oc=5)** - The Maine Campus (2026-11-16T08:16) [score: 0.416]
+    - 原題: “Clayface”: A right step for DC
+    - 要約: 学生紙ザ・メイン・キャンパスが、映画「クレイフェイス」をDC作品にとって正しい方向への一歩だと評している。
+  - **[映画レビュー：「クレイフェイス」](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pdmtVS3BFckRjdG1aakR5RjlvZC1iRTZMRm80eE5JcWdkQWhtR1pnSmpBZHVSem96YnVOdC11aTctTElZNmpBZFBpaURsSWEtUm53WjJRdl9mXzVmZURlM1lR?oc=5)** - Joyzine (2026-11-15T19:42) [score: 0.398]
     - 原題: Film Review: Clayface
     - 要約: 音楽・カルチャー媒体Joyzineが映画「クレイフェイス」のレビュー記事を掲載している。
-  - **[C・プラット「ガーディアンズ4」ガン監督続投を熱望](https://news.google.com/rss/articles/CBMipgFBVV95cUxOamlpWHg0SDZEZ2xSZGtiNmRNRFpGTjlTRktmZXJNNnFIWVQ3aVNjZEh3OHV2WERFX045NldvbVRETENGYk04aG5lbENaTmpPSHpuOTZaYWJDbHE5aWFrQmxZSzNhTnplTE5YSTNWUnNVZlJoM3Mxby1aQmM5aXo2aXQ5V18yX2l0YjVHN3FqOXZpZkQ3ZlpPVWNBVkhsbFBFUnZJUVlR?oc=5)** - Variety (2026-11-14T22:25) [score: 0.402]
+  - **[C・プラット「ガーディアンズ4」ガン監督続投を熱望](https://news.google.com/rss/articles/CBMipgFBVV95cUxOamlpWHg0SDZEZ2xSZGtiNmRNRFpGTjlTRktmZXJNNnFIWVQ3aVNjZEh3OHV2WERFX045NldvbVRETENGYk04aG5lbENaTmpPSHpuOTZaYWJDbHE5aWFrQmxZSzNhTnplTE5YSTNWUnNVZlJoM3Mxby1aQmM5aXo2aXQ5V18yX2l0YjVHN3FqOXZpZkQ3ZlpPVWNBVkhsbFBFUnZJUVlR?oc=5)** - Variety (2026-11-14T22:25) [score: 0.368]
     - 原題: Chris Pratt Says He ‘Would Love’ James Gunn to Direct a Fourth ‘Guardians of the Galaxy’ Film After DC Exit
     - 要約: バラエティ誌によると、俳優クリス・プラットが、DCを離れたジェームズ・ガン監督に『ガーディアンズ・オブ・ギャラクシー』第4作の監督をぜひ務めてほしいと語ったという。
-  - **[アカデミー博物館、冬の上映企画を発表](https://variety.com/2026/film/news/academy-museum-winter-film-series-colman-domingo-sing-sing-1236952141/)** - Variety (2026-11-18T19:49) [score: 0.25]
-    - 原題: Academy Museum Unveils Winter Film Series With Colman Domingo, Eli Roth, Jessica Lange and More
-    - 要約: ロサンゼルスのアカデミー映画博物館が冬の上映シリーズと教育プログラムを発表。『シンシン』『ブルー・スカイ』『キャビン・フィーバー』などが並び、恒例の3D企画やフィルム保存企画「Present Past」も行われるとしている。
-  - **[ワシントン近郊の市、地方選の投票年齢を16歳に](https://www.breitbart.com/politics/2026/11/17/dc-suburb-lowers-voting-age-to-16-for-local-elections/)** - Breitbart (2026-11-18T00:23) [score: 0.25]
-    - 原題: DC Suburb Lowers Voting Age to 16 for Local Elections
-    - 要約: 米メリーランド州ロックビル市の市議会が、地方選挙の投票年齢を16歳に引き下げる議決を行った。州内では過去10年で同様の動きが広がっているとブライトバートが報じている。
+  - **[トランプ氏の凱旋門計画、連邦判事が再び差し止め](https://www.foxnews.com/politics/trumps-massive-dc-triumphal-arch-project-dealt-another-blow-federal-judge)** - Fox News (2026-11-19T03:00) [score: 0.25]
+    - 原題: Trump's massive DC triumphal arch project dealt another blow by federal judge
+    - 要約: 連邦判事がワシントンD.C.で計画されるトランプ大統領の凱旋門建設の差し止め命令を延長し、少なくとも12月3日まで工事が保留となったと報じられている。
+  - **[ドーハ映画祭が開幕、地政学的混乱の中で「不屈」訴え](https://variety.com/2026/film/global/doha-film-festival-resilience-geopolitical-turmoil-1236953326/)** - Variety (2026-11-19T19:58) [score: 0.25]
+    - 原題: Doha Film Festival Opens With Message of Resilience Amongst Geopolitical Turmoil: Filmmaking ‘Brings Humanity to the Headlines’
+    - 要約: カタールのドーハ映画祭が2回目の開催を迎え、サラ・イシャク監督『The Station』の上映で開幕。地域情勢の緊迫で開催が危ぶまれる中、映画は「見出しに人間性をもたらす」とのメッセージが示された。
 
 #### 動画: [【大炎上】人気ラッパーがライブ中に｢股間を拭いたタオル｣を客席に投入し､SNSで批判殺到!?【すみあお時事】](https://www.youtube.com/watch?v=Ppjqf89SAkU)
 - 公開日: 2026-11-14 / 再生数: 185 / 高評価: 3 / 視聴者関心度: x0.5
 - キーワード: 時事, 大炎上, ラッパー, SNS, ライブ, タオル, 人気, 股間
 - 英訳キーワード: MC, SNS, Live, Towel, Popularity
+- 国内の関連ニュース:
+  - [内閣支持率は微増の42.8% 時事 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpREhpWHNLRzd3QS1VUzhyRjF5Z0lEMFI0VUVKRHNCR3p2dUwzM0NhX0ZyajVQZmtEOWVGZ1BYSWJhM2dBbHQzS0pnYTRLNkVp?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 0.125]
+  - [ギリヤーク尼ケ崎さん死去 ９６歳、「伝説の大道芸人」：時事ドットコム - 時事ドットコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVQlRSSUxxYlFpY09HekYxellXNG1mRGFnS0NXNVdDX3RYMEpPemdrdmE1cTZ3NHNVYnljdXJiRDd0T1V6MVhCa0JIWXF3TGE3cUNqNlRxVXY2c2RvdHBlREhNTQ?oc=5) - 時事ドットコム (Wed, 18 Nov 2026) [score: 0.125]
+  - [（一語一会）ラッパー・ＶＩＫＴＯＲ ＫＩＭ〈ヴィクトル・キム〉さん 詩人の金時鐘さんの言葉 - 朝日新聞](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzVjJOVHJmeElnWDRnOVplWi1kX1liS29hYVZleVNjR0pnaTFfUUJSeGpOWW1rMFlKY0Z6dkk4QVZZNVdrMVJLV0RTeVdsLXhxM1FkM0xlNzJ5ZmV6?oc=5) - 朝日新聞 (Thu, 19 Nov 2026) [score: 0.125]
+  - [千葉ロッテドキュメンタリー映画　主題歌は千葉県出身ラッパーが担当 - パ・リーグ.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMU3RVeFFySWVYUzNCTUhDUXNfaDgyUU5vNWNjcE1DNWtaeGVuOFhNSlZrYnpZNEZzTnZ1U1ItZldoLWtEalNfU2lob21YTl91RVU2WUJ2WdIBUkFVX3lxTE0zRk1RM0hWZFNCVjJMbmdwZURrZ25ITTN2Sm5PTk1TY3ZacnVUbEU0V1NzeTZzeG05WGxrY1ZOMmUzVVN1MDdpRE9UR2dUYmZJRHc?oc=5) - パ・リーグ.com (Thu, 19 Nov 2026) [score: 0.125]
+  - [若隆景が１１勝目（時事通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBzdlpPTHpVeGIwTTJkX0VDU1NxVnRhZklkc05CZGJOMVFQcWJvSGdqckVPYjlBZE4yOVZaR3NQQXVicmJKUEhVT0lhcHMyWnhRZU91MzhIeWRaUnJINGIwc2FsX1VOX3lyLVFyZzJuOGR3S0xrc2trc3FCaXRub0U?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[マリン長官、欠航混乱中の政府機利用を擁護](https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates)** - The Guardian (2026-11-18T20:33) [score: 0.2]
-    - 原題: Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live
-    - 要約: 米国土安全保障長官マークウェイン・マリン氏が、数千便が欠航する中で政府専用機を使い大学フットボールの試合に向かったことを擁護。ホワイトハウスは複数業界に影響するIT障害について記者向け説明を行ったとガーディアンが伝えている。
-  - **[米民主党、下院議長候補にジェフリーズ氏](https://thehill.com/policy/transportation/6226963-live-donald-trump-china-tech-outages-faa-modernization-alaska-senate-race/)** - The Hill (2026-11-18T20:31) [score: 0.2]
-    - 原題: Live updates: Democrats pick Jeffries as Speaker
-    - 要約: 米下院民主党は、次期議長候補としてハキーム・ジェフリーズ院内総務を指名した。正式には1月の新議会で本会議採決が必要。会派議長にはテッド・リュー議員が選出されたと報じられている。
-  - **[サダト元エジプト大統領に議会名誉黄金勲章](https://thehill.com/homenews/house/6228424-watch-live-mike-johnson-anwar-sadat-congressional-gold-medal/)** - The Hill (2026-11-18T19:50) [score: 0.2]
-    - 原題: Watch live: Johnson honors late Egyptian President Anwar Sadat with Congressional Gold Medal
-    - 要約: マイク・ジョンソン米下院議長が、故サダト元エジプト大統領に議会名誉黄金勲章を追贈する式典を開催。1978年のキャンプ・デービッド合意や79年の和平条約など中東和平への貢献が評価されたとしている。
-  - **[CMAアワード視聴方法 テイラー・スウィフト出演](https://variety.com/2026/music/news/how-to-watch-cmas-taylor-swift-performance-live-online-1236952238/)** - Variety (2026-11-18T20:16) [score: 0.2]
-    - 原題: How to Watch the CMA Awards (And Taylor Swift’s Performance) Live Online
-    - 要約: 第60回カントリー・ミュージック協会(CMA)アワードが11月18日、ナッシュビルのブリヂストン・アリーナで開催され、ABCとDisney+で放送。テイラー・スウィフトが13年ぶりに同賞の舞台でライブ披露すると伝えられている。
-  - **[マリン国土安全保障長官、議会で証言](https://www.breitbart.com/immigration/2026/11/18/watch-live-dhs-secretary-markwayne-mullin-testifies-on-the-hill/)** - Breitbart (2026-11-18T15:07) [score: 0.2]
-    - 原題: Watch Live: DHS Secretary Markwayne Mullin Testifies on the Hill
-    - 要約: 米下院国土安全保障委員会が、マークウェイン・マリン国土安全保障長官を招いて質疑を実施。サイバー脅威への圧力や、移民取り締まりをめぐる民主党の反発が背景にあるとブライトバートが報じている。
+  - **[フェッターマン議員、シューマー氏を強く支持](https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates)** - The Guardian (2026-11-19T20:52) [score: 0.2]
+    - 原題: John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering things’ on 2028 re-election – live
+    - 要約: 米ペンシルベニア州選出のフェッターマン上院議員が、民主党上院トップとしてシューマー氏を強く支持し、対立候補のヴァンホーレン氏を批判。自身の2028年再選については「検討中」と述べたと伝えられている。
+  - **[子どもの約4人に1人が紛争地域で生活＝報告書](https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-world-4025-rdf)** - DW (2026-11-19T00:34) [score: 0.2]
+    - 原題: Almost 1 in 4 children live in conflict zones — report
+    - 要約: セーブ・ザ・チルドレンの新報告書によると、世界の子どものほぼ4人に1人が紛争地帯で暮らし、人道支援の妨害や誘拐、性暴力などの侵害が過去1年で急増したとしている。
+  - **[トランプ・習・プーチン氏が平和宣言、イラン戦争権限決議は否決](https://thehill.com/homenews/administration/6229360-live-updates-trump-xi-putin-china-summit-crypto-alaska-tech-outages/)** - The Hill (2026-11-19T20:04) [score: 0.2]
+    - 原題: Live updates: Trump, Xi, Putin issue peace declaration; Democrats' Iran war powers resolution fails again
+    - 要約: The Hillは、トランプ大統領と習近平国家主席、プーチン大統領が平和宣言を出したと報道。一方、米上院では対イラン戦争からの米軍撤退を求める民主党主導の決議が48対51で再び否決されたとしている。
+  - **[民主党指導部争いの中、ヴァンホーレン・マークリー両議員が上院改革を提唱](https://thehill.com/homenews/senate/6231262-watch-live-chris-van-hollen-jeff-merkley-senate-reforms-press-conference/)** - The Hill (2026-11-19T19:59) [score: 0.2]
+    - 原題: Watch live: Van Hollen, Merkley push Senate reforms amid Democratic leadership fight
+    - 要約: 米上院のクリス・ヴァンホーレン議員（メリーランド州）とジェフ・マークリー議員（オレゴン州）が木曜、来年に向けた上院規則と民主党会派手続きの見直しを訴える演説を行うと報じられている。中間選挙での勝利を受け、法案を停滞させてきた手続き上の障害を取り除き、新人を含む一般議員の発言力を高めることを求めているという。
+  - **[Netflix、実写版中止から4年で『グレンデル』アニメ化](https://cosmicbook.news/grendel-animated-series)** - Cosmic Book News (2026-11-19T00:24) [score: 0.2]
+    - 原題: Netflix Orders Grendel Animated Series Four Years After Axing Live-Action Show
+    - 要約: Netflixが、マット・ワグナーによるダークホース・コミックスの長期連載作品を原作とする大人向けアニメ『グレンデル』の製作を決定したと、Deadlineが伝えている。実写版の中止から4年を経ての再始動とされる。
 
 #### 動画: [HBOドラマ版｢ハリー･ポッター｣の新ポスターが賛否両論!｢顔の合成感｣､｢ハリーの青い目｣､｢マルフォイド｣ミームまで…【すみあお時事】](https://www.youtube.com/watch?v=LIQin0Nbmhw)
-- 公開日: 2026-11-14 / 再生数: 1,233 / 高評価: 24 / 視聴者関心度: x1.04
+- 公開日: 2026-11-14 / 再生数: 1,262 / 高評価: 24 / 視聴者関心度: x1.03
 - キーワード: ハリー, すみあお時事, マルフォイド, ドラマ, ポッター, ポスター, ミーム, HBO
 - 英訳キーワード: Harry, Drama, Potter, Poster, Meme, HBO
 - 国内の関連ニュース:
-  - [ドラマ版『ハリー・ポッター』はどこで撮影された？ 魔法の世界を映し出す、イギリスらしいロケ地を紹介 - Vogue Japan](https://news.google.com/rss/articles/CBMihwFBVV95cUxNa1duYV90MFhNZkpTdGZoTkFOSVpmdzRKcXRNa2NLZzVKNEdDekdYVkhSQjdOWXVreXhOU2ZoaE9mY2pzRGRueDc1ZEFpb1J2eTdRZzB1eGZjY1BYclZ1cTY5ZFFmbHFJVGE3Mk9nQ2pqdDVVSjBTU29IOTBMajFidFdfOWZyOU0?oc=5) - Vogue Japan (Wed, 18 Nov 2026) [score: 0.375]
   - [JR九州×「ハリー・ポッター」コラボ列車の出発式（KBC九州朝日放送） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE43WHB2aVctU2ZlUkpwXzY3X3lpdW9SaE9VQTJkdU1rZTg0Ti1naFBNblloVC1MVVNLeUZDWjQwZzhuc0NRaHFBUmNnOUFHVUd0RnNRWXNERk1pSWpQUEdDdWQzd3duWWsyZjJYQXJib2JYUTRqUDVLMDZGSE5mRzQ?oc=5) - Yahoo!ニュース (Sat, 14 Nov 2026) [score: 0.25]
   - [『ハリー・ポッターと賢者の石』映画公開25周年記念「Harry Potter Magic Christmas～魔法の贈り物～ by LOFT」開催 11月20日より - cinemacafe.net](https://news.google.com/rss/articles/CBMiaEFVX3lxTE42UUw2alFEci0zQlZVWktvdlBkMFp6b0VZeU9vOXpXSnFYOGhRVWVtU0ItaEl3eDdGZjR3RE5DTXVISV9KNEV1THdHdEpOSzAtNnd0UUphT0Ftay1IN1hyZnNwUEFpdzIw?oc=5) - cinemacafe.net (Sat, 14 Nov 2026) [score: 0.25]
   - [丸ビルに「ハリー・ポッター」ツリー登場 丸の内が魔法の世界に スタンプラリーも開催 - オリコンニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zcXVHX1ZVZlZ5QWZCa0Z3YUVkWE5CcXBNTVBTS3I1OEtoaFFhMTJfSnlzUm1GTnFJTnZZQ1RVVHNqaDZTOTRyVDM4SEdyazh0Qm1iWTF3?oc=5) - オリコンニュース (Sat, 14 Nov 2026) [score: 0.25]
   - [【007】「オデュッセイア」「ハリー・ポッター」の俳優がジェームズ・ボンド役に！ - テレ朝NEWS](https://news.google.com/rss/articles/CBMicEFVX3lxTE5HSkUxakpsMHBEbkxOcnlFTExuNkQxQUtLejBaOEx6MFpxU1VjcEtXTEdLajZYNEswRFpaaG1yV2ZTUGMzeXU4cXdqVWEyWVhCa1E0RE9LaE94TUJyVlRQMjdTMmZ5VkdDSndhYUhtRTc?oc=5) - テレ朝NEWS (Tue, 17 Nov 2026) [score: 0.25]
+  - [JR九州×「ハリー・ポッター」コラボ列車の出発式｜KBCニュース - KBC九州朝日放送](https://news.google.com/rss/articles/CBMibkFVX3lxTE8xQ3FaN2h6ZFoyTmtVUXRZbm1Qd0JNNWpUUy1yMmV5OTVkZDdVcklSN0FpZVA0d3FWUHdWVmdPRjVsc0FhQ2lTU1hQV2JMemIwVEpCZURIdzB3cGZ4eS1ObUpSVnE1STJnS0xaUXNn?oc=5) - KBC九州朝日放送 (Sat, 14 Nov 2026) [score: 0.25]
 - 海外の関連ニュース:
-  - **[ニコラ・コクラン、HBO版ハリポタ「見ない」と明言](https://cosmicbook.news/nicola-coughlan-harry-potter)** - Cosmic Book News (2026-11-16T14:07) [score: 0.457]
-    - 原題: Bridgerton Star Nicola Coughlan Refuses to Watch HBO’s Harry Potter Series
-    - 要約: ドラマ「ブリジャートン家」で知られるニコラ・コクランが、HBOの「ハリー・ポッター」シリーズを視聴もせず、出演もしないと語ったと報じられている。
-  - **[コクラン「HBO版ハリポタは見ないし、出演もしない」](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjNDMzZfOEU2d09lN3ByRmpXUmxnRlhtWFRSeGtmdnIyWk9mUGUySDdNMGtGT2Z6X2xkd01yTVVGRnJMZF9GMlZrdjlYVGx4NWE1ZlFEVnVtaU55dVJxQVZjeUs5RUhHSnRTZG8yYTlodlRyMS1LRlZEbGtROTRkZVlmdFF5RjZ5U1FmSXY3SmN0by1OZklRd0ZzMTFUTmlyQTRhazZhNDRiaF9wS1hWdFctelI?oc=5)** - The Hollywood Reporter (2026-11-16T12:05) [score: 0.454]
-    - 原題: Nicola Coughlan “Will Not Be Watching” HBO’s ‘Harry Potter’: “And I Would Never Be in It”
-    - 要約: ニコラ・コクランがHBOの「ハリー・ポッター」シリーズについて「見るつもりはない」「出演することも絶対にない」と述べたとハリウッド・リポーターが報じている。
-  - **[HBO、新「ハリー・ポッター」初クリップ公開](https://news.google.com/rss/articles/CBMikwFBVV95cUxPMjZSVndLclQ1R3hFTXVDUlpOTGdWZTltZ2hKdkRpdktfNnBNeVB0YVZnWVpVQ2RKWnVkalg4MHVyY2FCSXJ0MnVBdjQxQWgxWER3R1FNTDVzZkRwVUhmWTFwcXJxTFROTUdNeUZmUVFLYUYwLVRYdkFsY2hRMktTMk5Hd0t5SGVUWTI3SnlZUGpmSlE?oc=5)** - The Independent (2026-11-15T15:41) [score: 0.426]
-    - 原題: HBO releases first clip of new Harry Potter series
-    - 要約: HBOがドラマ版『ハリー・ポッター』の最初の映像クリップを公開したと英インディペンデントが伝えている。
-  - **[HBO版ハリポタ、新学期の晩餐映像を初公開](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZGZpSWJ3eFl4Vm1ONTk3QUI3M19Fa2V1WXVENnIyZ3pHZk40OWVGTXFDaGxzeDFmMHdQUWVPZDVEbVF4aWNYd25wem1JZl93ZmJ2Y0JEU3JUTU9GeHJiYnFaUXNxcVZhdXdwenVLQU8yNTl3ZzNCUHFNTGpyaWNDMFFrV3VQOEhIeWc?oc=5)** - The Independent (2026-11-15T13:16) [score: 0.423]
-    - 原題: First extended look at HBO Harry Potter series sees Hogwarts students at start-of-term feast
-    - 要約: HBOが制作するドラマ版『ハリー・ポッター』の長めの初映像が公開され、ホグワーツの新学期の歓迎晩餐会の場面が映されていると報じられている。
-  - **[HBO、ハリポタの宴会シーン映像を突然公開](https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0NIVk52LWFQb0pvSTJCSlFtMlNqalFRQ0FxQlhGVGVtTzQ3UGREeFpacUFnVXJlZFNmNklXQWZ5eTNWeU9UaVVmRGNMSDl0Zm14bWpwUE41NFpHQzFDLTA3RjF3MWx5RVFyNnhCaUxoNnNvdTFiRC1mMmtOMXpVUjllQ3ctcGVTWUkzWkV1WmZmQQ?oc=5)** - Deadline (2026-11-15T11:03) [score: 0.419]
-    - 原題: HBO Releases Surprise ‘Harry Potter’ Clip Of Hogwarts Banquet
-    - 要約: HBOがドラマ版『ハリー・ポッター』から、ホグワーツの宴会シーンを収めたクリップをサプライズ公開したとDeadlineが伝えている。
+  - **[ニコラ・コクラン、HBO版ハリポタ「絶対に出ない」](https://boundingintocomics.com/movies/movie-news/nicola-coughlan-wont-watch-hbos-harry-potter-series-i-would-never-be-in-it)** - Bounding into comics (2026-11-18T23:39) [score: 0.5]
+    - 原題: Nicola Coughlan won’t watch HBO’s Harry Potter series: ‘I would never be in it’
+    - 要約: 女優ニコラ・コクランが、J.K.ローリングを理由にHBOの『ハリー・ポッター』シリーズを見ないし出演もしないと語ったと報じられた。同作は12月25日に配信開始予定。
+  - **[コクラン、ローリング理由にHBO版ハリポタ視聴拒否](https://thatparkplace.com/nicola-coughlan-wont-watch-hbo-harry-potter-series/)** - That park place (2026-11-18T23:39) [score: 0.5]
+    - 原題: Nicola Coughlan Says She Won’t Watch HBO’s Harry Potter Series Over J.K. Rowling
+    - 要約: ニコラ・コクランがJ.K.ローリングを理由にHBOの『ハリー・ポッター』シリーズを視聴せず、出演もしないと発言したと報じられている。作品は12月25日に公開予定。
+  - **[HBO版『ハリー・ポッター』でもっと活躍してほしい5人のキャラ](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdzQxOUtMWFA4TENTSGxHTFhtd1pDaTFhb281T3IyQURvU1h2YVZCaXMxd2RXcEQwb2lwekpiT1Vic0psSXNhLU9tZTdRSEVVNTVMaHZodlZtQXRWU2NBdzBJOG94di1jVWlfNmRBRjFSenVsZEppN18xUlc0bG1FUktNZU9ZVnBZMjN3bTRFWHNnWFU?oc=5)** - TVLine (2026-11-18T22:12) [score: 0.5]
+    - 原題: 5 Harry Potter Characters Who Deserve Bigger Roles In The HBO TV Series
+    - 要約: 米TVLineが、HBOのドラマ版『ハリー・ポッター』でより大きな役割を与えられるべき5人の登場人物を挙げた記事を掲載している。
+  - **[HBO版『ハリポタ』、新たなニワトコの杖を初公開](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPSGo3VndYVjJVckNWQjB2MGNPT19UckFaOXVORkJQdk9YUUJlT2NPZDF2RWRBZU9ZUXZqY09aODUxQUUzZDBoYndYbW9nWW5pbGZDNlhETUlfU0dkRzFWSFk3TQ?oc=5)** - MovieWeb (2026-11-19T15:30) [score: 0.5]
+    - 原題: HBO's 'Harry Potter' Officially Reveals New Elder Wand in Hogwarts-Centric First Look
+    - 要約: HBOがドラマ版『ハリー・ポッター』について、ホグワーツを中心とした初公開映像とともに新しい「ニワトコの杖」のデザインを明らかにしたと報じられている。
+  - **[HBO版『ハリー・ポッター』、クリスマス当日に配信開始へ](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGRPY1RPaFJxYmh4aXRPZlh4QUtnVndMb3U1c1gxT2lWMFBISXpkTVF5NmFnM1g4VDh5a1lvYmItZlM5b0NFLUhFRlRCUUtHWEdSMTlsRmF2cnJDMXhtWkdZMFNrWVVOY1RqVzJzNlFZY1JxYWw1X0dlcWktem9hRUdRZ0NoRk1ldnA4RFZRMmRSbDUzU1Zn?oc=5)** - ScreenRant (2026-11-19T14:45) [score: 0.5]
+    - 原題: Harry Potter HBO Original Series Gets Christmas Day Premiere Date
+    - 要約: HBOオリジナルのドラマ版『ハリー・ポッター』の公開日がクリスマス当日に決まったと、ScreenRantが伝えている。
 
 #### 動画: [スーパーガール役ミリー･オールコック､次回作はDCじゃなくロンドン舞台｢ジュリー｣...ジェームズ･ガン監督DC退任で｢マン･オブ･トゥモロー｣はどうなる?【すみあお時事】](https://www.youtube.com/watch?v=RUni00cEZLo)
-- 公開日: 2026-11-12 / 再生数: 1,871 / 高評価: 37 / 視聴者関心度: x1.57
+- 公開日: 2026-11-12 / 再生数: 1,880 / 高評価: 37 / 視聴者関心度: x1.53
 - キーワード: DC, すみあお時事, スーパーガール, ミリー, オールコック, ジェームズ, ガン, ロンドン
 - 英訳キーワード: DC, Supergirl, James, London
 - 視聴者コメントの頻出語: スワンプシング, コンスタンティン, 適材適所ハマリ役, ジェームズ, ガン, ミリー, オールコック, キャリアアップ, 誤訳記事訂正, 手間賃
 - 国内の関連ニュース:
-  - [DCスタジオCEOジェームズ・ガン＆ピーター・サフランが退任 新生DCU発足から4年（クランクイン！） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcHRwQi1kdWhSVEpqblFyVzRZN3BsQ1NiV1ZOMVlkOUYzenJiUXFrbGtrTDhoZ3I1anE3UExVdDFrMVB3WVpBYXJmNkZtVFRvZFBwR2duenpUampfcFNvX0ZaVjczSC1xZkVRN0ZXV0ZWR01lRVJEV2VXMGZRMVk?oc=5) - Yahoo!ニュース (Thu, 12 Nov 2026) [score: 0.375]
-  - [DC-3 飛行機の残骸｜アイスランド南海岸 - Guide to Iceland](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbXJKcnpKbjd5YVVrWUhobnBEbkpfRkZBck5VTFNNb05ra3Jic3VlS1FncUFXWVQ3c3pyeGRxd3NtUWtPSTJYWGJWcUVNTDBxZk5sQlZaMTNlY0lvdjFvUGkzN1JsY2pnWjctZ2dZVDJwRUhrQkN4NlZxSVFPRTdHcmI2TU5CVl9ZcWVlZ3cyN0xwNjRWNWFCZ3dn?oc=5) - Guide to Iceland (Thu, 12 Nov 2026) [score: 0.125]
-  - [日立・三菱電機・東芝…“DCの追い風”で業績好調も、先行きに不安材料あり - ニュースイッチ by 日刊工業新聞社](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vX2tCajhzcTJIbXJGaHppS3hhaUxaS2FOVVNmMWp2THRacGNlSFVnaXpla0V4aTlPby04SWlCbjlOUQ?oc=5) - ニュースイッチ by 日刊工業新聞社 (Mon, 16 Nov 2026) [score: 0.125]
   - [［徹底予測2027 半導体］汎用メモリーの価格軟化 パワー半導体のDC需要、5年でEV並みに - 日経ビジネス電子版](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TdFVmOF9mVDlwMHZqc0FhMk9tRHVSYndkU2haaHgyY3BVMWxZUzMyM20xSS1FQllsVExsb2tPLXVEQkVmbE9SYndDc3VwTDJNaGIyQUVTX1paRjdHejRjWWtGcU1tYk0?oc=5) - 日経ビジネス電子版 (Mon, 16 Nov 2026) [score: 0.125]
+  - [カウボーイズが守備のプレーコール担当をDCパーカーからアシスタントのペティンに変更 - NFL JAPAN.COM | NFL日本公式サイト](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hSlJYVFhPZ256cUhnT24za1NtcEpQMWpQY0ZUdmRZdU5qZzYyN2JxanNaSEhpR1ZJUTV2V1lpOFVMU0VyY2VnSEc2eU84dw?oc=5) - NFL JAPAN.COM | NFL日本公式サイト (Thu, 19 Nov 2026) [score: 0.125]
+  - [日立・三菱電機・東芝…“DCの追い風”で業績好調も、先行きに不安材料あり - ニュースイッチ by 日刊工業新聞社](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vX2tCajhzcTJIbXJGaHppS3hhaUxaS2FOVVNmMWp2THRacGNlSFVnaXpla0V4aTlPby04SWlCbjlOUQ?oc=5) - ニュースイッチ by 日刊工業新聞社 (Mon, 16 Nov 2026) [score: 0.125]
   - [アスクル／「1箱で届ける」支える関東DCの見学会を開催、池田CLOが物流戦略語る - 物流ニュースのLNEWS](https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0UXNxenRwUFpXUWprR3g0X2ozVmhrNjUzaGhHalFpMTNuQk1zU3RUbFBKZmM5elBFelRGdE5IWE15cW54T2c0VlNtaVVueFB0d2s0LQ?oc=5) - 物流ニュースのLNEWS (Wed, 18 Nov 2026) [score: 0.125]
+  - [CGに頼らない“ホンモノ”志向！『スーパーガール』90分超の映像特典に感じる、かつてのハリウッドへの原点回帰 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMijgFBVV95cUxQUTlCQnV4UlZFRXFoQlRtcnp5WGVqNlR6S3ZFUnBnck83QkJPZHNpbFlORGhBM2wwck9GUnZJRzQxU0I2VFpELUpqMnBKWDBybG01dVItMzI5MzZreWpfdWN6Q0IwZ0ZndktuY19ueXFOQVk1RmFwZVQzT2ZtMk5NQlhZcTE1d0xFYVhmWGl3?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[DC映画『クレイフェイス』中国公開へ　記録的スコア](https://cosmicbook.news/clayface-china)** - Cosmic Book News (2026-11-18T13:49) [score: 0.5]
-    - 原題: ‘Clayface’ Heads To China With Record DC Score, Eyes ‘Supergirl’ Box Office
-    - 要約: ワーナー・ブラザースがDCのホラー映画『クレイフェイス』を11月27日に中国で劇場公開すると発表したと報じられている。DC作品として記録的な評価を得ており、『スーパーガール』の興行成績を視野に入れているという。
-  - **[クリス・プラット、ガンの「ガーディアンズ」復帰を熱望](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmgtVGtoMU5USDhBZjE4RzZHTVBCOFlBS0xpc3dCNDQ2eFpBQy10Z1NvRzR0c3BNTHlFZTFTdktjVmZnVWM0cXNDTUd0bUlaME5xejFFdnFBa28wZWNMeVlCVmltcWU2aVZLSHZjd1ZSdmozNjdEY3E0NHh1V0Z6elFoS3FWV1dCLXZ0M0txUmtCNGZnVmoya2k0dFRGUTJL?oc=5)** - Deadline (2026-11-15T01:19) [score: 0.406]
+  - **[クリス・プラット、ガンの「ガーディアンズ」復帰を熱望](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmgtVGtoMU5USDhBZjE4RzZHTVBCOFlBS0xpc3dCNDQ2eFpBQy10Z1NvRzR0c3BNTHlFZTFTdktjVmZnVWM0cXNDTUd0bUlaME5xejFFdnFBa28wZWNMeVlCVmltcWU2aVZLSHZjd1ZSdmozNjdEY3E0NHh1V0Z6elFoS3FWV1dCLXZ0M0txUmtCNGZnVmoya2k0dFRGUTJL?oc=5)** - Deadline (2026-11-15T01:19) [score: 0.373]
     - 原題: Chris Pratt “Would Love” If James Gunn Made Another ‘Guardians of the Galaxy’ After DC Exit
     - 要約: DC退任後のジェームズ・ガンが再び『ガーディアンズ・オブ・ギャラクシー』を手がけるなら「ぜひ見たい」と主演のクリス・プラットが語ったとDeadlineが報じている。
-  - **[C・プラット「ガーディアンズ4」ガン監督続投を熱望](https://news.google.com/rss/articles/CBMipgFBVV95cUxOamlpWHg0SDZEZ2xSZGtiNmRNRFpGTjlTRktmZXJNNnFIWVQ3aVNjZEh3OHV2WERFX045NldvbVRETENGYk04aG5lbENaTmpPSHpuOTZaYWJDbHE5aWFrQmxZSzNhTnplTE5YSTNWUnNVZlJoM3Mxby1aQmM5aXo2aXQ5V18yX2l0YjVHN3FqOXZpZkQ3ZlpPVWNBVkhsbFBFUnZJUVlR?oc=5)** - Variety (2026-11-14T22:25) [score: 0.402]
-    - 原題: Chris Pratt Says He ‘Would Love’ James Gunn to Direct a Fourth ‘Guardians of the Galaxy’ Film After DC Exit
-    - 要約: バラエティ誌によると、俳優クリス・プラットが、DCを離れたジェームズ・ガン監督に『ガーディアンズ・オブ・ギャラクシー』第4作の監督をぜひ務めてほしいと語ったという。
-  - **[R・パティンソン、バットマン降板か 3作目契約を回避と報道](https://cosmicbook.news/pattinson-batman-contract)** - Cosmic Book News (2026-11-17T01:23) [score: 0.355]
-    - 原題: Robert Pattinson Done As Batman: James Bond Star Escapes Third Movie Contract (Report)
-    - 要約: Cosmic Book Newsは、TheWrapが契約内容に詳しい関係者の話として、ロバート・パティンソンがバットマン3作目の出演義務を負わなくなったと報じたと伝えています。
-  - **[新ボンドにパティンソン　ファンは「カヴィルにすべきだった」](https://cosmicbook.news/cavill-bond-fans)** - Cosmic Book News (2026-11-16T21:13) [score: 0.35]
-    - 原題: ‘Should Have Been Henry Cavill’: Fans React To Robert Pattinson As James Bond
-    - 要約: ロバート・パティンソンが新たなジェームズ・ボンド役に決まり、ファンからは「ヘンリー・カヴィルであるべきだった」との反応が出ていると報じられている。TheWrapは、ボンド決定から数時間後にパティンソンがバットマンの契約から外れたと伝えている。
+  - **[トランプ氏の凱旋門計画、連邦判事が再び差し止め](https://www.foxnews.com/politics/trumps-massive-dc-triumphal-arch-project-dealt-another-blow-federal-judge)** - Fox News (2026-11-19T03:00) [score: 0.25]
+    - 原題: Trump's massive DC triumphal arch project dealt another blow by federal judge
+    - 要約: 連邦判事がワシントンD.C.で計画されるトランプ大統領の凱旋門建設の差し止め命令を延長し、少なくとも12月3日まで工事が保留となったと報じられている。
+  - **[ジャスティス・リーグが悪役に DC「アブソリュート・ジャスティス」](https://cosmicbook.news/absolute-justice-villains)** - Cosmic Book News (2026-11-19T13:48) [score: 0.25]
+    - 原題: The Justice League Are The Villains Of DC’s Absolute Justice Event
+    - 要約: DCコミックスの「アブソリュート・ユニバース」初のイベント作品の発売日が決定し、ヒーローたちが戦う相手が明かされたと報じられている。その敵はジャスティス・リーグだという。
+  - **[『マン・オブ・トゥモロー』初映像、ガンではなくスカイダンスが公開](https://cosmicbook.news/superman-space-suit)** - Cosmic Book News (2026-11-18T22:26) [score: 0.25]
+    - 原題: Skydance, Not James Gunn, Reveals First ‘Man of Tomorrow’ Footage and Superman Space Suit
+    - 要約: DC映画『マン・オブ・トゥモロー』の初映像とスーパーマンの宇宙服がスカイダンス側から明らかになったと伝えられている。流出した映像説明では、アーロン・ピエール演じるジョン・スチュワートが複雑な構築体を生み出す場面もあるとされる。
+  - **[スナイダーバース復活とバットマン再始動か（報道）](https://cosmicbook.news/oliva-snyderverse-reboot)** - Cosmic Book News (2026-11-18T21:29) [score: 0.25]
+    - 原題: SnyderVerse Return And Batman DC Reboot: Everything Is Falling Into Place (Report)
+    - 要約: DC作品をめぐり、スナイダーバースの復活とバットマンのリブートが進んでいるとの報道が出ている。ヘンリー・カヴィルの『ブラックアダム』スーパーマン出演場面を撮影した撮影監督が未公開映像を公開したとも伝えられている。
 
 #### 動画: [【ゴジラ-0.0】日米同時1位は"日本映画史上初"! 初日9.1億円･北米3160万ドルの衝撃【すみあお時事】](https://www.youtube.com/watch?v=OHcIYYpc5q0)
-- 公開日: 2026-11-11 / 再生数: 1,605 / 高評価: 41 / 視聴者関心度: x1.35
+- 公開日: 2026-11-11 / 再生数: 1,609 / 高評価: 41 / 視聴者関心度: x1.31
 - キーワード: ゴジラ, すみあお時事, ドル, 日米同時, 日本映画史上初, 初日, 億円, 北米
 - 英訳キーワード: Godzilla, Dollar, North America
 - 視聴者コメントの頻出語: ゴジラ, パート, 普通, 初代, 芹沢博士, 情緒
 - 国内の関連ニュース:
-  - [『ゴジラ-0.0』世界150億円でも北米は急失速。国内100億円は見えるか #エキスパートトピ（多根清史） - エキスパート - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUI5Mzh5eFZXdGZrTTU0MUgybC1OenFrdEswTWlYQ25nVnhsUmg0ekhXME5nallpUkt4SDItWU90QUZJTUVkQzRKZGFvMi0zQkpKdFR6cnZHWWRRbVA4cHVzb2FaODZHS2pmWnNlNjdDaC02bk9jOU9IU0ZnZ3RLU2xRcHlHdk1Z?oc=5) - Yahoo!ニュース (Tue, 17 Nov 2026) [score: 0.375]
+  - [『ゴジラ-0.0』全世界興収150億円突破 実写映画のIMAX累計興収歴代1位に…場面写真も一挙解禁 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SeFFuSFJOWm12OThoODdfTk9GMUllbld4Z0U3by0xeEVvay0wT043eUJkaE1zVEh6WXhMaEN6dTF1TE9TakJMZU9FR0xFYzly?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.25]
   - [映画『ゴジラ-0.0』興行収入が40億円を突破、シリーズ初の100億円に期待がかかる 国内実写IMAX映画での興収は1位に - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9xajM3ekV5QzR6UU5MdDNCcnFfZFF2UEJaYnZjdDhTM05MV1BvOGtZc1VYVXNIV3NIWWpMUkpzVk5kNXB3TjRxUDh4RkVWbUJNXzRNU2tTX1VpQUl4VnBjUzJ6ZUxwLTBIRnBuMGhGQUhkNk8wRWhDMnpndzUxUHM?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.25]
-  - [【11月14日（土）宮崎戦】『映画 ゴジラ-0.0』コラボグッズが登場！ - アルビレックス新潟 公式サイト](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FZzRPdVJJYlVUR3Z1cVEtbjlDZVZpV3owdi03OVlja3Rrckxpa21EUnBuSGxUQ3VQWlJBTFRjT3QzUndvVEtBXzRMcWJyUQ?oc=5) - アルビレックス新潟 公式サイト (Thu, 12 Nov 2026) [score: 0.125]
   - [11/21（土）より『ゴジラ-0.0』| 松本山雅FC コラボレーショングッズ 通常販売開始のお知らせ - 松本山雅FC](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZZ0QxbTloM3gtX1ZGZnhRSUgwaDc0YVF3a0J5dkVjcFFHbjk0OVc0RzdraXhTczFac05ZZHNEbWJzQ2wtc3ZlOGVjdlc5YUFXdG04?oc=5) - 松本山雅FC (Tue, 17 Nov 2026) [score: 0.125]
-  - [映画「ゴジラ－0.0」はなぜ人を集め続けるのか。ヒットの二つの理由 #エキスパートトピ（中西正男） - エキスパート - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODhNUTI4VVRUT3o5ZU1qNjF3c3hTUHpGaEd0VTZfb2FqQlFGeE9IQlZRbjl6enhETGlBcW8yRTZJcUd2bHdWZ0l3SlEzNl8yLWhUY0VvWTBocUJfdjJXd2VhS3d6eXFuS1N3Q2cxSmlZT0pYaUhnSVEtaWpWNW9JdkVDZU13Z0lO?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 0.125]
+  - [ドル円午前の為替予想、AI株安を睨んでドル買いと円買いの綱引きに 2026/11/17 - 外為どっとコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1VGJUcEJWaHNJbGduSmF6c1ZEX1N1d2lPLU5jeXk0RHJ2cHRJWG8zMnoybHNLSHo3VjEwaEJ1MkI3VHl5MW84d2NfMFYzSjYyWkFEN0Q0R2F6RnRhZENtRTlxYw?oc=5) - 外為どっとコム (Mon, 16 Nov 2026) [score: 0.125]
+  - [映画の推し事：ゴジラを追って60年 「-0.0」を「傑作」と断じる根拠とは - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE01UGVna2Q2eFNsSF9leGFmYnFoeWc3NEVqMTlEQ1p0ZXExNm9BQXJQZUFIb0U2UzhOVHpDRzdXMUF2bUlwc2pJazBERV9NS2J2MDBxSkF1cnYtdVlHNHRjVU5QUEREd2h2?oc=5) - 毎日新聞 (Sun, 15 Nov 2026) [score: 0.125]
+- 海外の関連ニュース:
+  - **[ドル一服、投資家はAnthropicのIPOに注目](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0NIbEViM181TUJsZHFhV2J5d0lLbkVXVlBRYVJlb3YtMC1wVTlyc1NBV0RMQ0dBTXZlcHFvdnkzQm1SUWo3NFl3eGZ0SzgwTXhxTVQ3Y2VYSHg5LXZtRG9vUUp3eVlEQktJMk9JSllaQ1hRRjRuWmx0WGNJSFBLTHRpUS1tTVFoakw2dHlVRExKTU1jWE9McGswRWc5V05CYU4zR3JDdm9Jam4wTDlyNTlXRno0cXc4NVE?oc=5)** - Reuters (2026-11-19T02:01) [score: 0.333]
+    - 原題: Dollar takes a breather as investors eye Anthropic IPO
+    - 要約: ロイターは、ドル相場が小休止し、投資家がAI企業Anthropicの新規株式公開（IPO）に注目していると伝えている。
+  - **[PayByPhone、Honk買収で北米事業を拡大](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUNEZTFYZzlESVJDalhHMUJxUUg2UmNVX0ViUTRZWElZVHBBd25VZk96Z3c5V2ZfemsxRmN2WThIS2pwOTRIZnB3RFNCOHNZeklCRUY3cXlwSE1SeGJ1eUt2Y0dxZ2dnQnFzaFQ1MHhnMnZMZWJ6SklHc3BGTEgzYVBSMzZJU3FZY0Yw?oc=5)** - Fleet News (2026-11-19T09:51) [score: 0.333]
+    - 原題: PayByPhone expands in North America with Honk deal
+    - 要約: 駐車料金決済サービスのPayByPhoneが、Honkとの取引によって北米での事業を拡大すると報じられている。
+  - **[障害・スパイ・1兆ドル規模IPO これがAIの未来か](https://news.google.com/rss/articles/CBMigwFBVV95cUxNQzBLWG95ajY3a3dFZ09tckpoOEFvLVhDLURBRG9WNXZlLWdfWXBoNzl3cFVERzdtVld0WGQyTFB4bTk1WTZQeVE5Z0tvN2xmTTc3ZDFzaThTdGVhUUUtYUJ0ZlExcExJY1BiQUdlSUhUM2U4cy13cmhOX2t2YnEweWVOaw?oc=5)** - The Guardian (2026-11-19T11:52) [score: 0.333]
+    - 原題: Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter
+    - 要約: 英ガーディアンのポッドキャスト「Stateside with Kai and Carter」が、システム障害やスパイ行為、巨額のIPOといった話題を取り上げ、AIがもたらす未来を論じている。
+  - **[金利ショックと金属急落で豪ドルに下押し圧力](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmhhX3ZEbHF1R2tVQmd3TWlWczlHS2lNcmtaU2R0X3NHd1pldEZfd2JGYVoxNDZYVW9Senp1djVJanFtVWdCN2Frem5XSEZsMXlmNjRRRzJLSkFWUFdVMlhqQzBEWFgyZzlGU0ZsZGdvcnB4TnpnQnV4bUxsR1NHWnJ1WE83bHM2OVJyRlZlUXJZaVFGZWZmVkJRanNmRXJ4VVQxaUxUR1JmUUFyNVhITGpuY0tmUl81?oc=5)** - StoneX (2026-11-19T02:11) [score: 0.333]
+    - 原題: Rates Shock, Metals Rout Leave Aussie Dollar Under the Pump
+    - 要約: StoneXは、金利をめぐる想定外の動きと金属市況の急落により、豪ドルが圧力にさらされていると伝えている。
+  - **[論評：「AIドル」は到来した、だが方向性は不明](https://news.google.com/rss/articles/CBMirwFBVV95cUxObGh2MlA3VXo3X2xWaUNBbmxlRUVyR1RCZWFlb1Z2bFhmTEpJLWhCSXU1NHNtcElvZ0I2dHFobFQ2d3doclVEUHVvSFNrQUM2YU1pTURxSHBWWjN0azNBOGZ0VWgxRndUZkl0aDhYQ19lcVBLQkxWYl9RSWpLSFhXSE5LY2tZcGNiYm01OXBRWDVDWjF3NlVSWlZEbE56QW45Tk5aenhvS3A5LWZPcVJr?oc=5)** - Reuters (2026-11-19T07:00) [score: 0.333]
+    - 原題: COMMENTARY: The 'AI dollar' has arrived. Its direction hasn't
+    - 要約: ロイターの論評記事は、為替市場でAIを軸とした「AIドル」とも呼べる動きが現れた一方、その先行きの方向性は定まっていないと指摘している。
 
 #### 動画: [中国初の完全AI映画､｢感情がまったくない｣と批判され､大コケ! 上座率0.3%の衝撃…トニー･レオンも｢魂がない｣と酷評【すみあお時事】](https://www.youtube.com/watch?v=DNzp8TirO6A)
-- 公開日: 2026-11-09 / 再生数: 2,503 / 高評価: 58 / 視聴者関心度: x2.11
+- 公開日: 2026-11-09 / 再生数: 2,512 / 高評価: 58 / 視聴者関心度: x2.04
 - キーワード: AI, すみあお時事, 中国初, コケ, 完全, 映画, 上座率, 三星堆
 - 英訳キーワード: AI, Film
 - 視聴者コメントの頻出語: AI, アニメ, 映画, 作品, CG, ヒット, フル, 中国, ＡＩ, スマホ
 - 国内の関連ニュース:
-  - [NECの生成AIを支える国内企業で最大規模のAIスーパーコンピュータ : 企業情報 - NEC](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZFlpYkJZclhobll2YVhiT1ZhUUFMeV8zc1Fva0xhbUZGTnFKRU0tUUtjRG1NVlpoNE41SWJaVkY4TU1nMFprNUZVUmp4bm93a2FPdGYzSmQxZ2ItWjJDQ1Z1VmpiZm5YYi15bDBHZVBqUGxkbWtZSTk0cENqZ21EcVJPWQ?oc=5) - NEC (Sun, 15 Nov 2026) [score: 0.125]
   - [AI規制は米国経済を冷やすのか ポジティブな面もあると見る理由 米国野村證券・雨宮愛知 - 野村證券](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoS1dkbWdiblVQN2Jpdi1abWpaQjBoQTNHalZzUDBjdWpQTGVva1JoTjkwVmVfREFpQXZhYm12bUJaa21Jb3A3THdDTmd3TGtlMTlCbUNkMkpSa2VDZjVz?oc=5) - 野村證券 (Fri, 13 Nov 2026) [score: 0.125]
-  - [科学者への AI 利用機会の拡大 - OpenAI](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5VjlZelJEcU9rOUNLWVJ2aE01d2xsZU1ydVlNV1hUTzJJZ3pTX2RLS3VFUDhBMVZDQlFsYmNhWGJHaW4tQ1k1ME51cFdrNE45QWZjX2UxWVpLZHlTVDFDdTc4aXBlR1U4aGl6NGVJTndualhYMmxuN2U4c3FSdGM?oc=5) - OpenAI (Tue, 17 Nov 2026) [score: 0.125]
-  - [AIに記事が参照された対価を、クリエイターのみなさんに還元します - note](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rTlJ5bjgyZHlPRnQ5bHdnVXhDZjFjWmZ5aVhETWZPV0RaMDhkOHROb19jQmFEVzJoX1V0eVNob3JjVGdlVU9SUzhKb1Exdw?oc=5) - note (Wed, 18 Nov 2026) [score: 0.125]
-  - [サイバー攻撃 AI「自律化」が脅威 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxYkZEX3Ftbmg5ck1iY2tyZEJGMlpMZk9pc3I5XzlINnZDakNCUDhNOHlQb1J0bmpXT3VlbkVoWFJwSTVVTVpQY1l2TTlBdVdX?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.125]
+  - [宜野湾市AIオンデマンド交通「あいちゃん」 - 宜野湾市](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWVNelNNTmZNQ0h4RXdDdUVwYlVTYVpzVExfMGc0WjdSQlBnODNCcGkwdHM4X3NEVEdPNFoxcWx3NDlWbTZHR0xuSU00bkd2ckpUNThwNnN5eG1TSG1Bdm53b0pkcjd5Ti1WcGZOYkJJVUpYb3JTWnpCb21sUTZ4OWlWc2FoYlR0Sk5rR3NyamlISGJ1bGdz?oc=5) - 宜野湾市 (Wed, 18 Nov 2026) [score: 0.125]
+  - [三菱重工とさくらインターネット、日本のソブリンAIインフラ構築に向け、戦略的アライアンスの検討を開始 - さくらインターネット](https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWtpaXlTYURXdFVFLTZwMzN2Q2VPWHktcHBmZjZsTnBrRWRCUkFkbVhRMWxXT1RxSXlJOXBKMF8tQnpZeFRlZVVZNFVsdTdpOVYycm11RUVqTWZOTE5WSnBMQlJ6Nks2akZEX3hkWkVsZEZJT0pwc0psMmpvOW9mSUJwek9PMGRGSHc?oc=5) - さくらインターネット (Wed, 18 Nov 2026) [score: 0.125]
+  - [韓国で大学入試 AI不正の対策徹底 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxcFgxWjJkMll3d0FWSVdQem93Q3BxNGVnU3dCaWZ3UjFkanlyNjFpbXJRZFpkN3ZBOXpmeE51Umo3RUlzS3NPcWJIRzMyRzRB?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 0.125]
+  - [【解説】 エヌビディアめぐるスパイ疑惑、中国のAI構想にとって想定外の障害に　米中首脳が会談へ - BBC](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqN1NMZWVaNnM0ZnpGUG5jbVRfREJhQVgyc09Hd2w2cEdPcl8xTV92WDgxMjdCRWhLeXIzcC0yYWJwbThrSkNZVWFoUzFPZjhqemt0Zm9odVVyWHdZVFFEWtIBZkFVX3lxTE9GWWY1QkFsNEVFdk13a01ITHVaVVZoOGd0WG5UaHBGV0hsNmJLNE1aajdFZXZ0TnVMcnZLeXNodDVkcTIyX0FVY2d3UmwtbUdDeVF6azMtVUhmX3pKWDQ3aVhOMWdTdw?oc=5) - BBC (Wed, 18 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[中国初のAI長編映画はなぜ大コケしたのか](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX3hPd1dvOWRWX3J2NklEeUhNdVBvclJRdEh3VTAzYkJrN1RuZHpHT3IteVViNDZfSDdWTWh0V01kcEl1QjhjRHZIdk5VNG50STdTZUVIY0xBU3ZZYkJLTFNqTVdrdmwzVE5ydkdyOU5ISXEydHFmY0VVbmhva3djV2dsbEhFandoY25neVZuaHQ3Q09mSmkxVmtfTG9sRjJhaEVHQnBfVXpFOG9KbVdXZUVfekwwRDlyY0F2N3d5Xy1IcXBuZW5WNExxUDRMbVlsR1RB?oc=5)** - SCMP (2026-11-15T05:00) [score: 0.822]
+  - **[中国初のAI長編映画はなぜ大コケしたのか](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX3hPd1dvOWRWX3J2NklEeUhNdVBvclJRdEh3VTAzYkJrN1RuZHpHT3IteVViNDZfSDdWTWh0V01kcEl1QjhjRHZIdk5VNG50STdTZUVIY0xBU3ZZYkJLTFNqTVdrdmwzVE5ydkdyOU5ISXEydHFmY0VVbmhva3djV2dsbEhFandoY25neVZuaHQ3Q09mSmkxVmtfTG9sRjJhaEVHQnBfVXpFOG9KbVdXZUVfekwwRDlyY0F2N3d5Xy1IcXBuZW5WNExxUDRMbVlsR1RB?oc=5)** - South China Morning Post (2026-11-15T05:00) [score: 0.755]
     - 原題: No actors, no crew, no ticket sales: why China’s first AI feature film bombed
     - 要約: 南華早報（SCMP）は、俳優もスタッフも使わずに作られた中国初のAI長編映画が、チケットがほとんど売れず失敗に終わったと報じている。
-  - **[韓国の大学入試、AI不正疑惑で揺れる](https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures)** - The Guardian (2026-11-18T02:03) [score: 0.5]
-    - 原題: South Korea’s high-stakes university exams upended by AI cheating scandal
-    - 要約: 韓国で、ある専門資格試験の首席合格者が隠しカメラとAIを使った不正を認め、波紋が広がっている。50万人以上が受験する大学入学試験(修学能力試験)を目前に、試験の公正性に疑問が投げかけられているとガーディアンが報じている。
-  - **[AIが「テロ計画」を出力、米GAOの覆面調査で判明](https://www.foxnews.com/politics/government-investigators-find-ai-platforms-produce-terror-plot-plans-undercover-op)** - Fox News (2026-11-18T09:53) [score: 0.5]
-    - 原題: Government investigators find AI platforms produce terror plot plans in undercover op
-    - 要約: 米政府監査院(GAO)の調査員が、ChatGPT・Claude・Gemini・GrokのAI安全機能を回避し、12時間以内の検証で実行可能なテロ攻撃計画を引き出したと報じられている。
-  - **[米中首脳会談、中国のAI構想に「エヌビディア・スパイ疑惑」の壁](https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss)** - BBC Business (2026-11-17T23:02) [score: 0.5]
-    - 原題: As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal
-    - 要約: トランプ大統領と習近平国家主席の会談が行われる中、エヌビディアを巡るスパイ疑惑が中国のAI戦略の障害になっているとBBCが報道。中国側は米国が先端半導体の輸出規制をさらに強めることを懸念しているという。
-  - **[アンソロピックIPO、需要急増で公開規模拡大を検討か](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html)** - CNBC (2026-11-18T20:20) [score: 0.5]
-    - 原題: Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say
-    - 要約: AI企業アンソロピックが、投資家需要の高まりを受け新規株式公開の規模拡大を検討していると関係者が語ったとCNBCが報道。株式は木曜、ナスダックに「ANT」の銘柄コードで上場予定とされる。
+  - **[豪音楽業界、AI学習除外の「分断策」提案を拒否](https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping)** - The Guardian (2026-11-19T14:00) [score: 0.5]
+    - 原題: Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping
+    - 要約: オーストラリアの音楽業界が、ミュージシャンだけをAIによるデータ収集の対象外とする案を「実行不可能」として拒否したとガーディアンが報じた。業界団体ARIAのトップは、他の創作分野を取り残す例外措置は受け入れられないとしている。
+  - **[欧州委員会、AI利用のサイバー攻撃を受けたと認める](https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-world-4025-rdf)** - DW (2026-11-19T14:58) [score: 0.5]
+    - 原題: EU Commission confirms it was targeted in cyberattack using AI tools
+    - 要約: 欧州委員会の報道官が、「AIによって生成されたサイバー攻撃キャンペーン」の標的になったと明らかにした。EUがAIを用いたサイバー攻撃を公表するのは初めてだと報じられている。
+  - **[AIバブル崩壊か、Anthropic上場を前に懸念](https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-world-4025-rdf)** - DW (2026-11-19T05:58) [score: 0.5]
+    - 原題: Is the AI bubble bursting just as Anthropic goes public?
+    - 要約: DWは、米中間選挙後のハイテク株急落やエヌビディアを巡る問題で、AI企業Anthropicの新規株式公開に疑問が生じていると報じている。一方で数千億ドル規模の投資が続いており、AIブームはなお健在との見方もあるという。
+  - **[企業はAIにいくら払うのか 投資減速の兆し](https://www.france24.com/en/tv-shows/people-profit/20261119-how-much-do-businesses-want-to-pay-for-ai)** - France 24 (2026-11-19T16:39) [score: 0.5]
+    - 原題: How much do businesses want to pay for AI?
+    - 要約: France24は、ChatGPT普及から4年を経て生成AIが生活や仕事を変え、経済成長の原動力となってきたと伝えている。一方で投資に見合う利益が得られているかを企業が見直し始め、AI支出に減速の兆しがあるとしている。
 
 #### 動画: [韓国･尹錫悦元大統領に死刑求刑! 非常戒厳令と反乱罪の波紋【すみあお時事】](https://www.youtube.com/watch?v=begXMOgKIoo)
-- 公開日: 2026-11-08 / 再生数: 1,156 / 高評価: 8 / 視聴者関心度: x0.97
+- 公開日: 2026-11-08 / 再生数: 1,156 / 高評価: 8 / 視聴者関心度: x0.94
 - キーワード: 時事, 韓国, 尹錫悦元大統領, 死刑求刑, 非常戒厳令, 反乱罪, 波紋, 概要
 - 英訳キーワード: South Korea
 - 国内の関連ニュース:
+  - [韓国で大学入試 AI不正の対策徹底 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxcFgxWjJkMll3d0FWSVdQem93Q3BxNGVnU3dCaWZ3UjFkanlyNjFpbXJRZFpkN3ZBOXpmeE51Umo3RUlzS3NPcWJIRzMyRzRB?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 0.125]
   - [宗山塁の2打席連続本塁打で韓国に競り勝ち決勝進出に大きく近づく - 侍ジャパン](https://news.google.com/rss/articles/CBMia0FVX3lxTE9qanNaczJoelJoS1BENFl6OVF6OUd1dWRVY3QyaDJ5LTRjYXMwTG51LU5kTTBMdzBxSFhOS0ViRGpwTjVSU3JZTkJUVEJLaWJ2ODhhRzNwMjMtSzJQdmJfSzJMM2tHVjdKa2xv?oc=5) - 侍ジャパン (Fri, 13 Nov 2026) [score: 0.125]
-  - [韓国の税理士試験トップ合格者、生成AIなどを使った不正認める - BBC](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vT3hXWDdIZXZ6NGtlSy1zQTdXRWd0Zk5qX0dhVVEwZVBaTnBjenc5SThaTTRVeHE2bWF1NU9LR3JLWmJUWUQ3RjJpb2Z6SVZITWhLY0dSb0hIMkk2OVJFUdIBZkFVX3lxTFBqOE1yeTRGWEQ3N2RWaWpCVFlIOWZXQWRKbnhORGkzNTg4Wlo4N2gyY0lYRFh3SUJpMmZIVkhCRHY5OTl4TzBTaVF4cjFnYVFpS2ZrWDNlbmxxb3JtMXU2UDZONFBLUQ?oc=5) - BBC (Tue, 17 Nov 2026) [score: 0.125]
-  - [韓国野党前代表の入国拒否 チョ国氏、日本に謝罪要求（共同通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBLWThLeE5jb0VaVzE0WTh2YVFLdEhRVnM5elpMNjk4UGxNVHJRTzY4cUhCQm9oc25CZXdZaFBYeXZHdFdvUGQxRUJiM2Raa0dFRTBtNWRBVnBteHBTbnB2cGRYUFJBTUFnLVBkN1lXRTVMU3lyTm93cklUdlA2dGc?oc=5) - Yahoo!ニュース (Tue, 17 Nov 2026) [score: 0.125]
   - [番組初の海外ロケ！２時間SPの舞台は韓国！timeleszが高嶋ちさ子とともに超過密な１分１秒すら無駄にしない「エクストリーム“タイパ”ツアー」を敢行！ - フジテレビ](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKelZhYzFKbWtQYk9UU2pKVjJHSWpRQ3R5Yl9XU3VJVkhnX1lVa2xMcWJWbF9rUm9jVUxjOFpvdnY5SEd4cmNPY3J2NzE2QkdSc0ZyRW5UMFY4MXZuUGdR?oc=5) - フジテレビ (Fri, 13 Nov 2026) [score: 0.125]
-  - [韓国｜ソウル地下鉄でのストライキ実施に伴うご利用に際しての注意喚起 - 日本橋夢屋](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xSGtBTTVoUzFHYzkxVDdjN1g0NFh3S0FBaWVYbEZxcVczQV91T2xJdkNOVDE2M2dSLU9iX05QNjczRjRhYlVNSWwyQjRCXy1nZkVJRGxsZ0NOX1E?oc=5) - 日本橋夢屋 (Tue, 17 Nov 2026) [score: 0.125]
+  - [韓国 試験で満点を取り不正が疑われていた男性が死亡 - テレ朝NEWS](https://news.google.com/rss/articles/CBMiekFVX3lxTE92cGg5RklaTlNaMmJldXFOVkdqSm54US01U3kzcTlnTzNweDVaOUE2MkZ0QUxrOGlkenVXT2pTeFFqNDNKemRmaUJvYnN1QkdhMkttSGU0ZWxSazVhOWgtSGxGNm4yTkxMaGtsUDlMLWVFcUQwcDBEa3VB?oc=5) - テレ朝NEWS (Thu, 19 Nov 2026) [score: 0.125]
+  - [日本政府、韓国の曺国元法相を入国拒否 2年半前に竹島上陸 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5BZG9OSHIyRDdoMXlNekRqNXA1bU04ay1WczQzLTZ3V2xNM19HWC1qMUNiVFdsa2p3V1ZCLXRSeE9DemE5YmZTWkdXU3ByY3FkTFNQM0picFdNeWJmdU5NbzNwX3Q2ME13VEJaWQ?oc=5) - 日本経済新聞 (Tue, 17 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[韓国の大学入試、AI不正疑惑で揺れる](https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures)** - The Guardian (2026-11-18T02:03) [score: 1.0]
-    - 原題: South Korea’s high-stakes university exams upended by AI cheating scandal
-    - 要約: 韓国で、ある専門資格試験の首席合格者が隠しカメラとAIを使った不正を認め、波紋が広がっている。50万人以上が受験する大学入学試験(修学能力試験)を目前に、試験の公正性に疑問が投げかけられているとガーディアンが報じている。
-  - **[緊急速報と7.5万ドルの報奨金、韓国がハイテク試験不正に対抗](https://www.cnbc.com/2026/11/18/south-korea-exam-cheating-.html)** - CNBC (2026-11-18T07:00) [score: 1.0]
-    - 原題: Emergency alerts and $75,000 rewards: South Korea fights high-tech exam cheating
-    - 要約: 韓国当局が、試験でのハイテク機器を使った不正行為を取り締まるため、緊急警報の発信や7万5000ドルの報奨金制度を導入すると報じられている。
-  - **[高市首相、深圳に静かな到着 韓国・李大統領は歓迎の踊りで出迎え](https://www.scmp.com/news/china/diplomacy/article/3374921/takaichi-makes-low-key-arrival-shenzhen-while-lee-greeted-dancers)** - South China Morning Post (2026-11-18T11:07) [score: 1.0]
-    - 原題: Takaichi makes low-key arrival in Shenzhen after South Korea’s Lee is greeted by dancers
-    - 要約: 高市早苗首相が水曜、APEC首脳会議のため深圳に到着したとSCMPが報道。日本の首相の訪中は7年ぶりだが、日中関係の緊張を背景に出迎えは控えめで、同日歓待を受けた韓国の李在明大統領と対照的だったという。
-  - **[韓国、AI試験不正の摘発に7.5万ドルの懸賞金](https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0VYWnNlaVotLWV3NFlYN0NlRHVxVFRCdVpFTnJKbXRiclVVUEwwNF82cEJ0QXlmNXhFQXZOMmE3Mkc1UDl4WEVuOUZCOWs3dC1uS1BiTHBHS242Qnd4R2oyeTN3UWg4cS1JYl9hZmJ5bmlJdUxJWlBydnpuU2dveHJ5YlJQT1hJaThMV1ViZUI4TzdsZEplWWVFWFMxVUFtOUtHSGRzXzk0QW1BcGtobw?oc=5)** - Bloomberg.com (2026-11-18T06:02) [score: 1.0]
-    - 原題: South Korea Offers $75,000 Bounties To Catch AI Exam Cheats
-    - 要約: 韓国がAIを使った試験不正の摘発に向け、通報者に7万5000ドルの懸賞金を出すとブルームバーグが報じている。
-  - **[韓国の2025年記録的山火事、急速な火災気象の悪化が背景](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpbV9IZVdmdV9jQkkyOUxmaEF1R2hpd2lLREVOVlMtWXFOaEVQNUkwT3A5X0ItVDRnWTdkbFJDdGloRG5TS0NJNWpkMExJbVRrblpxRUVCYU4yNjF5SnRV?oc=5)** - Nature (2026-11-18T01:31) [score: 1.0]
-    - 原題: South Korea’s record 2025 wildfires emerged under more frequent rapid fire-weather intensification
-    - 要約: 科学誌ネイチャーが、2025年に韓国で発生した記録的な山火事は、火災を助長する気象条件が急速に強まる現象の頻発下で起きたとする研究を掲載した。
+  - **[韓国、戒厳令事件で韓元首相の差し戻し再審を命令](https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-pm-retrial/)** - The Japan Times (2026-11-19T20:45) [score: 1.0]
+    - 原題: South Korea court orders retrial of ex-PM Han in martial law case
+    - 要約: 韓国の裁判所が、2024年の戒厳令を巡る事件で韓悳洙（ハン・ドクス）元首相の裁判のやり直しを命じたと報じられている。当時の尹錫悦大統領が出した戒厳令は国内を混乱させたが、約6時間で終わったという。
+  - **[韓国・李大統領、南北対話再開で恒久平和に期待](https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-lee-north-korea-peace/)** - The Japan Times (2026-11-19T18:12) [score: 1.0]
+    - 原題: South Korea’s Lee hopes reopening talks with North Korea could lead to lasting peace
+    - 要約: 韓国の李大統領は深圳でのAPEC首脳会議で、北朝鮮との対話再開が永続的な平和につながることに期待を示したと報じられている。朝鮮半島の平和と安定が地域の共同繁栄に不可欠だと述べたという。
+  - **[韓国の大学修学能力試験、不正発覚受け厳戒態勢で実施](https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/society/south-korea-college-exam-cheating/)** - The Japan Times (2026-11-19T13:01) [score: 1.0]
+    - 原題: South Korea college exam held with strict curbs in wake of cheating scandal
+    - 要約: 韓国で年1回・9時間に及ぶ大学入試「修学能力試験（スヌン）」が、不正事件を受けた厳しい規制の下で実施されたと報じられている。同試験は名門大進学や高収入の職につながる関門とされる。
+  - **[韓国最高裁、韓元首相の懲役15年判決を破棄・差し戻し](https://www.scmp.com/news/asia/east-asia/article/3375086/south-korea-court-orders-retrial-ex-pm-han-2024-martial-law-case)** - South China Morning Post (2026-11-19T10:11) [score: 1.0]
+    - 原題: South Korea court orders retrial of ex-PM Han in 2024 martial law case
+    - 要約: 韓国の最高裁は木曜、2024年の戒厳令を幇助したとして韓悳洙元首相に言い渡された懲役15年の判決を破棄し、下級審に差し戻したとSCMPが報じている。戒厳令は野党議員の対応で約6時間で解除されたという。
+  - **[眼鏡やボタンまで検査 韓国の不正対策入試に疑問も](https://www.scmp.com/week-asia/lifestyle-culture/article/3375067/glasses-buttons-south-koreas-anti-cheating-exam-checks-raise-eyebrows)** - South China Morning Post (2026-11-19T09:03) [score: 1.0]
+    - 原題: From glasses to buttons, South Korea’s anti-cheating exam checks raise eyebrows
+    - 要約: 韓国で木曜に行われた大学入試で、隠しカメラによる不正を防ぐため太い縁の眼鏡や衣服のボタンまで確認されるなど前例のない警備が敷かれたとSCMPが伝えている。AIを使った不正事件を受けた措置だが、行き過ぎを問う声も出ているという。
 
 #### 動画: [【大炎上】バーガーキング従業員が｢黒塗りメイク｣で勤務!? ｢仮装だからいい｣と開き直り批判殺到!【すみあお時事】](https://www.youtube.com/watch?v=ms63PW7F6fg)
-- 公開日: 2026-11-07 / 再生数: 1,188 / 高評価: 8 / 視聴者関心度: x1.0
+- 公開日: 2026-11-07 / 再生数: 1,188 / 高評価: 8 / 視聴者関心度: x0.97
 - キーワード: バーガーキング, 時事, 大炎上, 従業員, 黒塗, 勤務, 仮装, メイク
 - 英訳キーワード: Burger King, Worker, Work, Stage clothes, Make
-- 国内の関連ニュース:
-  - [ギリヤーク尼ケ崎さん死去（時事通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9fRkxnS19iUVFGUDUyTDNCUl9hTjRhRzNCTDBtS1J4SkVsbkhqbi1wY01VUHQ3TzlCTy1yRmJ2cHdscU5MRVJ0V195RkVKTXpJNkxSQ1VPUEZ0c0lxSXpJU0pJSGdVY2kzZC1SVElRZ3Etb2hnTi1DLXZtOHVXcGs?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 0.125]
-  - [時事雑感(2026年12月号) | 嶌峰 義清 | 第一ライフ資産運用経済研究所 - 第一ライフ資産運用経済研究所](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzbHhYZ2ZIcEl5SEZpSUlWWFZqbDZ2bFNBUjBUX1h3ZkFYcDNMZTMyQjhRLVFxa0FxRkxTZm1LUExpN1NnNVQtRWRQVXRaLU9JSE9kZlpuZzdmUQ?oc=5) - 第一ライフ資産運用経済研究所 (Wed, 18 Nov 2026) [score: 0.125]
-  - [米軍がイラン・ケシム島攻撃 革命防衛隊ミサイル施設に報復 - 時事ドットコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRmRSbXZ6LUNyY3ZXYkJuTkVLbERON3RjbEhwZ1Q3TlhNY3BOb1VqbmRySmV0ZG9nSWhBMENWZkZMc3Y5NDJHZnVLcGxtb2JKZkVpSkYyTERGMFVhczFlbndoNA?oc=5) - 時事ドットコム (Wed, 18 Nov 2026) [score: 0.125]
-  - [【時事クイズ】「スターバックス」日本1号店はどこ？ 小学生もとける一般常識クイズ - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yMzI2YXJ4dXBJY3I5YjFYSE5PdGN1XzR2NU4xd0lGZjk1MGxlcXE4cjBiRWpmeHJCQ0xhZHQ3a194SlU4dm1aZVZ5dkNoU2JncUk4WXlzbEstSW5GNUEydFhVdXh2Uzg?oc=5) - 朝日新聞 (Wed, 18 Nov 2026) [score: 0.125]
-  - [時事通信の「首相も飲酒した」から産経新聞の「飲酒せず」まで1カ月…各紙の報道を並べてわかった、高市首相“G7欠席”の迷走 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBuTld3cU1QbWZqbmJQcG9TVXJQc2tHaFU4M19vdUxQX2o0d3FjX1VuS3ptU0FpUURtWFFoVUpuUUZyUFc3YWxvaTcxZHRkZ0VvQjB5QUdZcFBZdS0yX2hiNE93cE9VYlNrZVNFOWU0bFE4RHZhS2xZdVV2b2l0WlU?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[来年のLDP着手でもフリントシャーが「無法地帯」にはならず](https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3JLcHhUVEtROXQ0SE5uTlI0Y1V5U00wblIyTGh2d3FtbGRyRm40QVpFNDhTenF1TUtvX3FDdGNoTXFLSHJ3clo0cWI4R3p6aFNEMWxob05ueVdlVHk3Y3AtQmNhSEVoQTZCYlg5ZHNXZGhfQURUY1dMTWxVaEVabWZOT1dBcEw5N1F3M3J4SWt1UkVQWjdIMGZ0WU5manFiaUE0?oc=5)** - Wrexham and Flintshire News, Sport, Events | The Leader (2026-11-18T13:41) [score: 0.4]
-    - 原題: Starting LDP work next year won't make Flintshire county a planning Wild West
-    - 要約: 英ウェールズのフリントシャー県で、地域開発計画(LDP)の作業を来年始めても開発許可が無秩序になることはない、と地元紙が報じている。
-  - **[私たちの仕事を「機械可読」にすべきなのか](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVhVNHQtcDZIV3VfeTdRbjZDaW04bnE0c09zZHNWekhCNjJzdWM5UFBmTUxtRWdJNk9NSnoxMlQ2QTgwM3hMS05wMTdWNDhRSUtvaFI4b3BsRlFBZ1lQS2NycXVSQlI0dFNlWG5aTEs2aVB1LWRmZGFYbkQwWjk2cExvNU8?oc=5)** - Financial Times (2026-11-17T05:03) [score: 0.382]
+  - **[私たちの仕事を「機械可読」にすべきなのか](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVhVNHQtcDZIV3VfeTdRbjZDaW04bnE0c09zZHNWekhCNjJzdWM5UFBmTUxtRWdJNk9NSnoxMlQ2QTgwM3hMS05wMTdWNDhRSUtvaFI4b3BsRlFBZ1lQS2NycXVSQlI0dFNlWG5aTEs2aVB1LWRmZGFYbkQwWjk2cExvNU8?oc=5)** - Financial Times (2026-11-17T05:03) [score: 0.356]
     - 原題: Do we really want to make our work machine-readable?
     - 要約: フィナンシャル・タイムズが、仕事の成果物を機械が読み取れる形式にすることの是非を論じる記事を掲載している。
-  - **[ポチェッティーノはマンUで成功できるか　英紙が論評](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUMzVXplbnVxSEFUN2ZkNDBwUUsyRHlwbENDQXBBc2hQdHk0NkZEM1c3ZHZHMVM1YWMtX0JkcE5rR2ZHbUljT21KdTFIYnN6Q0pHbi1pRmVxN2dja3M5clhQZkd1dVd4MlJPVGVVOTJtUXlJdE9BV18tbWFRRjdNeS1fVE5DQmhYSUlsN1hsQ1dKLUdxRlJBZjB4d3ZHcTA2QWx4Q3NwVVpibFU?oc=5)** - The Guardian (2026-11-11T21:10) [score: 0.24]
-    - 原題: Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay
-    - 要約: 英ガーディアンのコラムニスト、バーニー・ロネイ氏が、迷走する両者の「出会い」としてポチェッティーノ監督とマンチェスター・ユナイテッドの相性を論じている。
-  - **[中南米の巨大刑務所、エルサルバドル方式は機能するか](https://www.dw.com/en/latin-america-s-mega-prisons-can-el-salvador-s-model-work/a-79973524?maca=en-rss-en-world-4025-rdf)** - DW (2026-11-18T10:45) [score: 0.2]
-    - 原題: Latin America's mega-prisons: Can El Salvador's model work?
-    - 要約: エルサルバドルの巨大刑務所が、組織犯罪対策を進める中南米各国の手本になっているとDWが報道。専門家はその有効性や持続性、人権との両立に疑問を投げかけているという。
-  - **[ジェフリーズ氏、党内左派の反対を一蹴「共に取り組む」](https://www.foxnews.com/politics/jeffries-brushes-off-opposition-far-left-dems-voted-no-work-together)** - Fox News (2026-11-18T14:35) [score: 0.2]
-    - 原題: Jeffries brushes off opposition from far-left Dems who voted no: 'We’re going to work together'
-    - 要約: 米下院のジェフリーズ民主党院内総務が、党内の議長候補指名を獲得。国民皆保険やICE、ガザ問題を理由に民主党議員11人が反対したが、同氏は協力していくと述べたとFOXが報じた。
+  - **[男女賃金格差 フランスの女性、今日から「ただ働き」](https://www.france24.com/en/gender-pay-gap-french-women-work-for-free-from-today)** - France 24 (2026-11-19T15:24) [score: 0.3]
+    - 原題: Gender pay gap: French women work "for free” from today
+    - 要約: ユーロスタットによると欧州の男女賃金格差は2016年の15.1%から2024年に11.1%へ縮小したが、依然残るとFrance24が報じている。フランスでは11月19日午前10時51分から女性が象徴的に「無償労働」に入り、このペースでは平等達成は2062年になるという。
+  - **[握手と目線の作法 就職に備える英国の授業](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CWGMxMjNiRk9tNm1fOExpeDFfNHVGR0FYbmhaSkNMeThaUnlpSXViTlA0VkdDOU9vbU5xMHVLeHlRTHdwWUxaMlQtRjlvZEdBMGQ5S0U0OHFfRnMtNXc?oc=5)** - BBC (2026-11-15T00:05) [score: 0.297]
+    - 原題: How to shake hands and make eye contact - the lessons preparing pupils for the world of work
+    - 要約: 英BBCが、握手の仕方や目を合わせる方法など、生徒を社会・職業生活に備えさせる学校の授業を取り上げている。
+  - **[「労働者を一人作るのにいくらかかるか」](https://news.google.com/rss/articles/CBMidkFVX3lxTE5OSklmVDBXcFMyOWJsQ3QtWEh0b2xCWXFIZ2ZUT19Ka1dmYjBSaTdOc3hUOWRBNGZhSDhYWm9XNlZOalJGMU5kaF8xcWdOX0plQ2dlVXBKdU5peWR6NlQ2S3AyRS04blNVMmVvQURyV21wamdRdFE?oc=5)** - Exponential View | Azeem Azhar (2026-11-14T07:27) [score: 0.278]
+    - 原題: 🔮 What does it cost to make a worker?
+    - 要約: ニュースレター「Exponential View」(アジーム・アズハー氏)が、労働力を生み出すコストというテーマを取り上げている。
+  - **[インドの宗教構成 ピュー新調査が示すヒンドゥーとイスラム](https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss)** - BBC News (2026-11-19T00:38) [score: 0.2]
+    - 原題: India's religious make-up - what a new Pew study says about Hindus and Muslims
+    - 要約: BBCは、米調査機関ピュー・リサーチ・センターの新調査として、インドは今後もヒンドゥー教徒が多数を占める一方、イスラム教徒の人口はより速く増加すると予測されていると報じている。
 
 #### 動画: [ハリー・ポッターの新スネイプ役パーパ･エシエドゥが､物議を醸したキャスティングに対する反発についに本音…【すみあお時事】](https://www.youtube.com/watch?v=E6O6tFIFXHQ)
-- 公開日: 2026-11-06 / 再生数: 1,154 / 高評価: 27 / 視聴者関心度: x0.97
+- 公開日: 2026-11-06 / 再生数: 1,155 / 高評価: 27 / 視聴者関心度: x0.94
 - キーワード: すみあお時事, スネイプ, ハリー, ポッター, パーパ, エシエドゥ, 物議, キャスティング
 - 英訳キーワード: Severus Snape, Harry, Potter, Casting
 - 国内の関連ニュース:
-  - [ドラマ版「ハリー・ポッター」スネイプ役への中傷、ショーランナーが非難（映画.com） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5kcklQS3VKWmxjV1ZZTWhNRl8yckxQMEVULVF4MlRodWpzRy1XVmZaR00tb2MzcXZHZTFXdGtobnB5bmFDanNINEVNRjBETExKLWZMeXFMdnBsR3VFdDRINXRYR3R3UXhqeHVsM1EwS1ZiSTJiSXljUEZmTnQ2RVU?oc=5) - Yahoo!ニュース (Thu, 12 Nov 2026) [score: 0.375]
+  - [JR九州×「ハリー・ポッター」コラボ列車の出発式（KBC九州朝日放送） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE43WHB2aVctU2ZlUkpwXzY3X3lpdW9SaE9VQTJkdU1rZTg0Ti1naFBNblloVC1MVVNLeUZDWjQwZzhuc0NRaHFBUmNnOUFHVUd0RnNRWXNERk1pSWpQUEdDdWQzd3duWWsyZjJYQXJib2JYUTRqUDVLMDZGSE5mRzQ?oc=5) - Yahoo!ニュース (Sat, 14 Nov 2026) [score: 0.25]
   - [『ハリー・ポッターと賢者の石』映画公開25周年記念「Harry Potter Magic Christmas～魔法の贈り物～ by LOFT」開催 11月20日より - cinemacafe.net](https://news.google.com/rss/articles/CBMiaEFVX3lxTE42UUw2alFEci0zQlZVWktvdlBkMFp6b0VZeU9vOXpXSnFYOGhRVWVtU0ItaEl3eDdGZjR3RE5DTXVISV9KNEV1THdHdEpOSzAtNnd0UUphT0Ftay1IN1hyZnNwUEFpdzIw?oc=5) - cinemacafe.net (Sat, 14 Nov 2026) [score: 0.25]
   - [【007】「オデュッセイア」「ハリー・ポッター」の俳優がジェームズ・ボンド役に！ - テレ朝NEWS](https://news.google.com/rss/articles/CBMicEFVX3lxTE5HSkUxakpsMHBEbkxOcnlFTExuNkQxQUtLejBaOEx6MFpxU1VjcEtXTEdLajZYNEswRFpaaG1yV2ZTUGMzeXU4cXdqVWEyWVhCa1E0RE9LaE94TUJyVlRQMjdTMmZ5VkdDSndhYUhtRTc?oc=5) - テレ朝NEWS (Tue, 17 Nov 2026) [score: 0.25]
   - [丸ビルに「ハリー・ポッター」ツリー登場 丸の内が魔法の世界に スタンプラリーも開催 - オリコンニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zcXVHX1ZVZlZ5QWZCa0Z3YUVkWE5CcXBNTVBTS3I1OEtoaFFhMTJfSnlzUm1GTnFJTnZZQ1RVVHNqaDZTOTRyVDM4SEdyazh0Qm1iWTF3?oc=5) - オリコンニュース (Sat, 14 Nov 2026) [score: 0.25]
   - [JR九州×「ハリー・ポッター」コラボ列車の出発式｜KBCニュース - KBC九州朝日放送](https://news.google.com/rss/articles/CBMibkFVX3lxTE8xQ3FaN2h6ZFoyTmtVUXRZbm1Qd0JNNWpUUy1yMmV5OTVkZDdVcklSN0FpZVA0d3FWUHdWVmdPRjVsc0FhQ2lTU1hQV2JMemIwVEpCZURIdzB3cGZ4eS1ObUpSVnE1STJnS0xaUXNn?oc=5) - KBC九州朝日放送 (Sat, 14 Nov 2026) [score: 0.25]
 - 海外の関連ニュース:
-  - **[「ハリー・ポッター」2027年に新作2冊で復活](https://news.google.com/rss/articles/CBMif0FVX3lxTFB0RHJlcEZXdm5OdUV4a25ZTENFakdTUC1IeWtwQXdJYi1TSUNrQjMtY0lpcDZwOEhkUDd0LWhscE5fb18xdk5henFzNnhKQWdteHZHaXk4Uzc2VzFVY3ZEWm1xc3pFcmkySWMta211VjVUX0RUWDFEZGxuM003Vkk?oc=5)** - Collider (2026-11-17T21:17) [score: 0.5]
-    - 原題: Harry Potter Officially Returns in 2027 With 2 New Books
-    - 要約: 人気シリーズ「ハリー・ポッター」が2027年に新たな書籍2冊で正式に復活するとColliderが報じている。
-  - **[「ファンタビ」はポッター世界をどう広げ、何が足りなかったのか](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGVPUjBNYmZ6RDh1VVpCMDM3VjB2TlZkUW11N0tLY00zWE9fRzVYZ2xzem1UNHdRcE1WeWhjdENGMm4xNXJEb3NtX0k2elFfUjFFTDMycmlybXBWb3R4a2t6cHIyY05ITVVaVnM4LXdDSXg5TTNfN2RpRUxDLTdDVWczakRvaTEwb0VkTmdwSDltT2xwTi05ZjJCdVpVbFdUNDl5aFBkRHRrWl9Mc3piZzlR?oc=5)** - SYFY (2026-11-18T20:47) [score: 0.5]
-    - 原題: How Fantastic Beasts Expanded The Harry Potter Universe, But Fell Short Of Its Potential
-    - 要約: 映画「ファンタスティック・ビースト」シリーズがハリー・ポッターの世界観をどう拡張しつつ、その可能性を生かしきれなかったかをSYFYが論じている。
-  - **[ハリポタから高慢と偏見まで、12月の必見ドラマ10選](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSktTQVNRWGh5THRwMVp4cldjR0JPS3ozQTdxU2xUZmxHZTJTZDhGeXVBaEVJWG80TlRBUGpOS1VoNE9hRGhSUzJBUDAxMjVUemdSZHRTckUxenN5eFN2bGlqS3ZUczcwTTVKY3RHLWFtYkxmSFY3NDJiQTYzUW9IMFlLai01emxicnBDbC1jSWRiakFFRFE?oc=5)** - BBC (2026-11-18T10:36) [score: 0.5]
-    - 原題: Harry Potter to Pride and Prejudice: 10 of the best TV shows to watch this December
-    - 要約: BBCが、今年12月に見るべきテレビ番組10作品を紹介。「ハリー・ポッター」や「高慢と偏見」などが挙げられている。
-  - **[ハリポタ旧キャストがHBO新シリーズについて語ったこと](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2NMVkJCSEo5U3paeXFhbHpLLTMwYTdmSV9aRWprODh2WGNUSm9DQVg3OU5rYS1SRmZGU2taU2o1UmtDU2NiRlZyT2xJWW90OFBfQ1FfaGhEZXBfRkFza3NyclNvUWtmRWNxMWdTODM1c3NXRm5hRHRIcEJZSHp0VTNVNkgxUnNi?oc=5)** - Entertainment Weekly (2026-11-18T12:30) [score: 0.5]
-    - 原題: What the original ‘Harry Potter’ cast has said about HBO’s new series
-    - 要約: 映画版「ハリー・ポッター」のオリジナルキャストが、HBOの新ドラマシリーズについて語った発言をEntertainment Weeklyがまとめている。
-  - **[ハリー・ポッターが氷の世界に、テキサスのクリスマス催事](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2ZvNnJON3Rvd1hyWHd5aEt3b2RjTVdseFVnYlBJNG41MUV6anl4OHFuSk9sNjhaUVJuY0FsZmdyU0RkeW9ZNlF5dVdzZVZlUy1RM0E1UGxPeE1FZy1QQUd1Y216aFlVbDFQV3RwV1JOZ21jeEVUWTl3MFhFRlNJOUVXWmVqbVRLRVItaHB0SE84VUhzOTdINWY0SzVYb09peWFjZlRIQmE0ZFp2MzhSbjRLZC1WbnpJUHAwRktwekk?oc=5)** - KEYE (2026-11-18T20:02) [score: 0.5]
-    - 原題: Road Trippin': Harry Potter takes over ice! at Gaylord Texan's Lone Star Christmas
-    - 要約: 米テキサス州のゲイロード・テキサンで開催されるクリスマス企画「ICE!」がハリー・ポッターをテーマにしていると、地元局KEYEが伝えている。
+  - **[ニコラ・コクラン、HBO版ハリポタ「絶対に出ない」](https://boundingintocomics.com/movies/movie-news/nicola-coughlan-wont-watch-hbos-harry-potter-series-i-would-never-be-in-it)** - Bounding into comics (2026-11-18T23:39) [score: 0.5]
+    - 原題: Nicola Coughlan won’t watch HBO’s Harry Potter series: ‘I would never be in it’
+    - 要約: 女優ニコラ・コクランが、J.K.ローリングを理由にHBOの『ハリー・ポッター』シリーズを見ないし出演もしないと語ったと報じられた。同作は12月25日に配信開始予定。
+  - **[コクラン、ローリング理由にHBO版ハリポタ視聴拒否](https://thatparkplace.com/nicola-coughlan-wont-watch-hbo-harry-potter-series/)** - That park place (2026-11-18T23:39) [score: 0.5]
+    - 原題: Nicola Coughlan Says She Won’t Watch HBO’s Harry Potter Series Over J.K. Rowling
+    - 要約: ニコラ・コクランがJ.K.ローリングを理由にHBOの『ハリー・ポッター』シリーズを視聴せず、出演もしないと発言したと報じられている。作品は12月25日に公開予定。
+  - **[HBO版『ハリー・ポッター』でもっと活躍してほしい5人のキャラ](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdzQxOUtMWFA4TENTSGxHTFhtd1pDaTFhb281T3IyQURvU1h2YVZCaXMxd2RXcEQwb2lwekpiT1Vic0psSXNhLU9tZTdRSEVVNTVMaHZodlZtQXRWU2NBdzBJOG94di1jVWlfNmRBRjFSenVsZEppN18xUlc0bG1FUktNZU9ZVnBZMjN3bTRFWHNnWFU?oc=5)** - TVLine (2026-11-18T22:12) [score: 0.5]
+    - 原題: 5 Harry Potter Characters Who Deserve Bigger Roles In The HBO TV Series
+    - 要約: 米TVLineが、HBOのドラマ版『ハリー・ポッター』でより大きな役割を与えられるべき5人の登場人物を挙げた記事を掲載している。
+  - **[骨董の門がネットで嘲笑され「ハリポタ」ドラマの仕事に](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yZ3hhRDZhbl9OUEJIcjRSMHRGeXhEU0kxaHlSTlNqYWM5RE1yVERQZzVlN09iUnlGWUc1WEVvYjYwY2FsUmN6anZ2ZW5LdUJYVkVFLVFkNzBUa28?oc=5)** - BBC (2026-11-19T06:39) [score: 0.5]
+    - 原題: How online mocking of antique gates led to a Harry Potter TV opportunity
+    - 要約: BBCは、アンティークの門がオンラインで嘲笑されたことが、結果的にハリー・ポッターのテレビシリーズの仕事につながった経緯を伝えている。
+  - **[Wild、ハリー・ポッター着想の限定コレクション発表](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGZIM1NYUU96T0pweVQ2MjlvazYwS2xxeW1BSXltMTJkbXBfazlLUEFWbTQ4NHVTRldHVGtRVXh1Z2VoaW00blBrN085VHdCTWpiQ25tZ3hfdGM1SDM5bHA1WnBXUERUV0EzZ3NwaEdqWU1fT0c1ejk5Y1NVUm9DV084aENaaFotRUdmaHNaU0VLNHYyWjZFS29mZW1CdVNDRkE?oc=5)** - Beauty Magazine (2026-11-19T14:18) [score: 0.5]
+    - 原題: Wild reveals limited-edition Harry Potter-inspired collection
+    - 要約: ブランド「Wild」がハリー・ポッターに着想を得た数量限定コレクションを発表したと、Beauty Magazineが報じている。
 
 #### 動画: [【DC大誤算?】｢クレイフェイス｣が｢スーパーガール｣に連敗…ハロウィン2週目の"答え合わせ"で判明した意外な結末【すみあお時事】](https://www.youtube.com/watch?v=8oKMoEm_fZg)
-- 公開日: 2026-11-04 / 再生数: 1,858 / 高評価: 43 / 視聴者関心度: x1.56
+- 公開日: 2026-11-04 / 再生数: 1,862 / 高評価: 43 / 視聴者関心度: x1.52
 - キーワード: すみあお時事, クレイフェイス, DC, スーパーガール, ハロウィン, 大誤算, 連敗, 週目
 - 英訳キーワード: Clayface, DC, Supergirl, Halloween
-- 視聴者コメントの頻出語: 映画, 制作費, ヒロイン, ホラー, クレイフェイス, 粘土顔, 超娘, 記事, 視点, 一見
-- 国内の関連ニュース:
-  - [ジェームズ・ガン「正真正銘のホラー作品」 DC映画『クレイフェイス』顔を失った俳優が怪物になるまで - 山陽新聞](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRlRvVS1kUDhOczNrRzNWb1lDcmJvZTR3aTVBaDZldkh1UEhVVDFBTzlPNHZPWWZ5S1Z5OGxNblg2VXlEQmtSZmJXQnR5cWQxczR3WG9BVnRvY0ZsWFZLNzhhTDQweF82YnVHYWFOWmIyal9Vbk9JNm9SU1JudVFQdW43c3FWaEFBa2JkN1ZYTjkzazFSb1BGdnlSdXM0cmE2WVctQVFMZVpEWmMxOXNBa1lpeGlLLV9vWmxVenkxR1Y0U0ljYVMtWVlCOHFoUWZIRmtTanhRNWtSOGI4cUlrdnhQYlBaQl9UVkxnOUYyb1hpVi12cEVlTzEzc0dZVUU?oc=5) - 山陽新聞 (Tue, 17 Nov 2026) [score: 0.25]
-  - [DCスタジオCEOジェームズ・ガン＆ピーター・サフランが退任 新生DCU発足から4年（クランクイン！） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcHRwQi1kdWhSVEpqblFyVzRZN3BsQ1NiV1ZOMVlkOUYzenJiUXFrbGtrTDhoZ3I1anE3UExVdDFrMVB3WVpBYXJmNkZtVFRvZFBwR2duenpUampfcFNvX0ZaVjczSC1xZkVRN0ZXV0ZWR01lRVJEV2VXMGZRMVk?oc=5) - Yahoo!ニュース (Thu, 12 Nov 2026) [score: 0.125]
-  - [DC-3 飛行機の残骸｜アイスランド南海岸 - Guide to Iceland](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbXJKcnpKbjd5YVVrWUhobnBEbkpfRkZBck5VTFNNb05ra3Jic3VlS1FncUFXWVQ3c3pyeGRxd3NtUWtPSTJYWGJWcUVNTDBxZk5sQlZaMTNlY0lvdjFvUGkzN1JsY2pnWjctZ2dZVDJwRUhrQkN4NlZxSVFPRTdHcmI2TU5CVl9ZcWVlZ3cyN0xwNjRWNWFCZ3dn?oc=5) - Guide to Iceland (Thu, 12 Nov 2026) [score: 0.125]
-  - [日立・三菱電機・東芝…“DCの追い風”で業績好調も、先行きに不安材料あり - ニュースイッチ by 日刊工業新聞社](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5vX2tCajhzcTJIbXJGaHppS3hhaUxaS2FOVVNmMWp2THRacGNlSFVnaXpla0V4aTlPby04SWlCbjlOUQ?oc=5) - ニュースイッチ by 日刊工業新聞社 (Mon, 16 Nov 2026) [score: 0.125]
-  - [［徹底予測2027 半導体］汎用メモリーの価格軟化 パワー半導体のDC需要、5年でEV並みに - 日経ビジネス電子版](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TdFVmOF9mVDlwMHZqc0FhMk9tRHVSYndkU2haaHgyY3BVMWxZUzMyM20xSS1FQllsVExsb2tPLXVEQkVmbE9SYndDc3VwTDJNaGIyQUVTX1paRjdHejRjWWtGcU1tYk0?oc=5) - 日経ビジネス電子版 (Mon, 16 Nov 2026) [score: 0.125]
+- 視聴者コメントの頻出語: 映画, 制作費, ヒロイン, ホラー, クレイフェイス, 粘土顔, 超娘, 記事, 本筋, 後者
 - 海外の関連ニュース:
-  - **[DC映画『クレイフェイス』中国公開へ　記録的スコア](https://cosmicbook.news/clayface-china)** - Cosmic Book News (2026-11-18T13:49) [score: 0.75]
-    - 原題: ‘Clayface’ Heads To China With Record DC Score, Eyes ‘Supergirl’ Box Office
-    - 要約: ワーナー・ブラザースがDCのホラー映画『クレイフェイス』を11月27日に中国で劇場公開すると発表したと報じられている。DC作品として記録的な評価を得ており、『スーパーガール』の興行成績を視野に入れているという。
-  - **[DC「クレイフェイス」、1200館削減も「スーパーガール」超えへ](https://news.google.com/rss/articles/CBMilgFBVV95cUxNQk0zckxnLVRCMUlmc1Z5STQzaFJQdTNmT01fWDBaWW5jblJkU1EwZm1mRlhjTWpNMWNUM2V4MWUzSjQ1V1ZZVE5PeXlIeXdBWDNQMFkzbnZuNDFBVXc5cnRDTWN2U3hsRHJQRU9IQUdTS2JFbHRQUENyVE1DdXZFRG44dDhYT3ZQbGVYaUlwQXlqT3ZZS3c?oc=5)** - Collider (2026-11-16T20:15) [score: 0.698]
+  - **[DC「クレイフェイス」、1200館削減も「スーパーガール」超えへ](https://news.google.com/rss/articles/CBMilgFBVV95cUxNQk0zckxnLVRCMUlmc1Z5STQzaFJQdTNmT01fWDBaWW5jblJkU1EwZm1mRlhjTWpNMWNUM2V4MWUzSjQ1V1ZZVE5PeXlIeXdBWDNQMFkzbnZuNDFBVXc5cnRDTWN2U3hsRHJQRU9IQUdTS2JFbHRQUENyVE1DdXZFRG44dDhYT3ZQbGVYaUlwQXlqT3ZZS3c?oc=5)** - Collider (2026-11-16T20:15) [score: 0.648]
     - 原題: DC's ‘Clayface’ Is Officially Overtaking ‘Supergirl’ After Being Removed From 1,200 Theaters
     - 要約: 米Colliderは、DC映画「クレイフェイス」が上映館を1200館減らされながらも、興行で「スーパーガール」を上回りつつあると伝えている。
-  - **[映画「クレイフェイス」はDCの正しい一歩](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVBkbzh2aFIyTVRJU2V3bGZibHBiUkFyeUp2Wm5qMUlqeTBhamdpczU4WEM5dWRVYms3Z1E4aGJ3bmItaTRaMzFyNFU4WjVNYkdrTU9vOFJoQlVCTHJIWU1fdENvSVJUNEJtdnFSX2FsZXVIRlROTEFubVFxR3VEYkNDOTc?oc=5)** - The Maine Campus (2026-11-16T08:16) [score: 0.449]
+  - **[映画「クレイフェイス」はDCの正しい一歩](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVBkbzh2aFIyTVRJU2V3bGZibHBiUkFyeUp2Wm5qMUlqeTBhamdpczU4WEM5dWRVYms3Z1E4aGJ3bmItaTRaMzFyNFU4WjVNYkdrTU9vOFJoQlVCTHJIWU1fdENvSVJUNEJtdnFSX2FsZXVIRlROTEFubVFxR3VEYkNDOTc?oc=5)** - The Maine Campus (2026-11-16T08:16) [score: 0.416]
     - 原題: “Clayface”: A right step for DC
     - 要約: 学生紙ザ・メイン・キャンパスが、映画「クレイフェイス」をDC作品にとって正しい方向への一歩だと評している。
-  - **[クレイフェイス、DCの新体制に早くも波乱](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTdSNVlBRkx5ZGg3ZDhvY09ReTFyX181RXVxRU9xejVGRGlwc1VMaUZFWmtpVzF5R3Nsdm5WNHBOOWNoU0k2bkJLaUIyakJGN0N6X3NQLTZEMWxSUkVMXzlLOERDSFJ2UEhsTXlsdGZJaTR3d3hxNnpmdGVpRThucjZZMDNpc2hT?oc=5)** - Den of Geek (2026-11-13T17:00) [score: 0.361]
+  - **[DC『クレイフェイス』、ガン降板発表後に600館超で上映打ち切り](https://news.google.com/rss/articles/CBMidEFVX3lxTE5pY3NKZ2tnOHhUTW9VTlpLUGQ3cUlzZklLcWxxQVprVHZSOTlSTzA1OE54eFdRX2FQaTR4U2twNmJRTFBlT1BScXFlcklRQS1HR1ZmTzFxMG1CZXVKQ1JwQ3JRVWhXQzh4Q1BGODdfVUpwNFFV?oc=5)** - ScreenRant (2026-11-14T16:59) [score: 0.361]
+    - 原題: DC’s Clayface Removed From 600+ Theaters After James Gunn Departure Announcement
+    - 要約: ScreenRantによると、ジェームズ・ガン氏の退任発表を受け、DC映画『クレイフェイス』が600以上の劇場で上映を取りやめたと報じられている。
+  - **[クレイフェイス、DCの新体制に早くも波乱](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTdSNVlBRkx5ZGg3ZDhvY09ReTFyX181RXVxRU9xejVGRGlwc1VMaUZFWmtpVzF5R3Nsdm5WNHBOOWNoU0k2bkJLaUIyakJGN0N6X3NQLTZEMWxSUkVMXzlLOERDSFJ2UEhsTXlsdGZJaTR3d3hxNnpmdGVpRThucjZZMDNpc2hT?oc=5)** - Den of Geek (2026-11-13T17:00) [score: 0.328]
     - 原題: Clayface Is Already Creating Trouble for DC’s New Status Quo
     - 要約: DCコミックスの新たな路線において、ヴィラン「クレイフェイス」が早くも問題を引き起こしていると専門メディアが報じている。
-  - **[スーパーガールが交代、DCコミックス新ヒーロー登場](https://news.google.com/rss/articles/CBMieEFVX3lxTE0zcVNkOExMRTFfdXdXSkVSeWFIN1MweWxGdHdvTm5tWnFOd0ljcWY1a21UNWVodXNCT3UyejU1bl9paXVOaTdrdlRCWF92ckFpblhWMDliYUlGMm9vUXhja0lmblNXa3lidnR3MzFGU09sa2Vhcy1CYw?oc=5)** - Comic Book Resources (2026-11-13T00:00) [score: 0.337]
-    - 原題: Supergirl Just Got Replaced: Meet DC Comics' Newest Hero
-    - 要約: DCコミックスでスーパーガールの座が新たなヒーローに引き継がれたと、専門メディアCBRが伝えている。
+  - **[トランプ氏の凱旋門計画、連邦判事が再び差し止め](https://www.foxnews.com/politics/trumps-massive-dc-triumphal-arch-project-dealt-another-blow-federal-judge)** - Fox News (2026-11-19T03:00) [score: 0.25]
+    - 原題: Trump's massive DC triumphal arch project dealt another blow by federal judge
+    - 要約: 連邦判事がワシントンD.C.で計画されるトランプ大統領の凱旋門建設の差し止め命令を延長し、少なくとも12月3日まで工事が保留となったと報じられている。
 
 #### 動画: [数々の物議を醸した伝説的なゲームスタジオ｢BioWare｣閉鎖! ｢Woke原因説｣と｢スター･ウォーズ優先&180億ドル負債説｣浮上!!【すみあお時事】](https://www.youtube.com/watch?v=_4pnw68ZvEs)
-- 公開日: 2026-11-02 / 再生数: 1,463 / 高評価: 35 / 視聴者関心度: x1.23
+- 公開日: 2026-11-02 / 再生数: 1,465 / 高評価: 35 / 視聴者関心度: x1.19
 - キーワード: BioWare, すみあお時事, スター, ウォーズ, ゲームスタジオ, ドル, 閉鎖, 優先
 - 英訳キーワード: BioWare, Star, Game Studio, Dollar
-- 視聴者コメントの頻出語: 大多数, ウオーク, ブス, 妥当, 百合, 美少女, 行き過ぎた, アップ, ゲーマー, テーマ
+- 国内の関連ニュース:
+  - [ダース・ベイダーのライトセーバー、7.8億円で落札 「スター・ウォーズ」関連品で最高額 - CNN](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CVk5hV2pJODFuRWxxY2Frb0lYQjMtVDdmUC1Nc3RxZjR2MEE2SmNmTXdOOC1wYnNlMkhRM0x5ZnhZMlAwS20wY2RZa09CMy1BRWF5MFZUOVZxakFh?oc=5) - CNN (Mon, 16 Nov 2026) [score: 0.25]
+  - [ゼレンスキー氏、スターリンクの制限解除を米国とマスク氏に要請　「歴史の正しい側に立つ」よう訴え - BBC](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GRXZoWWUtNGdiZUFjNFpfSkJ4QmJvcEh2Ml91aGRsMDc5UWxJQ0M5MEtLcEYxYlY2T3ZxT0lyRTNyTXp3MkdzT25Udk9XWHhjeFdvejRNOG9haDhDb3NUcNIBZkFVX3lxTE9WRFhkcFg3ZGZiMkItbVhSTnEtUGRZSHlVY2VaVXRocDlRVkhrUml2eWlNcHJlRmxKYXFHMkItb1F1NUNCLTc4eG5CdkVoUHVlcmVXS25BbmlrSS1QckwweV9KVjRLQQ?oc=5) - BBC (Mon, 16 Nov 2026) [score: 0.125]
+  - [トヨタ「RAV4」がファイブスター賞を獲得！ ～2026年度自動車アセスメントによる評価結果公表第２弾～ - 国土交通省](https://news.google.com/rss/articles/CBMibEFVX3lxTE5mcjRhc1djM1dMTGhQTVFBUUFQQ2FoVzhKRk5pdm0zakFtcm4xV0hadWJaMEkzckdLb2I5cTRQeGk5aTNfT29uOE5td25qNnR6VFFITkkyQ0lfMkhDRFdrWlBzUXFRMWdRdFo2UA?oc=5) - 国土交通省 (Tue, 17 Nov 2026) [score: 0.125]
+  - [20261118_7 | 試合レポート - スターダム✪STARDOM](https://news.google.com/rss/articles/CBMiVEFVX3lxTE50Q0J3WnBtNGVuWUQtbWpnWVBMOEYxUHN3ZXVzLTRwX3JMR3dpbzFBQWhyemN5azdqVExLVzZIUjFjUmFoX29jaFNZNVk0c2V4SUtqcw?oc=5) - スターダム✪STARDOM (Wed, 18 Nov 2026) [score: 0.125]
+  - [乃木坂46×カップスター 新ドラマ「姉といつまでも」第十四話「末っ子の家出」公開！賀喜遥香・五百城茉央・川端晃菜がゲスト出演！ - 乃木坂46公式サイト](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LXzJsNmhRaGJKOTJiRGRGRXNsZ3V4RkpmYThlX0E5VFB1QmFhSnpjQ1c5a25jN3RjRmJDSHl3ZkpWdWRDUGlSXzF5TGR5YzBfWk1BZzEtWWxjVHFFOGpvRQ?oc=5) - 乃木坂46公式サイト (Thu, 19 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[スコット・スピードマン、『ランドマン』S3にゲスト出演](https://deadline.com/2026/11/scott-speedman-cast-landman-season-3-1237227261/)** - Deadline (2026-11-18T19:00) [score: 0.25]
-    - 原題: Scott Speedman To Guest Star On ‘Landman’ Season 3
-    - 要約: Paramount+のドラマ『ランドマン』シーズン3に、俳優スコット・スピードマンがゲスト出演すると報じられた。役柄の詳細は非公開で、現在テキサス州で撮影が進行中とされる。テイラー・シェリダンらが共同制作した西テキサス舞台の作品。
-  - **[次期ボンド相手役候補19人、ハンター・シェイファーら](https://boundingintocomics.com/movies/movie-news/variety-names-hunter-schafer-among-19-picks-to-star-opposite-robert-pattinsons-bond)** - Bounding into comics (2026-11-18T12:30) [score: 0.25]
-    - 原題: Variety names Hunter Schafer among 19 picks to star opposite Robert Pattinson’s Bond
-    - 要約: ロバート・パティンソンが次期ジェームズ・ボンドに決まったばかりの中、米バラエティ誌が共演者候補19人を挙げ、ハンター・シェイファーらを選んだと報じられている。Amazonによる同シリーズ再始動作となる。
-  - **[元大学バスケ花形選手、八百長で禁錮1日の判決](https://www.breitbart.com/sports/2026/11/17/former-college-basketball-star-sentenced-to-one-day-in-prison-for-point-shaving/)** - Breitbart (2026-11-18T03:59) [score: 0.25]
-    - 原題: Former College Basketball Star Sentenced to One Day in Prison for Point-Shaving
-    - 要約: 米ニューオーリンズ大の元バスケットボール有力選手ダイクアビオン・"ジャー"・ショート氏が、得点操作(ポイントシェービング)をめぐり禁錮1日の判決を受けたと報じられた。
-  - **[ヘンプとショーが得点、マンCが敵地で重要な白星](https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss)** - BBC Sport (2026-11-18T20:25) [score: 0.25]
-    - 原題: Hemp and Shaw star as Manchester City get vital win at Hacken
-    - 要約: 女子チャンピオンズリーグで、マンチェスター・シティが스ウェーデンのヘッケンに2-0で勝利。途中出場のローレン・ヘンプとカディジャ・ショーがそろって得点したと報じられている。
-  - **[九州場所の主役は新星・熱海富士](https://www.japantimes.co.jp/sports/2026/11/18/sumo/basho-reports/kyushu-2026-atamifuji/)** - The Japan Times (2026-11-18T17:00) [score: 0.25]
-    - 原題: Rising star Atamifuji has been the story of the Kyushu Basho
-    - 要約: 大相撲九州場所で関脇・熱海富士が近年最高のスタートを切り、初の天皇賜杯獲得、さらには昇進も視野に入る好位置につけているとジャパンタイムズが伝えている。
+  - **[「スター・ウォーズ」ウェールズ語版、カーディフで初上映](https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff)** - The Guardian (2026-11-19T19:33) [score: 0.25]
+    - 原題: ‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff
+    - 要約: 1977年の「スター・ウォーズ」のウェールズ語吹き替え版がカーディフでプレミア上映され、声を担当した俳優マーク・ルイス・ジョーンズらがレッドカーペットに登場したとガーディアンが報じている。ラグビー代表の歴史的勝利に続く文化的な出来事だという。
+  - **[NFL、ラムズのプカ・ナクア選手を3試合出場停止](https://nypost.com/2026/11/19/sports/puka-nacua-suspended-three-games-by-nfl/)** - New York Post (2026-11-19T15:33) [score: 0.25]
+    - 原題: Rams star receiver Puka Nacua suspended 3 games by NFL
+    - 要約: NFLは、ラムズの主力ワイドレシーバー、プカ・ナクア選手を出場停止処分にしたと報じられている。3月に提起された民事訴訟を含む複数のフィールド外の問題を調査した結果だという。
+  - **[メーシーズ感謝祭パレード、ブロードウェイ豪華メドレー](https://deadline.com/2026/11/macys-thanksgiving-parade-all-star-broadway-celebration-1237229216/)** - Deadline (2026-11-19T19:00) [score: 0.25]
+    - 原題: Macy’s Thanksgiving Parade To Feature All-Star Broadway Medley With ‘The Lost Boys’, ‘The Rocky Horror Show’, ‘Schmigadoon!’, ‘Wicked’ & More
+    - 要約: 今年のメーシーズ感謝祭パレードで、「ロスト・ボーイ」「ロッキー・ホラー・ショー」「シュミガドゥーン!」など新作と、「ブック・オブ・モルモン」「シカゴ」「ハミルトン」「ウィキッド」などの人気作が集う10分間のブロードウェイ・メドレーが披露されると報じられている。
+  - **[俳優マーク・ラファロ、ICE予算とAI法案で民主党を批判](https://www.breitbart.com/entertainment/2026/11/18/marvel-star-mark-ruffalo-rages-at-senate-democrats-over-ice-budget-and-ai-bills/)** - Breitbart (2026-11-19T01:45) [score: 0.25]
+    - 原題: Marvel Star Mark Ruffalo Rages at Senate Democrats over ICE Budget and AI Bills
+    - 要約: Breitbartは、マーベル作品で知られる俳優マーク・ラファロが、AIデータセンターとICEの資金を巡る法案を「恐ろしい」と批判し、共和党に譲歩したとして上院民主党指導部を非難していると報じている。
+  - **[『バタリアン』続編にジョニー・ノックスヴィルら出演](https://cosmicbook.news/return-of-the-living-dead-sequel)** - Cosmic Book News (2026-11-19T13:45) [score: 0.25]
+    - 原題: Johnny Knoxville, Sean Gunn And Doug Jones Star In Return Of The Living Dead Sequel
+    - 要約: ゾンビ映画『Return of the Living Dead（バタリアン）』の新作に、『ジャッカス』のジョニー・ノックスヴィルが主演すると報じられた。ショーン・ガン、ダグ・ジョーンズも出演するという。
 
 #### 動画: [｢ナルニア国物語｣大ファンがNetflixに怒りの署名活動! グレタ･ガーウィグの降板を求める嘆願書を提出【すみあお時事】](https://www.youtube.com/watch?v=R8rONEZemaM)
-- 公開日: 2026-11-01 / 再生数: 1,227 / 高評価: 9 / 視聴者関心度: x1.03
+- 公開日: 2026-11-01 / 再生数: 1,229 / 高評価: 9 / 視聴者関心度: x1.0
 - キーワード: 時事, ナルニア, ファン, 国物語, グレタ, ガーウィグ, 降板, 嘆願書
 - 英訳キーワード: Narnia, Fan, Greta
 - 国内の関連ニュース:
-  - [「ファン感謝デー2026」お楽しみ袋販売およびスピードくじ実施について - 阪神タイガース 公式サイト](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mbVFDSFNGcllldTNJNUZmSkJiVEU0RXVOUEZUcU0xWFBmS3VIbGpwU3RKekJGZG5aYUYwQW9wT0l0anFJVm0yenF0NTA5UnkwLUg3Y2RCYkZ4bG45WF9PWG53?oc=5) - 阪神タイガース 公式サイト (Wed, 18 Nov 2026) [score: 0.125]
   - [「ファンフェスタ2026」特製グッズを発売 - 読売巨人軍公式サイト](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzZDRzU1dNa3lqMDF0YjVtYUs2VGVWay02cnFqTFBCdmt5WnN0QmFidm1LYVlQNnBkTUxZZ0JnZ1hRaEt5UW5vMQ?oc=5) - 読売巨人軍公式サイト (Fri, 13 Nov 2026) [score: 0.125]
-  - [【十一日目、十二日目 更新！】ファンクラブ限定！いち早く幕下以下の取組表を公開！ - 大相撲公式ファンクラブ](https://news.google.com/rss/articles/CBMiVEFVX3lxTE10MXUxVk1QWld6SlBOa25fR3ZKY3ZLNUJfZjBHb2VyM1ZPV053NURxWVpCbDBoSTFfMWdwcDBPa3QyT1ZwbnZIRUppRVpZVFU0YW1tWA?oc=5) - 大相撲公式ファンクラブ (Tue, 17 Nov 2026) [score: 0.125]
-  - [NVIDIAファン氏「CEO喜んで復帰」と声明 支持広がり受け - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFB0cGVoR2NmLTJMNmF4ekVEV0tCQ0YtdUJ2RkZwaUZCNURfODFsc0U4TFhWY0ZxaTNmTHhqYk1ZZTFRUURPemc5cm5GQzhSd3FIay11YUhNOUxKNWNPWXlrS3QydlRqcGxsSGM4OQ?oc=5) - 日本経済新聞 (Tue, 17 Nov 2026) [score: 0.125]
-  - [11/21 ファンフェスタ2026 グルメ＆限定メダル情報 - バンテリンドーム ナゴヤ](https://news.google.com/rss/articles/CBMid0FVX3lxTFBvc1VRdXBuMWxQcVVHdWJSSTVRZWxxSHpXSW5Va1NxSXppMExJbUxfLVhhVl80Mk50NURPSkhiUjFnTlowM0I0ajZpNE8zMmJhWXp4VHMyRXA2ZE04UXIzNXN6MFQtYWdUeVFYUnlqZzVHNzBBTzNN?oc=5) - バンテリンドーム ナゴヤ (Mon, 16 Nov 2026) [score: 0.125]
+  - [有馬記念ファン投票スタート - JRA日本中央競馬会](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iUXFUb1JndzNWTENRaDhJaF90YjBUUU5sU2tIUzFBQ1U5Z2VhdVg4a2UzbVRKY2RWMDBwQVFYTHJDQjhFTVdKdjh1V1l0aDVNcEluenRPMUM?oc=5) - JRA日本中央競馬会 (Thu, 19 Nov 2026) [score: 0.125]
+  - [「ファン感謝デー2026」お楽しみ袋販売およびスピードくじ実施について - 阪神タイガース 公式サイト](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mbVFDSFNGcllldTNJNUZmSkJiVEU0RXVOUEZUcU0xWFBmS3VIbGpwU3RKekJGZG5aYUYwQW9wT0l0anFJVm0yenF0NTA5UnkwLUg3Y2RCYkZ4bG45WF9PWG53?oc=5) - 阪神タイガース 公式サイト (Wed, 18 Nov 2026) [score: 0.125]
+  - [【十三日目、十四日目・千秋楽 更新！】ファンクラブ限定！いち早く幕下以下の取組表を公開！ - 大相撲公式ファンクラブ](https://news.google.com/rss/articles/CBMiVEFVX3lxTE10MXUxVk1QWld6SlBOa25fR3ZKY3ZLNUJfZjBHb2VyM1ZPV053NURxWVpCbDBoSTFfMWdwcDBPa3QyT1ZwbnZIRUppRVpZVFU0YW1tWA?oc=5) - 大相撲公式ファンクラブ (Thu, 19 Nov 2026) [score: 0.125]
+  - [【ファン感謝Day2026】 宮川歩己選手プロデュースタンブラー販売のお知らせ - 大分トリニータオフィシャルサイト](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMdm1aMkJxeEVDbVFNS0xPT3M5ZzdVYWtTMFZ1d3NIMm1lTkVHaHk4eXVYc2wyXzZ2MHdrRG1zbldtSER0QzcxWGtZNU5iQTZwMUliRFFKc1RsUzA?oc=5) - 大分トリニータオフィシャルサイト (Thu, 19 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[ドレイク、ラプターズ戦で少年と母に10万ドル贈る](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVFOMzQzUm1MUXhWS2ZQNGRiVWpfNTRUMlczbi1SNUYtQXRVQXFoYlc0UEJZNmo0dThRVVFQV1VNTUdyUTlKWjFubGRUcWtzdjBHY1dnbVNKOWFFMEhUZXZ5Xzk3Ri03QVVacmNobnZaWTVjZVhTV2pJVGZQT3A5SGc2LUg1LWhsUk1wajFR?oc=5)** - NBA.com (2026-11-18T11:27) [score: 0.333]
+  - **[ドレイク、ラプターズ戦で少年と母に10万ドル贈る](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVFOMzQzUm1MUXhWS2ZQNGRiVWpfNTRUMlczbi1SNUYtQXRVQXFoYlc0UEJZNmo0dThRVVFQV1VNTUdyUTlKWjFubGRUcWtzdjBHY1dnbVNKOWFFMEhUZXZ5Xzk3Ri03QVVacmNobnZaWTVjZVhTV2pJVGZQT3A5SGc2LUg1LWhsUk1wajFR?oc=5)** - NBA.com (2026-11-19T00:04) [score: 0.333]
     - 原題: Drake surprises young fan and his mom $100,000 at Raptors game
     - 要約: ラッパーのドレイクが、NBAラプターズの試合会場で若いファンの少年とその母親に10万ドルを贈り驚かせたと報じられた。
-  - **[スプリングスティーンのファンクラブ崩壊、政治支持表明で](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYjBsdVNkQmN3eWFiWW9UX043ZUZsWG5IRFZnaUR6WVZFYWdWLWZGbm5BUUJKdi1PVi1HYmdNSTE4VHAxcXlBWHpVWHNvT0tJNlE2SUtnbVF4UER6ck1KREh6YlhTeEk5Tm84bzBXVjkwUFFqUXA2YzFMZm9JclhuMXVQZ2tpSkktZ1MwckMxUXlPTGoxeTdVX01NTmlVcDU3b0EzTGZRSlJjYzg1bG1HNG5pTW1nMmZqUV9RamY2RkNDNGNCVlZhazlDVmxDZXk4?oc=5)** - Los Angeles Times (2026-11-18T01:18) [score: 0.333]
-    - 原題: Bruce Springsteen fan club crumbles following singer’s endorsement of Abdul El-Sayed
-    - 要約: ブルース・スプリングスティーンがアブドゥル・エルサイード氏を支持したことを受け、ファンクラブが崩壊したとロサンゼルス・タイムズが報じている。
-  - **[ベアーズのファンとパッカーズのファンがバーに](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYktaSTl1YmZyYXlXWUdtODYyYlFCellkcHdWWkZQZFc4VVR1S1RZakVSbDRzeE1yN1VRZmJ6VGhPUkVWTkRxbW5MMVBDUHNmQzRXMFRfelBHUDNYcEl2OGRoRFRXUmJya0IySkdFQmtiWnR2YjFEVGJqWlN6Tno3cl9weDJkbUU?oc=5)** - The Loyola Phoenix (2026-11-18T16:47) [score: 0.333]
-    - 原題: A Bears fan and a Packers fan walk into a bar
-    - 要約: 米ロヨラ・フェニックス紙が、NFLのライバル球団ベアーズとパッカーズのファンをめぐる話題を取り上げている。
-  - **[社説:鹿狩りの季節、消えゆく原野の価値を問う](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmxyRWlGRmk0d3c2QzRJZ3pwaDdVbXJqelozdVE3dExSWF9vVE8wZnBxLVBDd0I3LWxFVVI4Uzl1d1pueVlMYm1qbS1rUG93WTR4WW92bHR6UFhYVkxlaW5WS3VucEtvMHdhcFI0SDlpZWh2UzRhaHRoTEU5UnU4bVp1cmM2eWZqTllKNnIwcmdqQzBySGQ4a0ZRMkk2aEp5dzNPRnN0MXdFY0Nyd0ZQY0laaWcycFNJRVpNUVJpd3lPRlczLXdjRQ?oc=5)** - Kansas Reflector (2026-11-18T09:36) [score: 0.333]
-    - 原題: Opinion: As Kansas hunters fan out to search for deer, how should we value our vanishing wilderness?
-    - 要約: カンザス州で狩猟者が鹿を求めて野山に散るなか、失われつつある原生自然をどう評価すべきかを問う意見記事をカンザス・リフレクターが掲載した。
-  - **[スプリングスティーンのファンクラブ解散、支持表明受け](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGZrT2FwNUdHMmN4X0MwcmUwanVJSnJWMURtc3FOTFAxWUZ3VHFhU2NVVTU3MHgzZnUwTFF1ZkJoUV9rTlVCWHJCNDJyRHFKWmwxd3I1cXg4VlU5WmxmUXhJZklHYnhtanBIcFE3SjN3ckZlZF8xeHFLQ2ZUcXdZSXpCdTFwVmVnV2NQUFA5RDJPa2RKTl9zONIBngFBVV95cUxQcm1PeUxUaldlYzl1ck04Z1FielJOMUtoY0dwOWZzNW9XOVA1SGNqeWFKcDhrYlBBOHhjSkM3Uk43TkVhSWRoR1hCLXRwYmZTOXZFVHpfNnpUbmprcW1RNE44cFpWU1BEVjZRWTAtYl9zNzhqWHpsVnhzWVY2a2tlNVNjYndtTmNPblM1d2lQSWZsZWtUTW00OFZ3WnByZw?oc=5)** - KTLA (2026-11-18T03:28) [score: 0.333]
-    - 原題: Bruce Springsteen fan club disbands after ‘The Boss’ endorses Abdul El-Sayed
-    - 要約: "ボス"ことブルース・スプリングスティーンがアブドゥル・エルサイード氏への支持を表明した後、ファンクラブが解散したとKTLAが報じている。
-
-#### 動画: [米国教育省が｢ハリポタ｣の二次創作キャラ｢マルフォイド｣ミームを採用!?【すみあお時事】](https://www.youtube.com/watch?v=UogtvhSlqYs)
-- 公開日: 2026-10-31 / 再生数: 1,119 / 高評価: 8 / 視聴者関心度: x0.94
-- キーワード: 時事, ハリポタ, マルフォイド, 米国教育省, キャラ, ミーム, 二次創作, 採用
-- 英訳キーワード: Harry Potter, Kyara, Meme
-- 海外の関連ニュース:
-  - **[ニコラ・コクラン、HBO版ハリポタ「見ない」と明言](https://cosmicbook.news/nicola-coughlan-harry-potter)** - Cosmic Book News (2026-11-16T14:07) [score: 0.305]
-    - 原題: Bridgerton Star Nicola Coughlan Refuses to Watch HBO’s Harry Potter Series
-    - 要約: ドラマ「ブリジャートン家」で知られるニコラ・コクランが、HBOの「ハリー・ポッター」シリーズを視聴もせず、出演もしないと語ったと報じられている。
+  - **[R・パティンソンの新ボンド起用、007ファンから反発](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTVXalBEVFhfdUlsNE9rRVJ5RnZFMEZpY29zdE5mRlFjT3pianUyQktZZUZQX1pSUmhFNl9zLURSX0J0NWYtSHpKYVpIV0ltaC1URG5WNUxZZzlHSlFYR2FSQ2pyY091bFZTZUtyLVhGQ2M1WF80MEYtM2kwNFlOM1g4aVlLOTdFTUg5WVF4bkZvWWw2X0dHOFhNcWZuMkN3T1pPekM3TVF3bG94SlRONjA5V2lWV0t6?oc=5)** - Forbes (2026-11-19T02:16) [score: 0.333]
+    - 原題: Robert Pattinson’s James Bond Casting Causes Some 007 Fan Backlash
+    - 要約: フォーブスは、ロバート・パティンソンがジェームズ・ボンド役にキャスティングされたことについて、一部の007ファンから反発が出ていると報じている。
+  - **[米クイズ番組『ジェパディ!』初のファン大会をワシントンで開催](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDhmWjR2ajlXeldwb2ZncHZnVmJWN0lENC1HWTN2TE8wbTNrczhVQldjNWs2UHpkZ1FsNndIcjZBbk9VenRqZUIzdlBsSjl1cnpOeEVjTVZ4Zm4xMTNMdVZkNGFNNTh4RzdFbkcyUVJMSXRCVC1rOEF5ajRzcHBEOG9DVGFzbGlvMnc?oc=5)** - Variety (2026-11-19T17:47) [score: 0.333]
+    - 原題: ‘Jeopardy!’ Sets Inaugural Fan Convention in Washington, D.C.
+    - 要約: 米人気クイズ番組『Jeopardy!』が、初となるファンコンベンションをワシントンD.C.で開催すると報じられた。
+  - **[NFLレイダーズ、熱烈ファンを「年間最優秀ファン」に](https://news.google.com/rss/articles/CBMingFBVV95cUxNaml6R2I5cV90WkQyOVBqZ0EyT0RuSWNMLXVJclVFczd5M2NxRjlYdFhxZzYyZXUtbHhOeU1VakZVbjRhd3pickVQU3B4aFN4eEZpSFZJYXFIS1pHOXFLVEN1WXE4YzloUW1HQjFmY294M3ZiZ2ZESl9wN2pPbXZaYVpCMGVBdkZiRlI4OWEtenRiZFE3SEE3bEUxVktsdw?oc=5)** - Raiders.com (2026-11-19T00:48) [score: 0.333]
+    - 原題: Photos: Raiders surprise Crusader Raider as Raiders Fan of the Year
+    - 要約: NFLのレイダーズが、熱心なファン「クルセイダー・レイダー」をファン・オブ・ザ・イヤーとしてサプライズで表彰したと、球団公式サイトが写真付きで伝えている。
+  - **[ACC王座決定戦のファンフェスにS・マクリーリー出演](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXExZ2o1cVFSVVdOZEktNHZkLXJlQzI0NnlkUDM3X3pYdmxkMHJHYzNLX19QcmU1alFkcGh2dy1kVHdOelcyeldGeXExNnRmMmF5VHhNODdWS0NxS185cVlsVVRJU3dCeFFaUnJSUGYxT1pOUmRwWWk5UzNjSXAzT19fMlpldnVfdUpHMFRjNHBoaGZkb2FmVzkyVHBHWUs5ZUkwLWtlLXpDZk52MDh6LU13?oc=5)** - Atlantic Coast Conference (2026-11-19T16:04) [score: 0.333]
+    - 原題: Scotty McCreery to Headline 2026 ACC Football Championship Game Fan Fest
+    - 要約: 米大学スポーツのACCは、2026年のフットボール選手権試合のファンフェストに歌手スコッティ・マクリーリーがヘッドライナーとして出演すると発表した。
 
 ### プク太の世界時事ニュース (@pukujiji)
 
 #### 動画: [「有名人枠やめろ！」映画『WILDWOOD』スペイン語吹き替えが大炎上！インフルエンサー起用に批判が殺到し、声優3人を“本物の”声優へ交代へ！](https://www.youtube.com/watch?v=mjt8UBDnk6I)
-- 公開日: 2026-11-17 / 再生数: 228,086 / 高評価: 4,896 / 視聴者関心度: x0.61
+- 公開日: 2026-11-17 / 再生数: 257,495 / 高評価: 5,142 / 視聴者関心度: x0.68
 - キーワード: WILDWOOD, 声優, インフルエンサー, 批判, スペイン, 映画, 語吹, 殺到
 - 英訳キーワード: WILDWOOD, Voice acting in Japan, Influencer, Criticism, Spain, Film
 - 国内の関連ニュース:
-  - [独学でつかんだ声優日本一 鶴岡市羽黒高３年・菅原さん、プロも輩出の全国コンテストで最優秀賞（山形新聞） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaDhkRTZoNlpFbElmTFlCZEUyYzNDblNKTnJMd1lPZG9KRE9ubE8zQ2t6UmhtY09zV3FxUlZsNXd6Ml9XSGFxQkZnUUJ0VW9LUjNnNzkteW5pZHprNjZnOFZJOW1MWVVZVmd0Sk00WGVzWjFTMG5pVmJZaFo4M1E?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.125]
+  - [＜至極の吹替体験＞を“確約”する声優陣決定！ 「デューン 砂の惑星PART3」吹替版予告が完成 - 映画.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTE15LWF4Nno2aVNfR25aMVZnZ2U0bnhQRmpfQ2JsUGkweG10LTlWQlNCMWl4VUlfSFk0TDdwVmRZcTZxWk9vbzlVWHln?oc=5) - 映画.com (Thu, 19 Nov 2026) [score: 0.25]
+  - [ゴジラ-0.0出演の人気声優（30）衣装姿を公開し「すぐ気づいた」「飛んでたね」「サザエさん？」「こうやって撮ってたんだ」 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SVkRUd2ZUSERrVkpBcUMwZmxmOEFQckVaZjkzTFZmZnhYMkJnVk8za0tEcXRHUHZaYW9HUGZBMXNNV3k3ZnE4NVVYZF93NC1YNElqNVMxMVhUaVpfRzVhdFNpQm9nXzdFVUFZNnpZY19TekhnZFlGc3hDdUtLbzA?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.125]
   - [日本版声優｜ビリーと魔法のはじまり｜ディズニー公式 - Disney.jp](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ic0tjYU9ncm0wMGdfSGJqQm9SNkJaTTQyWEhqQVJYbGJIYUI3aklxbjhIRkVqOEt1R255blE2YlFMWUZTLVJYdWUyQXBPZWozb2VBWGZsUzhPQW9U?oc=5) - Disney.jp (Mon, 16 Nov 2026) [score: 0.125]
-  - [自社D2Cで実証！売上に直結するナハト流・インフルエンサーマーケの成功法則【月6千件超の新規獲得】 - MarkeZine（マーケジン）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE93TFBhR3psQlRmT3BSYzVPY19BT202Q3lWV0NnS0VzRy1iLUMwZW1XcS13Wm9CeXpXbmJrUzctdWc1alhzNThlQy1peTZOY0s3dWkw?oc=5) - MarkeZine（マーケジン） (Wed, 18 Nov 2026) [score: 0.125]
-  - [声優と夜あそび 水【小野賢章×畠中祐】#24 - ABEMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NREVMR3VuVEtQaEM4Ul9tY0JURmkyZFVwODU1ODlhOUNBWWhjNnZqNHUwNkZ6UlhoYU9QT2NJcHVhb1NiQUZTM3Jqb21ndVpmWFZFOWFKVlRwWjRtVG5MbGdQNHdKa2Nt?oc=5) - ABEMA (Mon, 16 Nov 2026) [score: 0.125]
-  - [井上和彦・速水奨をはじめ、豪華声優陣が日替わりで出演　オリジナル朗読劇『百年の手紙』の上演が決定 - エンタメ特化型情報メディア スパイス](https://news.google.com/rss/articles/CBMiT0FVX3lxTE04QnBBeGUwaEM4R2hRaENaOW5DT3J0Z0ExZTNKTGgzZTlqYkNncXZFcEEySFJwN2VfOE82SmRRYTQzbUN4U0hjMW96YzZ6LVXSAVRBVV95cUxPaWpUdUZubjlDSHRnUXJ2c2I0T2VZT21KUGk5RldPNTdaOENYcDVlcTFVQzF1WHJ0aVBzMzZmc1oxcUE5eVV2ODZJazZLQXVIMlNvX3Y?oc=5) - エンタメ特化型情報メディア スパイス (Tue, 17 Nov 2026) [score: 0.125]
+  - [【 ALS闘病 】 声優・津久井教生さん 体調不良からの回復途上も「日常に戻るにはかかりそう」 「生きる力を増やしたい」と前向きな思いをつづる 【 ニャンちゅう 】 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wSUdoMjFSazduckx1TFFueXJfdE1adm9ZOXR0cDNRS3R6bnZfYVRzb3Z5Y0FuMnBMMGpUQjNobGtDbFhFRHFqZGxFRnF2eWduamFQclV4Yw?oc=5) - TBS NEWS DIG (Wed, 18 Nov 2026) [score: 0.125]
+  - [【11/24配信】声優・前島亜美さんがアクションアドベンチャー『ゼルダの伝説 時のオカリナ』をプレイ。ゲーム実況番組『月刊あみ通』を配信 - ファミ通](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlbGU2aU40dHd0Q0FMLTJZbEJKTHQ3cmdTQi02UHVCQ3FtMnh6TUhFQmR2Vng0RGk4QnBnY1VHeHdVUWpOaGxKdkV5OGstNmhsQW9FRnVvUQ?oc=5) - ファミ通 (Wed, 18 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[映画『Wildwood』、10年以上かけた制作](https://news.google.com/rss/articles/CBMiywFBVV95cUxOLThRNEFuOGZGX1ZjSzRnaHU4LWVYcC1FeEdDTTVpekNlX1ZtcVd2RVJtS0VIc1ZmbnJpaEFCZnJDVUdpQzl6NEwxZzBFNHpnbnVtMlF3ZjBfU1Fod2hpOFNfcEdvcDBBMjhVaWdBMTd6c3hzLVJqSm5uemRFOXc2N2lsYk9MOHQycjltbTduT001QzVmc1V0Mnp2TEtrU1E1eUl5eU9GcklCOTExV0RYZndiVjBnbk5md0UyTlowTkU2ZEYzU0ZQMlBnNA?oc=5)** - The Gateway (2026-11-16T17:00) [score: 0.307]
-    - 原題: "Wildwood": a film over a decade in the making
-    - 要約: 10年以上の歳月をかけて制作された映画『Wildwood』について、The Gatewayが伝えている。
-  - **[映画『ワイルドウッド』制作陣、現実からの着想語る](https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzdnMmZIb3hlTU1PZ0ZKNzRyTlpZVnBkd0FHV2Q2QzEydUVuR1hkd0hhUE1NaWxjM0ZqOWR3aEtjUU1kaWJoTFlXeXZBTzMzSU50SXV2QTJkdHc4d3FsSUxNNVpzcDNQUGJPV1JGZGpjMGpVVHd3UTcyN3pUZlZTaG5nRXhtYWFadnhkZ0FB?oc=5)** - Deadline (2026-11-14T21:33) [score: 0.267]
+  - **[アダム・サベージ、LAIKAの鳥の人形アニメ制作を取材](https://news.google.com/rss/articles/CBMia0FVX3lxTE1qZ3Y3ektWcW1abm9UUmd2R1ZaNGpySnhpdVdtMUs4S2w0MkprWFFwZDhjdDUwRjRBQ0RRVUF3aUFsSkwySW5xaF9idkU5aXhBMUNVUGlyeklxd2dNWWlxazR1dlgwenNGTUM4?oc=5)** - Laughing Squid (2026-11-19T15:19) [score: 0.333]
+    - 原題: Adam Savage Learns How LAIKA Studios Made Realistic Stop Motion Birds for the Film 'Wildwood'
+    - 要約: 元『怪しい伝説』のアダム・サベージが、LAIKAスタジオを訪ね、映画『Wildwood』向けのリアルなストップモーションの鳥がどう作られたかを学ぶ様子が紹介されている。
+  - **[映画『ワイルドウッド』制作陣、現実からの着想語る](https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzdnMmZIb3hlTU1PZ0ZKNzRyTlpZVnBkd0FHV2Q2QzEydUVuR1hkd0hhUE1NaWxjM0ZqOWR3aEtjUU1kaWJoTFlXeXZBTzMzSU50SXV2QTJkdHc4d3FsSUxNNVpzcDNQUGJPV1JGZGpjMGpVVHd3UTcyN3pUZlZTaG5nRXhtYWFadnhkZ0FB?oc=5)** - Deadline (2026-11-14T21:33) [score: 0.245]
     - 原題: ‘Wildwood’ Filmmakers On Real-World Inspirations For The Film
     - 要約: 映画『ワイルドウッド』の制作陣が、作品の着想源となった現実の出来事について語ったと米芸能メディアのデッドラインが伝えている。
-  - **[インフルエンサーが撮影でライオン放つ、10代死亡](https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3FMamxsYmZMUDFqSFNiVDlubkh1N0Z1V3lGS0R3SGhxNzhvMGdZS0VlaVBnWUlYNjZ3ZXdoY05HcndvVzMxM1Q2bjlvYURpdHBGQ2NsSW1qRlJ1MElMZlU2NkIxekotOXhxajRILXM2VUxSb3B0N1RLZlZGOEhTYjhjX2g1eUdjNDFkSTdzOW90UlU?oc=5)** - The Independent (2026-11-13T12:48) [score: 0.237]
+  - **[インフルエンサーが撮影でライオン放つ、10代死亡](https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3FMamxsYmZMUDFqSFNiVDlubkh1N0Z1V3lGS0R3SGhxNzhvMGdZS0VlaVBnWUlYNjZ3ZXdoY05HcndvVzMxM1Q2bjlvYURpdHBGQ2NsSW1qRlJ1MElMZlU2NkIxekotOXhxajRILXM2VUxSb3B0N1RLZlZGOEhTYjhjX2g1eUdjNDFkSTdzOW90UlU?oc=5)** - The Independent (2026-11-13T12:48) [score: 0.215]
     - 原題: Teenager dies after influencer ‘lets lion out of cage to film content’
     - 要約: インフルエンサーが動画撮影のためライオンをおりから出したとされ、10代の若者が死亡したと英インディペンデント紙が報じている。
-  - **[スペイン総選挙、注目の顔ぶれは](https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss)** - BBC News (2026-11-18T11:44) [score: 0.167]
-    - 原題: Who to watch in Spain's election race
-    - 要約: スペインで11月29日に投票が行われる。社会労働党主導の政権が8年続いた後、多くの世論調査で保守勢力が先行しているとBBCが伝えている。
-  - **[極右インフルエンサー、ディアボーン市議会から退場](https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss)** - Al Jazeera (2026-11-18T17:50) [score: 0.167]
-    - 原題: Far-right influencer Jake Lang kicked out of Dearborn council meeting
-    - 要約: 極右インフルエンサーのジェイク・ラング氏が、米ミシガン州ディアボーン市議会の会合を妨害したとして退場させられたとアルジャジーラが報じた。
+  - **[ドーハ映画祭が開幕、地政学的混乱の中で「不屈」訴え](https://variety.com/2026/film/global/doha-film-festival-resilience-geopolitical-turmoil-1236953326/)** - Variety (2026-11-19T19:58) [score: 0.167]
+    - 原題: Doha Film Festival Opens With Message of Resilience Amongst Geopolitical Turmoil: Filmmaking ‘Brings Humanity to the Headlines’
+    - 要約: カタールのドーハ映画祭が2回目の開催を迎え、サラ・イシャク監督『The Station』の上映で開幕。地域情勢の緊迫で開催が危ぶまれる中、映画は「見出しに人間性をもたらす」とのメッセージが示された。
+  - **[『ロッキー』50周年、製作者と新作キャストが集結](https://www.hollywoodreporter.com/movies/movie-news/i-play-rocky-stars-rocky-producer-50th-anniversary-1236758733/)** - The Hollywood Reporter (2026-11-19T18:45) [score: 0.167]
+    - 原題: ‘I Play Rocky’ Stars Unite With Original ‘Rocky’ Producer for Film’s 50th Anniversary Celebration
+    - 要約: 1976年の『ロッキー』の製作者アーウィン・ウィンクラーが、新作『I Play Rocky』のアンソニー・イッポリート、アナソフィア・ロブ、ピーター・ファレリー監督とアカデミー博物館のイベントで共演したと報じられた。
 
 #### 動画: [地獄の裁判から7年...ジョニーデップが興行収入ランキング1位に返り咲き！新作映画「クリスマス・キャロル 3人のゴーストたち」の評価が観客と批評家で完全に割れてしまう](https://www.youtube.com/watch?v=pKAFC2zFU00)
-- 公開日: 2026-11-16 / 再生数: 275,124 / 高評価: 5,307 / 視聴者関心度: x0.73
+- 公開日: 2026-11-16 / 再生数: 290,244 / 高評価: 5,411 / 視聴者関心度: x0.77
 - キーワード: ジョニーデップ, ランキング, クリスマス, キャロル, ゴースト, 裁判, 地獄, 興行収入
 - 英訳キーワード: Johnny Depp, Ranking, Christmas, Carol, Ghost, Court decision, Hell
 - 国内の関連ニュース:
   - [ジョニー・デップ主演「クリスマス・キャロル」が初登場1位！ 8年ぶりのメジャー作品でハリウッド本格復帰【全米映画ランキング】 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE90bEZiY1hzMk56b0ZMWTlQcWJ4MDgtTjBvX3R2Ny1nVGdISXE0a1F4WGJRQ2d1eld5TWsxeU9QT2NMODR1ZXZnbjRfQ1lBYTdMSEZXdXl1OUlQbENCUjBNY04xbjF3NXdFc2pJODR0OEtDYmZFbjJSUDZoUlRkQm8?oc=5) - Yahoo!ニュース (Tue, 17 Nov 2026) [score: 0.375]
   - [クリスマス・キャロル 3人のゴーストたち : 作品情報・キャスト・あらすじ・動画 - 映画.com](https://news.google.com/rss/articles/CBMiREFVX3lxTFBvamxQWDR6UEFQNHV6Q19MQWJMUDBvbXhyNUdLc0o3UFhPMVlCRW8yU3dhVWdWYUlhMUkzWUU2NWtKei1z?oc=5) - 映画.com (Fri, 13 Nov 2026) [score: 0.375]
-  - [クリスマスグッズおよび2026/27 プレーヤーズグッズ第7弾受注販売のお知らせ - 横浜F・マリノス 公式サイト](https://news.google.com/rss/articles/CBMiVEFVX3lxTE95R3czczI4XzkwODlUbG9ZSkRkbUUyOHcwektGTU9LMFlqd3VERXVGRDBaSXZyZnJpRXZ1ZldETlptVnNXY1ZYVGVxbXYtak4yU2VsNQ?oc=5) - 横浜F・マリノス 公式サイト (Thu, 12 Nov 2026) [score: 0.125]
+  - [ジョニー・デップ最新作『クリスマス・キャロル／3人のゴーストたち』キャスト・キャラクター【まとめ】 - シネマトゥデイ](https://news.google.com/rss/articles/CBMiUkFVX3lxTE83RFNwWGxlcTA3WXl5Q1czYnNkTnZ5b0JENU9iZHp6a2daLUR1SjFIVmFIcEtsbVVZT3BjY29QbjIwMWpRd1JFeXhwZjFYZzlvalE?oc=5) - シネマトゥデイ (Fri, 13 Nov 2026) [score: 0.375]
   - [冬の感謝祭～円山動物園からちょっと早めのクリスマス～ - 札幌市](https://news.google.com/rss/articles/CBMicEFVX3lxTE5kYWR4aFN4eE9CTXFaNU03dTlQLXp5VFB3Z29tR2NYem53MEJ2NU9kWjVXR20tS1ZiOWU2UDhkN2tyeUQza2J1UjJBb2gzbEVKUG52OE14ZmllZ0Q3OHptQ09fZTBwMThtdEJ3R2lwLVg?oc=5) - 札幌市 (Tue, 17 Nov 2026) [score: 0.125]
-  - [たなかりか クリスマス・ジャズ・コンサート2026 - 尾道市](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HR3VaMFZJaVQ3eVNoaVlOSUdmVXJzS3RhTzlDTkxLOHQ5RFVXLWlzLThWSG9SbldfMnRudjRha1VLREZJdkNTUXR5bWtEcERKLXVLMEVabWJPTzNQNlFOeW5qQVRiX3ZFcUVn?oc=5) - 尾道市 (Thu, 12 Nov 2026) [score: 0.125]
+  - [【追記】ブルルフレンズ会員限定 クリスマスイベント実施のお知らせ - 大宮アルディージャ](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoQS01NlR1SmRZa3N1d3FTaHhzYm9kUlpUa2hpVzJ0ODJDbGFYZG1uTW5KZzZ5Y0tsRENsN0F5d1owYm56NzFfTUUtdEtMN3R1U3NDQUdWTWxtZw?oc=5) - 大宮アルディージャ (Fri, 13 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[「現在のクリスマスの幽霊」とジョニー・デップに歌った](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2bV9pTHdVdFNtSVFxcTdfLUkyUTZEMmluU2RWczMtR2oxN1pVd3A4Z1YwSEVOVWg2MzdMTGI1WlBvLUtnTmwxcFd0R2VWcy1WN1NFdVk1R212ZHM?oc=5)** - BBC (2026-11-17T06:40) [score: 0.411]
+  - **[「クリスマス・キャロル」収録現場、ジョニー・デップの前で歌う](https://news.google.com/rss/articles/CBMiXkFVX3lxTE41SjB4TE0xb3pZQ2U1emFqWEpwVllWZTRDNDVxdnRoVUYxbWVkdlFsZlJSa29adlVwWFNXU21fRnE3S01fWGplcWRtenJVSzhtYmlnNVU2QjJyaVpiQkE?oc=5)** - BBC (2026-11-17T06:40) [score: 0.383]
     - 原題: I sang carols to the Ghost of Christmas Present – and Johnny Depp
-    - 要約: BBCの記者が、クリスマス・キャロルの舞台でジョニー・デップらを前に賛美歌を歌った体験を伝えている。
-  - **[FT映画評『エベニーザ』　デップの過去が影を落とす](https://news.google.com/rss/articles/CBMicEFVX3lxTE8wNnBfemZFbmkzc1dqU3I4NU1zM2VIZkt4TVpnbWU5bGM1eHJzV0U1M1FLeHVoYUR2eDJqdFU2X2I1OTdKZXhTTUFWS2hzTFZtNEtGbXhpWkg2VkdHckNuRnBEM3NKMnNhRGlmUmdYZEI?oc=5)** - Financial Times (2026-11-12T16:30) [score: 0.374]
-    - 原題: Ebenezer film review — nervy Christmas Carol is haunted by the ghost of Johnny Depp’s past
-    - 要約: 英フィナンシャル・タイムズは、ジョニー・デップ主演の『クリスマス・キャロル』翻案『エベニーザ』について、彼の過去の亡霊につきまとわれた緊張感ある作品だと評している。
-  - **[レビュー:シアター・バイ・ザ・レイクの『クリスマス・キャロル』](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXNUTmstY0s5TldBdXBQSE52N1R1eUF0Z09xSjFRaWljdXZ2ak5reWx0OFE1MWs3TVFOb1lRbFplQ0xPNDNqeHZsdzFVVExZRW4yVnN5ay03RVpjZG12ZFdwQkF2TFBDNkg4WlpoNDd2NWEzTG9scV9UWWpxOHc5NVRtMmI4RVZkM3o3LW5tbmQxX0dweUxV?oc=5)** - Northern Arts Review (2026-11-18T14:49) [score: 0.286]
-    - 原題: Review: A Christmas Carol at Theatre by the Lake
-    - 要約: 英シアター・バイ・ザ・レイクで上演中の『クリスマス・キャロル』の劇評を、ノーザン・アーツ・レビューが掲載した。
-  - **[IndieWire酷評『エベニーザ』　デップ「耐え難い」](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHRYUjdzT3FOVFowTFlFYkF1QjBuWjgzQ19Ec3lFdk1RWXNYWDN3SVZ6TXRjY01pX3VtRnlXVFNwWkRPZWhHekZSbVZpT2J3bGJ0UFM1RGJucml1eWYxU1UyODNBaG0wLWVmZkJoUUo2MjJCSWQtOHhOcEJ1dmRTeHQ3Z2lFQ3FBTFFfamYzREprZw?oc=5)** - IndieWire (2026-11-12T17:00) [score: 0.281]
-    - 原題: ‘Ebenezer’ Review: Johnny Depp Is Absolutely Insufferable in a Dull and Dreary Christmas Carol
-    - 要約: IndieWireは『エベニーザ』を退屈で陰鬱な『クリスマス・キャロル』と評し、ジョニー・デップの演技は到底耐えられないものだと厳しく批評している。
-  - **[クリスマス島で数百万匹のアカガニが一斉移動](https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss)** - BBC News (2026-11-17T23:05) [score: 0.143]
-    - 原題: Millions of red crabs start annual migration on Christmas Island
-    - 要約: オーストラリア領クリスマス島で、恒例のアカガニの大移動が始まったと報じられている。繁殖のため森林から海岸の海へ向かうカニの大群が目撃された。
+    - 要約: BBCの記者が、『クリスマス・キャロル』の現在のクリスマスの精霊役やジョニー・デップを前にキャロルを歌った体験を伝えている。
+  - **[コラム「ジョニー・デップは過去の亡霊のままで」](https://news.google.com/rss/articles/CBMicEFVX3lxTE5OR016YkFoODE2a18zMXo3TzBaWHR5c0NwS1RmOHRmX0ZNbTB0cHNfNzZoWGZzWWsxbW00c2t0STI2S2E5VkN5Y3FPWDdiWWFfaUg5WXJhaGpoX0UybkhNaDFMVC1mNFpmWG0wMmg1U2U?oc=5)** - Jezebel (2026-11-16T08:00) [score: 0.356]
+    - 原題: Here’s Hoping Johnny Depp Remains a Ghost of Christmas Past
+    - 要約: 米メディアJezebelが、俳優ジョニー・デップについて「クリスマス・キャロルの“過去の亡霊”のままでいてほしい」とする論評記事を掲載した。
+  - **[デップ主演『エベニーザ』、より良い『クリスマス・キャロル』の片鱗](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDloSjdoM0NacEY0T1N2LWpaalUxaW04elNWT0p2TFRhSzk5VUhybWx1NEt0a2RyR3dFNmxoWWtZdEZWekxzQXRzY2t5MFpqNUZhQjN3Ymh4Z2hDclpwRmxtZEhwdEt0N1lrS0JibFFkUDllcmpteTkxZ1YxM0FqRzdfcmlBZlBpczBVbHVoZS01NDc1ajFUY0V0U0ttQXlFU2ZSMWNaS09iLUlZd3h0MlYxQ0hMa2U3NmUxOA?oc=5)** - USA Today (2026-11-15T18:37) [score: 0.34]
+    - 原題: Johnny Depp’s ‘Ebenezer’ hints at a much better 'Christmas Carol'
+    - 要約: USAトゥデイは、ジョニー・デップ主演の『エベニーザ』が、より優れた『クリスマス・キャロル』映画になり得た可能性をのぞかせていると論じている。
+  - **[コラム：『エベニーザ』は異色の恐怖版クリスマス・キャロル](https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjlHTW9NTW41c3NkY0lwY0FySXlpTHRoXzdLQzZfOF96R1VYUFZoUklxYjIxWWVELWRzRGlaMGZfMlBueW1pMEZFcWxNUjdXcF85WVdSTHhsX3dJOEZRWGxKQWd4X3pfVUZfOTBIM21IQUlHYVFVOTFWdWpyOG5Id19YUGZaWTFwbXJUREJ5Zms?oc=5)** - Indiana Daily Student (2026-11-19T18:48) [score: 0.286]
+    - 原題: COLUMN: ‘Ebenezer’ is a uniquely horrifying retelling of ‘A Christmas Carol’
+    - 要約: 学生紙インディアナ・デイリー・スチューデントのコラムが、作品『Ebenezer』をディケンズの『クリスマス・キャロル』の独特に恐ろしい翻案だと評している。
+  - **[米劇場、12月にクリスマス映画を連続上映](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcnJRa3ZwWlhMLVF5dHNSb0xabS1Oam5uSlBhVk5SRnFrZ0lkdVNCRkxRNTZwVXZiNzFSUEdlUi1mNVdvQnlnVWJqQlRRN1JuYTI0S202UFBUUUZQb21qUTQ2VFQ5Rk5XaXA2ZFFCV0tfbG1JeUxBMTdhTXdQQUUycDY1VzdVWFJ1Y3pXU0h5RVg1czJZYUJwYUFpVVZxRGdOMi13UlpIUHJiUXF3ZUU3SGU1aHZia25EYkIySHJCTGlSdzNMMlV2UnhlenlCS08tWWd2UUVhaFR2Sk1wVnNtRUFMbUhsa0huZTJr?oc=5)** - Arkansas Times (2026-11-19T20:40) [score: 0.286]
+    - 原題: Ron Robinson Theater screens ‘The Muppet Christmas Carol,’ ‘White Christmas,’ ‘Love Actually’ and more in December
+    - 要約: 米アーカンソー州のロン・ロビンソン・シアターが12月に『マペットのクリスマス・キャロル』『ホワイト・クリスマス』『ラブ・アクチュアリー』などを上映すると報じられた。
 
 #### 動画: [「工作はやめろ！」世界で絶賛の『ゴジラ-0.0』に、IMDb上で最低点続出！？インドからだけ異常な評価となり、背景にあるインドの大作映画『ラーマーヤナ』の存在が指摘されてしまう・・・](https://www.youtube.com/watch?v=ZRm-CvoVaRg)
-- 公開日: 2026-11-15 / 再生数: 325,542 / 高評価: 7,767 / 視聴者関心度: x0.86
+- 公開日: 2026-11-15 / 再生数: 326,947 / 高評価: 7,820 / 視聴者関心度: x0.87
 - キーワード: インド, ラーマーヤナ, ゴジラ-0.0, 評価, 背景, 指摘, IMDb, 工作はやめろ！
 - 英訳キーワード: India, Ramayana, Godzilla Minus Zero, Evaluation, IMDb
+- 国内の関連ニュース:
+  - [インドの叙事詩「ラーマーヤナ」実写版、世界総興収1億ドルを突破（映画.com） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBXeWU0c21ud1hhY19FRkI3ejl5Ujc1NlhEamdZbjFpUG9uLXczVzZnRktLNmtycGtmcTFmQXphYXc3VkR6cGs5bF9ScU0xQmNaVDlubEFEQWtTNkV4WWY5NWJfcEdweENUZk85SVEwVjQwNEh6LWxVcUpOUDJ6aE0?oc=5) - Yahoo!ニュース (Sat, 14 Nov 2026) [score: 0.25]
+  - [第9回日印インド太平洋フォーラムにおける茂木外務大臣ビデオ・メッセージの発出｜外務省 - Ministry of Foreign Affairs of Japan](https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ba1BvMjlFOXdFeXlTbU1mdFdoUUpfQUpybGhEOWI1aU4wRzhPYWd4eUs3ay02RnFCVHctMDd4WGhGcEluakYyYllSclFNQlY4bWpMVDd5ZFRId1VucGVlV3dvYmM5VEhEaktWbWlOMkZEdmgzUnZV?oc=5) - Ministry of Foreign Affairs of Japan (Tue, 17 Nov 2026) [score: 0.125]
+  - [インド高速鉄道の「新幹線外し」に怒る人が知らない、日本の鉄道輸出の「限界点」 - ダイヤモンド・オンライン](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XUnVqV2ZzcS1lNF9uYlRQd0pXcFdlSjlBYjBSdEtEREktUHAyWlNHeGRjQ1A4Y0x1R1MyQkUzTDktRmZYaTdpUkRYVm8?oc=5) - ダイヤモンド・オンライン (Fri, 13 Nov 2026) [score: 0.125]
+  - [インド東岸にサイクロン接近 沿岸を中心に大雨や暴風警戒 - ウェザーニュース](https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0RG5MWTl5VFBJZnBvdGhSYk1WVTZQaG04TFAyRDdpS20xSVVwcXNQcFdWTy1WR3ZxVWpjN29WcXRLTWx3dVRMWFJZY3VibENBWDY2eQ?oc=5) - ウェザーニュース (Thu, 19 Nov 2026) [score: 0.125]
+  - [キャサリン妃、10年ぶりのインド訪問へ。華やか外交ファッションを追っかけ - ELLE](https://news.google.com/rss/articles/CBMilAFBVV95cUxPa25xM1UwR1hCYTlBOWZab0NTR0ZvNUdTak53MVFxVDBQZ09ZNVhHN245Z1MxTGh3VEdqMVJZYUJONUREOTVpelFEMGx4VWtjMUJmNXdQbHhWRmZ4LU1RaUF0Zjk5LXFGaWlMMnEzejBNYmc4cGtmZkU2UGV1Mzk4RXRqOEdzRWQ2X2ZZVFlRNnYzMnBr?oc=5) - ELLE (Wed, 18 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[インドの195分大作、『ゴジラ』超え興収1億ドル突破](https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzAwYkU3NlJpSXVpalEwVmtKZkpJVGxSSklwQTJac1hHcGhZYzBCVV9fNmQ5V0RGeDdVLWptYlIyanJZMFY1TzFPQjk2TV83TlMxUGJuUlFFUVhqbVBfUmlGVFBnQkYtNm1YUnJSSlh6c0pPc1Q0WTVyb3dPTXJ2M1dPYVBzYkVmX0dqbGoteFNDU2ZF?oc=5)** - Collider (2026-11-14T14:30) [score: 0.313]
+  - **[インド映画『ラーマーヤナ』、国内興収1000億ルピー突破](https://news.google.com/rss/articles/CBMi3gJBVV95cUxNVWJ6VXZxY0ZiallwX0g4YUdJQmtnNEQtUnRaM2lIUmp2S1hYcnRmbklINUs4OFk0MWpBSGl3VnUtSXhvRTFTWDBwOUlSY2pFeVVzdG5HbnhnOVpoNXhjd19Eanh3aERMekVydHZVMEpVSWRzMGdPTnlTT1FrOHRXZVdZVjRjRkc1TC1fcU1NNlRjRWxqY3VNV2ZtMzdvMGRETVRzbng4OFhLczhMWV9WbHBrbnFvY3JaQmVuZUtfamQ3cndSRWhDakwzdnR1ZzdNX05zUG44c3pJS2NGcS1kU3ZrN0ZfbnVpVHJ5cUk5UDVybzFpTXZ6QXhITzh5OElXdW9oMkdXRWZuZlZPY3VvU3hUS3Y0bk1SbTZpTEtYRVhpNFl6QkpqTHZQZDNxOW5KTG8yTGRCdXEtR1JVQ1E3b2FRX1lFVDRRMXQ1bjMzRmc3cWoyM0xlYWkyU2VaQdIB4wJBVV95cUxOYl90bWhhLXY5Zy1XWHVPSGprUWwxOElrRlQxVENLekhEa1czV0VjeGF0V05XNWJqRmJmQzlxUUJVU0VXWjZDTVhxUnM2QWVQR05HV0M1bTdreFNKZm92VXZ1cWNxbGVUbVBTNW9hOU1QLXRncVpHOE9uVkpBcUg0QUFfaVRaQUdhZWhYUmgxR296UWlMbWNReEtaclZ0WktjSmxOMnpvY0lWMGs4SGVjMVF5RVdaMDlMMUJNV19OaUxEaXFBRVNXb0wwYndvSFpnZmJaTW82VWhHNDRyYlRudDI1cEQxaGdkYTVKTTNBMUpWX2R4NGVla25fQkcwMUhDZjlKR01UeDlrNWN0dnJ0bHJMZDlnMlhNVXdlTWh2MDBiQmc0Mng4VXR0RTlJX0F1SGt3NHN0M0FNV1JBeEpiS2NMdXZ3SGJtbWU2c3pibW04OFgwUE1TaG50U3NMeWRxc2VR?oc=5)** - The Times of India (2026-11-19T00:21) [score: 0.4]
+    - 原題: 'Ramayana' box office collection Day 14: Ranbir Kapoor, Yash starrer crosses Rs 1,000 crore in India; hit
+    - 要約: ランビール・カプールとヤシュ主演の『Ramayana』が公開14日目でインド国内の興行収入1000億ルピー（1000クローレ）を突破し、ヒット作となったとタイムズ・オブ・インディアが報じた。
+  - **[デップ『エベニーザ』と『ラーマーヤナ』が世界興収首位争い](https://news.google.com/rss/articles/CBMivAFBVV95cUxQa1g4MkEyYlBKVjF2YW15bHRmLTZQaVhvY3g5clU4Qnl4Z2hibXFTUWRVcTh5ZkVVTXhEYTlGYzd4YU5ZYjJVd0JRNVl3eDh3R1FaS2pXWFVCaGF2U2NKWm5iaWdOOHYySDYwT1BGbFJmZTBoTHpHQ3p0aW15YnJ6NXF3UGl2Z3FPdmY3S3pDRHpEWTB3SFBxQ2xYZ2xNTE5LMHJDNEEtbFAxSVdES1RVazYxeUdSWVdTdFpyUA?oc=5)** - Variety (2026-11-16T08:22) [score: 0.333]
+    - 原題: Johnny Depp’s ‘Ebenezer,’ ‘Ramayana’ Dominate Global Box Office as ‘Godzilla Minus Zero’ Crosses $100 Million
+    - 要約: Varietyによると、ジョニー・デップ主演『エベニーザ』とインド映画『ラーマーヤナ』が世界の興行成績を牽引し、『ゴジラ マイナスゼロ』は1億ドルを突破したという。
+  - **[インドの195分大作、『ゴジラ』超え興収1億ドル突破](https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzAwYkU3NlJpSXVpalEwVmtKZkpJVGxSSklwQTJac1hHcGhZYzBCVV9fNmQ5V0RGeDdVLWptYlIyanJZMFY1TzFPQjk2TV83TlMxUGJuUlFFUVhqbVBfUmlGVFBnQkYtNm1YUnJSSlh6c0pPc1Q0WTVyb3dPTXJ2M1dPYVBzYkVmX0dqbGoteFNDU2ZF?oc=5)** - Collider (2026-11-14T14:30) [score: 0.286]
     - 原題: India’s 195-Minute Epic Beats ‘Godzilla Minus Zero’ to $100M Mark at the Box Office
     - 要約: 上映時間195分のインド映画が興行収入1億ドルに到達し、『ゴジラ』作品を上回ったとColliderが報じている。
-  - **[映画『ラーマーヤナ』公開13日で全世界興収1500億ルピー目前](https://news.google.com/rss/articles/CBMizAJBVV95cUxQWWM5OFJQeGVzeW9EbW80Q2toUVpybzhPQ2F0eU9KNS14YXowb2ZaX0FzQ2kzVzI3aU9na2xrTm9iZ29vd1NvX01SbGpaZWRibUl0MFUtYlFLRWs1bWUzSU4tZGlSQ2FfTHVfTlNrbXJjX1I4aTM4VUVoZVJkbVJ0cFVRRUk4NE5lVlQ5VWFjUzJDWWhpemlaN3JHVVE5d1dadjVMOTFBZVdpTC1rWmY2TmQ4LUFTbTNDdGNscTRsckNvdzBvLUdfaE9WQ1hITlBPZ0t0UmsxRl94NGd4aXhRWm41OVpKa3VLRVdHRVNTaG5uNnkxYUpMU05ac3AyMlBRcWJBTVFlcVB4WjQ0WUQ4R3dlcG4tdVpOOTR3ZThkWXJ6WUg4TUY2RkNxeDltam9EWlJjYzFTUE5CaksxNUVfQ3ladWN2cVd1bC1Nd9IB0gJBVV95cUxNZ3dUSU5UcFlwRm43a2xzaTBmbUFjcEJLQ29ZeV9ObVdTbnNFWUVrR3pyYU05YkhPZkNmalltc2pkeWxna2phOVdWVy13NEYyRHRKWlZ1ZE5DWEE2VUR4WkVQQ1NCbHZ1dm1UQUw0OEtuYllzNk9ianhUNzVua01iS1ZOalBZdGNkNm9UWlhMblpvVTkyamx3eFB1NEhmVTI3RFlVSjBMUVdpTWg2VnNkWkRBNTA4QXQxTFR3Y0xZekxETExGWWxOR1AtUy1uRHJuaEtLQVBDMHJXaHUxdWxlVENqVVZzbmRzQWdwUXBQVFdzWWpJUV91bHowRGRHQXRaTGttdk9UdDBBbVp2dG9JZzZSQmMtblVFRVdVdEsxY2dDYTZhenBDTEk4Ykk5V3Njc1Z3aVhVWkVEanJMb21tQVowMlNUMGhoWmFmbzBwaE9Xdw?oc=5)** - The Times of India (2026-11-18T00:11) [score: 0.3]
-    - 原題: ‘Ramayana’ box office collection Day 13: Ranbir Kapoor and Yash starrer nears Rs 1,500 crore worldwide de
-    - 要約: ランビール・カプールとヤシュが出演するインド映画『ラーマーヤナ』が、公開13日目で全世界興行収入約1500億ルピーに迫っているとタイムズ・オブ・インディアが報じている。
-  - **[インド国際映画祭、『ラーマーヤナ』など上映作品発表](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZVNHQ2JjdXRuV1FBVWJsbjJwTkJ1NERjRExGZ1ZrRU9KUElGajVBREdDSzBjaGZUSEVnLXdIc3FXRGM1VHdub1VpVC1TYzN1LXhZUk1VYkVJcWhkMHllZUpTMFZVcWZCMnVjZnZCZjhuVjdEel9mZGVidW1kUjFRYTRxS0dweWVBdmVPcC15YzRfNFdBbE55UDR6cF8wMnJVbExUc0JiSlZ1b1dOV2Z3MQ?oc=5)** - Variety (2026-11-13T12:02) [score: 0.283]
+  - **[インド国際映画祭、『ラーマーヤナ』など上映作品発表](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZVNHQ2JjdXRuV1FBVWJsbjJwTkJ1NERjRExGZ1ZrRU9KUElGajVBREdDSzBjaGZUSEVnLXdIc3FXRGM1VHdub1VpVC1TYzN1LXhZUk1VYkVJcWhkMHllZUpTMFZVcWZCMnVjZnZCZjhuVjdEel9mZGVidW1kUjFRYTRxS0dweWVBdmVPcC15YzRfNFdBbE55UDR6cF8wMnJVbExUc0JiSlZ1b1dOV2Z3MQ?oc=5)** - Variety (2026-11-13T12:02) [score: 0.257]
     - 原題: ‘Ramayana,’ ‘Fatherland,’ ‘Dhurandhar’ Lead International Film Festival of India Lineup Featuring Almodovar, Kore-eda, Kurosawa
     - 要約: インド国際映画祭（IFFI）のラインナップが発表され、『ラーマーヤナ』『Fatherland』『Dhurandhar』が目玉になるとVarietyが報じた。アルモドバル、是枝裕和、黒澤作品も含まれるという。
-  - **[インド最大の映画『ラーマーヤナ』、ヒンドゥー教の神をスターに](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzU2aFl0QXRtS0hEY3BXYU9jOHlxY19BM3hwNmtjSHhEVFpQcDY3M0tNLTBCSHpTaVI3SnpKaUhmSXMxSXpZRE9hMG54N0hRRWN5ZncwV2lsQmpQUUJidGJTR0JDMFdQeVRfN1RjVG1pUF9EZGhxMFNoUmxzalVxd3k2akJ3Wk81WlJqSUdQTWRESFZQUUxTd3JlOVViUWl6VTlyQm5R?oc=5)** - The Economist (2026-11-12T10:57) [score: 0.255]
-    - 原題: “Ramayana”, India’s biggest film, turns a Hindu god into a star
-    - 要約: 英エコノミスト誌が、インド史上最大規模の映画『ラーマーヤナ』が、ヒンドゥー教の神をスターのように描き出していると論じている。
-  - **[ウィリアム皇太子夫妻、インド訪問締めくくりにモディ首相と会談](https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss)** - BBC News (2026-11-18T20:07) [score: 0.2]
-    - 原題: William and Kate meet PM Modi as they wrap up India tour
-    - 要約: 英国のウィリアム皇太子とキャサリン妃がニューデリーでモディ首相と会談した。この会談は急遽追加されたもので、訪問では年次のアースショット賞の式典にも出席したと報じられている。
+  - **[映画評『ラーマーヤナ:伝説の誕生』インド映画史上類を見ないスペクタクル](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3pZck93QzlnLUMyODQxektWVC1vT016Ry0xOHVYZ291blJiZkQ3RzhqVHBmSkNrcWlFWDFDcmIyQ1FWb3JZNHFXT3R0RzNOQWVUQThFc3gxVzR6R0szYWxDOXo1ZEJwdTZxZ2dScFN6SFF1elJmTzFOcmFzTDJNV0FSYXVBbHFYUlZwU2JKVWQzeUpfMDBieW10TjBEemVra21QVW41c1VWblRHd1REa3FVeVhDQm5nazc4T0g1WdIBxAFBVV95cUxQTHpqT21ocmtlRFl6R2UwRl9kNVZsSldYT2lhSlVZekRvY0oyNWt2RFhwRXdBT3RHUTd4X2hWeTNTTHhkR2Ryc1djTXhIclk4RG40T3VsQXhjM29CeXNzZ2RNbk1uUTVqcm9uNHlDazMzdDRCSlZoSFNwY1ltZkY1UGNPWlhYTzdMa2t0My0wOUphcmNZXzZ2dnJSeWNkVHdES0R4VlFCMi1iQVJ0ZmR0VHh4X2VHMjlWT3NSWmFudzJ4aDB2?oc=5)** - The Times of India (2026-11-14T01:56) [score: 0.204]
+    - 原題: Ramayana: Rise Of A Legend Movie Review: A spectacle unlike anything Indian cinema has seen before
+    - 要約: タイムズ・オブ・インディアが映画『ラーマーヤナ:ライズ・オブ・ア・レジェンド』を批評し、インド映画がこれまで見たことのないスペクタクル作品だと評している。
 
 #### 動画: [「コンコードが道連れに」ソニーの新作ゲーム「フェアゲームズ」が発売前に開発中止へ！買収した多様性、包括性を掲げるスタジオは作品ゼロのまま・・・](https://www.youtube.com/watch?v=l4YTmFVgKp8)
-- 公開日: 2026-11-12 / 再生数: 305,364 / 高評価: 6,884 / 視聴者関心度: x0.81
+- 公開日: 2026-11-12 / 再生数: 312,955 / 高評価: 6,901 / 視聴者関心度: x0.83
 - キーワード: フェアゲームズ, ソニー, スタジオ, 買収, コンコードが道連れに, ゼロ, 新作, 発売前
 - 英訳キーワード: Studio, 0
+- 国内の関連ニュース:
+  - [鴻海、ソニーの車載カメラ事業買収へ 72.4億円 | ロイター - Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbVFuYk5sSmF6ZHE3bXdfOWdJVUhYN05XeEdWdnpkQWdlcFpfcmVKMjdLWkhmdlctV1JRbFFXazdGQkpJb2N6SnhpTUlLZnd3ZmljRlZGU1VXU2xIVnQ0UkpOSDA2Q05FV0pQOTMwNTVkeV92VVoyZDNzeDFmNGtEd3NQUQ?oc=5) - Reuters (Tue, 17 Nov 2026) [score: 0.25]
+  - [鴻海、ソニーGの車載カメラ用モジュール買収 72億円 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5nN0lDU2FXVFh3RTk1aFd6eWlEaFpPV3dxc28ybnNVQkoxTzY0cFN3X1A2YXBfMTNWUGJMLUQ3QXY1ZVlIUGZyY1B3ZlJTRDR0M3l6aHVIXzJIb0RQbmFBbHlQcnNaejJaOENMRA?oc=5) - 日本経済新聞 (Tue, 17 Nov 2026) [score: 0.25]
+  - [鴻海、ソニーの車載カメラ事業買収へ 72.4億円（ロイター） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBHX2FmUnlWZUxpWlJUZzJMT2t5N09TS2g4OTFralA0U0dmeXQtTmsxVlVUZXZndVpOdVgtTXEyQnQ1ZW5pTzFFZExWaHNyWk93WjQyT2ZFdXppQkRHemNDZGRnci03TTMzaXQ0Zmt1aFVfUFZfNE9mLXZrWUxYNGc?oc=5) - Yahoo!ニュース (Tue, 17 Nov 2026) [score: 0.25]
+  - [ソニー 新・神話の真贋 - ダイヤモンド・オンライン](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WSUxBSVRSX0h2anVxRnpuMzUzbHMzNEFUdEM2bHhEZXlIU3Znam9hWjNfNi1XVjhLNGZXMHUwdEM4SW9CdWQwcjUxaG9VRS01NUpYLQ?oc=5) - ダイヤモンド・オンライン (Mon, 16 Nov 2026) [score: 0.125]
+  - [ソニー、プレステ訴訟に勝利 英裁判所、損害賠償請求棄却（時事通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9RV3R0RFBHd1BUbXhOcm1JWmk3SGg5S3VvcEpkeDZ6RG9WWGIwOGdUUW9INGNtRVZlZTFseHRhMTFzSFpYbEpmQ2J5OXZaeVpCR3JGeE9GZlp3QmdWeEFsLWpST3F5YmU1ZFhwcWxVOUNmSnU2Z3VGYUU2eW5NYmM?oc=5) - Yahoo!ニュース (Tue, 17 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[エヌビディア「RTX Spark」小型デスクトップ発売、Mac Studioに対抗](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zQWtldU1HQlB5dzMwVGg2eWNwZHdBM1l5ZV8zMFFZTEVsMXBSUEJ0ZTV2eGJGOEMxWDZ4UVlpMkFMSjl3TnFicl9nM1d2bUNmcXNiNmdNOVBGUjBYN0dIZ2duQlcyMW8?oc=5)** - Gizmodo (2026-11-18T14:00) [score: 0.5]
-    - 原題: Nvidia’s RTX Spark Desktops Imagine They Can Actually Compete With the Mac Studio
-    - 要約: エヌビディアのRTX Sparkを搭載した小型デスクトップが、ASUS・Dell・MSIなどから発売された。アップルのMac Studioと競合する製品として各メディアが報じている。
-  - **[『スプラトゥーン3』バージョン12.0.0の変更点は](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOFI1aUZOTUU2UGZHSG1VN2dfa1c1ekVkeDVTUXIyZjF6c0RTSGM0eDRLMW5CWUsyODZPXy1DTlNzYlBtem5FQ1Rva1N5VWZCQm5KMlB2emo4b1NWbXgtS21rQjloWG4zZjE1WnhHVXYxZlcxNzRjSk5OV0lwOHdTT0F3djVsTGRZdUhHOU1yb01ySjZwbGZfbUxfVElSdFpSY0FGSw?oc=5)** - Nintendo (2026-11-18T09:17) [score: 0.5]
-    - 原題: What’s new in Splatoon 3 Version 12.0.0?
-    - 要約: 任天堂が『スプラトゥーン3』のバージョン12.0.0で加わった新要素について紹介している。
-  - **[アルゼンチン、コスタリカに7-0圧勝　「ポスト・メッシ」時代へ](https://news.google.com/rss/articles/CBMingFBVV95cUxQcWV1YUxYTG41bzRzWVRDOFpiOHdIWjMyT1VOU1lkREY1Uno1MUdpVHNHX0Fubm5QeXptd19jMl9JdExKQmR4TFAxS2JieDlvenExTUs5T1NOcDc3SzVFSXVPc3lfVXpyd0RhTC1HMUpiUDlHVHJWdko3LVp4eFRhNnVHblR1UDJyb1psWmRsaWt2QjloY2RRTmlJdV9sZw?oc=5)** - ESPN (2026-11-18T03:36) [score: 0.5]
-    - 原題: Argentina set tone for post-Messi era with 7-0 Costa Rica rout
-    - 要約: サッカーのアルゼンチン代表がコスタリカを7-0で破った。ESPNは、メッシ後の時代を占う試合で好内容を示したと報じている。
-  - **[全米25位UCLA、USCにストレート勝ち3-0](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXRyUnk0ZTZQMXpYemJrZ2czMGY1UHVKLVkyNnVRcUFpajMxb2hnNnZfbXdtVXhfS0kwcW1YLWhfMXRaemhGUmhqMEhCSHg5OTRmbnpHeWRDLXBSdkVORGtlay0zRjZqRUM3S1MxeUtzUWg5dDh1My1tSFBCZ1hydUVnY09WblAwek5sWWhR?oc=5)** - UCLA Bruins (2026-11-18T06:28) [score: 0.5]
-    - 原題: No. 25 UCLA Takes Down USC in Straight Sets, 3-0
-    - 要約: ランキング25位のUCLAが宿敵USCをセットカウント3-0のストレートで下したと、UCLA側が伝えている。
-  - **[バンダービルト大男子バスケ、開幕5連勝](https://news.google.com/rss/articles/CBMiakFVX3lxTE1IZFRqUjZsUW9kYndVelNFU3JUVjROa0lWZk1YVXFTdDA1RE13Q3lpRXphTE5qaU1SLVU4eXczNHk0Y1pwZWVRa09sU1ZtWjd1ZHBxYnRmTnBidmxoZkxmTFdzNURTQkNXSkE?oc=5)** - Vanderbilt Commodores (2026-11-18T04:28) [score: 0.5]
-    - 原題: Vanderbilt Men's Basketball | Dores Roll to 5-0
-    - 要約: 米バンダービルト大学の男子バスケットボールチームが勝利を重ね、開幕から5勝0敗となったと報じられている。
+  - **[『GTA6』に社長サム・ハウザー本人？ロックスターは明言せず](https://kotaku.com/rockstar-wouldnt-confirm-or-deny-if-thats-studio-president-sam-houser-in-gta-6-2000758489)** - Kotaku (2026-11-19T18:05) [score: 0.5]
+    - 原題: Rockstar Wouldn’t Confirm Or Deny If That’s Studio President Sam Houser In GTA 6
+    - 要約: ゲームメディアKotakuは、『GTA6』に登場する人物がロックスター社長サム・ハウザー本人かどうか、同社が肯定も否定もしなかったと報じている。
+  - **[ユービーアイ、150人超削減とAIスタジオ設立](https://kotaku.com/ubisoft-lays-off-over-150-more-developers-with-no-big-releases-in-sight-2000758467)** - Kotaku (2026-11-19T17:15) [score: 0.5]
+    - 原題: Ubisoft Says It Has A ‘Very Big Pipeline Of Productions’ As It Lays Off Over 150 More Developers And Starts An AI Studio
+    - 要約: ユービーアイソフトが開発者150人以上を追加で解雇し、AIスタジオを立ち上げる一方、「非常に大きな開発パイプラインがある」「制作上の必要性が変化している」と説明したと報じられた。
+  - **[論評：トランプ氏のプーチン氏への譲歩、見返りゼロ](https://www.japantimes.co.jp/commentary/2026/11/19/world/trump-putin-gifts/)** - The Japan Times (2026-11-19T15:07) [score: 0.5]
+    - 原題: Trump is now 0 for 10 with his gifts to Putin
+    - 要約: ジャパンタイムズの論評は、トランプ米大統領がプーチン露大統領に与えてきた「贈り物」の経緯を振り返り、米国が得た見返りはゼロで10戦全敗だと指摘している。
+  - **[ユタ州立大、ウェーバー州立大に101-71で勝ち5連勝](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcXBUOWhjanVqTjRuTlhfd25HNDl1TUdoR0J0UmI1R1Y1VGEwUG92WkNaWDNzRGpXa3RPMV9semhZbV9QX1U2aG1kVkVfQzE0SjFEeS00cmw4WThFZ09vVTJ2bUZ3c0dhLXRPM1hJOEZhakFLX2puaEdTNW5SSDE3T3N6aVpwazZTYUVGdUFLUm5GVjk0VFJ3VElacGdHZ2RZdXlld2lnQlU2SEZ2aEkzVnVEQ3RIMUtEaHRB?oc=5)** - Utah State University Athletics (2026-11-19T04:59) [score: 0.5]
+    - 原題: Aggies Improve to 5-0 with 101-71 Win Over Weber State
+    - 要約: ユタ州立大のバスケットボールチーム「アギーズ」がウェーバー州立大を101-71で破り、開幕5連勝としたと大学公式サイトが伝えた。
+  - **[オーガスタ大、エマニュエルに80-57で快勝 ホーム開幕戦で4勝0敗](https://news.google.com/rss/articles/CBMixAFBVV95cUxPOWJqVlItWmdsRW9kSTkxZnVORGRzSWVYZVRVemc1czZvNmg2bDdtbkV0d191Zkxma2EzeThVRXR5Q0xNZ3hjYzBJRERURFRNZnBJZjhQUVJHRnd1QkNRcWxvZjBsZm5ZMWtPMlFMTXhuY0x1VncweWZmVE5GZnMtZnFOU2dVelp0Q3pGVU92ZGJHWUZWekMxSk14ZHV6SzBGRGtHRXF0ZFdfM3RaMWVTQjhmZVpMWU1uZk53Z2ljTEpKTTFE?oc=5)** - Augusta University Athletics (2026-11-19T00:48) [score: 0.5]
+    - 原題: Augusta Rolls Past Emmanuel, 80-57, to Move to 4-0 in Home Opener
+    - 要約: 米オーガスタ大学の試合で、同校がエマニュエルを80-57で破ったと報じられている。ホーム開幕戦での勝利で、今季成績は4勝0敗となったとしている。
 
 #### 動画: [【スウィートベイビーの悪夢】多様性と包括性全開のゲームスタジオ「リフレクターエンターテイメント」が閉鎖へ！「コンコード2」と言われた『アンノウン9：アウェイクニング』の大失敗を受け・・・](https://www.youtube.com/watch?v=7DiP5tNs5VE)
-- 公開日: 2026-11-11 / 再生数: 379,873 / 高評価: 7,232 / 視聴者関心度: x1.01
+- 公開日: 2026-11-11 / 再生数: 383,513 / 高評価: 7,245 / 視聴者関心度: x1.02
 - キーワード: リフレクターエンターテイメント, 多様性, 大失敗, バンダイナムコ, ゲーム, スウィートベイビーの悪夢, コンコード2, アンノウン9：アウェイクニング
 - 英訳キーワード: Diversity, Game
+- 国内の関連ニュース:
+  - [★生物多様性総合情報サイト★～広島県の生物多様性を知ろう！～ - 広島県公式ホームページ](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tMmRPX3IyVDduSm1pVzFuUXB5LW1GUEFST3VCOEFMQ2xqZVh4dDNOTC1IN3BTMU4xNjJYaU9wakVJOWYtdEpobUtxZnBwLVdXbHE0RldpbUhaQVU?oc=5) - 広島県公式ホームページ (Fri, 13 Nov 2026) [score: 0.125]
+  - [【周知】令和8年度啓発学習事業 性の多様性に関する講座について - 糸満市ホームページ](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmdG1kWnVMWkhWVTlaRjhfaElCR005T0hkelVQS1NmWDkyU3I0MkZFQ1gwWWFXazJLQVFHRFZyZWVfcTZsMEdXXy1FbUkyOFBabUZISGE2SkJDMWoxZkEw?oc=5) - 糸満市ホームページ (Tue, 17 Nov 2026) [score: 0.125]
+  - [生物多様性保全啓発イベント「いきものイロイロ」参加者募集！ - 亀岡市公式ホームページ](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QOUZqNGp6aS1xU29xeHVZbUZSdV9RUl9zQlEtM3k0ZVM0TXYxT1Nxb2ppNjdTSkgxUmRsLUM2bXAtQU5aN19xRzdXOVp5bWEwenJHM0hEeFJuMlFWcVhtYy1yQmNXaENZV1E?oc=5) - 亀岡市公式ホームページ (Sat, 14 Nov 2026) [score: 0.125]
+  - [IUFROウェビナー「マングローブ、生物文化多様性と生計:アジアと世界からの比較的視点」のお知らせ - 東京大学](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zdjRGN3NjODNXVkJfTE9ld0tEbHR4aTJJSmdrY095cDM3c2o5b3NKTGZyMExzUXRsU2pxXzVnTTVfZDRNekdmWV9mVF9MOUlpSUJxcHNYSTE0VGRUQW1nNlhESmV4dw?oc=5) - 東京大学 (Tue, 17 Nov 2026) [score: 0.125]
+  - [品川区ジェンダー平等と性の多様性を尊重し合う社会を実現するための条例｜［Web広報紙］2026年11月15日人権週間特集号 広報しながわ｜品川区公式ウェブサイト - www.city.shinagawa.tokyo.jp](https://news.google.com/rss/articles/CBMinAFBVV95cUxQczhPZnhvZmZyR3hRYlFRalk0Wk1LZGhSak0yN0RldnNkRHcxM29jYzVsUE1ITUNrV3pBcGJybkRVZUJEVDN2WHphdlBFT3RtaXpRVFUya0QxeHRJdEprUlVYVGF6c1JaOHBBcURrbTZUS29PajdvVlg3c1dvY2szdFZMa3p1U2h2d0YwVG5sb1lkcnR6elZrNjlLS2w?oc=5) - www.city.shinagawa.tokyo.jp (Fri, 13 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[マリン長官、欠航混乱中の政府機利用を擁護](https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates)** - The Guardian (2026-11-18T20:33) [score: 0.5]
-    - 原題: Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live
-    - 要約: 米国土安全保障長官マークウェイン・マリン氏が、数千便が欠航する中で政府専用機を使い大学フットボールの試合に向かったことを擁護。ホワイトハウスは複数業界に影響するIT障害について記者向け説明を行ったとガーディアンが伝えている。
-  - **[マリン国土安全保障長官、政府機でアメフト観戦の正当性を主張](https://thehill.com/homenews/administration/6228456-homeland-security-secretary-flight-controversy/)** - The Hill (2026-11-18T19:50) [score: 0.5]
-    - 原題: Mullin defends taking government plane to LSU-Texas game after nationwide ground stop
-    - 要約: 米国土安全保障省のマークウェイン・マリン長官が、全米の全便が一時停止された翌日に政府機でLSU対テキサスの大学アメフト観戦に向かったことを擁護した。矛盾したメッセージを送らないためとも説明し、以前は姪をがっかりさせたくなかったと述べていた。
-  - **[『GTA6』、発売2日前にゲーム・アワード8部門ノミネートで最多](https://boundingintocomics.com/video-games/video-game-news/gta-vi-leads-game-awards-with-8-nominations-two-days-before-its-november-19-launch)** - Bounding into comics (2026-11-18T15:45) [score: 0.5]
-    - 原題: GTA VI leads Game Awards with 8 nominations two days before its November 19 launch
-    - 要約: ロックスター・ゲームスの『グランド・セフト・オートVI』が、11月17日発表のThe Game Awardsで最多の8部門にノミネートされた。ゲーム・オブ・ザ・イヤーや最優秀ナラティブ部門を含み、発売は11月19日とされる。
-  - **[ゲーム・アワード2026、GTA6が8部門で最多ノミネート](https://boundingintocomics.com/video-games/video-game-news/gta-vi-leads-game-awards-2026-with-8-nominations-including-game-of-the-year)** - Bounding into comics (2026-11-17T20:56) [score: 0.5]
-    - 原題: GTA VI leads Game Awards 2026 with 8 nominations, including Game of the Year
-    - 要約: ジェフ・キーリー氏が11月17日に発表したThe Game Awards 2026のノミネートで、ロックスター・ゲームスの『グランド・セフト・オートVI』がゲーム・オブ・ザ・イヤーを含む8部門で最多候補になったと報じられている。発表時点で同作は未発売だという。
-  - **[未発売の『GTA6』がなぜGOTY候補に？](https://thatparkplace.com/gta-vi-has-not-released-yet-so-how-is-it-nominated-for-game-of-the-year/)** - That park place (2026-11-18T15:45) [score: 0.5]
-    - 原題: GTA VI Has Not Released Yet…So How Is It Nominated for Game of The Year?
-    - 要約: 11月19日発売予定の『グランド・セフト・オートVI』が、発売前にもかかわらずThe Game Awardsで8部門にノミネートされ、ゲーム・オブ・ザ・イヤー候補にもなっていると報じられている。
+  - **[英国もGTA6熱狂、世界同時発売](https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss)** - BBC Technology (2026-11-19T12:26) [score: 0.5]
+    - 原題: UK joins in GTA 6 frenzy as game becomes available worldwide
+    - 要約: 開発に13年を要したゲーム『GTA6』が世界で発売され、英国でも熱狂が広がっているとBBCが伝えている。史上最も人気のあるエンターテインメント製品の一つになる見通しだとしている。
+  - **[配信者アズモンゴールド、『007』のGOTY候補入りを批判](https://boundingintocomics.com/video-games/video-game-news/asmongold-slams-007-first-lights-game-of-the-year-nod-calling-it-an-industry-plant)** - Bounding into comics (2026-11-19T15:36) [score: 0.5]
+    - 原題: Asmongold slams 007 First Light’s Game of the Year nod, calling it an ‘industry plant’
+    - 要約: ジェフ・キーリー氏が2026年のGOTY候補を発表した後、人気配信者アズモンゴールドがIOインタラクティブの『007 ファーストライト』の選出を疑問視。カプコンの『プラグマタ』など他5作の方がふさわしいと主張したと報じられている。
+  - **[アズモンゴールド、キーリー氏に反論 『007』のGOTY候補巡り](https://thatparkplace.com/asmongold-fires-back-at-geoff-keighley-over-007-game-of-the-year-nomination/)** - That park place (2026-11-19T15:36) [score: 0.5]
+    - 原題: Asmongold Fires Back at Geoff Keighley Over 007 Game of The Year Nomination
+    - 要約: 2026年GOTY候補の発表を受け、配信者アズモンゴールドが『007 ファーストライト』の選出に異議を唱えたと報じられている。『プラグマタ』など5作品の方が選ばれるべきだったとの見方を示したという。
+  - **[「傑作」GTA6が発売、批評家から絶賛](https://www.breitbart.com/tech/2026/11/18/grand-theft-auto-vi-met-rave-reviews-game-launches/)** - Breitbart (2026-11-19T02:32) [score: 0.5]
+    - 原題: 'Masterpiece': 'Grand Theft Auto VI' Met with Rave Reviews as Game Launches
+    - 要約: 13年ぶりの続編となる『グランド・セフト・オートVI』が発売され、批評家から高い評価を受けていると報じられている。待った甲斐があったとの声が出ているという。
+  - **[GTA6が「有害な男らしさ」に挑む? 意外な作品像](https://kotaku.com/i-didnt-expect-gta-6-to-be-the-game-that-tries-to-de-toxify-toxic-masculinity-2000758476)** - Kotaku (2026-11-19T21:00) [score: 0.5]
+    - 原題: I Didn’t Expect GTA 6 To Be The Game That Tries To De-Toxify Toxic Masculinity
+    - 要約: ゲーム情報サイトKotakuが、『GTA6』が有害な男性性を問い直す内容を含んでいると論じている。世代最大のヒット作がより良いパートナー像を考えさせるか、と問いかけている。
 
 #### 動画: [「なぜ警告を聞かないの？」海外で多数のトレパク疑惑のあるアーティスト、なぜか東京コミコンに出展へ。海外からは「絶対に買わないように」と警鐘を鳴らされているにもかかわらず、公式が出展を発表してしまう](https://www.youtube.com/watch?v=P5HmOCdMh2A)
-- 公開日: 2026-11-10 / 再生数: 417,526 / 高評価: 7,087 / 視聴者関心度: x1.11
+- 公開日: 2026-11-10 / 再生数: 422,138 / 高評価: 7,106 / 視聴者関心度: x1.12
 - キーワード: コミコン, 出展, 東京, アーティスト, 警告, 疑惑, 発表, 絶対に買わないように
 - 英訳キーワード: Comic book convention, Tokyo Proper, Artist
-- 視聴者コメントの頻出語: 運営, 東京, コミコン, トレース, パクリ, グループ, アーティスト, 自分, パチンコホール, トレパク
+- 視聴者コメントの頻出語: 運営, コミコン, 東京, アーティスト, トレース, パクリ, グループ, イベント, イメージ, パチンコホール
 - 国内の関連ニュース:
-  - [東京ドームのボールクルーを募集 - 読売巨人軍公式サイト](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GbmRuQkxzSUNBTGlna1h3MzdUbXRiRkRaLUx1NXJFYVB3SDUxbkthRmZRLUdMU1U5NmFIQW5qWTBPRE1iYXZPRA?oc=5) - 読売巨人軍公式サイト (Tue, 17 Nov 2026) [score: 0.125]
+  - [フォーエバーヤングのラストラン予定でファン多数来場…東京大賞典の入場方法を大井競馬場が発表（日刊スポーツ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFA1MXhqUGVqaWZOTEpZZ1RLTnBiaUZENGIwWThGYWRSZFRqNm5HTlB5aFRKQ25KNzcwVlNTbEZSb3lLMnBwc0VXYnlXUmx0dnU2cWJZNjNzdUl4LVFzYlhEak5WRWY4UzB3QlFXZ0gxMXpPZGtOYU5jbGVKRTFLZlk?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 0.25]
   - [11月18日(水) 試合情報（vsアルバルク東京） - 東京サンロッカーズ](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5seGZTQ3VrVS01aGFIcjJaUGMzYXgyS0RzeVJRR2dsb2ExRUo5eVFBNHhPdldRRHRpLWtrak5ZWlczVmxld2FRUFI4YmJoSmNFdWFmWUl3?oc=5) - 東京サンロッカーズ (Wed, 18 Nov 2026) [score: 0.125]
   - [１２／１３（日）ＦＣ東京戦 チケット販売のお知らせ - アビスパ福岡公式サイト](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFMzdvaDkxUkFzSXdaTnR2TGtQMjBwaTg3X0ZOOTk1RVY0Vm1tZFBGODJuTnFUTC00T3pXNngxRUdsbkNLRnRwNEluTXBSa3U3YzFHZw?oc=5) - アビスパ福岡公式サイト (Fri, 13 Nov 2026) [score: 0.125]
+  - [グランドスラム東京2026（26.12.5-6） - 全日本柔道連盟](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lM1lZVzdQcnE2bW56NmVUQWM4SGoyaEd2eDRmWEpYMTZMM2cxcWUyTkhpVUpxUW9QXzNCRFZzSk13bkZ2MTIyRk51MDI5Y21ZeHc?oc=5) - 全日本柔道連盟 (Tue, 17 Nov 2026) [score: 0.125]
   - [東京スポーツ杯2歳ステークス - JRA日本中央競馬会](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CVWZqRmhMLWltZFpLay1US3kzQUZSUmVhRERaQWdEVThHUVNwU0R2WndjUVl0UlpjNlEzT3VkNk1BNU1SWEF6c3p2RF85Ym42d1M0?oc=5) - JRA日本中央競馬会 (Sun, 15 Nov 2026) [score: 0.125]
-  - [【東京のイベント】今週末は3連休！東京周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9id3RVVHNDODVycVJSLURzdFpQTDB2TXlDOEpJeUZNb29wLW5vYkh3VTFLYUoxRlpOWkJfNWNibmhLanN4VTlXRkRYSEg1dnhBWHR3aDBBN2pzYW1hWTdtd2o5QXhydFpVUThfNmFUd3NWdDJtSDRrUVl5Y0JodWs?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[ベルリンの広場、ケーテ・コルヴィッツ像が子どもたちを見守る](https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue)** - NPR (2026-11-18T06:00) [score: 0.333]
-    - 原題: Greetings from a Berlin square, where an artist's statue watches over children at play
-    - 要約: ドイツ・ベルリンの広場で、ブロンズ像のケーテ・コルヴィッツが遊ぶ子どもたちを静かに見守っている。広場は第一次大戦後に子どもを多く描いたこの芸術家の名にちなむとNPRが伝えている。
-  - **[フリーダ・カーロ題材のミュージカル開発中　演出はダイアン・パウルス](https://deadline.com/2026/11/frida-kahlo-musical-diane-paulus-silvana-estrada-broadway-1237228155/)** - Deadline (2026-11-18T19:00) [score: 0.167]
-    - 原題: Frida Kahlo Musical In Development With Diane Paulus Directing, Latin Grammy Winner Silvana Estrada Composing Score & Georgina Escobar Writing Book
-    - 要約: 画家フリーダ・カーロの生涯に着想を得た新作舞台ミュージカルが開発中だとDeadlineが独占報道。演出はダイアン・パウルス、脚本はメキシコの劇作家ジョージナ・エスコバル、音楽はラテン・グラミー受賞のシルバナ・エストラーダが担当する。
+  - **[南インディアナ出身歌手、CMAアワード新人賞を受賞](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONTk0Y3dHYTZZOTNmb1VIV2xNV3BqYVpxV2d2VHRlS1NjQ3o0bE11NElNN3MxMm9FOWVyRDdCWnNnMDk1WVBwWkxaWWRQRWhlWmhWdDdLTDlVWjV2bFdZNXVVX0VXY2NGTW5tSmRzZzA4UHFFbURsYXdLV18zSEJoUmxWdjRSakZBVk8xb080NG5MOUNfVGVlQkJTazU3c2RXN0I5MDVCcGVKS3k3NXdTWndnMUQtdExvUmcwTmNUaUpGaTBtUkpPQnlkd2ZtVHBNby1XVWdVdHllUQ?oc=5)** - WHAS11 (2026-11-19T02:04) [score: 0.333]
+    - 原題: This southern Indiana singer won New Artist of the Year at the CMA Awards
+    - 要約: 米南部インディアナ州出身の歌手が、カントリー音楽の祭典CMAアワードで最優秀新人賞を受賞したと地元局WHAS11が報じている。
+  - **[米ラウドン郡、3施設でアーティスト・イン・レジデンス事業](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HY0xRczlHc2p1dWlxWTlxYk16Tm5USzc1UDcwVEVmN1lhUmJQTm1vbzhCVGk4T0VONFhiRHBrdDZCc1d1Ny1kakFWWVV1SktMRXhkdGk5YTAwUk9YVG9N?oc=5)** - Loudoun County (.gov) (2026-11-19T15:01) [score: 0.333]
+    - 原題: Loudoun County Parks, Recreation and Community Services Host Artist Residency Program at Three Sites
+    - 要約: 米バージニア州ラウドン郡の公園・レクリエーション・地域サービス局が、郡内3カ所でアーティスト・レジデンシー(滞在制作)プログラムを実施すると発表したと伝えられている。
+  - **[今週のアーティスト:スワースモア大生が語る独自のライブ体験](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcm9sVlhMRk1Oa29rYm1wemkyY0R4VVI5QVZaSlZCZVlIRHJGRTl0VlNpM1duRDdPVlFJQV9vbHYySktnQV9relJqOUNRYjFRaWp3S0xPOWkxejN4dHBzQjR3V1ppQlB0R2J5N3ZEUFR3NXU1RkI2a2QzZGt4MFJWYlBtY3lWVmcyWG8tcEw4bldFMU1BUmstV2hiNnpaVDQ0WFBIeURUek9VNWVrSUMteFk3QzEyRmJHNF9j?oc=5)** - The Swarthmore Phoenix (2026-11-19T18:33) [score: 0.333]
+    - 原題: Artist of the Week: Spencer Kennedy ’27 on Creating a Unique Concert Experience
+    - 要約: 米スワースモア大学の学生新聞が、2027年卒のスペンサー・ケネディさんを「今週のアーティスト」として紹介。独自のコンサート体験づくりについて語っている。
+  - **[インディアナポリスの画家、見知らぬ人に肖像画モデルを募る](https://news.google.com/rss/articles/CBMiggFBVV95cUxNb29ka250MjMzb1h6T1VSZ0lFcFNfN05rRTc0dWd0NklDd2I2ek5OWUlweUlvNG5QOVBfOTlwQXFxMTNXSThEWHRDc3dwaVU3YzhUb1dwV0Y1MVV2RENoRTNIcHBWRE5tcmpmd3k5OTRLaXpkVjNpdlZKX2txRTc1SWx3?oc=5)** - Mirror Indy (2026-11-19T18:14) [score: 0.333]
+    - 原題: An Indianapolis artist put up a sign, asking strangers to sit for portraits
+    - 要約: 米インディアナポリスのアーティストが看板を掲げ、通りすがりの人々に肖像画のモデルとして座ってもらうよう呼びかけていると地元メディアが報じている。
+  - **[フォートウェイン市長、地元作家と壁画を除幕](https://news.google.com/rss/articles/CBMia0FVX3lxTE5IMVZPMFhDR083NkVEUUlsWE5pS2Y0NE5mZU5uTWpsV1JTSENJeWRGQ0hXYjVKNEJrQVpLc1VHb3RMc3hRdWhkM1h2ZTYtbTQ4RjdsNHRkRHhmWUcwSTVSeU1kUHhxemNKWF9B?oc=5)** - City of Fort Wayne (.gov) (2026-11-19T16:51) [score: 0.333]
+    - 原題: Mayor Tucker Joins Local Artist to Unveil Mural in Fairfield Terrace Belmont Neighborhood
+    - 要約: 米インディアナ州フォートウェイン市のタッカー市長が、地元アーティストとともにフェアフィールド・テラス・ベルモント地区で壁画のお披露目を行ったと市公式サイトが伝えている。
 
 #### 動画: [【日本映画の快挙】『ゴジラ-0.0』が全米公開でオープニング1位に！外国語の実写映画としての記録を大幅に更新し、前作の3倍のOP興行収入を叩き出す](https://www.youtube.com/watch?v=pqMUoYisBK4)
-- 公開日: 2026-11-09 / 再生数: 312,265 / 高評価: 6,569 / 視聴者関心度: x0.83
+- 公開日: 2026-11-09 / 再生数: 313,678 / 高評価: 6,588 / 視聴者関心度: x0.83
 - キーワード: ゴジラ, 快挙, 記録, 更新, オープニング, 日本映画, 全米公開, 外国語
 - 英訳キーワード: Godzilla, Recording, Opening, Cinema of Japan, Foreign language
 - 国内の関連ニュース:
-  - [『ゴジラ-0.0』が北米に襲来！実写日本映画初の初登場No. 1など快挙続々、気になる現地での評価は？ - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9oUjYwWXEwb2diWWJ5ODNBaWFleThGUEVYb01pd2IyTEx1Nk1GdXNaZXg3bzU1bkk1MnMzOElGYVJxQUNkOW9QdEpIS25qdmFjT1pCQWt6ZE1vWGgtZG9zVi1DWHlpSzFWTTBwajhTRW9TM2haVEwxTlcxQXhRUzQ?oc=5) - Yahoo!ニュース (Sun, 15 Nov 2026) [score: 0.375]
-  - [【11月14日（土）宮崎戦】『映画 ゴジラ-0.0』コラボグッズが登場！ - アルビレックス新潟 公式サイト](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FZzRPdVJJYlVUR3Z1cVEtbjlDZVZpV3owdi03OVlja3Rrckxpa21EUnBuSGxUQ3VQWlJBTFRjT3QzUndvVEtBXzRMcWJyUQ?oc=5) - アルビレックス新潟 公式サイト (Thu, 12 Nov 2026) [score: 0.125]
   - [11/21（土）より『ゴジラ-0.0』| 松本山雅FC コラボレーショングッズ 通常販売開始のお知らせ - 松本山雅FC](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZZ0QxbTloM3gtX1ZGZnhRSUgwaDc0YVF3a0J5dkVjcFFHbjk0OVc0RzdraXhTczFac05ZZHNEbWJzQ2wtc3ZlOGVjdlc5YUFXdG04?oc=5) - 松本山雅FC (Tue, 17 Nov 2026) [score: 0.125]
+  - [『ゴジラ-0.0』全世界興収150億円突破 実写映画のIMAX累計興収歴代1位に…場面写真も一挙解禁 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SeFFuSFJOWm12OThoODdfTk9GMUllbld4Z0U3by0xeEVvay0wT043eUJkaE1zVEh6WXhMaEN6dTF1TE9TakJMZU9FR0xFYzly?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.125]
   - [映画「ゴジラ－0.0」はなぜ人を集め続けるのか。ヒットの二つの理由 #エキスパートトピ（中西正男） - エキスパート - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODhNUTI4VVRUT3o5ZU1qNjF3c3hTUHpGaEd0VTZfb2FqQlFGeE9IQlZRbjl6enhETGlBcW8yRTZJcUd2bHdWZ0l3SlEzNl8yLWhUY0VvWTBocUJfdjJXd2VhS3d6eXFuS1N3Q2cxSmlZT0pYaUhnSVEtaWpWNW9JdkVDZU13Z0lO?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 0.125]
   - [映画『ゴジラ-0.0』興行収入が40億円を突破、シリーズ初の100億円に期待がかかる 国内実写IMAX映画での興収は1位に - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9xajM3ekV5QzR6UU5MdDNCcnFfZFF2UEJaYnZjdDhTM05MV1BvOGtZc1VYVXNIV3NIWWpMUkpzVk5kNXB3TjRxUDh4RkVWbUJNXzRNU2tTX1VpQUl4VnBjUzJ6ZUxwLTBIRnBuMGhGQUhkNk8wRWhDMnpndzUxUHM?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.125]
+  - [「ゴジラ-0.0」次のアカデミー賞にどこまで入る？ 予想オッズは…2部門ノミネート濃厚か（斉藤博昭） - エキスパート - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm5MMUM4T3I3WF9RVHR0bldxeFJvWXdnOVhTVVNLaUlhQlFocHY3c2lIZXFmVk5VdVhtVHpkQzZWRGxKdm9uWW5OYmdlQlNYMzNHbGtZRTRaN0tOSm4xNDIzcWY0Y3Yxci1hZ1VqaEhSbGYtVkVuX3JYdEpFdEh0UHdWR3g2LWo4?oc=5) - Yahoo!ニュース (Sat, 14 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[映画『ゴジラ マイナスゼロ』は怪物級の傑作](https://news.google.com/rss/articles/CBMieEFVX3lxTFAzdjdNeXFHaURONUJSQW8ybDlmWnBhSzJhU3VPV29CVVJOdmRBdE9XWlhzTlVpRER0S3RGMkVjakxHcmZNWjJ4ZlJNc0ZXLW01aUlidUQ4OG1xY0xUVktOalB4bXdkYVdZS0N1a1dhVVNjS1ZZLWFZSQ?oc=5)** - The Rider News (2026-11-18T15:19) [score: 0.2]
-    - 原題: “Godzilla Minus Zero:” a monstrously good film
-    - 要約: 米学生紙ザ・ライダー・ニュースが、映画『ゴジラ マイナスゼロ』を高く評価するレビューを掲載した。
-  - **[『ゴジラ』続編に存在理由はあるのか　批評記事](https://news.google.com/rss/articles/CBMie0FVX3lxTE5hT1l1ejJMVXVENnRmMWx6RzNLZGM1bjg1MWczU0J3WVBTR1g0X3lnSEJDdGJjMW5reGI2QnV4bGpTUnZXd2pQckc3aEFYN0s0YkJheVozMVE3aG9sODNlNDhhMUt3eUdnbDVXZ1NoaC1tcThzWkI2VDFONA?oc=5)** - Defector (2026-11-18T18:36) [score: 0.2]
-    - 原題: Godzilla Minus Any Reason For This Sequel To Exist
-    - 要約: 米メディアDefectorが、ゴジラ映画の続編について、作られる理由が見当たらないとする批評記事を掲載している。
-  - **[バスケ開幕戦ダブルヘッダーが延期](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcjQ4b3lyd2NfUlVzZ3RCcC1IbHFtUERFVDNoclpoMTBBRDRtVk11OVlZYVZ2Q1lqRlJvMkhwSkhjcmlHQWQ3SWo3UzdXd2lBakdYTjQyTjNfbXRfTE9FVDlMLTc2RmNYN1FKRkgtSjNCZFUyZ29xaXVucFlfeUtPTExqbWFNeEN5MHVoR2o1bjVzdWNSaVZPWmhxUWdpNWItblYxaEVXUWR3SU16clE?oc=5)** - Nova Southeastern University Athletics (2026-11-18T15:59) [score: 0.2]
-    - 原題: Basketball Opening Night Doubleheader Postponed
-    - 要約: ノバ・サウスイースタン大学の運動部が、バスケットボール開幕ナイトのダブルヘッダー（2試合連続開催）を延期すると伝えている。詳細な理由は見出しからは示されていない。
-  - **[多文化センターで開幕レセプション「TURN THE PAGE」](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMkdIYkFGMUpsTWltXzFCd3VuVW0tVHJuVmZBUFg2LWtTRmpyRHRxU00zVmNtZG5BQXJNT0x5UC1Qb0t1ckV5dDVwMlNXOV80VDhWT2xKaXpTS2NKRThTWDRfcm4yeXBCdVZxWVM3MF8tTGYycVEzb3d6Z0hLRUh6VzlONkQ0NDlDbk1IRTRVcDFhdEFqNV9BWEp3bDZNUWhmbHl1MEFmUXFpNUpubnpCZVBnb2JldnhFUlhLYTI5VlJoYkdsOGVvU0pSNGRlc3lHVlNESjRvMnQ0dw?oc=5)** - OCFL Newsroom (2026-11-18T15:29) [score: 0.2]
-    - 原題: Multicultural Center Opening Reception: “TURN THE PAGE (The Works of Eric Wise)”
-    - 要約: 米フロリダ州オレンジ郡の広報が、多文化センターでアーティストのエリック・ワイズ氏の作品展「TURN THE PAGE」の開幕レセプションが開かれると伝えている。
-  - **[テキサス州初のホワイトキャッスル、開店日発表](https://news.google.com/rss/articles/CBMixAFBVV95cUxOUk5QQmxzUjNXNFpzejFCNlhjcER0RldTa3dmTHlSYlhqYnVBOEM3c1B3T1JTMnN0WERiUmhWUFNTazB5TW1NMXRQWVJ3bHlkVldUUGxVMWFzLVZ5bWp0YlBPN082ekpxOVR1dlhULTFQdkZtU2Vvbjc0MmwxcktjSzYyNFpSQ211VGdRSWhoWlFQcXRwQVNqM3hfQ1JlRDZ2MWlHUFdzcXBVOF9kd281QVRiSF9jeWpQTGd5RGRLOVNybnM4?oc=5)** - WFAA (2026-11-18T14:23) [score: 0.2]
-    - 原題: Texas' first White Castle announces opening date
-    - 要約: 米テキサス州で初となるハンバーガーチェーン「ホワイトキャッスル」の店舗が開店日を発表したと、地元局WFAAが報じている。
+  - **[米フロリダ市議会、イマームの祈りにキリスト教徒が抗議](https://www.foxnews.com/politics/florida-christians-rebel-against-imams-prayer-opening-city-meeting-message)** - Fox News (2026-11-19T13:16) [score: 0.2]
+    - 原題: Florida Christians rebel against Imam's prayer opening a city meeting with a message of their own
+    - 要約: 米フロリダ州バートウの市の会合で、イマームのサジド・ブイヤ氏による祈りの最中にキリスト教徒の抗議者が主の祈りを唱えて中断させ、警察が介入したと報じられている。
+  - **[Anthropic、ナスダックで開会のベルを鳴らす](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNkRnckp3d3hKSDVfOUJ3bXhxN2xsU0hDWGxsSEYycUlOVmJ4b0h5ekNGWUNCX0xKY0xQNXlkak5fSzQ5Q3BMUVN3TnpxYUl4eDFfNU81WC1VVmJMZjZCYnlYX1pESEhPU1UyQTdhbw?oc=5)** - Nasdaq (2026-11-19T14:14) [score: 0.2]
+    - 原題: Anthropic, PBC Rings the Opening Bell
+    - 要約: AI企業Anthropic(PBC)が米ナスダック市場で取引開始の「オープニング・ベル」を鳴らしたと伝えられている。
+  - **[オープニングベル:2026年11月19日](https://news.google.com/rss/articles/CBMifEFVX3lxTE56eHRLMGI3OFplUTFERnp3TDBDUkdVZ0hTWVZpY1NrbFNLQVpCNTlxZ1pXcEZJOGVUc01kQUxpcGs0dUtqM3NhME40RU9GNmMyZ29VUTljYTc1Q0VoQWZhbEtSOFJIMWtRbEFjenJZLUdlMVR1TUFBWFFQbjc?oc=5)** - CNBC (2026-11-19T14:36) [score: 0.2]
+    - 原題: Opening Bell: November 19, 2026
+    - 要約: 米CNBCが2026年11月19日の米国株式市場の取引開始(オープニングベル)を伝えている。
+  - **[ホークル知事、1.15億ドルの食料支援拠点の倉庫開設を発表](https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHFpSWRoU2hxUTBBWVhTbHM2eEhLNlZuTEl5R0M3WWg2WVV5dWp3UkxwSlhRWjBuenlRTmVKZXZQd1E5WXFvNmFNTFZMSUhEMXBZTjdWelA5SW9PWWJmTHE3TEg0eGExYmFzcFJmSWtBUzJhbWZ5T1BJMjZjMlBZVnQ1bUJiUi0zbUVYekVTTzlIOXlOOTl6RGhmcHVjMmlPcTktMkZJeGx3dF95QU5WMFJMUUVCbHdCamNvOVhn?oc=5)** - Governor Kathy Hochul (.gov) (2026-11-19T17:35) [score: 0.2]
+    - 原題: Governor Hochul Announces Warehouse Opening Ahead of the Holidays at FeedMore WNY's New $115 Million Regional Headquarters in Hamburg
+    - 要約: 米ニューヨーク州のホークル知事が、ハンバーグに新設されたFeedMore WNYの1億1500万ドル規模の地域本部で、年末の祝祭シーズンを前に倉庫が稼働すると発表したと伝えられている。
+  - **[フーシー議員、宇宙天気に関する公聴会で冒頭発言](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXJHRzJQRzdmaEpCQzFKYmhFcl9odDFNYkRMc1ZqeDBqRG1mZExGaHR4QjI1VkctUk5pX2o5WVlWbkhaV0gtU3VGXzV5bEFYX2NIMno3bmZLV3E4TFBFczZ2RUUwTWJ5UEJ2TjFubk5VQ2luV3NPLWJQb2VsQnFkaUhWV2ZuRXJhMW5hY3VXMmxTVWg3Z3BEaERrcG1WZTRuUkRKOVAtaDlWbW03ZkktRHhsSQ?oc=5)** - Congresswoman Valerie Foushee (.gov) (2026-11-19T18:05) [score: 0.2]
+    - 原題: Ranking Member Foushee's Opening Statement at Space Weather Hearing
+    - 要約: 米下院のバレリー・フーシー議員(少数党筆頭理事)が、宇宙天気に関する公聴会で冒頭声明を行ったと議員事務所が伝えている。
 
 #### 動画: [「Wokeが戻ってきた！」米中間選挙の結果を受けて配信された人気ポッドキャスト番組が大炎上！チャーリーカーク事件を揶揄する投稿に司会者が30秒近く笑い続けた結果、スポンサーが撤退を発表してしまう](https://www.youtube.com/watch?v=ETPNuG-Ig7g)
-- 公開日: 2026-11-08 / 再生数: 427,133 / 高評価: 8,668 / 視聴者関心度: x1.13
+- 公開日: 2026-11-08 / 再生数: 428,259 / 高評価: 8,675 / 視聴者関心度: x1.14
 - キーワード: 結果, チャーリーカーク, ポッドキャスト, 揶揄, 投稿, 司会者, Wokeが戻ってきた！, スポンサー
 - 英訳キーワード: Result, Charlie Kirk, Podcast, Insult, Media presenter, Sponsor
-- 視聴者コメントの頻出語: 左派, 邪悪, 思想, ダメ, トランプ, ヤバ, 人間, 自分, 共和党, 左翼
+- 視聴者コメントの頻出語: 左派, 邪悪, ダメ, トランプ, 自分, 思想, ヤバ, 人間, 共和党, 国民
+- 国内の関連ニュース:
+  - [大相撲 - 2026年11月場所 取組結果 - スポーツナビ](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2SUhjWGt5OW5YUkpCLTYzUy1EeWpaLUFHaWUwQnVYRnFPblE3eThVNnBUdF9nUThnMWt5em1xUzBnLXdUdmpFZktuOVU1NnVWTEJ3VTBqWjRSeFFmdjE4?oc=5) - スポーツナビ (Tue, 17 Nov 2026) [score: 0.125]
+  - [日米対抗ソフトボール2026 試合結果 - 日本ソフトボール協会](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTBwV0pXOXJzMEduVFEyS3VlMU85WlFydm85Mjl3VTRkWlhOeU1WREFwamJWTE5YSEFJZUFjTHdzenhHVjNVaVhaVUcyVHpVellrTEZmNS1KRHZ1dThPVEVzZjJuTnFEUWRTOTg1aDNvR0h3UThlLUN4ZERhUHNHX0lHTU1uNFpa?oc=5) - 日本ソフトボール協会 (Thu, 19 Nov 2026) [score: 0.125]
+  - [レース結果 - JRA日本中央競馬会](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGpOWEJrUXdIV3dhblZDWm9ZT1hoQW5fbS12bzdza1lmcE4zZjZGNnNPLVFLQTNqdHJoU003cUpwR0EzMXNmNVpTMi1JeXR5UmRiVEU0emp1MEVkcktYY0NFcWtjMlVRYUF3ZDloXzgyNTZxSmFfN0hFendBYzNleFpqWGIyQQ?oc=5) - JRA日本中央競馬会 (Sun, 15 Nov 2026) [score: 0.125]
+  - [税源の偏在是正に関する国への申入れの結果等について - 埼玉県](https://news.google.com/rss/articles/CBMibkFVX3lxTFByZ2hPMG81Sm4xdWtqWVJkRlZvTzg1Y1VhNnRFZVV1eTJjTGNkNFZTUjNsYWk0OVRSemtqdlhnNWwtVE5OTGoza0lsbUhRSTNNRGk4eFlaUkdrMW1fYUFrcnZKajV5clJOWFRzQjN3?oc=5) - 埼玉県 (Thu, 19 Nov 2026) [score: 0.125]
+  - [【7区別の開票結果】福岡市長選 5位以下の9人が供託金没収に 博多区では森氏がトップに ほか6区は稲富氏が最多 - 福岡TNCニュース](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzUHJlQ2VzQkg3SkozSTNWS3JneGE0TENIdUZTcl9PUXJSUlkwQTU1cDRqZ2VQeEM3cGllcnhfU3RrVEJpZS1MNkhqWjBOU0tRQXpUYWJDS2E1LThJT1huTUpqcw?oc=5) - 福岡TNCニュース (Tue, 17 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[ドキュメンタリー祭「Doc Stories」に名匠集結](https://deadline.com/2026/11/doc-talk-anne-lai-jessie-fairbanks-sam-pollard-jm-harper-1237227326/)** - Deadline (2026-11-18T20:30) [score: 0.167]
-    - 原題: Doc Talk At Doc Stories: Podcast Encounters Festival Leaders Anne Lai & Jessie Fairbanks, Filmmakers Sam Pollard, J.M. Harper
-    - 要約: SFFilm主催の4日間の映画祭「Doc Stories」がサンフランシスコで開催され、ローラ・ポイトラス氏やエイヴァ・デュヴァーネイ氏、サム・ポラード氏らドキュメンタリー界の著名人が集まったとDeadlineが報じている。
-  - **[レスター、ポルノ女優起用巡りスポンサー解消](https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss)** - BBC Sport (2026-11-18T19:10) [score: 0.167]
-    - 原題: Leicester split with sponsor after porn actress row
-    - 要約: スポンサーのBC Gameがポルノ女優をブランドアンバサダーに起用したことにサポーター団体が抗議し、レスターが同社との契約を解消したとBBCが伝えている。
-  - **[カーク氏遺族が心境、被告の審理開始](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc0ZzX3BiN1k1aS1ZQnNHbW9RZ1J6TTdldUo0SnNfelJrZTRCWnZTT1pjYy1ac1I0S19mWGtpaXVLRXJiSTl1dWhPMFRFWkJIOEIySVpJdVJGUzVmT2c3ZHo0YmhMaHBWQzFfRmc5SklESjZHbU1qMzgzdEJNY0o1Sk9Na2cwc1JRVW1KQnQ2Yldld3RoRDRzNndCQ0JuSk9aU09Yb1duQTBBdEHSAbABQVVfeXFMUFlsaVZYb2w3T2R1Q2FzLUVGZXlzZHJkbldsbGVueEh3ZGRyRlhGeUJ3dGNTOGctNVlpdDE1YVl0cXI4X2xDd29BUF9TMmNUWUVhTS1adXk0dGpMakVta1ZZcFd5SkVacjF0N2szNEluU2NGeDVPdW5SekJZVzBmanp6MXV4UmF3d210aGYwSV9RMndmeHl3NVNmbjZndGZ3Y01JRUVYRFVpWmJIUUNqd2E?oc=5)** - ABC News - Breaking News, Latest News and Videos (2026-11-18T08:48) [score: 0.167]
-    - 原題: 'Painful reminder': Charlie Kirk's family speaks as accused killer's hearing begins
-    - 要約: 殺害されたチャーリー・カーク氏の家族が「つらい記憶を呼び起こす」と語り、殺害容疑で訴追された被告の審理が始まったとABCニュースが報じている。
-  - **[コラム：活動家のSNS投稿がドクシングを招く](https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2ROWEpxNTdubWNGdWgwby1uZTNuUVZrQ19VTHV0MEhqVllhZ2RrQ2NHeEdvVC1IMEx5Y1JPQnZRSUpVNzl0TTJOS1MyaEZYaTJKN2xqcV9VamtyWGhJdXpMVXlUOE5FejFNOHhHNi1hSVJBeC03YjdnX08tSEhULWpxRTZ5UVFRM2t0NHVPRGZrR3Y0VVNHSnVQbUdELXVTSnRwcVdyWQ?oc=5)** - The Washington Post (2026-11-18T13:00) [score: 0.167]
-    - 原題: Column | Asking Eric: Activist’s social media posts result in doxxing
-    - 要約: ワシントン・ポストの人生相談コラム「Asking Eric」で、活動家のSNS投稿が個人情報の暴露（ドクシング）につながった事例が取り上げられている。
-  - **[「ポッドキャスト選挙」は定着する](https://news.google.com/rss/articles/CBMicEFVX3lxTE1PdFIydC05QzROMnB6a284OWVYZ2pGNFdGbDZuQVNtM0cydmNPcG95bTR3ZEJRdk51ZkxSc09jVmQwY1JTODJyREptWGNLTGwwcmZYQ2hvbFZyZWpXRGg2Rno5dDNKa05NeGhxcWRZU3E?oc=5)** - https://ssrs.com/ (2026-11-18T16:50) [score: 0.167]
-    - 原題: The Podcast Election is Here to Stay
-    - 要約: 調査会社SSRSが、選挙運動におけるポッドキャストの活用が一過性ではなく今後も続くとの見方を示している。
+  - **[欧州はトランプ・プーチン・習近平の影に? ポッドキャスト](https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast)** - The Guardian (2026-11-19T17:23) [score: 0.167]
+    - 原題: Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast
+    - 要約: 英ガーディアンのポッドキャストが、バーナム氏がベルリンとブリュッセルでウクライナやEUとの関係強化を協議する一方、中国でのAPEC首脳会議でトランプ、プーチン、習近平の各氏が会談したと伝え、欧州からの力の移行の始まりか単なる演出かを論じている。
+  - **[ディズニーとVisaが提携 香港ディズニー特典やD23アジア冠スポンサーに](https://thatparkplace.com/disney-visa-asia-pacific-hong-kong-disneyland-perks-d23-asia/)** - That park place (2026-11-19T00:15) [score: 0.167]
+    - 原題: Disney and Visa Deal Brings Hong Kong Disneyland Perks and Makes Visa the Presenting Sponsor of D23 Asia
+    - 要約: ディズニーとVisaがアジア太平洋地域で提携し、カード会員向けに香港ディズニーランドの早期入園やキャラクターグリーティングを提供する計画と報じられている。Visaは2027年6月のD23アジアの冠スポンサーになるという。
+  - **[NE10ポッドキャスト、SMCサッカーのマクラフリン選手が登場](https://news.google.com/rss/articles/CBMirwFBVV95cUxOamZiQnZNd1lMS29BbWp4TExLb05MYUVVRUxnR0tCRkxMRGM5OUlFaWt3ZlRwcF9FTDNBM0UtdVA1YXpZNVUxOTdNTFdNR3lNZ3gybTg5TTE5OExRS3pEX3BDREgxTlJVZVYwYWJiOFZZZW9jLWNiUzdxelJaQzdodHFsdGMzM0F2ckhOTm91cFRUMlJXUEUwejVQOHI3SkF6a1BiWkZsWUwzczJFWG9v?oc=5)** - Northeast 10 Conference (2026-11-19T15:47) [score: 0.167]
+    - 原題: NE10 NOW The Podcast: SMC Soccer's Bridget McLoughlin
+    - 要約: 米大学スポーツのノースイースト10カンファレンスのポッドキャストに、セントマイケルズ大サッカー部のブリジット・マクラフリン選手が出演したと伝えている。
+  - **[ポッドキャスト:市民参加と次世代教育 ゴーサッチ判事ら出演](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdVQ5cE84Q1pXV2RvV2hjLU5VRVdza2pZVEViOU1JTm9fcTNXMi10SE9MWl9hZnRRZFRwTUdxbXNUXzBPblVOUURheUZzV0FxdTlYY245SDczVFZwT3h6QXBWUmlhenQ2NzBnZnlfNjVrV0t3MkpzNThKTnBCTFluOWFTZGpnLWFpbm1rbjA4WjFKOHBhVkMtekMtUUJ0cHpVQ19jWFRJdnhYT19qYWFsWGVsbFJYMkdKbHc?oc=5)** - George Mason University (2026-11-18T23:27) [score: 0.167]
+    - 原題: Podcast: Preparing future generations for civic engagement, with Justice Gorsuch and Janie Nitze
+    - 要約: ジョージ・メイソン大学のポッドキャストで、米連邦最高裁のゴーサッチ判事とジャニー・ニッツェ氏が、次世代の市民参加に向けた準備について語ったと伝えている。
+  - **[「チャーリー・カークを論じるなら結果も覚悟を」](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2kyNEY1VmlzV0FzTW91aF9PWFNudVVwQ3FTREtCY3pGcnBsdHVCclhEZ2Vwbll0aGF3UDg1N28wTTVjYWZvZTIwSVBaUHpSMXl5SktRYWlBX3lYNWJ5VVVRQlFKYVY2NWI3aFJBdExWY0R4dEVRMXFiRER0S0JHb2hRUEhtdi1KTnJYWVZrRlNaNzRLVm1TLU5Pd0RMdnhOcGxKejJ6elA0S0RNS093b0swRVVDcmM3TG1MZWJFRE1ka0tP?oc=5)** - Street Roots (2026-11-18T20:55) [score: 0.167]
+    - 原題: Say what you want about Charlie Kirk, but be prepared for the consequences
+    - 要約: 米メディアStreet Rootsが、チャーリー・カーク氏について自由に発言してよいが、その発言には結果が伴うと論じる記事を掲載した。
 
 #### 動画: [【満を持して登場し大コケ】ネットで人気を博したSFが、中国初の生成AI長編映画「三星堆：未来往事」として公開！劇場には誰も足を運ばず、中国全土の劇場がほぼ1人の貸切状態になってしまう](https://www.youtube.com/watch?v=OOexIfOD9OE)
-- 公開日: 2026-11-05 / 再生数: 530,294 / 高評価: 6,579 / 視聴者関心度: x1.41
+- 公開日: 2026-11-05 / 再生数: 532,130 / 高評価: 6,588 / 視聴者関心度: x1.41
 - キーワード: 三星堆, 劇場, 未来往事, 中国初, 生成, 長編映画, 公開, 中国全土
 - 英訳キーワード: Theater, Generating, Feature film
-- 視聴者コメントの頻出語: AI, 生成, 凡庸, 牛来, フル, 人間, クリエイター, ショートドラマ, ライティング, 広告
+- 視聴者コメントの頻出語: AI, 牛来, 生成, 人間, ショートドラマ, フル, ウゴウゴルーガ, クリエイター, ライティング, 結果
 - 国内の関連ニュース:
   - [『劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師』公開二周年記念 舞台挨拶付き上映会 開催決定！ - 松竹株式会社](https://news.google.com/rss/articles/CBMiZkFVX3lxTE84SnJ5azdNYmpRZThyWXpoR3U4SjZycTQ0UFB0cmJSTjVTU2xRZnZnZnh5OWxENWM5WnlQTUdodDVvR3FwempOUmJ6RHFneGItOC1UY2NPcHB3OW5tWjE2OUprV3ZqQQ?oc=5) - 松竹株式会社 (Fri, 13 Nov 2026) [score: 0.25]
   - [中国初のAI制作による長編劇場映画 細かな描写、興行収入は？ [AIの時代] - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Y0RuQlIzVUxpLV9WZmFFYmZQSHp1ZlZFNnExYWM1bWJOR1ZiRlk5NlRlV1lONmQ5Y3Z3VFgzaUZseU82cjRSenBYS2lNUDV2QWFaMmtFZjAwV0R4Tk01ZUdYZnd1bWM?oc=5) - 朝日新聞 (Mon, 16 Nov 2026) [score: 0.25]
-  - [映画『アベンジャーズ／ドゥームズデイ』劇場公開記念チキンケバブとシュリンプのシャワルマ - ディズニー](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCT3g5SW5CdFN4TWdWdnhzaWN5U2JhcHNTMUtTenpKakRoWS1IRVVDa2pWZWtheG5Mc2RLTjY0MW8tWTFFeVZ5TDVlb3MyUXBUOWtWbU4zX0h6cjVQNDB3SnpXM3hyQQ?oc=5) - ディズニー (Fri, 13 Nov 2026) [score: 0.25]
-  - [新劇場の名前は「ナゴヤ劇場 by PARCO」に 名古屋に2027年7月開場（ぴあ） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE05U2R4SHBGU1UtdmxZREJaYzhkSXIyNnZnNHl4ZWFxODJJcXJ3bzFGelpjQmxmQk9NQnA5eS14VHhJUDBUTU5uN3VBRVRKR09CMkxoZEpFYndxWHRGSTZUeEpXM0NvMmQ4M0w0VzRuSnMwNjg5U1lsYktsVlBYMUk?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.125]
+  - [「VIVANTが日曜劇場に帰ってくる！」 新情報解禁→ネット歓喜（オリコン） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFB6QWMwZElpYnhRVVhrczJCbzBsak4xN2FGNTNqVDRtYjFBckVoZ0tOWVRsdDc2eThLbHI2ajY2V0JlYUsxRklPazE2bHdpZTVpTmZ2LTU2WmlZVXNvYjVTNG9Ra0NqMGdFa01kX0N2OUlmZFJjRmQ3eWd2SlNlYkE?oc=5) - Yahoo!ニュース (Mon, 16 Nov 2026) [score: 0.125]
   - [クリスティアン・ティーレマン指揮 ベルリン国立歌劇場管弦楽団≪シュターツカペレ・ベルリン≫ - サントリーホールディングス](https://news.google.com/rss/articles/CBMie0FVX3lxTFBqWEJEVkcwbHZIdXhkODhUNUdVX2RrejkzRW15THpVRmdKQnZ2VFpjWTRxcmZhZDVLQVc3QlNaTTd2UWZOZlV2YzBZTWNtU2ZQX2oyaXNGZDZQZEdhbjRKTDFlZWczTU1XUWxtQTRxeHl6ZnNfMFRTNi1EVQ?oc=5) - サントリーホールディングス (Tue, 17 Nov 2026) [score: 0.125]
+  - [劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』コラボキャンペーン第2弾！コラボ駅名板掲出いたします。 - 湘南モノレール](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xWVF5V0pyUTBxUFlCOE9TWDA5bmxURDVIOWVyZFA3b1RvaGU0RFFwZXJUTFIwWloxNHN4MnBpMnh2OWJuaGtfaGhRcm9nT0Z0czYzMEplbmFwSXJHNVVfWHFaZjJFQQ?oc=5) - 湘南モノレール (Fri, 13 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[再開のフォレスト劇場でミュージックビデオ祭](https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEotdlhFaFIwaEhucjNyWFE1VGpLeXVoakxZZjgzTVhXUV95NXlYbEhZUmtXNkhZTEhDSDhHcXhqTnZkR1o3aFBkekVDY1hpcnhWWWgyaXJFMFZBWjJ1UWpBdGhzQ0N1NUVkOENtSHlUTDFhOUxxbF9VUzRWcklzRExXUS1UdEhEcmFSNkFoc0pVOEdtR1VDNlkyeVRjX2NDUklzNnl3Qm16aE9z?oc=5)** - www.kera.org (2026-11-18T17:26) [score: 0.333]
-    - 原題: Newly reopened Forest Theater will host a music video festival this weekend
-    - 要約: 最近リニューアルオープンした米テキサス州のフォレスト・シアターで、今週末にミュージックビデオの映画祭が開かれるとKERAが伝えている。
-  - **[劇評：『みんな我が子』](https://news.google.com/rss/articles/CBMidEFVX3lxTFBacjNGN0Jzc1ZrM3d6SGhHOG40MEF1V3BCTTQ3WUxLbTlDNFpWOENiMUVCNjdISFdySUtkTExzNGEwY1NPVVkyWTlVWkJ4MDY5TEFydlp6eGhGQmNXQTYtVXpiWGJWUmhpRFVQR3A4Q2RIQjIw?oc=5)** - The Santa Barbara Independent (2026-11-17T21:47) [score: 0.333]
-    - 原題: Theater Review | ‘All My Sons’
-    - 要約: サンタバーバラ・インディペンデント紙が、アーサー・ミラーの戯曲『みんな我が子（All My Sons）』の上演について劇評を掲載している。
-  - **[傾いた床：文字通りのリビングルーム演劇](https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGZMMXg4UVFNelotMk9sZG9RR0YwNktCa0prUEV5c1J1TkZyNV8wT29rckMxVnZtdHpRV1lNNmY1X2JIbGhoZnpfQ21GSVdfc19vQ1hXdGswYS1YWVJ3ZDEwaFBId2dEdDc1elJRdFEwNXpsMElhZWY1enQwYnJrNVlzRFBOaTZNd2c?oc=5)** - New York Stage Review (2026-11-18T01:09) [score: 0.333]
-    - 原題: Slanted Floors: Living Room Theater, Literally
-    - 要約: ニューヨーク・ステージ・レビューが、居間を舞台にした作品「Slanted Floors」の劇評を掲載している。
-  - **[パークシティ高校演劇部が『エニシング・ゴーズ』上演](https://news.google.com/rss/articles/CBMingFBVV95cUxQY3h3UXNPLXAyc2xpc3BCLXgxVGFCd0Q5bWIwbl8tcUFrYk9Rak5yakthRlhSYTg4VUFWX0NpYnc1bVA2Ukh5M1ZmUkRPbE1JTkx0eXFIYm03NzVGdkgzV3daRXBWelFweEtOLVlOWTRfczdobm04Uk02ZVl6TnYtLTlhXzBXMGVxajdhQlRuQU5UdThuVG9aenM3UTFCQQ?oc=5)** - Park Record (2026-11-17T20:20) [score: 0.333]
-    - 原題: ‘Anything Goes’ in Park City High School’s theater department
-    - 要約: 米ユタ州パークシティ高校の演劇部がミュージカル『エニシング・ゴーズ』を上演すると、地元紙パーク・レコードが伝えている。
-  - **[美容・演劇課程、エバレット校の新校舎へ](https://news.google.com/rss/articles/CBMitgFBVV95cUxNLUhWUkZlX3k5bHhpZ2xBSjMtOTluYjlicUhER3ZKT0lyY1VCbTRwaFBuQ3BfLUtsc0MxYml6QThaX1djWVhtOWF1dFBLdzQ5dXRJMng1d2hCSjd0czk1U1ZienZGSE5nRkR6cW5hUG9Hel8xX0lSdTdrMGRxZ21ydjB5bXdQZEtWVC1yZzkxbmhHLVRsYjVBc240NkdtSEdHQ0xQVHVrTzJQTVd6ZWhfZWNlb0k3dw?oc=5)** - Everett Post (2026-11-17T20:46) [score: 0.333]
-    - 原題: Cosmetology and theater programs graduate to new building at Everett campus
-    - 要約: 米ワシントン州エバレットのキャンパスで、美容（コスメトロジー）と演劇のプログラムが新しい校舎に移転すると、エバレット・ポストが報じている。
+  - **[エジプシャン劇場で深夜上映が復活](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWtOYVhJN19VSjA3aFoxejFHUXVlZFQ4TkhwVXRVcmtrOF9JMGJHMGRpdTBJenc5NThqcnZibkt1ZW5Ed1BvdmhodFd1Z2pEYk5fTEVsSkp3b2U2WDhsZUh0Y1VaYmVsalg4NXhiaUtEaW5hc0tRSnRmLWNYLVc3cF9EU2xDV29HcEZTT0Zvdy1ZTUVrRk1heEJsbw?oc=5)** - The Spectator (2026-11-19T07:14) [score: 0.333]
+    - 原題: Midnight Movies Rise From The Dead At Egyptian Theater
+    - 要約: 米紙The Spectatorが、エジプシャン・シアターで深夜映画の上映が再び行われていると伝えている。
+  - **[「MST3Kライブ」2027年に復活](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXpBWmZ6UGlWZnJtZE9OQm9EY3h5MV9vcE9FZURKWVZTM3NNLTVyUVlZY1l0Q2d1NTRhRlpoVC15SUZYenJCOVVxWm1PYlZrTjF0LUZUcDEza1FhUTRsYkVlTmJxeExyY3R0VHpzMGpBbWJpY05hTHpvUXNHSE4zbjE5Zkotb3NZdFhzVFNWNVc?oc=5)** - Pollstar News (2026-11-19T16:58) [score: 0.333]
+    - 原題: ‘Mystery Science Theater 3000 Live’ Returns In 2027
+    - 要約: 業界誌Pollstarが、人気番組『ミステリー・サイエンス・シアター3000』のライブ公演が2027年に再開されると報じている。
+  - **[映画で見る演劇と図書館の展示 今週のアート4選](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVW9MMU5yNW9nRVlhRTliSGp4bDBvWGtDM0xIS1Y2cmh0dHYxZEZQN2dzYWJTWmVuR0RhZUZGRU0zbHEwajJLUTAwNGQyVzd3cU9KTkJYVTZlMDk4OGhoM1AzY0lCaEdOeVFpZDQ2VTNRTGZvakhxR21sT0xGeVRzZGlaQ3VYTUdDOU1JcHlIWUZSb3p5WXg1WQ?oc=5)** - WTTW News (2026-11-19T11:11) [score: 0.333]
+    - 原題: Theater on Film and a Library Installation: 4 Arts Picks for Your Week
+    - 要約: シカゴのWTTWニュースが、映像化された舞台作品や図書館のインスタレーションなど、今週注目のアートイベント4件を紹介している。
+  - **[「人手不足で仕事は山積み」 ミルウォーキーの劇場が支援訴え](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2R5czF4aE1uR2hIVW1nODJ2YjkxMmJKQjk3dEgzSnlmR1NkRGZaNnprUzg0M3FaQjc1ZGNmcnRnUG9ITzJCVkZnWnpLYkFxUGw2YzdjcmpKOHZCbUhwUlRLd3dndlBqYm9WbUc1MENaZldfY2x6dnM5b2R2NE1ZQkQ2TlJFaFJzOThGcXpJZVMyS3NVVHlPc0JyYUFKZUlYX0QwR1hxd1VXSW02NWE4TU03aWE?oc=5)** - OregonLive.com (2026-11-19T16:04) [score: 0.333]
+    - 原題: 'Too few people and too many tasks' — a Milwaukie theater's plea for help
+    - 要約: 米オレゴン州ミルウォーキーの劇場が、人手が足りず業務が多すぎるとして支援を求めていると、OregonLive.comが伝えている。
+  - **[ミュージック・シアター・ワークスが若者の活動ポスター企画を支援](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVlGOFB4aVl3aWN3bHdRNHVyeV8walhNRXF5cDRKRy1hTU9yU2QxX2Q5Zm9mTnZ0NVhvc2dZOGZlT0FwZnNDYmVYZThIWm5Zc2Fybm9yWng3WTJJa0RQcFZMRHBmOVBGUjFjbVFycXM0RzN0enlYVFZIbnhaZWd4SE9GY1ZtM3RuRW9Ba055UG1RbE1jajNueVBGVFhYUWRrM1hiRGx1Q2pRcUo0NmE2UFh0MXMyaWxQM3lZSGNZaFc?oc=5)** - Evanston RoundTable (2026-11-19T01:05) [score: 0.333]
+    - 原題: Music Theater Works supports youth activism poster project at Art Makers Outpost
+    - 要約: 米イリノイ州エバンストンの地元紙が、劇団ミュージック・シアター・ワークスがArt Makers Outpostでの若者による活動ポスター制作企画を支援していると伝えている。
 
 #### 動画: [【海外の反応】日本のアイドルによる「ひつじのショーン」のハロウィン仮装が騒動に！？そんな中、アメリカのバーガーキングでは顔を黒塗りにした従業員が現れネット騒然...果たして世論はどう動いたのか](https://www.youtube.com/watch?v=N7FaZibHZmM)
-- 公開日: 2026-11-04 / 再生数: 376,693 / 高評価: 6,512 / 視聴者関心度: x1.0
+- 公開日: 2026-11-04 / 再生数: 377,202 / 高評価: 6,515 / 視聴者関心度: x1.0
 - キーワード: バーガーキング, ひつじのショーン, ハロウィン, 仮装, 海外の反応, アイドル, アメリカ, ネット
 - 英訳キーワード: Burger King, Shaun the Sheep, Halloween, Stage clothes, Japanese idol, United States, Net
 - 国内の関連ニュース:
   - [魔女風のハロウィン衣装が素敵！「葬送のフリーレン」フリーレン、フェルンがプライズ展開（インサイド） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE0wOU9GXzMxRkkteTBjZ2VhOFZKRFdQNlVoUkRVSklhUkJvdVVuZG1vN0FFNVFIQnZNaU55dWhuSC13VjM2aEFDdGNwUGFzMzJua0c2T2ZVWUZRZmxycXdFcWhnZ3BsNURlZFVuZG1kVDBuOTBhLWRReWNSaEY0Y0E?oc=5) - Yahoo!ニュース (Thu, 12 Nov 2026) [score: 0.125]
-  - [「ランチは全部バーキンでいい」【バーガーキング】11/20まで『人気ワッパーセット』最大28％オフに - 朝日新聞](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EVG12QWhab3VPY1NBSlFSekhZZE04UnpJdEdWeTlncktjX3JfMFg2cV9XekJUaW5jQ3d6WG5wckxkdlRtd01TVlhubUpCUHFkMEZBSWlZNW55eENldi05T3BqRQ?oc=5) - 朝日新聞 (Sun, 15 Nov 2026) [score: 0.125]
   - [☆ハロウィン☆｜ツクイいわき小名浜グループホーム - ツクイ](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBS0psQ05sMFp4OGFKbFJIVmNWLUhDUWxkUjJEd1NsdWUzTXgyQXJUbHUzUmZhNW42NHFWN19HTkpIMVFYX1dsVWQ2SHdhTjdyZGpPb3lqVQ?oc=5) - ツクイ (Fri, 13 Nov 2026) [score: 0.125]
+  - [「ランチは全部バーキンでいい」【バーガーキング】11/20まで『人気ワッパーセット』最大28％オフに - 朝日新聞](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EVG12QWhab3VPY1NBSlFSekhZZE04UnpJdEdWeTlncktjX3JfMFg2cV9XekJUaW5jQ3d6WG5wckxkdlRtd01TVlhubUpCUHFkMEZBSWlZNW55eENldi05T3BqRQ?oc=5) - 朝日新聞 (Sun, 15 Nov 2026) [score: 0.125]
   - [都市型ハロウィン - クーリエ・ジャポン](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxWGJlMFpTcThPRWlxM0JEd3pLVG9fdDJpT01URkNPdXZ0cmdGVDN3bXBmZzd3d0E4NFN5RXVvTGYxZVlwZWhIUERQcHdVV3VEVnc?oc=5) - クーリエ・ジャポン (Fri, 13 Nov 2026) [score: 0.125]
   - [ハッピーハロウィン♪ - 東洋大学](https://news.google.com/rss/articles/CBMia0FVX3lxTE1ERkFaeHg5VHd1bDVHU1JjU21PUVJqb0FXNjBTWjlqQ1VSMkUyVXl4cFlERkhoQU1XZlgwdTRCNkVydVF1cTBuSTZxU3hjNGZIVlRkbWVUR3VrUXluZFByQl9SeFlTc3ZCNzMw?oc=5) - 東洋大学 (Fri, 13 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[ハロウィーンのバーガーキング強盗、FBIが逮捕](https://news.google.com/rss/articles/CBMidEFVX3lxTE01cEFiLWpxSE55LVVMRk1TWjBoLW5fUWg3UGFQX3FIdUpXTjZsbW1xTU8tMFJUQ3pPM08wdmRuWVdqanpjRjBVaG1XZjV3bWludXhGYUlxSXJldXJYQ3lNdmgyOUxRbC1zcjRiR2NNTm5XWTg50gF0QVVfeXFMT0ttci12T1dEYk5xYXVIejFMVzc3QTRFeF83blNaSElUQmwwYmtHRDZubTE0dlZfcW5fSFMyS3hSVTlaYVhyaHUyOG1OMHVlZ0h2d08wU201Zjk4VDBjMGR3bDNwU1FKdGltZUpaNGVBOVlqdnU?oc=5)** - Miami Herald (2026-11-18T13:51) [score: 0.286]
+  - **[ハロウィーンのバーガーキング強盗、FBIが逮捕](https://news.google.com/rss/articles/CBMidEFVX3lxTE01cEFiLWpxSE55LVVMRk1TWjBoLW5fUWg3UGFQX3FIdUpXTjZsbW1xTU8tMFJUQ3pPM08wdmRuWVdqanpjRjBVaG1XZjV3bWludXhGYUlxSXJldXJYQ3lNdmgyOUxRbC1zcjRiR2NNTm5XWTg50gF0QVVfeXFMT0ttci12T1dEYk5xYXVIejFMVzc3QTRFeF83blNaSElUQmwwYmtHRDZubTE0dlZfcW5fSFMyS3hSVTlaYVhyaHUyOG1OMHVlZ0h2d08wU201Zjk4VDBjMGR3bDNwU1FKdGltZUpaNGVBOVlqdnU?oc=5)** - Miami Herald (2026-11-18T13:51) [score: 0.28]
     - 原題: FBI arrests man accused of sticking up Miami Gardens Burger King on Halloween
     - 要約: 米フロリダ州マイアミガーデンズのバーガーキングをハロウィーンに襲ったとされる男を、FBIが逮捕したとマイアミ・ヘラルドが報じている。
-  - **[ハロウィーンのバーガーキング強盗、前科者を連邦当局が逮捕](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEpZWElXanBlNXJVMHFZOVNSNFhoOVVSNjZxV3hQNC01UHVkUWF1d3ZTZWhjano3RG1wM29ORWFWSkk1OFJDNTF2MzM1VWZ1R2U1SWFDVXMxTXhLaHlBTGRBc0xISFZRYTN3OWo1YzRhcVJlWEcwSF9wRnhNMlk3REI1SVJoN09QUnhya3BNRmxrRkV4ZWJ2SWdGRmducUJibzhMQzd2Wkk0czI5ajVqbHo5XzRwcTBaVTlBZnJJZmJLblNKRVNmZ1Ribno?oc=5)** - WPLG Local 10 (2026-11-17T18:35) [score: 0.284]
+  - **[ハロウィーンのバーガーキング強盗、前科者を連邦当局が逮捕](https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEpZWElXanBlNXJVMHFZOVNSNFhoOVVSNjZxV3hQNC01UHVkUWF1d3ZTZWhjano3RG1wM29ORWFWSkk1OFJDNTF2MzM1VWZ1R2U1SWFDVXMxTXhLaHlBTGRBc0xISFZRYTN3OWo1YzRhcVJlWEcwSF9wRnhNMlk3REI1SVJoN09QUnhya3BNRmxrRkV4ZWJ2SWdGRmducUJibzhMQzd2Wkk0czI5ajVqbHo5XzRwcTBaVTlBZnJJZmJLblNKRVNmZ1Ribno?oc=5)** - WPLG Local 10 (2026-11-17T18:35) [score: 0.265]
     - 原題: Feds nab felon for Halloween robbery at Burger King near Miami Gardens, court docs say
     - 要約: 米フロリダ州マイアミ・ガーデンズ近くのバーガーキングで起きたハロウィーンの強盗事件で、前科のある男が連邦当局に逮捕されたと、裁判資料を基に地元局が報じている。
-  - **[ハロウィーンに「ウィッチータ・エクスプレス」運行](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Udk5kRHZ4MGZjb25raE1LNGpsdFE5dHl2a2pQUlJhcHI3ek9NZnNRUmJxQl9nbVpqRzRXSDFJcUI3YW81RThQZGk1SmU2RXJLMEExbGYxRW5MS280bE9uQw?oc=5)** - Wichita.gov (2026-11-18T04:46) [score: 0.143]
-    - 原題: News Flash Archive - Ride the Witch-ita Express (Route 24) on Halloween
-    - 要約: 米カンザス州ウィチタ市が、ハロウィーンに合わせた市バス24系統の特別運行「ウィッチータ・エクスプレス」を告知している。
-  - **[『バスターの大ハロウィーン冒険』配信中](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0s4NDkxMGxvclhtbUd3d0l2Y05yN1ViZkhBejhKZS1CS3BsNHNXa1VvZExwQ0dZWmVKVThyRXhGM3hNRmE4X05ZQkFBZ2twUGNYM1VNLWZxSzVjR2ppdTB5bjN0S0dTLUl2QVVqalJ4MHV0aW5IUDhaQlZvREJTWkh6al8ybWlOTXBr?oc=5)** - Disney Plus (2026-11-18T18:16) [score: 0.143]
-    - 原題: Watch Buster's Big Halloween Adventure | Disney+
-    - 要約: Disney+が作品「Buster's Big Halloween Adventure」の配信を案内している。
-  - **[バーガーキング再開、先着100人にワッパー無料](https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0N6NGI4bnVIVzZJajRPVW5hRlItUTFlZHdpYVJueVhPVWFpLXd6Q3ZhdUN0U2pSUmJvclFIRWN1c3JFMUN0SzBOdmFtM1JzeDhEOTVjdHVIWnZwdWhTaTJWYWhhQzVfVllNOFZ6Z2VfNnBkVl96RldWS2tlbFlteFFTWVBZQ0RvSWV0RHBEbmVieWtzT2drRnZlQ2g4U3VzS2c?oc=5)** - 828 News Now (2026-11-17T20:32) [score: 0.143]
-    - 原題: First 100 guests will win free Whoppers at Burger King reopening
-    - 要約: バーガーキングの店舗再オープンに合わせ、先着100人の来店客に無料のワッパーが提供されると報じられている。
+  - **[ハロウィーン試行から学ぶ 街区パーティーが地域をつくる](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU194c0VaUl9nMHRmNGl2TThLTUhlX2JhSmEzaENqMDI3WUhJV0V5U1haRXEwS2N1Y2c0Z0laYk9WZ0JEdm1YVDc3OWY1Q0IyWnBYUjUwVGh0U2Z1dXBwTWxvQWxDb1c3X2h0czdDenNiZlBTbjZ3cEJYWDB5d0JwM3ZaalhGS2JjM29lNVAxXzhEY0ZJUU55NnpXclFWaGl0SXNr?oc=5)** - Streetsblog San Francisco (2026-11-18T21:43) [score: 0.143]
+    - 原題: Lesson from a Halloween Pilot: Block Parties Build Neighborhoods
+    - 要約: Streetsblog San Franciscoが、ハロウィーンの試験的な取り組みを踏まえ、道路を使ったブロックパーティーが近隣コミュニティの形成に役立つと論じている。
+  - **[バーガーキングはうまい](https://news.google.com/rss/articles/CBMie0FVX3lxTE91Wkd4ZjlVODJySkVZOVVmWjcxcmpXRkJBbGRjVXNmMGNEUXZBSWtteGxIQ3ZDWkQ2U04wMG14dkxmOWpaeTJCTTd3ZjdOTngzTklFRGpVd0kzb1RvQXZxckZiU1JnZ2xpSklyM0NQVXJQUFNCaVdWSjNzSQ?oc=5)** - SRU The Online Rocket (2026-11-19T01:23) [score: 0.143]
+    - 原題: Burger King is good
+    - 要約: 米スリッパリーロック大学の学生紙が、バーガーキングを肯定的に論じるコラムを掲載した。
+  - **[38組が結婚式 カリコ・ゴーストタウンのハロウィーン挙式](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMk9PNWJ0MC1VQjFQQ3J4aURhQjNzMU1mQXhsNU1tcnNOTFFsV1ZLZ2M2allxN0Z0YXBvSHpxcmxJVUdvamtOZWg0VG9zSmNqczFIcEIteENhYUxWQ3VaVEg2X1ZJV25VWG82eTl6eC1RNkgzSnVKV3VOVk41UExFQVJmbnpocERTclZtTjhOWFpXVmF6UWg3Y3A0cExKcE9WZEZtMzNJaWVkQ3dXczBCZTM0cDZkQmJSMGFadmNkOA?oc=5)** - San Bernardino County (.gov) (2026-11-19T19:20) [score: 0.143]
+    - 原題: 38 couples say ‘I boo’ at third annual Calico Ghost Town Halloween Wedding Celebration
+    - 要約: 米カリフォルニア州サンバーナディーノ郡によると、3回目となるカリコ・ゴーストタウンのハロウィーン結婚式イベントで38組のカップルが式を挙げたという。
 
 #### 動画: [「もう我慢できない！」冷凍ピザの配達員にインスタの配信者がドッキリを仕掛け非難が殺到！この男性は自分の境遇を吐露し、この行動を全米が称賛！雇用主が声明を出すと・・・](https://www.youtube.com/watch?v=nUFqcRwWqP8)
-- 公開日: 2026-11-03 / 再生数: 723,416 / 高評価: 8,572 / 視聴者関心度: x1.92
+- 公開日: 2026-11-03 / 再生数: 726,175 / 高評価: 8,577 / 視聴者関心度: x1.93
 - キーワード: レッドバロン, 冷凍, 仕掛, 殺到, もう我慢できない！, ピザ, インスタ, ドッキリ
 - 英訳キーワード: Red Baron, Gimmick, Pizza, Instagram, Hidden camera
-- 視聴者コメントの頻出語: ドッキリ, 冗談, 迷惑系, ジョーク, 馬鹿, クソ, バカ, コンテンツクリエイター, 文化, 仕掛
+- 視聴者コメントの頻出語: ドッキリ, 冗談, ジョーク, 馬鹿, 迷惑系, クソ, マジ, 自分, 文化, 仕掛
+- 国内の関連ニュース:
+  - [ジョブチューン★レトルトカレー×冷凍食品×パスタソース国民的食品３社ジャッジ [字] [デ] - TBSテレビ](https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1NThnc1JUOVJKaUVPRC1NY1V5aW9zeloyTDJGNmFob3ZDT2k0TkZHNlpQUW5RSlRmbjdBN2FZaTFjZlZtR0FaYUdGV0Fka0pRdDk0N0R3?oc=5) - TBSテレビ (Sat, 14 Nov 2026) [score: 0.125]
+  - [いわきのカネキチ食品、民事再生手続き開始決定 冷凍食品製造販売（福島民友新聞） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9pS0JISC1hWVNZc0tuSlQ4NmdzMzZmQ0hzQWdzRjl4V1hTTEFldlNTSUNid2phSUM2NlVfQnpsUlpXNXNmb0QxbllhUE1qcjlILXU4cy1lVXJ1dGNBQmVtVV9DU05BLVZPMTlKWWhEdjhWNmx2ZFFNSXBsV3Z3UFU?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 0.125]
+  - [「余った給食」急速冷凍し自販機に、フードロス削減で始めたら保護者に好評…「時短になる」「安心感ある」 - 読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wZlp0WUY4QWZTbEZJVThEU2RpQldpNkV5bjlWY3lqRmtfUWtfVGs4eGpnQnNkWEp4dVFreEdza3ROYVpzbGd0UkE4cjV0bkdOeVhwV2ltZkdKMzFDcHdMUllmX05Zdw?oc=5) - 読売新聞 (Wed, 18 Nov 2026) [score: 0.125]
+  - [「冷凍コーナーで必ず買う」【業務スーパー】『500円以下の時短おかず』3選。コスパも味も最高なんです - 朝日新聞](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kbjQ5Z2hhdWF6RWh2Vk5rMlEwZlN2TlhUcjZKa3dYcVZXZ1FRRmFUMkZ6WjZZQk0xY0IzNVc0bmtWNmZTN3hWVzYzYU5FOEYxd3JkejVEUQ?oc=5) - 朝日新聞 (Thu, 12 Nov 2026) [score: 0.125]
+  - [“売れ残りパン”を冷凍通販して売り上げの一部を子供の貧困対策に 家庭で余った食材を寄付する「フードドライブ」関心高まる一方…問題点も 専門家解説 - ktv.jp](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBubGxJamttdXp1QUczQ0puWVFqS19kTWJXM0QzMFNmQmdjT2VQS0RhWXNCSUFVODRWQmpReW1YbXFrcDFWS2pVZnBXRG1ZY2w1cE02NUdPR1Y1LUtaMFE?oc=5) - ktv.jp (Mon, 16 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[見かけたら買いたいレッドバロンのメキシコ風ピザ](https://news.google.com/rss/articles/CBMihgFBVV95cUxPWWtnYnVSd3c1SUZ0Z0R3ak9BQ2FyYVFhREtLd1djWWt2T0xVZUhYSjYwZkhRWmVWd29kOU1xam9pdHpHQ3N6VDVMR1U5OWVDNnYtanM5WW1XWXZtYUtnMWxVZlFMZ1d2T09jTkxjRUhfMmNEcFRfMml0R1ZEYnhLS3VySzlUdw?oc=5)** - Tasting Table (2026-11-14T14:30) [score: 0.313]
+  - **[見かけたら買いたいレッドバロンのメキシコ風ピザ](https://news.google.com/rss/articles/CBMihgFBVV95cUxPWWtnYnVSd3c1SUZ0Z0R3ak9BQ2FyYVFhREtLd1djWWt2T0xVZUhYSjYwZkhRWmVWd29kOU1xam9pdHpHQ3N6VDVMR1U5OWVDNnYtanM5WW1XWXZtYUtnMWxVZlFMZ1d2T09jTkxjRUhfMmNEcFRfMml0R1ZEYnhLS3VySzlUdw?oc=5)** - Tasting Table (2026-11-14T14:30) [score: 0.286]
     - 原題: The Mexican-Style Red Baron Pizza Worth Buying If You See It On Store Shelves
     - 要約: 料理系サイトTasting Tableが、冷凍ピザブランド「レッドバロン」のメキシコ風商品を、店頭で見つけたら買う価値ありと紹介している。
-  - **[人気筋トレ系インフルエンサーに接近禁止命令](https://nypost.com/2026/11/18/sports/influencer-bradley-martyn-hit-with-restraining-order-after-alleged-attack/)** - New York Post (2026-11-18T15:44) [score: 0.2]
-    - 原題: Gym bro Bradley Martyn hit with restraining order from Instagram model after alleged attack at LA party
-    - 要約: インスタグラムで390万人のフォロワーを持つフィットネス系インフルエンサー、ブラッドリー・マーティン氏に対し、モデルのノエル・レイバさんへの接近禁止命令が出されたと報じられた。先月のハロウィーンパーティーで同氏が彼女を襲ったとされる。
-  - **[インスタ、投稿後のストーリーズ編集が可能に](https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them)** - The Verge (2026-11-18T14:29) [score: 0.2]
-    - 原題: Instagram now lets you edit your stories after you post them
-    - 要約: Instagramが、投稿済みストーリーズを閲覧数やいいね、返信を失わずに編集できる機能を導入したと発表。投稿後15分以内なら文字・音楽・スタンプ・手描きを修正できるとアダム・モセーリ責任者が明らかにした。
-  - **[2カ月食べ続けたデザートピザのレビュー](https://news.google.com/rss/articles/CBMiywFBVV95cUxOLWJFSUREX3R3MERnV2x1WEpvejlhQTg4dkdTV0VpMXYtRG9pMlJuU1E4bFYzQjNuUEVKNVZ2azJ5enlRS04tck5xY2wwY195RThobjlYSm42eWNIY3R1LS1GQ0lXeG9fWjREWjZWVHhoaEpqTmFtbXFMMGRiQTVIZlpKWU9kcGV2RVJyMVBYM2NJMjNiNF9OMmVHMjhZeFpucFdzUElSbjNiTlRUVk1INGNPSV9HS0kzcEFsSEZqdkhxSkEteUJyQW9hWQ?oc=5)** - The Rice Thresher (2026-11-18T08:24) [score: 0.2]
-    - 原題: Review: I spent 2 months eating Seibel’s dessert pizza. Here’s the slice-by-slice rundown.
-    - 要約: 米ライス大学の学生紙が、学内のSeibelで提供されるデザートピザを2カ月間食べ続けた体験を、種類ごとに評価したレビュー記事を掲載している。
-  - **[ブルックリン育ちの筆者、クルーズ船で絶品ピザ](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnBmWGw1LTQ4NmtnWlNodENOZ0ZiSmFNdjY3WGtaVWIxZzRCazRnSnBTY3RpUTRFYjVjb1NxN0ZxVXZOdEcwMXdfX3hFUng2ZnJRaEkwYUxabndFd3dMcFA1aWF0QmFYcDZVWVlfTFFVYXY4UGtFbHUwcGtrRTlOTFozbVl2NHo2Z3o4QXlGTHZTcFZLam1vNEZn?oc=5)** - Travel + Leisure (2026-11-18T14:20) [score: 0.2]
-    - 原題: I’m a Brooklyn-born Pizza Snob—and I Found Some of the Best Pizza I’ve Ever Had at a Cruise Ship Buffet
-    - 要約: ピザにうるさいブルックリン出身の筆者が、クルーズ船のビュッフェで人生屈指のピザに出会ったとする体験記を旅行誌が掲載している。
+  - **[インスタの新アフィリエイト制度に一部クリエイターが懐疑的](https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads)** - The Verge (2026-11-19T14:12) [score: 0.2]
+    - 原題: Some creators are skeptical of Instagram’s new affiliate program
+    - 要約: The Vergeによると、今月発表されたインスタグラムとアマゾンの連携はインフルエンサーがアフィリエイトで収益を得やすくする狙いだが、一部のクリエイターは疑念を抱いているという。
+  - **[ピザをめぐる過激な持論](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IQXBXYXpCWFdLQUg2Q3JxTzFyYy1tZERHazhacGtNT19EUEFMb1lad0xXNmoyLWgySjRpNGtpMFpyelNaRFhPbVZFRGx6WGNMNGlXUkRQb01aUQ?oc=5)** - Substack (2026-11-19T18:51) [score: 0.2]
+    - 原題: Pizza! Hot! Takes!
+    - 要約: Substackで、ピザに関する「ホットテイク(過激な持論)」を扱った記事が公開された。
+  - **[冷凍ピザ53種を試食、専門家が選んだおすすめは](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUVocTRtMXZpT2hXYV9ZeEkzdXZDS2N1QUprZW9EYVQ3Wm1zZ3hCOWcxT2xkVnJYRk9IN2hrUGJYT3NUdFpPbklkUnE3OVRpVFRRMW40ZzJuM01NQTBZYjc5WGl4bmdiQklscWgwQ3FzUDh5cHRsNjBrYWtHWThnaFBsWmRhMkZUZ0gzRDVnSG8wLVloV2lWZEhpNEJhcVVIajBtbVBVaTRrY05BXzBxbkhQd1Vva3ZLR00yRk5jZU1qY2M1UldjUDRzOUVRTnZmOFY4?oc=5)** - Facebook (2026-11-19T10:34) [score: 0.2]
+    - 原題: Frozen pizza is special in its own right. But not every pizza is worth the freezer space. Wirecutter testers tasted 53 widely available frozen cheese and pepperoni pizzas. Here are their favorites.
+    - 要約: Wirecutterのテスターが広く流通する冷凍のチーズピザとペパロニピザ53種を試食し、おすすめ品を紹介したと伝えている。冷凍庫のスペースを使う価値がある商品を選別したとしている。
+  - **[テキサス州のお気に入りピザ店11選](https://news.google.com/rss/articles/CBMiakFVX3lxTE0zNUpONXAxNWswd1E0X0EyM3Q0RkhMWHhXaVlfc29hYkFXZnZJd3RWUTU3Y3U4ZWdaU2NsUlI2TS05S0N2dndJQkVyZklZRkpXN0JZUFl6c2ZvaElHUUcydmN6VG5lSVdMemc?oc=5)** - Texas Monthly (2026-11-19T12:00) [score: 0.2]
+    - 原題: 11 of Our Favorite Pizza Restaurants in Texas
+    - 要約: 米誌テキサス・マンスリーが、テキサス州内のお気に入りのピザレストラン11店を紹介している。
 
 #### 動画: [「設計ミスを認めないんですか？」ジャングリア沖縄の親会社が記者会見で詳細な赤字額を発表！今期も赤字予想で、苦境続く...渾身の再建計画とは一体...](https://www.youtube.com/watch?v=OMSw2phR0M8)
-- 公開日: 2026-11-01 / 再生数: 339,903 / 高評価: 6,756 / 視聴者関心度: x0.9
+- 公開日: 2026-11-01 / 再生数: 341,177 / 高評価: 6,765 / 視聴者関心度: x0.9
 - キーワード: ジャングリア, 沖縄, 設計ミスを認めないんですか？, 親会社, 記者会見, 詳細, 赤字額, 発表
 - 英訳キーワード: Okinawa, Parent company, Press conference, Detail
+- 国内の関連ニュース:
+  - [ジャングリア沖縄は赤字173億円では終わらない…｢刀｣の森岡毅氏が持つディズニー創業者とそっくりな｢狂気｣【2026年10月BEST】 - PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PVk5Hbm5fb2RocnZZMC10ai04VVZCQUtXYkZXNXpfRU9QQkluZlR3enJNSVBZS1JfWGljLU9MVEE1eGpEYlE3OWZGUkVNUGhndE9wdUhtUGw?oc=5) - PRESIDENT Online（プレジデントオンライン） (Wed, 18 Nov 2026) [score: 0.25]
+  - [57歳でFIRE→沖縄移住 日常を満喫 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TTUhNQUZ6WlRxbncxd0tOVm9lTVlOOHVnNWNfYmlLQ2xXc3dfQVlGd2c4QmpJcDNpYnpuQ1otNXd1UFdFQmZHNUNYMnY3aG5x?oc=5) - Yahoo!ニュース (Sun, 15 Nov 2026) [score: 0.125]
+  - [沖縄平和運動センターが組織としての参加を終了 辺野古座り込み - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zWWM3MkRmRVV4aTR2ZmxfZmdBbHRZY2ZJNVdxcHBkNndWaERPZ05Ka0w3WEtPeXV4VHVDUXpZSVNaRXhGVDk0bE1MbVdFZ2NDQUhrZzJBWQ?oc=5) - TBS NEWS DIG (Wed, 18 Nov 2026) [score: 0.125]
+  - [沖縄平和運動センター、辺野古・シュワブ前の座り込みに今後参加せず 「継続は困難と結論」 - 沖縄タイムス社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MYXVxbU9fc1lRczRGNUdwZnRZeF9TSVRFRlFqeGlPcWxXZERqeTY2TXdCc09lVFlhT2lMeTUySzdlX3BGaVlQdUpqMUdEdllNaTRXbUNMem5HcnhWMVE?oc=5) - 沖縄タイムス社 (Tue, 17 Nov 2026) [score: 0.125]
+  - [サンゴ礁に広がる新たな脅威 沖縄で「プラスティコーラル」見つかる - Science Portal](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uWC1oZmZ4TnIyY3hhallqVHdFQUZMMFl6Y29oR1ZYaXB3RzdNbkhfQm11VlR3VUxwUEtZb3VIZW1RSHpUYnk2d0JBUlBQYjl3U1Y3TDR4QzQ5ZFliQlFCbjFwaTdIUQ?oc=5) - Science Portal (Tue, 17 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[サンフォード大、オーバーン戦前の会見](https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkMySm5NVlRNRGlESVYwWm1aeWNzQzk3MEZ2Rmc2bjFsUHFlQUhqQ0k1ZHRQczJaNjliRmRUUG13cmhrVFBRd0VDWGg2dC1RbkN3MU1PbmI4TVpmRWd2VEFwU3l5eDEtUzJHNTdZNFVGemhnNW93ZUtkMHRwTnZHaUtzNmdxSUhxMWp3UFFn?oc=5)** - Samford University Athletics (2026-11-17T20:47) [score: 0.25]
-    - 原題: Grass Press Conference: Auburn Week
-    - 要約: サンフォード大学の運動部公式サイトが、オーバーン大との対戦週に行われたグラス氏の記者会見を伝えている。
-  - **[ミズーリ大クロスカントリー、会見動画公開](https://news.google.com/rss/articles/CBMikwFBVV95cUxOeG03aXdJVkQ4Z0pmMHl6NXlLYVdtS1NUUElwcnBSNGYxZFphZmJUNTVjaV9BTE1idlpMdGRvSlZ6eWRmOU5MeS0zNXNGRFJSYmNEeUd0LWZpQ3RMQ1VKLXpVYkpkRXJPbzRyZUVDckpYanhXVzJ5NzROZ2pSMXdNYWM0Y0tiMFVySnBmeXphNGpRYlk?oc=5)** - mutigers.com (2026-11-18T10:08) [score: 0.25]
-    - 原題: Cross Country | Kyle Levermore Press Conference | 11.17.26
-    - 要約: ミズーリ大学の公式サイトが、クロスカントリー競技のカイル・レバモア氏による記者会見を公開したと伝えている。
-  - **[サンディエゴ州立大、男子バスケ会見](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTTdTcDdweWt1ZjlGVnB2U2hXRU94R2hNWEcyeHY4NkowOEt0VVYwN1RBZDNWM21Za2ZNNm8xcW9udmlKN01aSkVHZUZaSnJscjNJUDRTU3BJMmw3Wl9FYnBuNjJMVGh2Tk92d2hONlB5aTFrMWhvcU96VGk1bi1QR253?oc=5)** - San Diego State Aztecs (2026-11-17T23:07) [score: 0.25]
-    - 原題: Men's Basketball Press Conference
-    - 要約: サンディエゴ州立大学アズテックスが、男子バスケットボールチームの記者会見を公開したと伝えている。
-  - **[ベアーズ・ウィリアムズ、バイ週の修正語る](https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGJhanBUcnBPbFBrU2lKMEZYdllPREtZSy12RVZpSEl2VHFiVlA3WktaWnczRm9YaGVGeWJrYUFGbzRBbHVvQUppRXp3NW9KT0RGVXU5MmpyZUN6UGoyT2R5Y3NDRWhGaFB1eURkQWF0LTNpWHpUR0t0dGJZcVA5Tjk5TEk4X3J3Q0JkOUxpWUE1TWJzQ0F5VjQ2aFp4ZVQwaVN0NnlJemFFZWw5?oc=5)** - Chicago Bears (2026-11-17T22:32) [score: 0.25]
-    - 原題: Caleb Williams on making corrections during the bye week | Press Conference
-    - 要約: NFLシカゴ・ベアーズのQBケイレブ・ウィリアムズ選手が、試合のない「バイウィーク」での課題修正について記者会見で語ったと球団が伝えている。
-  - **[ジェッツ、グレン監督が第11週会見](https://news.google.com/rss/articles/CBMihAFBVV95cUxQYktFTUdUTk42U0tOZERWYTdVNVRZUlFXc1kwTWowZExsR19WdzVXTVRWcG5uOEs5eEVwc2p4RExPc001QlcwNUhtOWM5Z1N4empzcVlFV0FwcDg5M1luLUZYeHJIY29IMDZnQWxKcjdjUmdfem1LemNWcE1idlZxb3g3SU4?oc=5)** - New York Jets (2026-11-18T17:19) [score: 0.25]
-    - 原題: Aaron Glenn Press Conference (11/18) | Week 11
-    - 要約: NFLニューヨーク・ジェッツのアーロン・グレン監督が、第11週を前に11月18日の記者会見に臨んだと球団が伝えている。
+  - **[ドルフィンズRBオリー・ゴードン2世の会見全文](https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjNEb1lIRnRpVHBERHR6SXhhb3EtV2xySUpOWVRHanhlSEt4WkFiYlRPWldFR0FEWWVpR0hOMndXR0ptdGNicjVDZllLMjRGckEwMmRZa19Ed09SMlY5elcwVElZUEFIdDRlYllHeHpIb1dock5kaEhEX0MzbFpndHlPQ1JJaV85X0U4azlvekNDUTFyLUN5Sw?oc=5)** - Miami Dolphins (2026-11-19T16:02) [score: 0.25]
+    - 原題: Transcript: RB Ollie Gordon II Press Conference - November 18
+    - 要約: NFLマイアミ・ドルフィンズが、RBオリー・ゴードン2世の11月18日の記者会見の書き起こしを公開したと伝えている。
+  - **[ノートルダム女子バスケ、サザン戦後の会見](https://news.google.com/rss/articles/CBMitgFBVV95cUxPREJIMXV0REtCNmNQSTg1RVhjZkpJZ0F2OFFaVzA5WHFQODhWRmFQVkRaNHdsTmdtR2ZfRTM1ZTJ3bzN6MWRISUtURC1XZ19rbFZNSm5JSC1oaU9oTUhJc3dTWG5qTXNIaFRzVjg0dm5RUXJIOHU0amxTVVh1OGRsOEhiaUhDbjVZNWU3d3VFOU9CNi11eFBLc2tQS01vNjlHdXh0bmRTa2ZDWU1EUFY3VHZyTHJSZw?oc=5)** - Notre Dame Fighting Irish (2026-11-19T03:07) [score: 0.25]
+    - 原題: Notre Dame Women's Basketball vs Southern | Postgame Press Conference (11.18.26)
+    - 要約: ノートルダム大学が、女子バスケットボールのサザン大学戦後の記者会見を公開したとしている。
+  - **[ミズーリ大女子バスケ、ハーパー監督の会見](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1RvRVhZdDZTNGZjcm1OOWhoM1hWQ1RaMlVUNDhIZ3VUdnBUZndOVm85QlpFNi1UVFlDRko0M1drTEJRR3FvRXlDTWZ6WkRCcVFPR18wWnlFVGZUX1Jzcm1rTUY1bFVrQ1hESlU3am1TNFFMZEI1TUliWUZxNkxUb0wxQ2Y5RVdqaS1aTWNRQ3lvVVJ1bUZr?oc=5)** - Mizzou Athletics (2026-11-19T10:25) [score: 0.25]
+    - 原題: Women's Basketball | Kellie Harper Press Conference | 11.18.26
+    - 要約: ミズーリ大学アスレチックスが、女子バスケットボールのケリー・ハーパー監督による記者会見の模様を伝えている。
+  - **[フィラデルフィア・ユニオン、ライアン・リクターが会見](https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2ZhMG1lbG5OV2NSOXdYc1BVRm1ka05GYTJzZDVMeWFCamVNaFowMXA1aXlmaTNabVJDWUVsakZIVlBxU2Z6czJCUHBfNm16RXpVYW5iQUtjQUk0WnJtOV9PRDdiZ1hSVVFKYmtrMzU1VWtoT1drODBlY29FV3B3bUtnc3k3VE9OWklWdmZldlk2T3JvaDViaTZBTmlNZG9NSlZSVElENGtwVktRN3Nyck5wMUY?oc=5)** - Philadelphia Union (2026-11-19T19:03) [score: 0.25]
+    - 原題: Press Conference | Ryan Richter ahead of the club's 2026 MLS Cup Playoff Opener
+    - 要約: MLSのフィラデルフィア・ユニオンが、2026年MLSカップ・プレーオフ初戦を前にライアン・リクター選手の記者会見を公開したとしている。
+  - **[ドルフィンズDLケネス・グラントの会見全文](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGtjTmxhazhDaEg4VDQ0VHYtaWxyT1RYWHJmRHRTOXZyZGRvbFdZcE9UUlZUT19KalR5dTdNWW1VU2ZvYlZOSG9vdWJOZEdCakdOaGRjU0thTjZUMFdGUldrSGZxSWhDSFE0S1owclRfV09yZ3lOUkVyeHhrYUtMQXYyNHBFU1RFN3drZ0s4ZUtNZUZZTWc?oc=5)** - Miami Dolphins (2026-11-19T15:47) [score: 0.25]
+    - 原題: Transcript: DL Kenneth Grant Press Conference - November 18
+    - 要約: NFLマイアミ・ドルフィンズが、DLケネス・グラントの11月18日の記者会見の書き起こしを公開したと伝えている。
 
 #### 動画: [【ファン憤り】億万長者の道楽なのか？ストップモーションアニメ映画「ワイルドウッド」公開初週末で大惨事に...「マスターズオブユニバース」に引き続きトラヴィスナイトがまた・・・](https://www.youtube.com/watch?v=N860wIn3gRo)
-- 公開日: 2026-10-29 / 再生数: 378,378 / 高評価: 5,497 / 視聴者関心度: x1.0
+- 公開日: 2026-10-29 / 再生数: 379,613 / 高評価: 5,502 / 視聴者関心度: x1.01
 - キーワード: ワイルドウッド, マスターズオブユニバース, ストップモーションアニメ, 映画, ファン憤り, トラヴィスナイト, 億万長者, 道楽
 - 英訳キーワード: Wildwood, Stop motion, Film, High-net-worth individual
 - 国内の関連ニュース:
-  - [Prime Video：視聴ランキング：『マスターズ・オブ・ユニバース』映画部門初登場1位【7/20/26 - 7/26/26】 - 山陽新聞](https://news.google.com/rss/articles/CBMib0FVX3lxTE9qM0lmMk1lWEM0Z0RnOXpfY1NWSl9UNzVWNHltQ09WX09DMWNVcGJPanp0dHFCMnI3U1FqVnJiRnJTOUZjdEtmeVJ4eU8yUHN0LTlfUC0wS0JFU0VKeTE2UE1xd3dBQkUxTWJJVXY0TQ?oc=5) - 山陽新聞 (Fri, 13 Nov 2026) [score: 0.125]
   - [【注目】『ワイルド・ウッド』のメキシコ興行でタレント起用により声優交代騒動に発展！｜ネジムラ89 / アニメ映画ライター - note](https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2LVRoVDVIRjlXM05vR01YY0NDZFJFdFBZcDBxSmdxWXZSN1BWTzFsem9DUEJkalRlWjlQQjBtRHdRVFRURGtMZFM3ZUFNdzIxZ05CdGZn?oc=5) - note (Tue, 17 Nov 2026) [score: 0.125]
   - [ワイルドウッド・アニメーション：アカデミー賞の有力候補 - Vietnam.vn](https://news.google.com/rss/articles/CBMifEFVX3lxTE1aSjNpRFBKM2dzbWQ4RzZobmxFRm5qZmFLXzRrWkJUUnMzREJ0UzVjSXFMY1E3MElrVGctRFJNRzBFRWdPYldTQmZDVmFiaFRtQzAzdWVMbmxCd21YMzZvMXc5MHpPS1dwQ2RmRFQtNE50YUQzQ0tuSUl1Q0o?oc=5) - Vietnam.vn (Sat, 14 Nov 2026) [score: 0.125]
-  - [Laikaの『ワイルドウッド』、世界興収6000万ドルを突破 - Mezha.net](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEVFQXhCbWpZM2s1bDU3dXpqSnVqMXI2SmxSLU44dXNfSkZ6b2JtTlJrWXNOdjYzVzdCU3JLbUY4RzdVY3N2Z3U0S1FSTTRKYk4yT2tBMFY1b3llbGxBa293UkE0dXVtNGJCaHdKQm11SkNLZ2pYVnBXcFB1Y0lNSWJWWmN2eHNmU2JXdFR2U1gya29j?oc=5) - Mezha.net (Thu, 12 Nov 2026) [score: 0.125]
-  - [ライムスター宇多丸が評論した映画リスト＜2026年版＞ - TBSラジオ](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxR3ZFWU9mbTVPTEplNHFOV1Fwb2dmblNSbExmdXNKdWtXeHZHTEowQ1FlNTNEYk5vXzBiRG1HQkdzY3VTckgzZC12TnNXWXhXUHc?oc=5) - TBSラジオ (Thu, 12 Nov 2026) [score: 0.125]
+  - [Prime Video：視聴ランキング：『スターリング・ポイント』がシリーズ首位、『劇場版「暗殺教室」みんなの時間』は非英語6位【8/3/26 - 8/9/26】 - 山陽新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxPSjdQNDNXZGJ6RmVlVnZQako2RWlraGpUN3JyZDVoWDhpUXpaQl9YSUJPWGxJQzdPN2dPX2hGdHdpSUo4RXpGZUtoYUxQRXd3d3g1YlFHb280d3pwVldEN3YzOTRzWXlRX3RPcjhmNVNJbndwTjNjeUtNcVpVdXB5S0dCNzZwTVdzTkE?oc=5) - 山陽新聞 (Tue, 17 Nov 2026) [score: 0.0]
+  - [新生DCユニバース最新作『クレイフェイス』と、快進撃つづく『You Can See Everything』が北米で激突！ライカの新作ダークファンタジーも初登場 - ｄメニューニュース](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVNic2cxVjhRcXd0d0tBQmVMNWhha1AzUkMtVVNVaXlvUkFoUlctUTkxWlVpeVJib0wzS2NWZzIyVVV1Ymx5Q1FmXzZEMHVmOXJldWlJeEh5eXFkVEtNalRjUmQxWE1KcG8xNXpQenRsUjBxWXQ3VGhtTklmbmItbEEwcUtNNHhaLXZTOWxWX3FpV2htdUI40gGTAUFVX3lxTFAzT0gxMTg1RWNqR3BCWUVWdlp5ZDRjSUhSNEtPTzRCU0tqNm94clkwX0pLdEV0MlBSUUFFN0xMaTZ6aUF1MXV2bklDaHJ5SmtKRGljRUJOdFdLdFdJc1VPSmtDWmFfelFibUNsYW9CZ084VklXb3hEcWQxZ0llNWFSWTFTaEVUbXpTOUE3UkM1LXlXNA?oc=5) - ｄメニューニュース (Wed, 18 Nov 2026) [score: 0.0]
+  - [「ポケモン」ピカチュウ、ゲンガー、プリンがクロックスの定番「クロッグ」になった☆ 30周年コレクション第2弾が発売 - ニコニコニュース](https://news.google.com/rss/articles/CBMic0FVX3lxTE1Nck0zendwMVFCOGZ5Z2t2ekdxZjItS1F3SklzYTUwMVJ4eS1oZTdPbFNWY29iQVZQMjJCRGFvNFo4elExZkt5aGRlbDVfZEhXRFlUbnBhVmZ2bnVwWkNGbHptNTJuM3BtaE9FZjRTUFd6bUE?oc=5) - ニコニコニュース (Sun, 15 Nov 2026) [score: 0.0]
 - 海外の関連ニュース:
-  - **[映画『ワイルドウッド』制作陣、現実からの着想語る](https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzdnMmZIb3hlTU1PZ0ZKNzRyTlpZVnBkd0FHV2Q2QzEydUVuR1hkd0hhUE1NaWxjM0ZqOWR3aEtjUU1kaWJoTFlXeXZBTzMzSU50SXV2QTJkdHc4d3FsSUxNNVpzcDNQUGJPV1JGZGpjMGpVVHd3UTcyN3pUZlZTaG5nRXhtYWFadnhkZ0FB?oc=5)** - Deadline (2026-11-14T21:33) [score: 0.401]
+  - **[アダム・サベージ、LAIKAの鳥の人形アニメ制作を取材](https://news.google.com/rss/articles/CBMia0FVX3lxTE1qZ3Y3ektWcW1abm9UUmd2R1ZaNGpySnhpdVdtMUs4S2w0MkprWFFwZDhjdDUwRjRBQ0RRVUF3aUFsSkwySW5xaF9idkU5aXhBMUNVUGlyeklxd2dNWWlxazR1dlgwenNGTUM4?oc=5)** - Laughing Squid (2026-11-19T15:19) [score: 0.75]
+    - 原題: Adam Savage Learns How LAIKA Studios Made Realistic Stop Motion Birds for the Film 'Wildwood'
+    - 要約: 元『怪しい伝説』のアダム・サベージが、LAIKAスタジオを訪ね、映画『Wildwood』向けのリアルなストップモーションの鳥がどう作られたかを学ぶ様子が紹介されている。
+  - **[映画『ワイルドウッド』制作陣、現実からの着想語る](https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzdnMmZIb3hlTU1PZ0ZKNzRyTlpZVnBkd0FHV2Q2QzEydUVuR1hkd0hhUE1NaWxjM0ZqOWR3aEtjUU1kaWJoTFlXeXZBTzMzSU50SXV2QTJkdHc4d3FsSUxNNVpzcDNQUGJPV1JGZGpjMGpVVHd3UTcyN3pUZlZTaG5nRXhtYWFadnhkZ0FB?oc=5)** - Deadline (2026-11-14T21:33) [score: 0.367]
     - 原題: ‘Wildwood’ Filmmakers On Real-World Inspirations For The Film
     - 要約: 映画『ワイルドウッド』の制作陣が、作品の着想源となった現実の出来事について語ったと米芸能メディアのデッドラインが伝えている。
-  - **[アカデミー博物館、冬の上映企画を発表](https://variety.com/2026/film/news/academy-museum-winter-film-series-colman-domingo-sing-sing-1236952141/)** - Variety (2026-11-18T19:49) [score: 0.25]
-    - 原題: Academy Museum Unveils Winter Film Series With Colman Domingo, Eli Roth, Jessica Lange and More
-    - 要約: ロサンゼルスのアカデミー映画博物館が冬の上映シリーズと教育プログラムを発表。『シンシン』『ブルー・スカイ』『キャビン・フィーバー』などが並び、恒例の3D企画やフィルム保存企画「Present Past」も行われるとしている。
-  - **[映画『ワイルドウッド』配信日決定、興行は苦戦](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SR25uQWI3S05LeE43eDY0cmFubFZWdnQ4Y1NvN3NUaTE4MWE0ZTRCYkJ0VjI4dDh1LUd1YTFnY2R1UVlmWmFJYV9zTklZOGFvRjQ1ZDJRR3VvT25nb2lVd0ZJTmw0MDA?oc=5)** - IMDb (2026-11-17T20:42) [score: 0.25]
-    - 原題: ‘Wildwood’ Gets Digital Release Date After Box Office Struggle
-    - 要約: 興行成績が振るわなかった映画『ワイルドウッド』について、デジタル配信の開始日が決まったと報じられている。
-  - **[受刑者の映像作家、SQ映画祭で作品披露](https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGV4dUQ3TmN3RjR2QkF5ME5CV3E3b1B2amppRTJvb3RMYm1Ud05IYVp5T2dWX0dmTXd4UkprejBFbzlYcUFTVFZjZDlHSTIzT2M0S0oxQV9jVWE2cjl4NHlxdUhDY1poUnlMNHZPQUZJXzBTUGt6blZYaVBwSVVQNkZHamRlMTNHenI2aEt1QWlLLThMdWJrbVhsNXVCZkFNaWFGaEhvMA?oc=5)** - California Department of Corrections and Rehabilitation (.gov) (2026-11-18T13:39) [score: 0.25]
-    - 原題: Incarcerated filmmakers share stories at SQ Film Festival
-    - 要約: カリフォルニア州矯正・更生局が、サンクエンティンで開かれた映画祭で受刑中の映像作家たちが自らの物語を描いた作品を発表したと伝えている。
-  - **[カウボーイズ対49ers、試合映像を分析](https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTl0M3ZtSWl5ZlY2NXpmclJQMHR5b2tZQUJJUUhldmNqQjdJaDljTnBMWmRsZ3BXNG5NUnc4UTY1bDBTeDF6X1lMenZQa09MNTlZUGJKZjNFblBmckZZcW9FbktPME93MmVpQi1ZQWo0RGxYSVM2SXc2QkttTHR1Yg?oc=5)** - Dallas Cowboys | Official Site of the Dallas Cowboys (2026-11-17T21:31) [score: 0.25]
-    - 原題: Tape Talk: Film review from Cowboys-49ers
-    - 要約: NFLダラス・カウボーイズの公式サイトが、49ersとの一戦を映像で振り返る分析企画「テープ・トーク」を掲載している。
+  - **[ドーハ映画祭が開幕、地政学的混乱の中で「不屈」訴え](https://variety.com/2026/film/global/doha-film-festival-resilience-geopolitical-turmoil-1236953326/)** - Variety (2026-11-19T19:58) [score: 0.25]
+    - 原題: Doha Film Festival Opens With Message of Resilience Amongst Geopolitical Turmoil: Filmmaking ‘Brings Humanity to the Headlines’
+    - 要約: カタールのドーハ映画祭が2回目の開催を迎え、サラ・イシャク監督『The Station』の上映で開幕。地域情勢の緊迫で開催が危ぶまれる中、映画は「見出しに人間性をもたらす」とのメッセージが示された。
+  - **[『ロッキー』50周年、製作者と新作キャストが集結](https://www.hollywoodreporter.com/movies/movie-news/i-play-rocky-stars-rocky-producer-50th-anniversary-1236758733/)** - The Hollywood Reporter (2026-11-19T18:45) [score: 0.25]
+    - 原題: ‘I Play Rocky’ Stars Unite With Original ‘Rocky’ Producer for Film’s 50th Anniversary Celebration
+    - 要約: 1976年の『ロッキー』の製作者アーウィン・ウィンクラーが、新作『I Play Rocky』のアンソニー・イッポリート、アナソフィア・ロブ、ピーター・ファレリー監督とアカデミー博物館のイベントで共演したと報じられた。
+  - **[物語よりも見せ場、『ワイルドウッド』の魅力](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWdQcnFUaklyWVd0REtCMVd0UnJKenlyR2FEUnlmYTZla1g5SnNNSzN4eDc4S0l0V2lPZnVRNktLNHhJYVZ6Sjg3ZWNONzJnNVo2bXU3eXdDQUw4QlJmMGtKdHRIb2FrWGo1TGJHZlpWYk04clg5djJDcXdMT0I0T09GcUhHN3BOSEE?oc=5)** - The Observer (2026-11-19T16:09) [score: 0.25]
+    - 原題: Spectacle over story, the beauty of ‘Wildwood’
+    - 要約: オブザーバー紙が、作品『ワイルドウッド』について、ストーリーよりもスペクタクル性に美点があると論じている。
 
 #### 動画: [「BBCは一線を超えた。」ロブロックスで配信されている教育ゲームがあまりにも偏りすぎていると大炎上！もはや洗脳と言われるその内容とは一体...批判を受けBBCはこれを削除してしまう](https://www.youtube.com/watch?v=WPs88401mG8)
-- 公開日: 2026-10-28 / 再生数: 193,033 / 高評価: 6,245 / 視聴者関心度: x0.51
+- 公開日: 2026-10-28 / 再生数: 193,214 / 高評価: 6,249 / 視聴者関心度: x0.51
 - キーワード: BBC, 批判, ゲーム, 教育, ロブロックス, 一線, 配信, 大炎上
 - 英訳キーワード: BBC, Criticism, Game, Education, Roblox, Juju, Webcast
 - 国内の関連ニュース:
   - [『スプラトゥーン3』の更新データVer.12.0.0を本日配信。さまざまなアイテムが手に入るゲームニュースも配信中。 - Nintendo](https://news.google.com/rss/articles/CBMihgFBVV95cUxQMjBEMnBYakp5dmNCcld4TE5DcVdKUHpBSjByeXZCR0RYUXJoQkxhZ042SlZEQWxqVTVGcnhCMGtqeVVtQV9CbzQ0dlFyRUNDVFVTb2pHWDdpc1VlS0dIelcyZFdWc1VVWDBzQ1JZMElYdUFWLVlqWVlrNWVzVndTT2hkMzlzdw?oc=5) - Nintendo (Wed, 18 Nov 2026) [score: 0.25]
+  - [チェコ公共放送、財源を受信料から国家予算に移す政府案　数十万人が抗議 - BBC](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vTkk5T2l1Wi1zajJmSEFGWnlvQkdqaXNHNWZRMk9QY3J1ZnBILW42S0NqWlU0WUJFVmtyN3drbXVjSmEyblBvN19LYnVRb20yRE8xank4WksweWI1R3NIMNIBZkFVX3lxTE5zaVpEU09laGNUeTk2cUh3eEFKOGM4ZFRkU1NjcmtVVHZqei15djEtMEhFUmlfdENCa0lFSTZnNVI2VnFUaVVWSUo3Z0NLRDF1M1V3cXUtYjU2aVgzTVN3SGlNR3NWQQ?oc=5) - BBC (Mon, 16 Nov 2026) [score: 0.125]
   - [11/23(月・祝)「マリーンズスペシャルゲーム2026」に参加するスペシャルメンバーを発表！ - 千葉ロッテマリーンズ](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHYnVSNnBCZW9mSW1fN2d6aGE5R2NEMGdzSzY1YWkyYlp3UVBxWXRZYlJ1a2FhV2UwbGN1ZVI0Umo0clJRVjAwSzkzTF9veDlFdTFMZWd2eFg3WWIwTXllZTZERE0?oc=5) - 千葉ロッテマリーンズ (Wed, 18 Nov 2026) [score: 0.125]
-  - [ゲーム記録・速報 - 2026/27／ルヴァンカップ 準々決勝第2戦 vs.柏レイソル | KAWASAKI FRONTALE - 川崎フロンターレ公式サイト](https://news.google.com/rss/articles/CBMicEFVX3lxTE40RDQwNUgzWnM3eV9nWDhvVDJrQ0ZNTXpfdTlMa1hZOS1IVFdybmV0ekktM1RFSjFLeTRscGNXNlNjOGotaXJIY0JmWXo1bFF3ZS1YeU9wU00xQnZhVUJrb1UydkROdWhEMDI4dlljcUM?oc=5) - 川崎フロンターレ公式サイト (Sun, 15 Nov 2026) [score: 0.125]
-  - [法医学専門家、エプスティーン元被告は殺害された可能性が高いと指摘　検視資料を独自に分析 - BBC](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VcjNnMktJcmh2LTE3UzU2RjF4RHJlT1JNMHpfRl83Tk9HdnFVX0JTVXdFejRFZy1hblByUTVnOEZYMDAybVNrQnUxNVVxVDloMGFGdDBoYUl3Mk5LZnZuQtIBZkFVX3lxTE5uMVF0QllxbEJOVFBTVXNpTWZCeGVtV3NYLTFmRWN2bmxwcXAzeFVXeExQYkh5bU9DWWhfU3RIX0hIa0N2eGNOa3FVQlVUYkUwTllNcTRiTUdDZi01WW40WTYwQktwUQ?oc=5) - BBC (Tue, 17 Nov 2026) [score: 0.125]
   - [ズームやBBCなど178組織のサイトにマルウェア混入、A/Bテスト基盤経由で暗号資産窃取（ビジネス＋IT） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE0wQi1YLTRiUUlKODg4My1jWlNPOEs0TjNMSDR3R1JEdW1DZWtNd0NoUWhRUEZ2WE9QVldPWWhLM01YRmE1Wk5icDlGQm1hQTgwejFaM2tUbk1wWTJIZ1h3Nkc1ZkVPZndTLUdWUm85bkFMTTJyOUdzUGR4aDctZzg?oc=5) - Yahoo!ニュース (Tue, 17 Nov 2026) [score: 0.125]
+  - [【ポケモンカードゲーム MEGA 拡張パック「ハドウシーカー」販売のご案内】｜ローソン公式サイト - LAWSON](https://news.google.com/rss/articles/CBMie0FVX3lxTE5MVVo3aDEtUjc4ZzhFYnZFM0loRTU5TzBQTUJEblB0UkY1bmZZNWZDbmhZZ3BmWUdiWGVmRURTRmliVnU3X19UaXdpTlRCUjNuOUpIVTRYdDAtZGtRdnpTUEVQYTlveVFsYlpnRUliekZSMV8yUXFWSnkxMA?oc=5) - LAWSON (Tue, 17 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[『GTA6』レビュー絶賛、「傑作」との評価](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QYzNLR182dmNxMWNGNGItTVNHZ1l2UjRPRkY1WGt6WkxBUHZXYkktZmhjekl5M01lUHdicHhCZ1FPRjh1bERTWFBwWldsMWQ0LURiUG9EdHFMdzg?oc=5)** - BBC (2026-11-18T17:34) [score: 0.214]
-    - 原題: GTA 6 reviews say highly-anticipated game is a masterpiece
-    - 要約: 注目作『グランド・セフト・オート6』のレビューが解禁され、各メディアが「傑作」と高く評価していると報じられた。Metacriticで99点、満点評価は118件に上るとされる。
-  - **[ダンディー監督、国立センター設置を要求](https://news.google.com/rss/articles/CBMia0FVX3lxTE8tN1hnOWdfc2g4eEp1LU1XY2cycjZ3cFRNU0hZcFJ6YjNYLTR2emtvcUlwOWpVY1NETGlnMjNrdkpJV3dLSTE1Mmg1WkFzU3JxMFpuT0ZLc1dJTWhIX052Ui02RUl6UVJBaTVJ?oc=5)** - BBC (2026-11-18T15:07) [score: 0.214]
+  - **[ダンディー監督、スコットランド強化へ国立センター設置を要求](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MSVdPZFExbDhMdXNqVWJEcm4wWUEwSHN5Uk9VX0ZKNnVLLUVhUS01VHdKREY4aE1wTnhkTE5tczJ5X2dLZUwtVldYXzdoNTRXME1zYVBkd2l6c21Lb0ZrNWJjZWo1T19B?oc=5)** - BBC (2026-11-18T15:07) [score: 0.211]
     - 原題: Dundee boss Steven Pressley calls for national centre to enhance Scottish game
-    - 要約: スコットランドのダンディーを率いるスティーブン・プレスリー監督が、国内サッカーの強化へ向けたナショナルセンターの設置を訴えたとBBCが伝えている。
-  - **[スコットランド人気コメディ「Still Game」が舞台で復活へ](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zSmJibmo3NFJUaDBXYUlYb1lyb3d0QkJQck1fd2g0TEZVOW4tTVNZUnVTdi1Xeld2ZU1DMzNkSWRQcWgtcDQ0VUVpTmVhVVV6aWRXenhTdEtPdWw5UWc?oc=5)** - BBC (2026-11-17T06:17) [score: 0.206]
+    - 要約: BBCによると、サッカーのダンディーを率いるスティーブン・プレスリー監督が、スコットランドサッカーの向上のためナショナルセンターの設置を求めたという。
+  - **[GTA6のレビュー、「傑作」と高評価](https://news.google.com/rss/articles/CBMiXkFVX3lxTE83RFNORWlhblpzalV6d2hYUGVucVN2QURUZm12NzlXc055ZWkzem5sSWhkYk5DUVBNeHdiVDh4My1RWGxYQ3lIQ0R5aGFkVUpTTUR4OS1URWEzbHNkTEE?oc=5)** - BBC (2026-11-18T12:22) [score: 0.209]
+    - 原題: GTA 6 reviews say highly-anticipated game is a masterpiece
+    - 要約: BBCは、期待を集めるゲーム『GTA6』のレビューが同作を傑作と評していると報じている。
+  - **[スコットランド人気コメディ「Still Game」が舞台で復活へ](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zSmJibmo3NFJUaDBXYUlYb1lyb3d0QkJQck1fd2g0TEZVOW4tTVNZUnVTdi1Xeld2ZU1DMzNkSWRQcWgtcDQ0VUVpTmVhVVV6aWRXenhTdEtPdWw5UWc?oc=5)** - BBC (2026-11-17T06:17) [score: 0.191]
     - 原題: 'Look who it isnae' - Still Game set to return as stage show
     - 要約: BBCによると、スコットランドの人気コメディ番組「Still Game」が舞台公演として復活する予定だという。
-  - **[ポルトガル代表監督、ロナウドの母の批判に反応](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tYXhRRmczMEFRci1HS2N6WXA0YWxKdzNmN3ZZd3hQUndUNDVnU3k3NGRwS3l6S3BsaDFacXR3WlJiam54ZkFLRV9EYlZDNnV0eTFEdXFFMmMwV0dtQUl6VC1OSVpscThn?oc=5)** - BBC (2026-11-16T21:08) [score: 0.2]
+  - **[ポルトガル代表監督、ロナウドの母の批判に反応](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tYXhRRmczMEFRci1HS2N6WXA0YWxKdzNmN3ZZd3hQUndUNDVnU3k3NGRwS3l6S3BsaDFacXR3WlJiam54ZkFLRV9EYlZDNnV0eTFEdXFFMmMwV0dtQUl6VC1OSVpscThn?oc=5)** - BBC (2026-11-16T21:08) [score: 0.186]
     - 原題: Portugal boss responds to criticism from Ronaldo's mum
     - 要約: BBCによると、ポルトガル代表監督が、クリスティアーノ・ロナウド選手の母親による批判に対して見解を示した。
-  - **[ウェールズ代表ウィリアムズ、ポルトガル戦欠場](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwTVU5STZSMmpGaU1XSnJpOS1jaDRLSGo5MnhGUW9ISFA3OUhqUi1vSGtOcmhUS1gydTl3MnIyTVZjQ19NblNoNFBmMXpaaGpKSGtseDZwYS1PNEZaaWxNWVdIVFhaUWtB?oc=5)** - BBC (2026-11-16T15:55) [score: 0.197]
-    - 原題: Wales Nations League: Neco Williams ruled out of Portugal game
-    - 要約: BBCは、ネーションズリーグでウェールズ代表のネコ・ウィリアムズがポルトガル戦を欠場することになったと伝えている。
+  - **[ポルトガル代表監督、ロナウド母の批判に反応](https://news.google.com/rss/articles/CBMia0FVX3lxTE15NDZQZTdLVDRTb0h0SFpYNmdSS3MwVEZSb3NXUW9ZenhWMWNhenJWTi1MTmdySzJ1cFNyc1VISGtORXRYSzlMal83bzROMDByMUd3MXo3SkVuelZnd3RZQ3A2S3pMeXdpdm5z?oc=5)** - BBC (2026-11-16T21:08) [score: 0.186]
+    - 原題: Cristiano Ronaldo: Portugal boss Jorge Jesus responds to criticism from Ronaldo's mother
+    - 要約: BBCによると、ポルトガル代表のジョルジェ・ジェズス監督が、クリスティアーノ・ロナウドの母親から受けた批判に対して応じたという。
 
 #### 動画: [【超話題のバー騒動】意識の高すぎるバーが経営難に陥り、苦渋の選択で出した妥協案が目覚めた客から猛反発！？あまりにもひどい展開に映画化の話まで持ち上がってしまう](https://www.youtube.com/watch?v=j-dvPI2873g)
-- 公開日: 2026-10-27 / 再生数: 393,689 / 高評価: 6,810 / 視聴者関心度: x1.05
+- 公開日: 2026-10-27 / 再生数: 394,165 / 高評価: 6,810 / 視聴者関心度: x1.04
 - キーワード: バー, 騒動, 経営難, 超話題, 意識, 苦渋, 選択, 妥協案
 - 英訳キーワード: Bar, Riot, Consciousness
-- 視聴者コメントの頻出語: 権利, 界隈, 自分, 相手, コミュニティ, 目覚, 証明, 多様性, 包括性, 人達
+- 視聴者コメントの頻出語: 権利, 自分, 相手, コミュニティ, 界隈, 多様性, 目覚, 結局, 人達, 鼻輪
+- 国内の関連ニュース:
+  - [陰謀論や都市伝説紹介のユーチューバー起用 政府、安全保障の広報で - 朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HTGZJdzFTVWh3S1FWam02Sms3N0EwT3dpNld2VThmb251aGd6ZG51Z09ZbGdWRldHUy1KUUYwR2d6Y1lCRkNLUUlPQlM5djl4OVNvbk1IeVRSOU9ERndNd3FERkxhRWc?oc=5) - 朝日新聞 (Tue, 17 Nov 2026) [score: 0.125]
+  - [政府広報に都市伝説系ユーチューバーを起用で物議 - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE04T3RBXzQ0bzJ0d0YtMTk2TnYtT0lOMFhMcUdqcWljaFBSNUdSRmFpcmdiMWRuMVF6SGIzOE5KUG5GRTZJT3lBOXRWTlZwVTVLeUcxdGljcWhKWXlMSHgw?oc=5) - NHKニュース (Tue, 17 Nov 2026) [score: 0.125]
+  - [政府広報への都市伝説ユーチューバー起用、事業者が提案 官房長官 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE4zNzNEbXR6ZGJ6Qkx2RkotRUVrWUNTWFNEMFh1TDNJRkl4cVRjQ2szSUtobEZpZlVrUjg2MlJ2V0lZSDdoaWJ0VzZCbzJHS29RcnhOTHdhbUc4aW16ZmVOLUN6VUpBS1AzcHd2aw?oc=5) - 日本経済新聞 (Wed, 18 Nov 2026) [score: 0.125]
+  - [安全保障巡る政府広報に「都市伝説」紹介ユーチューバー起用、「ふさわしくない」と疑問視の投稿相次ぐ - 読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fT2djWmd2RWxETmJhR2RzTWIwbEV4R0ZIOGtmM2J0OTBYLVBlMWRnR0dLRmNfWFNFMnFwVUN6YVlCalVuWWVIUWk5eEI3RXg0dlp3T3dQZWhmbWJKcHBDcWZzNTdKZw?oc=5) - 読売新聞 (Tue, 17 Nov 2026) [score: 0.125]
+  - [陰謀論・都市伝説のユーチューバーを政府広報に起用 内閣広報室予算10倍以上要求の中 - テレ朝NEWS](https://news.google.com/rss/articles/CBMic0FVX3lxTE1PX01xUURDd25NU0dTME5YUWE0T0lLdkMzVmppd2tFdDgySGh2ajRlSHJ3Mm4xLTY3a0hVNzBKYTYxN1NUdlFUZGxTdmJWM29PNWtKUGxFaWNOUDU1d0trWVBsbm12SWQyWlEtaDNhb3loOE0?oc=5) - テレ朝NEWS (Wed, 18 Nov 2026) [score: 0.125]
 - 海外の関連ニュース:
-  - **[著名哲学者がAIの「意識」論に反論「ばかげている」](https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXR4S2FnZTV2WE8tTVdSY1BKSDlBOHpvWU96UjJwRzktVXZpTUxLcUQyN0h1UGFqWTM3TnpveHZnbHR6V1Q5NmJOOEplUlRUOVNkbUZseG9WNUE1YmN1LVZUTmRydGl6SFhpSFlzTW1vSTRSZmdpbUNpWFRQTXhHM1VORTluek9rVEcza1NpVnhqU1A3?oc=5)** - WIRED (2026-11-18T15:02) [score: 0.333]
-    - 原題: ‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness
-    - 要約: 米WIREDは、著名な哲学者がAIに意識があるとする議論に異議を唱えたと報じている。哲学者はそうした主張を「ばかげている」と一蹴しているという。
-  - **[人気店が閉店へ、住宅計画で　LAスタジオシティ](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hTFZSN0FnLWltcnd4MFpZUHNlYVhCVE9pNnhjMjdxaEJYSlRoaGx6N3NiR0NDOUk2S0V1bHdnSzdLQlFWYjBqOW45Ujg1NUozYUkwMDdBV054Um4ybVlZZm53R1NXb3JGSnZYRkVRSDR3dW05T2pEeWhxeTk?oc=5)** - Los Angeles Times (2026-11-17T22:38) [score: 0.333]
-    - 原題: ‘What a mistake.' Popular Studio City restaurant and bar will close to make way for new housing project
-    - 要約: ロサンゼルス・タイムズによると、ロサンゼルス市スタジオシティの人気レストラン兼バーが、新たな住宅開発計画のため閉店するという。常連からは「なんという間違いだ」と惜しむ声が出ていると伝えている。
-  - **[ハーシー、1日限定で板チョコを発売当時の価格に](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZndLUVkxR0M0YzgtZXgteHNJQWdKY1NuRjhKVDNDZWdmUWFtN3FzWm45YzBlekRJNlNmTjNmOXdxVW56NEsxRGZqbmxtUHY5UW12bnRiTUc3a1hXQ3ZRdEUzenBJTlZLd1NYVU5VX1FUbEl1a1paVUtERThvTGpCb3preDBDdFZDMk1MWWhxSW4zUVJ4Q2fSAZsBQVVfeXFMTkx0cTQzSGpVYm42eW1qdkJrWlFLODVDUklERTVOSkFBNm9tOGhNeWdCVWFTZHlQUE10eTBfaVZOVk9YMmVKZ0pldlVUelVNRGg5TjQzR0pIMjdtZF9yVV90SnNhTHNkR3BEMDhkaUFjclJQa1pjWWNMUjRDTEFWVlJaZWZTUnJGM1FOVUk1a2loLU5oTHM1NWk2UkE?oc=5)** - ABC27 (2026-11-18T16:19) [score: 0.333]
-    - 原題: Hershey brings back original chocolate bar price for one day
-    - 要約: 米テレビ局ABC27は、菓子大手ハーシーが1日限定で看板商品の板チョコを発売当初の価格に戻すと報じている。
-  - **[「ロボ・トーク」17日夜、サンディア・スポーツバーで生配信](https://news.google.com/rss/articles/CBMingFBVV95cUxPRWhyZ0JSaDB5Tk5RZGFDV2lUX1AtXzEzZHBfdkZXeUdEcE15T0MzajM3YWJXaVlKQlgyamtjazBxUmxkRG9URVVGc0JJaExwUDJqZm1IanJiVWFGdHpWVVpDYURpRW54X1RmdVpZMU5venppR3F3eWF5b1k5ckFOR2MwUVE0MU5XU2J5VHVBM2dWRmQ3Y3dUSWJxODMtdw?oc=5)** - New Mexico Lobos (2026-11-17T22:09) [score: 0.333]
-    - 原題: Lobo Talk is Tonight, Tuesday, Nov. 17, Live at Sandia Sports Bar - New Mexico Lobos - Official Athletics Website
-    - 要約: ニューメキシコ大学の公式アスレチックサイトが、同校の番組「ロボ・トーク」を11月17日夜にサンディア・スポーツバーから生中継すると告知している。
-  - **[フロリダ州弁護士会、未承認CLE講座に25ドル手数料](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUFRkdTU0YnYwZDYtZllKVTVQYXdyblRYdXppNWQ0Z0tNMXZFbFc2MDlHRnR4dTdoQjJfRWtvME0yQUNDak1aeHRJVy1ybGpTRF9BY0ZCc294Y1dWdHNpUXI3OFlJTGVhTGg2U3pOTkFNYndxM0ltRFNXbFVwS2IzNzhqSGxPRlBYU0RIaVVLSER2dXMyVnRfWTZNZTNZcXpXWnpNeV9wRFNxMzZCNHhST2Q0c1NZRTdFTEpmVERR?oc=5)** - The Florida Bar (2026-11-18T13:27) [score: 0.333]
-    - 原題: Bar to begin collecting $25 fee for certain unapproved CLE courses July 1
-    - 要約: フロリダ州弁護士会は、承認を受けていない一部の継続法学教育(CLE)講座について、7月1日から25ドルの手数料徴収を始めると発表している。
+  - **[著名シェフ、パリの暴動に巻き込まれ股関節骨折](https://nypost.com/2026/11/19/us-news/famed-nyc-chef-keith-mcnally-claims-he-broke-hip-in-paris-riot/)** - New York Post (2026-11-19T15:11) [score: 0.333]
+    - 原題: Famed NYC chef Keith McNally, credited for ‘inventing downtown,’ says he broke hip after being clobbered in Paris riot
+    - 要約: ニューヨーク・ポストによると、バルタザールなどで知られる著名レストラン経営者キース・マクナリー氏が、パリの暴動で殴打され股関節と肩を骨折して入院したと木曜に明かしたという。
+  - **[ライアットゲームズ社長、セント・ジョンズ大で講演](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFNNWklKNXhaY1pFWURxX0ptQlBLTEM4LVZJcmxrTmJfTzRkeWt6LTZEb25PZHIyQ0VaVGxweXpCWkdieFRJX2RxZTFrTHd6dU9kNEhDWExLdHMyMXVYeGNLcE1GSzQyeFdLbTV3NTAyNDV3MHFsSUFTWFpZR24yZTIyZmlRVGlRLW5ueThiRVBobEhmbFY1eDR4N1FYOVE1dnRNRWhwSnBQZ2lodFdBaFBHWUc?oc=5)** - St. John's University (2026-11-19T19:27) [score: 0.333]
+    - 原題: Riot Games President Shares Industry Insights with St. John’s Students
+    - 要約: 米セント・ジョンズ大学は、ゲーム大手ライアットゲームズの社長が学生に業界の知見を語ったと伝えている。
+  - **[「AIの意識」をめぐる危うい政治](https://news.google.com/rss/articles/CBMifEFVX3lxTE5RWjMzR09OeE9rMlBZMGZBeFBsVkQxRGtGdldXMzBkMDJ5OWc4ZUZvXzQ4Q3R2XzdyMnNfNWtSS3E1TERVbWgyYTI2bTVDWDh2b1dpU3BMU1hqOFl0N28xQmdqUjJwaWhxUUF1MEdiWEstWmJYNi1ETHI0YW4?oc=5)** - Tech Policy Press (2026-11-19T14:27) [score: 0.333]
+    - 原題: The Dangerous Politics of AI Consciousness
+    - 要約: テック・ポリシー・プレスが、AIに意識があるかという議論が持つ政治的な危うさについて論じている。
+  - **[オオソリハシシギ「フィル」、シベリアへ往復1万km超の旅](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTBoVEFqVzZNX19NM2dEQVc2VktseV8wXzVCdk42TVNLSW11dWpESFdJY0JhS0lXQ09oUkJpU3JrUFFTYld6THpGQTBrMmZHNGt1a2w3RW1aZ24zamZtTW5Wc0hvblNqYlVUY3RKaV9zb3dIcGNwUnVWVlVxZG9TZGJhLUpfakZIR1FUaGRpWnZ3Ri1tU2xlNmRIRlgxLVljTUp6UXJLRmZkZw?oc=5)** - The Guardian (2026-11-19T05:01) [score: 0.333]
+    - 原題: Meet Phil, the bar-tailed godwit tracked on a 6,800-mile round trip to Siberia
+    - 要約: ガーディアン紙は、オオソリハシシギの「フィル」が追跡調査により、シベリアまで約6800マイル（約1万1000km）の往復の渡りをしたことが分かったと伝えている。
+  - [Hershey bar 5-cent promotion: Where can I buy them?](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMk5YN25NV0E5dXJqbmI0cTNLVTZ6R3lhX0pnRUoxbE1vNllfd0I4VXNQT25uX1F3V1pHa1lHbEVlaEpuUjM0c21KbE9rdXpTb0cwajZhVldGWmExWVpZSm5jVjBLLTl3dW1wVGt6S3lDejlPUE5SNl8yU010ck85NkpKTmVIY0hET0pIUmVB?oc=5) - Yahoo (2026-11-19T16:07) [score: 0.333]
 
 ## 2. 海外で話題 × 視聴者が興味を持ちそうなニュース
 
 海外ニュースサイトの最新記事を「両チャンネルの視聴者の関心 (再生数で重み付けした動画テーマ・コメント・定番テーマ)」「何媒体が同時に報じているか」「鮮度」でスコアリングしています。
 
-- **[トランプ氏、中国訪問中にプーチン氏と1対1会談へ](https://thehill.com/homenews/administration/6228595-trump-putin-meeting-china/)** - The Hill (2026-11-18T20:26) [score: 4.485] _[米国政治・社会 / 2媒体が報道 / 関心語: Trump, White House, China, Xi Jinping]_
-  - 原題: Trump to meet Putin one-on-one during China trip
-  - 要約: ホワイトハウス当局者によると、トランプ大統領は木曜に中国でプーチン大統領と個別会談を行う予定。習近平国家主席を交えた3者会談とは別枠で、昨年8月のアラスカ首脳会談以来の直接会談になると報じられている。
-- **[トランプ氏、プーチン氏・習近平氏と歴史的な3者会談へ](https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting)** - NPR (2026-11-18T06:57) [score: 4.22] _[国際 / 3媒体が報道 / 関心語: Trump, China, Russia, Putin]_
-  - 原題: Trump to meet with Russia's Putin and China's Xi for historic joint meeting
-  - 要約: トランプ大統領が木曜、ロシアのプーチン大統領、中国の習近平国家主席と3者による歴史的な会談を行うと報じられている。
-- **[トランプ氏が中国到着、習・プーチン両氏との歴史的会談へ](https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html)** - CNBC (2026-11-18T12:24) [score: 4.16] _[経済 / 4媒体が報道 / 関心語: Trump, China, Xi Jinping, Russia]_
+- **[トランプ氏が中国到着、習・プーチン両氏との歴史的会談へ](https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html)** - CNBC (2026-11-18T12:24) [score: 4.505] _[経済 / 6媒体が報道 / 関心語: Trump, China, Xi Jinping, Russia]_
   - 原題: Trump arrives in China for historic meeting with Xi, Putin
   - 要約: トランプ米大統領が中国・深圳に到着したとCNBCが報道。習近平国家主席とロシアのプーチン大統領との歴史的な3者協議に臨むとしている。
-- **[トランプ氏、中国での歴史的協議前にプーチン氏・習氏と握手](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)** - BBC News (2026-11-18T16:10) [score: 3.872] _[国際 / 4媒体が報道 / 関心語: Trump, China, Putin]_
-  - 原題: Trump shakes hands with Putin and Xi ahead of historic talks in China
-  - 要約: BBCによると、注目の首脳会談を前にトランプ大統領がプーチン大統領、習近平国家主席と握手を交わした。3首脳が揃って会談するのは木曜が初めてとされる。
-- **[トランプ氏が中国到着、群衆が出迎え　習・プーチン両氏と会談へ](https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss)** - Al Jazeera (2026-11-18T16:40) [score: 3.872] _[国際 / 4媒体が報道 / 関心語: Trump, China, Putin]_
-  - 原題: Crowds gather as Trump arrives in China ahead of talks with Xi and Putin
-  - 要約: APEC首脳会議のため中国・深圳に到着したトランプ米大統領を、多くの市民が出迎えたと報じられている。習近平氏、プーチン氏との会談を控えている。
-- **[トランプ・プーチン両氏、木曜に中国で1対1会談](https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss)** - Al Jazeera (2026-11-18T20:12) [score: 3.718] _[国際 / 2媒体が報道 / 関心語: Trump, China, Russia, Ukraine]_
-  - 原題: Trump and Putin to meet one-on-one in China Thursday
-  - 要約: 米ロ両首脳が中国で会談するとアルジャジーラが報道。ウクライナ危機の解決や戦後の安全保障の保証強化に向けた動きの中での会談だとしている。
-- **[APEC首脳会議、トランプ・習近平・プーチンの思惑](https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf)** - DW (2026-11-18T05:39) [score: 3.571] _[国際 / 3媒体が報道 / 関心語: Trump, Ukraine, Putin, Iran]_
-  - 原題: APEC summit: What Trump, Xi and Putin want
-  - 要約: DWは、APEC首脳会議に合わせてトランプ米大統領、習近平国家主席、プーチン大統領が初の3者会談を行うと報じている。貿易、ウクライナ、イラン、軍備管理で優先課題が異なる各首脳の狙いを解説している。
-- **[習近平氏、トランプ氏をハグで出迎え　3者会談を前に](https://www.breitbart.com/europe/2026/11/18/chinas-xi-greets-trump-with-a-hug-ahead-of-trilateral-talks-with-putin/)** - Breitbart (2026-11-18T10:25) [score: 3.541] _[エンタメ / 3媒体が報道 / 関心語: Trump, China, Xi Jinping, Putin]_
-  - 原題: China's Xi Greets Trump with a Hug Ahead of Trilateral Talks with Putin
-  - 要約: ブライトバートによると、水曜朝に中国・深圳に到着したトランプ大統領を習近平国家主席が自ら滑走路で出迎え、ハグを交わしたという。異例の厚遇だと伝えている。
-- **[BBC記者分析「米中との歴史的会談はプーチン氏の勝利」](https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss)** - BBC News (2026-11-18T10:53) [score: 3.432] _[国際 / 2媒体が報道 / 関心語: Trump, China, Russia, Ukraine]_
-  - 原題: Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin
-  - 要約: BBCのスティーブ・ローゼンバーグ記者は、米中ロ首脳会談はプーチン大統領に大きな舞台を与えるものの、ウクライナでの戦争の勝利に近づくわけではないと分析している。
-- **[APEC速報：習氏がトランプ氏歓迎、プーチン氏は「欧州は屈辱的衰退」と主張](https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china)** - The Guardian (2026-11-18T17:48) [score: 3.146] _[国際 / 2媒体が報道 / 関心語: Trump, China, Putin]_
-  - 原題: Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’
-  - 要約: ガーディアンのライブ記事によると、習近平氏がトランプ氏を歓迎する一方、プーチン氏は欧州が「屈辱的な衰退」にあると述べた。木曜の3者会談が新たな「勢力分割」になるのかとの論点も取り上げている。
-- **[トランプ氏が中国到着、習・プーチン両氏との会談控え](https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin)** - NPR (2026-11-18T05:32) [score: 3.146] _[国際 / 2媒体が報道 / 関心語: Trump, China, Putin]_
-  - 原題: Trump lands in China with key meetings with Xi and Putin on the agenda
-  - 要約: NPRによると、エアフォースワンが深圳に到着した際、習近平氏が滑走路で自ら出迎えるという特別な厚遇を示した。9月の習氏訪米時にトランプ氏が見せた対応に応えたものだという。
-- **[中国、米ロ中首脳会談の開催を事前に「成果」と宣言](https://www.breitbart.com/asia/2026/11/18/china-preemptively-declares-victory-on-hosting-trump-putin-xi-summit/)** - Breitbart (2026-11-18T13:29) [score: 3.12] _[エンタメ / 2媒体が報道 / 関心語: Trump, China, Xi Jinping, Putin]_
-  - 原題: China Preemptively Declares Victory on Hosting Trump-Putin-Xi Summit
-  - 要約: ブライトバートは、中国国営メディアが専門家の発言を引用し、トランプ氏・プーチン氏・習氏の会談を開催前から歴史的意義があると称賛していると伝えた。
-- **[FOX読者投稿募集：トランプ氏、中国でプーチン氏と対面](https://www.foxnews.com/politics/sound-off-trump-face-face-putin-china)** - Fox News (2026-11-18T13:22) [score: 2.99] _[米国政治・社会 / 関心語: Trump, China, Ukraine, Putin]_
-  - 原題: SOUND OFF: Trump face to face with Putin in China
-  - 要約: FOXニュースは、トランプ大統領とプーチン大統領が今週中国で会談する見通しだとして、イランやウクライナへの影響について読者の意見を募っている。
-- **[BBC特派員が解説、トランプ・習・プーチン歴史的会談](https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss)** - BBC News (2026-11-18T08:33) [score: 2.921] _[国際 / 3媒体が報道 / 関心語: Trump, Putin]_
-  - 原題: BBC correspondents discuss historic Trump, Xi and Putin meeting
-  - 要約: BBCのローラ・ビッカー、スティーブ・ローゼンバーグ、ナダ・タウフィク各記者が、前例のない3者会談を前に押さえておくべき点を解説している。
-- **[習氏とハグ、プーチン氏と握手　トランプ氏の訪中初日](https://www.scmp.com/news/china/diplomacy/article/3374951/tarmac-hug-xi-and-handshake-putin-how-trump-began-his-china-visit)** - South China Morning Post (2026-11-18T14:12) [score: 2.86] _[アジア / 関心語: Trump, China, Xi Jinping, Russia]_
-  - 原題: A tarmac hug with Xi and a handshake with Putin, how Trump began his China visit
-  - 要約: SCMPによると、深圳でのトランプ大統領の訪中初日は握手や歓待、演出された写真撮影が目立った。習近平氏が数十年の慣例を破り自ら空港で出迎えたとしている。
-- **[ウクライナ支援国、ロシア深部攻撃への米批判に反発](https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html)** - CNBC (2026-11-18T10:49) [score: 2.8] _[経済 / 関心語: Trump, Xi Jinping, Russia, Ukraine]_
-  - 原題: Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit
-  - 要約: CNBCによると、ウクライナの同盟国がロシア領内深部への攻撃をめぐる米国の批判を拒否した。トランプ・プーチン・習3首脳の会談を前に対立が表面化しているという。
-- **[DC映画『クレイフェイス』中国公開へ　記録的スコア](https://cosmicbook.news/clayface-china)** - Cosmic Book News (2026-11-18T13:49) [score: 2.673] _[エンタメ / 関心語: DC, Supergirl, Clayface, China]_
-  - 原題: ‘Clayface’ Heads To China With Record DC Score, Eyes ‘Supergirl’ Box Office
-  - 要約: ワーナー・ブラザースがDCのホラー映画『クレイフェイス』を11月27日に中国で劇場公開すると発表したと報じられている。DC作品として記録的な評価を得ており、『スーパーガール』の興行成績を視野に入れているという。
-- **[高市首相、プーチン大統領と会談　日ロ関係は緊張](https://www.scmp.com/news/china/diplomacy/article/3374961/japans-takaichi-meets-putin-rare-talks-amid-strained-ties-russia)** - South China Morning Post (2026-11-18T16:24) [score: 2.64] _[アジア / 関心語: Russia, Ukraine, Putin, Japan]_
-  - 原題: Japan’s Takaichi meets Putin in rare talks amid strained ties with Russia
-  - 要約: 高市早苗首相が水曜、中国・深圳でのAPEC首脳会議に合わせてロシアのプーチン大統領と会談したと報じられた。ウクライナ侵攻や日本人記者のスパイ容疑での拘束を巡り、日ロ関係が冷え込む中での異例の高官接触とされる。
-- **[前例なきトランプ・習・プーチン会談、注目5点](https://www.breitbart.com/asia/2026/11/17/5-top-issues-to-watch-for-in-unprecedented-trump-xi-putin-summit/)** - Breitbart (2026-11-17T21:41) [score: 2.6] _[エンタメ / 2媒体が報道 / 関心語: Trump, Xi Jinping, Putin]_
-  - 原題: 5 Top Issues to Watch for in Unprecedented Trump-Xi-Putin Summit
-  - 要約: 中国政府が、トランプ米大統領と習近平国家主席、ロシアのプーチン大統領による木曜の3者会談を事実上認めたとブライトバートが報じた。前例のない首脳会談で注目すべき5つの論点を挙げている。
-- **[旧ガスパイプライン内部　ウクライナの地下戦](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)** - BBC News (2026-11-18T17:00) [score: 2.574] _[国際 / 2媒体が報道 / 関心語: Russia, Ukraine]_
-  - 原題: Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
-  - 要約: BBCの記者が、ロシアのドローンの目を逃れて地下で戦うウクライナ軍に同行したと伝えている。旧ガスパイプライン内部での戦闘の様子を報じている。
-- **[元駐中国大使、トランプ氏の米中ロ首脳会談を語る](https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia)** - NPR (2026-11-18T06:57) [score: 2.42] _[国際 / 関心語: Trump, China, Russia]_
-  - 原題: Former U.S. ambassador on Trump's joint summit with leaders of China and Russia
-  - 要約: NPRが、元駐中国・NATO大使のニコラス・バーンズ氏に取材。トランプ大統領が予定する中国・ロシア両首脳との会談について見解を聞いたと伝えている。
-- **[習近平主席、高市首相に笑顔も会話なし　日中冷却続く](https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers)** - South China Morning Post (2026-11-18T13:37) [score: 2.42] _[アジア / 関心語: China, Xi Jinping, Taiwan, Japan]_
-  - 原題: Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers
-  - 要約: 深圳のAPEC首脳会議で、高市首相と習近平国家主席が昨秋以来初めて対面したと報じられた。記念撮影前に握手を交わしたが、台湾を巡る高市氏の発言で冷え込んだ関係は続いているとされる。
-- **[「クリミアが島に」　ウクライナ、橋を攻撃](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYklTN2ppazZ0YmtZQUVsWGVvN01DSldOYkZ1Vl9rVmpVOXA4N3B3dl8yeTg1SU56TG56S1NnTlB3R3EyRFZDV3ZyYnY0Vy1va1VKT2M0Qkg2ZTFsOHVhNGdfT2k5blZXMXlxaWZwZWc2Z3BmMktGTS1jekwteHpGM3c0VUhyaWxqd2t0QzQ1SHVWaWo4eGNFaXNRT1dFZmZpYmhOVkNySi1YYmZDekZWUdIBtgFBVV95cUxQYjdxSzY2dVg3S1VZUm9YVXc4b29vNldIeVBjMFN4a2xreHNOTkR1UmIwSmNRYkNTbkctLVctcmxRbHFVeFNUQWp2WkZGWlVMWEJldlAzX3ZnLUdHSG14VXFOQU5mTURuNmZyWEdkWUNISGRuVXU0WmdBVFRKM0V3cHJpeE94dUp1U2pFcFVxV3lxTDVjOFZXNi11MG9FZ3JzTnhmVlVVZ1JRUDlTY3dhYWljazhOdw?oc=5)** - Al Jazeera (2026-11-18T14:40) [score: 2.42] _[国際 / 関心語: Trump, Russia, Ukraine, Putin]_
-  - 原題: ‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge
-  - 要約: ウクライナがプーチン大統領が重視するクリミア橋を攻撃したと各社が報道。ロシアは再建を誓ったが数年かかる可能性があり、トランプ・習会談の直後にプーチン氏の威信に打撃となったと伝えている。
-- **[東京とソウル、米中ロ首脳会談を前に警戒](https://www.japantimes.co.jp/news/2026/11/18/japan/politics/japan-south-korea-talk/)** - The Japan Times (2026-11-18T15:53) [score: 2.4] _[日本 / 関心語: Trump, Xi Jinping, Putin]_
-  - 原題: Tokyo and Seoul brace themselves ahead of Trump-Xi-Putin meeting
-  - 要約: トランプ米大統領、習近平国家主席、プーチン大統領が木曜に3者会談を行う予定で、日本と韓国が身構えているとジャパンタイムズが報じている。
-- **[米委員会、AI半導体の対中輸出規制強化を提案](https://www.scmp.com/news/us/article/3374802/us-panel-proposes-tougher-ai-chip-export-rules-ahead-trump-xi-talks)** - South China Morning Post (2026-11-18T10:45) [score: 2.365] _[アジア / 関心語: AI, Trump, China, Xi Jinping]_
-  - 原題: US panel proposes tougher AI chip export rules ahead of Xi-Trump talks
-  - 要約: 米議会の超党派委員会「米中経済安全保障検討委員会」が、対中輸出の先端AI半導体について米国内の生産能力を奪わないと証明させるよう議会に求めたと報道。トランプ・習会談を前に規制論議に新提案が加わった形。
-- **[習主席が空港でトランプ氏出迎え　異例の歓迎](https://www.foxnews.com/politics/chinas-xi-surprises-trump-tarmac-reciprocating-gesture-shown-months-ago)** - Fox News (2026-11-18T07:28) [score: 2.3] _[米国政治・社会 / 関心語: Trump, China, Xi Jinping]_
-  - 原題: China's Xi surprises Trump at tarmac, reciprocating gesture shown months ago
-  - 要約: 習近平国家主席が深圳の空港でトランプ大統領を自ら出迎えたとFOXが報道。数カ月前にトランプ氏が見せた空港での歓迎に応えた異例の対応だとしている。
-- **[比で反トランプ抗議　数百人逮捕、イラン戦争とAI協定に怒り](https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines)** - The Guardian (2026-11-17T11:00) [score: 2.299] _[国際 / 関心語: AI, Trump, Iran]_
-  - 原題: Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact
-  - 要約: ASEAN首脳会議出席でマニラ入りしたトランプ米大統領への抗議デモで数百人が逮捕された。主催者は次回のデモに最大1万人が参加する可能性があると主張していると報じられている。
-- **[トランプ氏暗殺計画のパキスタン人に禁錮27年](https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot)** - The Guardian (2026-11-18T00:21) [score: 2.288] _[国際 / 2媒体が報道 / 関心語: Trump, Iran]_
-  - 原題: Pakistani man sentenced to 27 years in US prison over Trump murder plot
-  - 要約: 米司法省によると、トランプ大統領の暗殺を企てたとしてパキスタン人のアシフ・マーチャント被告に禁錮27年以上の判決が言い渡された。イランとの関係が指摘され、革命防衛隊のソレイマニ司令官殺害への報復を狙ったとされる。
-- **[豪アルバニージー首相、プーチン氏と記念撮影に応じる](https://www.theguardian.com/australia-news/2026/nov/18/anthony-albanese-defies-critics-for-apec-summit-photo-with-vladimir-putin)** - The Guardian (2026-11-18T15:39) [score: 2.2] _[国際 / 関心語: China, Russia, Ukraine, Putin]_
-  - 原題: Anthony Albanese defies critics for Apec summit photo with Vladimir Putin
-  - 要約: オーストラリアのアルバニージー首相が、中国でのAPEC首脳会議でプーチン大統領と並ぶ集合写真に収まったとガーディアンが報道。国内のウクライナ系住民から抗議を求める声があったが、中国側ホストの意向を受け入れた形だという。
-- **[習主席、貿易・投資障壁の撤廃を呼びかけ](https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html)** - CNBC (2026-11-18T08:00) [score: 2.2] _[経済 / 関心語: Trump, China, Putin]_
-  - 原題: China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin
-  - 要約: 習近平国家主席が深圳でのAPEC首脳会議の開幕で、貿易・投資障壁の引き下げを訴え、中国市場や製造業分野の一層の開放を約束したと報じられた。トランプ氏、プーチン氏との会談を前にした発言。
+- **[トランプ・習・プーチン首脳会談、その狙いは](https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about)** - France 24 (2026-11-19T15:12) [score: 4.479] _[国際 / 5媒体が報道 / 関心語: Trump, China, Xi Jinping, Ukraine]_
+  - 原題: Trump, Xi, Putin summit: What was it all about?
+  - 要約: トランプ米大統領がAPEC首脳会議に合わせ、習近平国家主席、プーチン大統領と初の3者会談を行い中国を後にしたと報じられた。ウクライナがキーウや欧州の首脳不在のまま議論され波紋を呼んだが、トランプ氏は対立相手との対話を擁護し、プーチン氏は将来の合意の条件ができたと述べたという。
+- **[トランプ氏、プーチン氏・習近平氏と歴史的な3者会談へ](https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting)** - NPR (2026-11-18T06:57) [score: 4.113] _[国際 / 3媒体が報道 / 関心語: Trump, China, Russia, Putin]_
+  - 原題: Trump to meet with Russia's Putin and China's Xi for historic joint meeting
+  - 要約: トランプ大統領が木曜、ロシアのプーチン大統領、中国の習近平国家主席と3者による歴史的な会談を行うと報じられている。
+- **[識者「米が中ロを『対等な存在』と認めた意味」](https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us)** - France 24 (2026-11-19T19:33) [score: 4.004] _[国際 / 2媒体が報道 / 関心語: Trump, China, Xi Jinping, Russia]_
+  - 原題: Xi-Trump-Putin trilateral meeting: Trump's recognition of China and Russia as 'peers of the US'
+  - 要約: France 24の番組で専門家オリビア・チャン氏が、APECでの米中ロ3者会談は具体的合意がなくても重要だと指摘。米国が中国とロシアを「米国と対等な存在」と認めた前例に意義があると語ったと伝えている。
+- **[習・トランプ・プーチン3者会談、歴史的な一歩](https://www.scmp.com/plus/economy/china-economy/article/3375070/xi-trump-putin-trilateral-breaks-historic-ground)** - South China Morning Post (2026-11-19T09:22) [score: 3.895] _[アジア / 3媒体が報道 / 関心語: Trump, China, Xi Jinping, Russia]_
+  - 原題: Xi-Trump-Putin trilateral breaks historic ground
+  - 要約: 中国・深圳で行われた米中ロ初の3者会談で、習近平国家主席は「先駆的な意義」を強調し「大国が和すれば世界は平和、衝突すれば混乱する」と述べたとされる。トランプ氏は核兵器をめぐる協議を推し進めたと報じられた。
+- **[深圳会談の同席者から読む3大国の優先課題](https://www.scmp.com/news/china/diplomacy/article/3375069/whos-who-shenzhen-priorities-revealed-xi-trump-putin-summit-rosters)** - South China Morning Post (2026-11-19T09:21) [score: 3.895] _[アジア / 3媒体が報道 / 関心語: Trump, China, Xi Jinping, Russia]_
+  - 原題: Who’s who in Shenzhen: the priorities revealed by Xi-Trump-Putin summit rosters
+  - 要約: SCMPは、前例のない米中ロ3者会談で各国首脳に同席した安全保障・経済の責任者や外交戦略家、技術官僚の顔ぶれから、それぞれの戦略的狙いが読み取れると分析している。
+- **[中国、ブルームバーグ記者を3者会談から締め出し](https://www.foxnews.com/politics/china-blocks-bloomberg-reporter-trump-putin-xi-meeting-question-trump)** - Fox News (2026-11-19T07:10) [score: 3.588] _[米国政治・社会 / 2媒体が報道 / 関心語: Trump, China, Xi Jinping, Putin]_
+  - 原題: China blocks Bloomberg reporter from Trump-Putin-Xi meeting over question to Trump
+  - 要約: Fox Newsは、中国当局がブルームバーグのアンマリー・ホーダーン記者を、トランプ・習・プーチン3氏の会談から締め出したと報道。トランプ氏への以前の質問が理由だとしている。
+- **[歴史の新章か 深圳会談は「脚注」止まりとの見方](https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote)** - The Guardian (2026-11-19T15:35) [score: 3.571] _[国際 / 3媒体が報道 / 関心語: Trump, China, Russia, Putin]_
+  - 原題: New page in history? Xi, Trump and Putin summit was more of a footnote
+  - 要約: ガーディアンは、米中ロ首脳の初会談は「歴史的」と呼べるものの、具体的成果は乏しく、プーチン氏が語った「外交史の新たな1ページ」には値しないと論評。1945年のヤルタとは程遠く、議題を探す会合のようだったとしている。
+- **[米中ロが平和宣言、ウクライナ・イラン戦争に言及なし](https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars)** - The Guardian (2026-11-19T17:13) [score: 3.3] _[国際 / 関心語: Trump, China, Russia, Ukraine]_
+  - 原題: China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars
+  - 要約: ガーディアンによると、米中ロは前例のない3者会談後に平和に関する共同声明をまとめたが、ウクライナとイランの戦争への言及はなかった。宣言は国連改革や石油供給の拡大、外交特権の保護などを優先課題に挙げたという。
+- **[トランプ・プーチン・習、歴史的会談後に「平和宣言」](https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss)** - BBC News (2026-11-19T17:38) [score: 3.168] _[国際 / 4媒体が報道 / 関心語: Trump, Putin]_
+  - 原題: Trump, Putin and Xi release 'peace declaration' after historic meeting
+  - 要約: BBCは、3首脳が歴史的な会談を経て「平和宣言」を発表したと報道。個別の首脳会談は過去にあったが、3者での協議は初めてだとしている。
+- **[トランプ・習・プーチン、歴史的会談で得たものは](https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss)** - BBC News (2026-11-19T17:23) [score: 3.168] _[国際 / 4媒体が報道 / 関心語: Trump, Putin]_
+  - 原題: What did Trump, Xi and Putin get out of their historic meeting?
+  - 要約: BBCは、3首脳が初の3者会談後に「平和の共同宣言」を出したことを受け、それぞれが何を得たのかを検証している。
+- **[米中ロ首脳会談、押さえるべき5つのポイント](https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss)** - Al Jazeera (2026-11-19T18:13) [score: 3.146] _[国際 / 2媒体が報道 / 関心語: Trump, China, Xi Jinping, Putin]_
+  - 原題: Trump-Xi-Putin summit: Five things you need to know
+  - 要約: アルジャジーラは、トランプ、習近平、プーチンの3首脳が中国で初の3者首脳会談を開いたとして、要点を5つに整理して伝えている。
+- **[識者「トランプとプーチンが中国の会議を乗っ取った」](https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss)** - Al Jazeera (2026-11-19T17:02) [score: 3.146] _[国際 / 2媒体が報道 / 関心語: Trump, China, Putin]_
+  - 原題: Trump and Putin ‘hijacked’ China summit
+  - 要約: アルジャジーラによると、評論家のアイナー・タンゲン氏は、3者会談でのトランプ氏とプーチン氏の発言が、予定されていた議題から注目をそらしたと指摘している。
+- **[米中ロ「平和宣言」、単なる写真撮影以上の成果か](https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-more-photo-op)** - South China Morning Post (2026-11-19T19:51) [score: 3.146] _[アジア / 2媒体が報道 / 関心語: Trump, China, Russia, Putin]_
+  - 原題: Xi, Trump and Putin ‘peace declaration’ suggests summit is more than a photo op
+  - 要約: SCMPは、深圳での初の米中ロ3者会談が、世界のエネルギー市場や核不拡散、グローバル・ガバナンスでの協力分野を示す共同「平和宣言」の発表で終わり、地政学に波紋を広げたと報じている。
+- **[米中ロ、核リスクで異例の3者協議も成果なし](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5)** - AP News (2026-11-19T19:24) [score: 3.085] _[国際 / 2媒体が報道 / 関心語: AI, Trump, China, Putin]_
+  - 原題: Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs
+  - 要約: APなど米メディアは、トランプ、習近平、プーチンの3氏が中国で核リスクをめぐる異例の3者会談を行ったが、目立った進展はなかったと報道。トランプ氏は会談を「信じられないほど素晴らしい」と自賛したが、和平合意は遠いとしている。
+- **[トランプ・習・プーチンが会談、揺らぐ世界の同盟関係](https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa)** - NPR (2026-11-19T04:44) [score: 3.08] _[国際 / 関心語: Trump, China, Xi Jinping, Russia]_
+  - 原題: Trump, Xi and Putin meet as global alliances hang in the balance
+  - 要約: NPRは、3首脳が中国・深圳で歴史的な3者会談に臨んだと報道。ウクライナ、イラン、核軍縮が議題に上ったとしている。
+- **[米上院共和党、イラン戦争終結の決議案を否決](https://thehill.com/homenews/senate/6231044-senate-republicans-war-powers-resolution-vote-fails/)** - The Hill (2026-11-19T19:50) [score: 3.054] _[米国政治・社会 / 3媒体が報道 / 関心語: Trump, election, Iran]_
+  - 原題: Senate Republicans reject war powers resolution to end Iran conflict
+  - 要約: The Hillによると、米上院共和党は水曜、トランプ大統領にイランでの戦闘終結を求める戦争権限決議案を阻止した。同種の採決は今年に入り複数回あり、民主党は中間選挙の結果を受けて可決を期待していたという。
+- **[トランプ氏「イラン戦争終結にロシア・中国の助けは不要」](https://thehill.com/homenews/administration/6231130-trump-china-russia-summit-iran-war/)** - The Hill (2026-11-19T20:07) [score: 2.99] _[米国政治・社会 / 関心語: Trump, China, Russia, Iran]_
+  - 原題: Trump says he doesn't need help from Russia, China to end Iran war
+  - 要約: トランプ米大統領は水曜、中国・深圳でFOXニュースの取材に対し、イラン戦争の終結にロシアと中国の協力は必要ないと述べたと報じられた。翌日には中国で両国首脳との前例のない首脳会談に臨むとされる。
+- **[米上院共和党、イラン戦闘停止の戦争権限決議を否決](https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected)** - The Guardian (2026-11-19T20:24) [score: 2.921] _[国際 / 3媒体が報道 / 関心語: Trump, election, Iran]_
+  - 原題: Senate Republicans rejects war powers bill to halt fighting in Iran
+  - 要約: 米上院は木曜、イランとの戦闘停止をトランプ大統領に迫る戦争権限決議を48対51で否決したと報じられた。決議は下院で可決されていたが、共和党は中間選挙大敗の一因となった戦争を改めて擁護したとされる。
+- **[米上院、トランプ氏の対イラン戦争権限制限案を否決](https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss)** - Al Jazeera (2026-11-19T20:30) [score: 2.921] _[国際 / 3媒体が報道 / 関心語: Trump, Iran]_
+  - 原題: Senate Republicans in US reject measure to limit Trump’s war powers in Iran
+  - 要約: 米上院は、トランプ大統領のイランでの戦争権限を制限する決議を51対48で否決したと報じられた。共和党から3人が造反して決議に賛成したとされる。
+- **[習近平・トランプ・プーチン3者会談、成果は何か](https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-world-4025-rdf)** - DW (2026-11-19T17:52) [score: 2.86] _[国際 / 関心語: Trump, China, Xi Jinping, Russia]_
+  - 原題: Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?
+  - 要約: 中国・米国・ロシアの首脳が前例のない3者会談を開いたとDWが報じた。トランプ氏は「歴史を作っている」、習近平氏は「実り多い」、プーチン氏は「率直な」会談だったと述べたという。
+- **[米中ロ首脳会談、歴史的一歩も具体的成果は乏しく](https://www.foxnews.com/politics/trumps-historic-summit-xi-putin-marks-diplomatic-milestone-breakthroughs-remain-elusive)** - Fox News (2026-11-19T05:35) [score: 2.76] _[米国政治・社会 / 関心語: Trump, China, Russia, Ukraine]_
+  - 原題: Trump's historic summit with Xi, Putin marks diplomatic milestone, but breakthroughs remain elusive
+  - 要約: トランプ米大統領は米中ロが「まさに歴史を作っている」と述べたと報じられた。会談では核軍縮とウクライナ戦争終結が中心議題となったが、突破口は見えないとされる。
+- **[トランプ氏訪中の注目場面　習・プーチン会談と「超知能」発言](https://www.foxnews.com/politics/trumps-china-trip-historic-xi-putin-talks-superintelligence-boast-other-top-moments)** - Fox News (2026-11-19T04:12) [score: 2.711] _[米国政治・社会 / 関心語: AI, Trump, China, Putin]_
+  - 原題: Trump's China trip: Historic Xi-Putin talks, 'superintelligence' boast and other top moments
+  - 要約: トランプ米大統領は深圳でのAPEC首脳会議で、米国が「超知能(スーパーインテリジェンス)」で世界をリードしていると宣言したと報じられた。AI競争をめぐる主導権を主張した形とされる。
+- **[トランプ氏、APECで習近平氏の演説中に居眠りか](https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china)** - The Guardian (2026-11-19T17:12) [score: 2.64] _[国際 / 関心語: Trump, White House, China, Xi Jinping]_
+  - 原題: Trump accused of falling asleep during Xi Jinping speech at Apec summit in China
+  - 要約: 中国でのAPEC首脳会議で、トランプ米大統領が習近平国家主席の演説中に約10秒間目を閉じ、居眠りを指摘されたとガーディアンが報じた。ホワイトハウスは起きていたと否定しているという。
+- **[習近平氏がトランプ・プーチン両氏を招請　ウクライナ戦争続く中](https://www.france24.com/en/tv-shows/the-debate/20261119-three-of-a-kind-xi-hosts-trump-and-putin-as-ukraine-war-grinds-on)** - France 24 (2026-11-19T19:39) [score: 2.64] _[国際 / 関心語: Trump, Xi Jinping, Ukraine, Putin]_
+  - 原題: Three of a kind? Xi hosts Trump and Putin as Ukraine war grinds on
+  - 要約: APEC首脳会議に合わせ、習近平国家主席がトランプ、プーチン両氏と会談したとフランス24が伝えた。番組の討論では、この3者会談を1945年のヤルタ会談になぞらえる見方は否定されたという。
+- **[専門家「習氏は中心的立場を誇示」　米ロ首脳招く](https://www.france24.com/en/xi-demonstrating-china-s-global-status-occupying-central-position-in-relation-to-trump-putin)** - France 24 (2026-11-19T15:40) [score: 2.64] _[国際 / 関心語: Trump, China, Xi Jinping, Putin]_
+  - 原題: Xi demonstrating China's 'global status', occupying 'central position' in relation to Trump & Putin
+  - 要約: ロンドン大キングス・カレッジのレックス・リー教授はフランス24で、中国での米中ロ会談は具体的合意より、米ロ首脳を引き合わせる習近平氏の力を誇示する場だとの見方を示したと報じられた。
+- **[歴史的APEC首脳会議を読み解く　米中ロ3首脳の駆け引き](https://www.scmp.com/news/china/diplomacy/article/3375122/power-plays-verbal-displays-xi-trump-putin-talk-historic-apec-summit-explained)** - South China Morning Post (2026-11-19T15:13) [score: 2.64] _[アジア / 関心語: Trump, China, Xi Jinping, Russia]_
+  - 原題: Power plays, verbal displays, Xi-Trump-Putin talk: historic Apec summit explained
+  - 要約: 南華早報(SCMP)は、中国・深圳で開かれた2026年APEC首脳会議に関する主要記事12本をまとめたと伝えた。核保有3大国の首脳が初めて一堂に会した前例のない会談などを取り上げている。
+- **[マスク氏「私はMAGAではない」発言にトランプ氏が反応](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnc2eXU1cFI1cWtBNndicFRjd3dkcWxXYlV3cl9ZMzdnV2pWbkU4T0pxUVFRdDlSSVlzbzE2ZU9jTzVQRjZyaDJyRW1idUE0YzFRNWdjamlYZm9HWU9RbktGVDhVSGxxVWJwczFuTFZFc3F1dXdaSTBSajRGSjVzR09YYzRFRXozZk1udUpYWkFPYTdsVHF1S3duMF82WkdL?oc=5)** - NBC News (2026-11-19T16:45) [score: 2.64] _[国際 / 関心語: Trump, Russia, Ukraine, Putin]_
+  - 原題: Trump responds to Elon Musk’s ‘I’m not MAGA’ comments
+  - 要約: イーロン・マスク氏がイベントで「自分はMAGAではない」と述べ、従来の発言から距離を置いたと複数の米メディアが報道。トランプ大統領がこれに反応したとNBCが伝えた。
+- **[米下院民主党重鎮、トランプ氏の米中ロ会談の成果に疑問](https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit)** - NPR (2026-11-19T06:20) [score: 2.574] _[国際 / 2媒体が報道 / 関心語: Trump, Putin]_
+  - 原題: Top House Democrat questions what Trump accomplished in Xi-Putin summit
+  - 要約: 米下院のグレゴリー・ミークス議員が、トランプ大統領と習近平、プーチン両氏の首脳会談について成果を疑問視し、同盟関係への懸念を示したとNPRが報じた。エヌビディアをめぐる中国のスパイ問題にも言及したという。
+- **[米中ロ3首脳が核リスク協議も、大きな突破口なし](https://abcnews.com/International/wireStory/china-russia-us-agree-reforms-boosting-fuel-supplies-138269362)** - ABC News (US) (2026-11-19T09:02) [score: 2.574] _[国際 / 2媒体が報道 / 関心語: Trump, Putin]_
+  - 原題: Trump, Xi and Putin hold rare 3-way talks on nuclear risks but emerge with no major breakthroughs
+  - 要約: 自国を超大国と位置づける米中ロの3首脳が初めて同じテーブルにつき、核リスク低減や紛争解決について協議したと報じられた。ただし大きな成果は得られなかったとされる。
 
 ## 3. 海外メディアが報じる日本
 
-- **[高市首相と習主席が握手　APECで冷えた日中関係](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wLWZWQ0VKY2lZVFprMFEtOWN6aVI2b251UHlIWGdVUjFUc1hRb2NjdEUxWWdUdlozV0JuYmNCQ1FvMk91cVliVEI0eGhSU045MVJyVDhLVlFpUQ?oc=5)** - Japan Wire by Kyodo News (2026-11-18T12:58) [score: 1.475] _[検索 / 3媒体が報道]_
-  - 原題: Takaichi, Xi shake hands at APEC summit amid frosty Japan-China ties
-  - 要約: 共同通信によると、APEC首脳会議で高市首相と習近平国家主席が握手を交わした。日中関係が冷え込む中での接触だと伝えている。
-- **[高市首相、プーチン大統領と会談　日ロ関係は緊張](https://www.scmp.com/news/china/diplomacy/article/3374961/japans-takaichi-meets-putin-rare-talks-amid-strained-ties-russia)** - South China Morning Post (2026-11-18T16:24) [score: 1.3] _[アジア / 2媒体が報道]_
-  - 原題: Japan’s Takaichi meets Putin in rare talks amid strained ties with Russia
-  - 要約: 高市早苗首相が水曜、中国・深圳でのAPEC首脳会議に合わせてロシアのプーチン大統領と会談したと報じられた。ウクライナ侵攻や日本人記者のスパイ容疑での拘束を巡り、日ロ関係が冷え込む中での異例の高官接触とされる。
-- **[プーチン氏と高市首相が会談　緊張高まる中で](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkV4ZDZRREhVbW9nblpHS0ZYZkNxYzhJbTFyaFZMWGpfX0JnTlBJRTFfeWJQS2tyeXRzZVQ2b2VPM1p1eEpJRUVqeGpoXzZaZGVpNkEwNzN4RVBJOWNyX0VHNFBDQlVUYlphZFRfb0cxeVlJZWUwM1NjMk1uRENGQjBWRTh6TFFveW13bF9ndDNlVTlMb0ZjdVJwSFVRRXdGeE1RYi1FMEJzOGhZWWdjSVpxT2dtQQ?oc=5)** - Bloomberg.com (2026-11-18T16:53) [score: 1.3] _[検索 / 2媒体が報道]_
-  - 原題: Russia’s Putin and Japan’s Takaichi Hold Talks As Tension Flares
-  - 要約: ブルームバーグは、ロシアのプーチン大統領と日本の高市首相が会談したと報じた。両国間の緊張が高まる中での協議だとしている。
-- **[MLB注目の日本人選手、佐藤輝明・平良海馬・伊藤裕季也とは](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmcwU3YtekJvQjB3VW5JOGg1OGJQcFlTUW83RGptbEZJNk90QmxubjV2ZWpQMTladE5QQ2JKSWxXVmFnNGVfVGZwQjF2Tnh1S0x0THhqUHE3Q19uak9UdE16aWhxRTBRdE55Yk5rbGp0UjhGeEp1NFZ3cmhGbV9nb09XS3ZBTE5seWwyQmdTZzMtRkJYVVR5MWJLU1RRVFBpdFo2NUJ6UUFDbHhXQzVld09BbjM?oc=5)** - NBC Sports (2026-11-18T17:55) [score: 1.3] _[検索 / 2媒体が報道]_
-  - 原題: Japan’s Next Wave of MLB Talent: Who are Teruaki Sato, Kaima Taira, and Hiromi Itoh?
-  - 要約: NBCスポーツが、次にMLB挑戦が注目される日本人選手として佐藤輝明、平良海馬、伊藤の3選手を取り上げ、その人物像を紹介していると報じている。
-- **[APEC首脳会議で中日首脳が握手、関係悪化のなか](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjVyVkNEbTVJN2F0dFUtNmVqY2dKYTkwX2c0bmZzcWVFaGN0TkpEWnk1MTFXLWhvX3hDODY4aXl5dmdXMHJhYnJ2UVdhaGNIU055ZV9NZTBYTUJYQmdpcG1fSFQzOWUwYzVob19IMHM1UW1nYkZfQXFkeDVQellrY0dsZUE5X094ZU5ucF80alJITjJBNDJwS3MxTXd1YmIwTENlSjBTbl9PTk1DWnJv?oc=5)** - Anadolu Ajansı (2026-11-18T14:54) [score: 1.3] _[検索 / 2媒体が報道]_
-  - 原題: Chinese, Japanese leaders shake hands at APEC summit amid soured ties
-  - 要約: アナドル通信によると、関係が冷え込むなかAPEC首脳会議の場で中国と日本の首脳が握手を交わしたと伝えられている。
-- **[HYBE JAPAN、キーホルダー買収へ7900万ドルのTOB](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRElRM2ZVdjE2NkJfYWU3RVBickNIakExTWpmdzNUT21QVm9TZTVqdjBaS1Z4dHlrbmlXQjIwc1lUQ0ZIbVVOMFJVT01zV3NVeFR1bjhLLUxVV2dCTHNtZm9ZN3hHSVV0dkhLM3E0NTNvMndyUGtINEwyTFAzNVlnbTRiZENnR09YQWFr?oc=5)** - Hits Daily Double (2026-11-18T16:21) [score: 1.3] _[検索 / 2媒体が報道]_
-  - 原題: HYBE JAPAN Unlocks $79M Bid For Control of KeyHolder
-  - 要約: 韓国HYBEの日本法人が、日本の芸能関連企業キーホルダーの経営権取得を目指し約7900万ドル規模の買収提案を行ったと報じられている。
-- **[習近平主席が高市首相と握手、関係は緊張続く](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTI2RHNWWFR2R1JIUmlSdk8wN0xmbnZTM2Z0X3pfMmNpYUhxOXdIOWMxOUpYdWpfNXhZRXhad0wxa3pXU3NNenZzbnVjcjk5YTJKemI0MTlCVmE2NGhvT3dYOVhJRnRsTFZycmpHMmxhcEFhZkI4STRKZDVaam1JeVpmZ0t5WVcweWZFLUtLcHM1SW5aaWoyYm5kZFFlcnkwUEgtc2FmMkY0V0p2Y3BWeUpB?oc=5)** - Bloomberg.com (2026-11-18T12:02) [score: 1.3] _[検索 / 2媒体が報道]_
-  - 原題: China’s Xi Shakes Hands With Takaichi as Ties Remain Strained
-  - 要約: ブルームバーグは、日中関係が緊張したままのなか、中国の習近平国家主席が日本の高市首相と握手を交わしたと報じている。
-- **[HYBE、SKE48・乃木坂46に関与する日本のキーホルダーに7900万ドルの買収提案](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNckJ6NGpWWmM5aFF2enVvWS02aTJmc1QwMDlGQjl4STdpa3lXTW1wYjdfS1hFMzZ0M3kzX19JblA1eGNsWUVMYjllQ3FEVncyTjBLZ0l5eDBoc3prLVM4UFh6TEZpdGh0N2pqcHlkRjZFSG1fMTdUa1RSUzFDYmY0bElwNHVibVZ3SThwVU04QnFCVUtROENiTnRrTlgtbG54eklTeVhYLWlQaW1xaTRsdnlqYXdESHN3TjM2UUlqbXJ1eG9PRkxFVzBabHRsTDN6NGl1S0xyVnA0Y24y?oc=5)** - Music Business Worldwide (2026-11-18T10:50) [score: 1.3] _[検索 / 2媒体が報道]_
-  - 原題: HYBE makes $79M bid for controlling stake in Japan’s KeyHolder, which has interests in SKE48 and Nogizaka46
-  - 要約: 韓国の音楽大手HYBEが、SKE48や乃木坂46に関わる日本企業キーホルダーの経営権取得に向け約7900万ドルを提示したと音楽業界メディアが伝えている。
-- **[英指標まちまち、ポンドが対円で下落](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2ozT0k2cTE2ZC0wSWJHb3ZEMVAycnp6akE5THRlc0VOMHgxQVcxUnMzaEFpTFEtTjBMbzlGRnIxTE9UV1BRcE1MbmJiaDlkcUljc1BVZmhGRWJpQ0hyQXc4eWlycXYwc2hKWnhEZl80OERsYnM1bEw5OGUweC1hbWhDZFZDYzdsUG96Tjd2MWgzY1JqNUg1d3QtZTI2eG52aWJyUHlWUDBQa0tsalZsTUk0VQ?oc=5)** - FXStreet (2026-11-18T14:11) [score: 1.3] _[検索 / 2媒体が報道]_
-  - 原題: British Pound weakens against Japanese Yen amid mixed UK economic data
-  - 要約: FXStreetは、英国の経済指標が強弱まちまちとなるなか、英ポンドが日本円に対して値を下げていると伝えている。
-- **[英経済指標まちまちのなか、ポンドが対円で軟調](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQU9LN3FtTlJOSUFzWGRBeVhiSnY5S3I2Z2k4RTNPb2xCNWUtTkVKeC0wemNXQkJrUXZzYmVVT01sWHVSRlRRTXFHZ28xaVk4UnY2WWNNX2FkWHhXMXMwMjZ2cDNzc0ZYZkd3UXJaanU1bENCOHNjX3pmVmhKMTIybDBocDJoUjFVN0NTUVExbDhYa1BnRVZsMGkxTUJXTHJvYlRBdFJfNU9Qb1NUd3h1MlJEQ2xGQ3FoaXJlWkxFN21TOE42bzBFbzlaRG8yUGFJWnd4MHVB?oc=5)** - www.tmgm.com (2026-11-18T14:16) [score: 1.3] _[検索 / 2媒体が報道]_
-  - 原題: Mixed UK economic data accompany British Pound’s decline against Japanese Yen
-  - 要約: 英国の経済指標がまちまちの内容となったことを受け、英ポンドが円に対し下落していると市場関係メディアが報じている。
-- **[防衛相「ロシア機とみられる航空機が領空侵犯」](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHc2dlZTUG1BZUZ6UmZtelFqVm5waHZMa0g3MFc1bXZUMnAwWC1SS0h5ZmNhNUxPRTE5RHZmdDhoUjE3MmdsMzZ3V3EwWXdlLVZkV1gzN1BkZzFWZGZiUzJpYnpuSFA4WS1VdEIxNU1OeVFjTlVPR1A2a3dhNU9oQnhYZUZIWVFfOG1EOFUwVm52VWdXX284ZUU0Z0tPMmZVbjJFeGZnV1FIZw?oc=5)** - USNI News (2026-11-17T18:48) [score: 1.292] _[検索 / 2媒体が報道]_
-  - 原題: Suspected Russian Aircraft Violated Japan’s Airspace, Says Defense Minister
-  - 要約: ロシア機とみられる航空機が日本の領空を侵犯したと防衛相が明らかにしたと、USNIニュースが伝えている。
-- **[ロシア機2機が領空侵犯、日本政府が抗議](https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3NFVmZBSmlQWklpSEpQenktMkVsQ3BRbndZVno0MzZmRHdpdkpOMHlyTTI1X0g5Z2wteEdkQ0d3MG11ZjFwckFzQ0VVbGx4cnFuWXBTZzhDNWM3T2ctdEc4UThLT2FpMVhBcWtBejZ4Q1ExOF9BNXctLUNCLTZjODJkWTBRRVFtSm05V0NGTTlad0doejF1MGxVLUM?oc=5)** - AP News (2026-11-17T10:47) [score: 1.263] _[検索 / 2媒体が報道]_
+- **[ネーションズ選手権　スコットランド、日本戦に10人入れ替え](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HWWlycXFkRG5WOTIxYktoTWZxYUU3VUFiNWF0TWRhb2hybnJLd1NwRENYT19nT1FFQTJKU05TaV9xUjVZTE11M0RUb3pxSUstT2NNUjJvNmhsbGR1c3pJ?oc=5)** - BBC (2026-11-19T14:37) [score: 1.6] _[検索 / 4媒体が報道]_
+  - 原題: Nations Championship: Scotland make 10 changes for Japan
+  - 要約: ラグビーのネーションズ選手権で、スコットランド代表が日本戦に向け先発メンバーを10人入れ替えたとBBCが報じた。
+- **[スコットランド大幅入れ替え、日本戦でラッセル外れる](https://news.google.com/rss/articles/CBMizgFBVV95cUxNNkkwVVktUGh0OF9FYkNDNlhuM2h2QXBNSXlNTUNOUnloRmpNcDFSampiMGF0YkJ1X3dkdXhxbUJwVzJuYlN2OEk1b2VLUDI4ekFXV2wzVmtBbnU5amo1dEFxNUZIMFhXaksyeTQ4M3pwQlVXVDEzVWJJc09OcEp3dkVLQVE5My15bVNOc25QaDE0b3dwSmhJWDVkTEE3VkFrWEtGanBuWFlJQVRQdzktODNlTEl6NkJ3S0dTaFlyV0RPNUwxWWFmN0ZsSEhyZw?oc=5)** - The Times (2026-11-19T18:00) [score: 1.475] _[検索 / 3媒体が報道]_
+  - 原題: Finn Russell left out as Scotland make wholesale changes for Japan
+  - 要約: ラグビーのスコットランド代表が日本戦に向けメンバーを大幅に入れ替え、司令塔のフィン・ラッセルが先発を外れたとタイムズ紙が報じた。
+- **[ロシア機2機が領空侵犯、日本政府が抗議](https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3NFVmZBSmlQWklpSEpQenktMkVsQ3BRbndZVno0MzZmRHdpdkpOMHlyTTI1X0g5Z2wteEdkQ0d3MG11ZjFwckFzQ0VVbGx4cnFuWXBTZzhDNWM3T2ctdEc4UThLT2FpMVhBcWtBejZ4Q1ExOF9BNXctLUNCLTZjODJkWTBRRVFtSm05V0NGTTlad0doejF1MGxVLUM?oc=5)** - AP News (2026-11-17T10:47) [score: 1.335] _[検索 / 3媒体が報道]_
   - 原題: Tokyo protests after two suspected Russian aircraft violate Japanese airspace in southwestern Japan
   - 要約: AP通信によると、ロシア機とみられる2機が日本の南西部で領空を侵犯したとして、日本政府が抗議を行ったと報じられている。
-- **[英指標に注目集まる中、ポンドが対円でさらに下落](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORXUzUGZmdXJXSks0WlowVVk0bXF2cEZES0hvZ0JiNEh3VkRVWlVrMHN3Nk8ybTBseWZIWThOaVF4ajJ2RnBVN3hEYXFfMjVnMGgwcHFCTVlfaTZ3WkVLYWZZS1g1Y3dnVk5VWkkzVWE0VllzU3NOOTdxNThXblprdU52aVBfWk1NdnUzU2lUeUw0OEJhQXV6QTRVajFHR1JLWnNWVDVJWmRabC1LWVlyOC1JajhEZGd5YXdnZ3J0SGJ1RnpwTHJJYmxEUVREVjBkcUE?oc=5)** - www.tmgm.com (2026-11-17T08:00) [score: 1.253] _[検索 / 2媒体が報道]_
-  - 原題: With UK data in focus, British Pound falls further against Japanese Yen
-  - 要約: 英国の経済指標が注目されるなか、英ポンドが日本円に対してさらに値を下げていると伝えられている。
-- **[ソニーのOLED「ブラビア8 II」、ブラックフライデー前に過去最安](https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale)** - The Verge (2026-11-18T14:00) [score: 1.0] _[IT]_
-  - 原題: Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday
-  - 要約: The Vergeは、65型のソニー製有機ELテレビ「ブラビア8 II」がアマゾンやベストバイなどで1100ドル引きとなり、過去最安値になっていると伝えている。
-- **[中国の補給艦が支える空母「遼寧」の長期太平洋展開](https://www.scmp.com/news/china/military/article/3374918/how-chinas-carrier-nannies-are-powering-liaonings-long-pacific-push)** - South China Morning Post (2026-11-18T14:00) [score: 1.0] _[アジア]_
-  - 原題: How China’s ‘carrier nannies’ are powering the Liaoning’s long Pacific push
-  - 要約: サウスチャイナ・モーニング・ポストは、空母遼寧の西太平洋での長期展開に伴い、中国の補給艦が10月16日から水曜までに宮古海峡と大隅海峡を少なくとも8回通過したとの防衛省発表を報じている。
+- **[『ゼルダ 時のオカリナ』リメイク、早くもPCで動作　任天堂は苦戦か](https://boundingintocomics.com/video-games/video-game-news/zelda-ocarina-of-time-remake-is-already-running-on-pc-and-lawyers-say-nintendo-faces-a-tough-fight)** - Bounding into comics (2026-11-19T00:42) [score: 1.3] _[エンタメ / 2媒体が報道]_
+  - 原題: Zelda: Ocarina of Time remake is already running on PC, and lawyers say Nintendo faces a tough fight
+  - 要約: 『ゼルダの伝説 時のオカリナ』のリメイクが、エミュレーターやリコンパイル技術を通じて既にPCでプレイ可能になっていると報じられている。弁護士らは、任天堂にとって通常より難しい法的争いになるとの見方を示している。
+- **[『時のオカリナ』リメイク、すでにPCで動作　「任天堂に楽な戦いはない」と弁護士](https://thatparkplace.com/ocarina-of-time-remake-pc-emulator-nintendo-legal/)** - That park place (2026-11-19T00:42) [score: 1.3] _[エンタメ / 2媒体が報道]_
+  - 原題: The Ocarina of Time Remake Is Already Running on PC, and Lawyers Say Nintendo Won’t Have an Easy Fight
+  - 要約: 『時のオカリナ』のリメイクがエミュレーターやリコンパイルツールでPC上でも遊べる状態にあるとされる。法律家は、任天堂が通常より厳しい法廷闘争に直面すると指摘していると同メディアは伝えている。
+- **[APEC歓迎式典、中国は高市首相に音楽でメッセージ？](https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2dWOVRBSkRCU0xDSXVxOUZFamRwbEFsVWlVYVcwdnVMWEVUN0Z0WnA5RjF3d2hIaFZvY2NiVmdoM0toY1N1VW52anI0OXRibG82RHU0UllPWmRQOTE3RU5iYktyZG8wdGt6ekNCT19laWNoRGRyM2RySnUwSnVtNnUwQlNsdG9DWW1femhwRGt3cjJC?oc=5)** - The New York Times (2026-11-19T03:03) [score: 1.3] _[検索 / 2媒体が報道]_
+  - 原題: Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome?
+  - 要約: ニューヨーク・タイムズは、APEC関連の歓迎行事で中国が日本の高市首相に対し、演奏曲を通じて何らかのメッセージを送ったのではないかとの見方を報じている。
+- **[ロシアがJT事業を接収、86億ドルの打撃](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YMXdhU0JXeGk5NHV1LWgxcGFnZngxZER1TDEwYnd3ZkROWkdLQi1kcDBiZnBuX25wSUtQTlhEZjNBZDE1ZFE1YnRSTTVNbU1SaWhQZGNRdzU1TW1rQkRLcUxnY1pDWmNCQndGaU9xMG1qZE9OUDVlLWlXSUVaSWs?oc=5)** - The New York Times (2026-11-19T11:24) [score: 1.3] _[検索 / 2媒体が報道]_
+  - 原題: Russia’s Takeover of Japan Tobacco Units Deals $8.6 Billion Blow
+  - 要約: ニューヨーク・タイムズは、ロシアが日本たばこ産業（JT）の現地事業を接収し、同社に86億ドル規模の損失をもたらしたと報じている。
+- **[ロシア機の領空侵犯疑いの翌日、高市首相がプーチン大統領と会談](https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1czbERTZnA5SXQwc28xbVZEX3V6dU9oOFpkbWRnaFYtMXRDR3FiU1ZUd2ZKNWMxa3dLN21EZDFkcE54SEYwUHRzTzc3UEFpZC11eS1uNEJfeHRkUU5JXzNvUDNleVV1X0l5V2Z0cW5OYWJVVmVuWHBza3I2SjdpaFlGR1BPYWg4Tkg4VWRBU3lsWkNMVlV1WW9BeThwTF9GNTkwQjZkOWwta1M4T3N3Z1NLdVpSR3RSWVE?oc=5)** - The Diplomat – Asia-Pacific Current Affairs Magazine (2026-11-19T14:14) [score: 1.3] _[検索 / 2媒体が報道]_
+  - 原題: Takaichi Meets Putin a Day After Suspected Russian Aircraft Violate Japanese Airspace
+  - 要約: ロシア機とみられる航空機が日本の領空を侵犯した疑いが出た翌日に、高市首相がプーチン大統領と会談したと、ザ・ディプロマットが報じている。
+- **[JT、ロシアでの接収で89億ドルの損失計上](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0NSR19YQ2o0bVhJNDBSUjM5dUpIR0VERmVPY0xFZjgxa2FoT0JSMjVZNjdreFU1dE4tT2FsYjROVlZHdy10YWl3VlpacGQtWm42YlpybkkwMlZzN3A0eHhvM3FPS3NnUWdvbkFqWE9kVkVnWXNEakFfbHhWZzJYYlB4NVFnb1Fia0dLbXN3?oc=5)** - The Japan Times (2026-11-19T09:17) [score: 1.3] _[検索 / 2媒体が報道]_
+  - 原題: Japan Tobacco hit by $8.9 billion charge on Russia seizure
+  - 要約: ジャパンタイムズは、日本たばこ産業（JT）がロシアによる事業接収を受け、89億ドルの損失計上を迫られたと報じている。
+- **[ソフトボール米国、本塁打4発で日本に勝利　オールスター初戦](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0o2RUxhOEtUTTZTTmxULXdDcU1NT0pIME0wdDdtdVhaMEdxUDNFMXBxd3Z0Vk5lUXVTZDNkUlBiN3dZR3d1NTR1am1odlB6RVNHcFJteVhkbkRFNUVKLUZDcHpVTWU0QVk3dzduVEtSU0NvRThqWEFjcjFsZC1xSFNFeHAxbTVMa1JPbVc0RXZndjE4TE5iRzN6Tm14RGpXUEJnY01sLWd3TDlvekpR?oc=5)** - World Baseball Softball Confederation (WBSC) (2026-11-19T16:02) [score: 1.3] _[検索 / 2媒体が報道]_
+  - 原題: USA hit four home runs to beat Japan in 11-inning softball All-Star Series opener
+  - 要約: ソフトボールの日米オールスターシリーズ初戦で、米国が本塁打4本を放ち、延長11回の末に日本を破ったとWBSCが伝えている。
+- **[ラグビー・スコットランド、日本戦へ10人入れ替え](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNnpHdW9oa2tzeUtGZWNJdm1HdzgxeF9IQkpHbWhXaHhfTlJWQkcxT0h4cFpsR2JkVy0tdDBNa1g2R3Q3X1NFN3puNkxMNlVHMGZQRjBIdmdmTHlaNkFyUkt5emtHSFc2V0pfcFFpcGVDRHlUQlpPMDFtLVhEM2pkc0VwSHF4VzkzN01MX0NyNFZSMjREVEE?oc=5)** - Scottish Rugby (2026-11-19T13:31) [score: 1.3] _[検索 / 2媒体が報道]_
+  - 原題: 10 changes as Scotland name team to face Japan
+  - 要約: スコットランド・ラグビー協会は、日本代表との試合に向けた先発メンバーを発表し、前戦から10人を入れ替えたと伝えている。
+- **[米ソフトボール、延長戦の反撃で日本とのシリーズ初戦白星](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWpKSVBwa0dVTlA4UWQyMzltaWwzemhLdWFIT2VySUpSYncyQ1M1TW5ZQ3pTR3JPdEdvZDhEYUxsZUFSTDFlLWFyWEJFQTZaSlVNSG9zZnladHdlUW40ZGF1Y1BIZzB6QjV4R0tMMkxYY0t1VkxDdy13bmxUazZSUHJSVnB3d2tqY2phdVpiaTZEeFVLRUhONDBYaEpaMEZJTk5LTlVUaV82RmhaeXBabzRNOWIwSmxX?oc=5)** - Sports Illustrated (2026-11-19T18:38) [score: 1.3] _[検索 / 2媒体が報道]_
+  - 原題: USA Softball Uses Extra-Inning Rally to Open Japan All-Star Series With Win
+  - 要約: スポーツ・イラストレイテッドは、米国ソフトボール代表が延長戦での反撃により、日本とのオールスターシリーズ開幕戦を勝利で飾ったと報じている。
+- **[ネーションズ選手権：スコットランド、日本戦へ11人変更](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkJsLUxJR0FfVk1xRWVQdWpEQUNMYmdoQVBJbkxNZVhRWGREY2Q3N19nZFBxYUhnQnZaeEZFZ21vNUhoN1dySzJMTDVyenFmWHZ1Mjl2aGh2c1Z0dUFlSlhqdnZZZ1RSbnBXUUV1aHRmekZYNTdCUEcwbVhWWnZvc0FYV0xKR1Z4aFI5YnlHbzFpTUNKQ3g0bkRCdTc2eThMeUVsMmFIQVdlVTZ0YzJkSlB0WmkyNTVN?oc=5)** - The Offside Line (2026-11-19T18:11) [score: 1.3] _[検索 / 2媒体が報道]_
+  - 原題: Nations Championship: Leatherbarrow starts as Scotland make 11 changes for Japan clash
+  - 要約: ネーションズ・チャンピオンシップの日本戦に向け、スコットランドが先発を11人入れ替え、レザーバロウが先発すると報じられている。
+- **[スコットランド、日本戦で11人変更　ラッセルは温存](https://news.google.com/rss/articles/CBMidkFVX3lxTFByRHgxX2lTYTdfQ3c3WmJjRWhoNElXMHNucnktazZ0bHJpU0RjR1UyNlR5RkhzMmVqYXE0WmlPZXVUblp1dDlBbUd4bDFObl9WQ1lnWWN1ZzhKRFNjWEhhekEtb1ladmlrR1Z0azlJOXZCdFFlWnc?oc=5)** - Dave.Sport (2026-11-19T19:13) [score: 1.3] _[検索 / 2媒体が報道]_
+  - 原題: Scotland team vs Japan: Finn Russell rested in 11 changes
+  - 要約: ラグビーのスコットランド代表が日本戦に向けて11人のメンバー変更を行い、司令塔フィン・ラッセルを休養させると報じられている。
+- **[高市首相、中国でのAPECで異なる歓迎を受ける](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mczBwYVNaVGxtM3RZTGpieXZNaVdPdkRiX3RKOThZeUI1NGx4dE1qbE1SNFllNmxvajhCTjVPRkxVNGM0V1VjYlNhMkFreDlYbEhseE12ZHliaGhVVEU3MUN5Yw?oc=5)** - NHKニュース (2026-11-19T01:08) [score: 1.3] _[検索 / 2媒体が報道]_
+  - 原題: Takaichi gets different welcome at APEC in China | NHK WORLD-JAPAN News
+  - 要約: NHKワールドは、中国で開かれたAPECの場で、高市首相がこれまでとは異なる歓迎を受けたと伝えている。
 
 ## 4. 国内で話題 × 視聴者が興味を持ちそうなニュース
 
-- [中国が韓国に映画・ゲームで「最恵国待遇」 観光や建設も開放へ - 聯合ニュース](https://news.google.com/rss/articles/CBMiWkFVX3lxTE16T01VT1NubmF1M1pOUUlrT0hsYUkxeWp1U0t1RW01ZDZ5eGxqWjlrZDBwcWc2YzQteXU2dlZKbm9iZHRaR1NsSUltVmlCdUg1TTU0blE1N2UxUQ?oc=5) - 聯合ニュース (Wed, 18 Nov 2026) [score: 1.227] _[トップストーリー]_
-- [APEC首脳宣言 AI活用などで調整 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PT1FoYS1WN2toRW54Z3F4c0otcHMzWUlfSm1fODU5QnVxczI3MlFJVzZoWTItZGRObDFBTWdldWZmcFhQLW9KRFlDbktDU0JS?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 1.173] _[WORLD]_
-- [米軍がイラン・ケシム島攻撃 革命防衛隊ミサイル施設に報復 - 時事ドットコム](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFRmRSbXZ6LUNyY3ZXYkJuTkVLbERON3RjbEhwZ1Q3TlhNY3BOb1VqbmRySmV0ZG9nSWhBMENWZkZMc3Y5NDJHZnVLcGxtb2JKZkVpSkYyTERGMFVhczFlbndoNA?oc=5) - 時事ドットコム (Wed, 18 Nov 2026) [score: 1.173] _[WORLD]_
-- [高市早苗首相、初訪中も冷遇 習近平氏と握手し声かけも返答なし、首脳会談は困難か - 産経ニュース](https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDI1Q1NlZlhlYWhlTWtJdmZGbXc3R185d3dnVlJ2T1dPTzEzcUlCbHlRVXFHQndYbFlkQjJEZE5pVmZ1T0ZTZXpjbmxBS2ltaDhDRC1SSzlUaDlHTjNOc29XQXRnOEJnY1c4R1hjTzc4X1NaV2lPNjUtNFg3TEg5dExtbzI2cTQtVHQ3Sg?oc=5) - 産経ニュース (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [史上初の米中露首脳会談へ、中露は第２次大戦の戦勝国強調し日本けん制…米国が同調すれば国際秩序に影響不可避 - 読売新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JV2wzUkdGUFNaXzJCanlicTl2TU1oY3dmVmNrTFlOallPTlBMSHdxemMyaHRnaGtKZDBuSjhTbEVrZElyNUJ6cXIxTUJpZVBZWnBjVHp4eFVLZThJYzZxMlJ3?oc=5) - 読売新聞 (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [「陰謀論者と交わっちゃった」発信も 政府広報起用の配信者物議 - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kYzRZT0t1WWR3Z0FIRTQzQ0c0UE9mM0tlc0RmVHoyMWM0eFYtUlJhSHN5V01FVll4US1xZF9NNUlmVWZjTEx6TXBhUEROVFA3UHpDZDdYeHlpM0hzOGV0VHRralhrM1Jl?oc=5) - 毎日新聞 (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [虚構の「新ヤルタ」が告げる転換点 米中ロを変えた12年と日本の孤立 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBXLVl1ZHhVV0NBZEZETHE3LTBMaTlnaklZUVllRGZSa2QwZk5fUWJkWVBYM3lDcHNFYnpETTBjTFBfTjVMd2tHdktGQXpVYmZCdmoydVpHMEZ1a2FWQ1lNMVdNdG5zcXpoaVFYTw?oc=5) - 日本経済新聞 (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [「首を刺して膝から崩れ落ちた」東京・中野24歳女性刺殺事件（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE80YkJLdWctWFVQYUg1dVRTbGZnMVhmWkFiRWVkQ1hPcFJyeGdSR3E3MlhjZWo0V3F1dncyQ050aTgwcnBnNkd2YjdhaVZxM1drdGFzSHU4MlF6V0U2bFc2QVZuRUtlLXBTWFJYbnpYc1d3anU4YUVabksyN3pVVzA?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [富士山で遭難の中国人に懸賞金 警察は捜索“打ち切り”決定 在日中国大使館“閉山期間中の登山しないで”呼びかけ - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCeTdIS2FUaDAxdTRXLVJVOVpyNnUwVDN2MHB0akMzQ0pScEpNY1hjOS1DSEsxMm16WjltVnhHUmFibm5RamJkZEtpR2xjUXc3?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [熊本県天草・芦北地方でM5.7の地震 最大震度5弱 津波の心配なし - ウェザーニュース](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2VDlxbUVnWkFFcXl6am1ZSS1idk5RNXhTZlRtdktJNUlmdGVrcm15THB5R0tueUdvenowdHdqQlBIWF9HS2gzMkdiWkFRNDJnQW9PcndmNU1UOUE?oc=5) - ウェザーニュース (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [【画像まとめ】愛子さま シンガポール訪問 “友好と平和” - テレ朝NEWS](https://news.google.com/rss/articles/CBMie0FVX3lxTFBDVENCNXdRNUVBdU5Hb2lOeVdSSEgxaU5Ld1prdkZUT2s4QVRoTTNmWW4xZlNPeDZISlpfVHJCVngxV2NiLWJPcUNHYWh6R1NqbVdORTNUcC1ERlBjTW1LdE9iWHhuZmNYcDJybDk1QVRMTmsyQjVQQWF4NA?oc=5) - テレ朝NEWS (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [近畿地方の山地、19日から雪の可能性 北日本～西日本の日本海側、「冬の嵐」に - 京都新聞デジタル](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtVHh0WDZSVW9vM3ZZcnp2VlA0c1B6OUJiQzV6YTlFaC1kNzNNcnpJNUNCX0pLY1E2Z2FKdmF5QXVraHFJRnBsbXNOQzlLbFNNN0RDWG11U0Y?oc=5) - 京都新聞デジタル (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [伊丹で3歳娘暴行死疑い、29歳父親を逮捕 全身に数十カ所のあざ 児童相談所から戻った自宅で虐待か - 神戸新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdV9DQVZ1UW1vOFJjWG9GWjVRRDFvUFJMaTFhVmRSWUhDcGFWU3MwdTBHRVBZeWFHdVdSVDhpaVpFaFNFSGxRSEZERHNpZXM3U3dUY3VlS1FLbnVtOS1paVJXek9TTW92Q25Xcg?oc=5) - 神戸新聞 (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [米アラスカ上院選 民主党候補勝利 上院の議席は民主56共和44に 米報道 - テレ朝NEWS](https://news.google.com/rss/articles/CBMiekFVX3lxTE5GUF9iWFBmSng2SEZjNDBGMmtqREh1ZVQzNTlxQXAtS1ctVEpFQ0xaLXEzUkpvTlhCZG9rVjNVcFE2YnRYVE1GT21IZnROQnkzcVpCRkstNTdOYzhJekJ4VnlrSHdXZFdtNWxnZ05IU0FjTjJUNXNVd1d3?oc=5) - テレ朝NEWS (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [ウクライナがクリミア大橋を攻撃、一部崩落し物資調達に影響する可能性…ミサイルやドローン使い１か月準備 - 読売新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwcFFuQkxQSlZSeXE0NmJ6blV4c1VMUVRMZEE4Y2JPUlNRQ0d1YlpUbFFHc19jWEI5ZmZ0MWxENlhEWkhueXp4UW1BTC1iS1Exdm1WLUFMXzRkUWpoR05NMzNB?oc=5) - 読売新聞 (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [トランプ氏がイランに警告、「汚い爆弾」攻撃を実行すれば大きな代償（CNN.co.jp） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBNYU9UWVlSTmR4SEVHbkI4cl9LT3BkZUdObmJOUG56QXZxT2JsWnIzWFNkdjVtSDVHS3J6TGEySFFXWGxhckFpOTZkWlg1Y0doUFdqZTkydW5hS3N5V1lYNjhsQk1ZMUJTS0VRelN6Sno2RWlKcHpKd2stY0dEUjA?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [アンソロピック、史上最大級IPOへ最終局面-テック株安でも需要旺盛（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9FVHd5WGhjSVo2dVlob2dodVA2S19jX1FUTkV1dFpQdGdvNWZtVnBXMDR5ejhKSFpqSnlWNTZiSFN3dURTQXpPWXhYcG8tMVQ1ZTRyVGxPWFdodkN5dTYtMlhtRXREZnVvNktNdjhzNkxFdlJyQ2Y4Z2F6cGZQYVk?oc=5) - Yahoo!ニュース (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [ボージョレ・ヌーボー解禁、フランスの記録的熱波でブドウ収穫１か月前倒し…愛好家「濃厚な味でおいしい」 - 読売新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSkhhMUpTb2FSUGQwd2QtVk93SXpJN3N1VUVWbjhBX01vSnZyZWpDYUF0Z1hwLWwzbHhra0w4WldTUmVMbUlSVGdDVkNsc0QzSklLUV9qbjRLTUN4NlhrVnhWX1o?oc=5) - 読売新聞 (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [「アリス氏は何度も来日していました」“エヌビディアCEOと不倫”中国女性スパイが日本に会社を設立していた〈通訳が証言〉 - 文春オンライン](https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zY3NQV1pZNF8tNUI1MXRnUURYMEZzTmtzQjNHUEh3UW1uWlN4S0E4dzExbUhVUlZUc1J0c1lLa1hmNUo0dFhXcHNKdw?oc=5) - 文春オンライン (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [楽天証券の情報漏えいで波紋 「物理的な防犯対策も」専門家警鐘 - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Gb2ZxdUVpR2h5cllZdTRLS0lQSlkyb004QUI1bEk0NzZheGdVcU9EVjZjNnhOMUxfNmR4ZWpSeUdUR2ZXMFJsbHFQTGM4VFV0QlVYQ1pUTk1BMXNWbVBtZVE3cjlqTk1R?oc=5) - 毎日新聞 (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [打ち上げから半世紀「ボイジャー１号」、地球から「１光日」地点に到達…通信往復に丸２日「最遠の人工物」 - 読売新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE14NEJNbjN4eklHWDc5S3Y1Qmw1Ml9GRVdwdDc1TWxBM3BudWoxWnN2TjBGdGtUSk9qVmc0eUxnOE9mYlBnTnA2cjY3THloV1pOcWx0SkJLd0p6MjEtMldsQmI1SUY?oc=5) - 読売新聞 (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [OPPO Find X10が登場、広角・望遠のデュアル2億画素カメラとおサイフケータイ搭載 12月17日発売 - ケータイ Watch](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxRGViVlVNMlVRM2JQaDRFYmtEMFVLQ040Q3lQRHc2clZWd0JzSFhOWUZiLV9ieHJTZHdnaFZDT2xnenMyVUhiZjRVMGFzeGxsMGRXeVRRVXk0clY2U3pYTkhDd1lWZWM?oc=5) - ケータイ Watch (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [『GTA6』、「バーチャルな娯楽と現実の行動を混同しないで」―米アトランタ警察が明日11月19日の発売を前に注意喚起。複数の警察アカウントが言及する一大イベントに？ - Game*Spark](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5meTFVTWd3TXBFU3ZQaUx5QVVxTzZNMllKSjAtekRVVzVsUzJROGxnRUZjaWpSVDhGeXRRT0NPZS11elBVdnZJZDV1d1YydEVBM3NNQllxcm8wa3o0SE5HU2JGZlY5UQ?oc=5) - Game*Spark (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [セガがPS Storeとニンテンドーeショップで販売中の一部PS5/PS4/Switch 2/Switch用タイトルを対象とした「Black Friday Sale Part2」を開催中！ - Gamer](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5NURrUDhLaXFwd0lmNFJxTTZYakllcFVuRHlSWmtRV0pac1FJNWI2MWd4TU1BbWlUUk44Qm5EZDlJaEE1MS1Nb0gwRVlpT0d6SG1RZg?oc=5) - Gamer (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
-- [歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット | NHKニュース | 訃報、文化・芸術・エンタメ - NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DTHREdG5UWjMxdzVZTFhocFFCZXRFU1ZOd0haNjduV3VLTTFjd0k0RUlaMFlYRlBZVUlzalUyQmEtUkxVaUFLSEliRUw1SjczTDFWV1dDZDN0eWRJS2JZ?oc=5) - NHKニュース (Wed, 18 Nov 2026) [score: 1.15] _[トップストーリー]_
+- [トランプ氏、AIに対する「グローバリスト的規制」に反対表明（ＡＦＰ＝時事） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1SVjFYTWdMVFFBamNvTnN2YnlXamFVWThNWlE0azN2SDdDbU5Dc3JHUi00eU5BS19MenNvd1VITjROc0VkNkdlclBIOFFONHZncXN6N1NWNk9LZDQtXzJFWnhvYUNTTktucl9CbW01UUpub092NFBqVTVMdVl5YnM?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 1.303] _[トップストーリー]_
+- [アンソロピックがナスダック上場 AI開発で初、気配値は110ドル前後 - 日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1qX0xNOXRqUTg3dzRoQ3VoeWhkR1ozTU92OWIwRmZ4RFZJV3BBQ0lnR3NycC1PdGtVbnR3NE9WTEdzQnJwRVNkOWtXcUthb21WT2c4WDFaT2Y3QnZ4UVM4TDhoaTZVRlRMMkVWTA?oc=5) - 日本経済新聞 (Thu, 19 Nov 2026) [score: 1.303] _[トップストーリー]_
+- [APECが閉幕 AI活用の推進で一致 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KWk1LR09rU2JWZ01zSUZzOFNxWFRMdU9fYjh5eWxIakdYTTBwV0gzTHZKUEdZakxxb0c1QkRlclJkdGlMMWtCUGtoQjRFemJo?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 1.227] _[トップストーリー]_
+- [ウクライナがクリミア橋を攻撃、1週間で3度目　ロシア当局が発表 - BBC](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVkxKclg5M1c3MUs4bjhvdE5iSVhfTE5Mb1AxU290c0hEOUk3M1l0TzlJZ0RFUEdXVVY1R3lGaDF3WEd2MWJOV0lFQkJOYlQ3bGNETHR1V0RITEUzYmlMadIBZkFVX3lxTFBQVzlweG9OMElsNWJ0X01LeVRXOVhXVkZWblNGWkZ3SDhxbzRCOV9PM0RQVkt5bmItNDRVQkZtR284OFlRdXpkVzY4c1JxMEdQWndPYi1qZnV3YWFWNkt6LUo4dFpIZw?oc=5) - BBC (Thu, 19 Nov 2026) [score: 1.227] _[トップストーリー]_
+- [楽天証券、金融庁から報告徴求命令受領と発表…不正アクセスによる１５７２万口座分の個人情報漏えいで - 読売新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE43Zks1a01CSExSMVR1cE9QbVhSNERaX3VOMTBsZHplNzhnUzhad184bVR3VHlIVUtla05ncy1YVmJ3VTBJVU5DVllPWmwxODdBMlpFMzhZUWRHM3RQRXE0dkphOFA?oc=5) - 読売新聞 (Thu, 19 Nov 2026) [score: 1.227] _[トップストーリー]_
+- [Pimax、VRヘッドセット＆アクセサリー統合管理ソフト「Pimax Play」の最新エコシステム機能を発表！ - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTFBZLW9WM2Uzd3lLb3NUTngwaWhoQXdlbFJaTlRGUENIQVpYaDZ4clh4RkFXSm14YzQ5WV9GSXc1R3RJYnJ4ZHhZUVNuU3lxN2hHbmRUaFlhWmVtLTFMb0Z0ZUEwTTRkcnlZaXc?oc=5) - PR TIMES (Thu, 19 Nov 2026) [score: 1.227] _[トップストーリー]_
+- [【速報】ロシア爆撃機2機、対馬海峡から日本海へ - 47NEWS](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTOTBlNm1DeUNDN2xPSkIybnMxbzhLaURTUV92N0c4a3BGZm9qeGJDdGExQms1bHgwVUJMTkU1VEExTHpGTGRhS3l4Yw?oc=5) - 47NEWS (Thu, 19 Nov 2026) [score: 1.2] _[NATION]_
+- [北海道留萌市、住民基本台帳データ最大7万1002件が漏えいの恐れ 氏名や現住所も - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZG9XTUtkbUFpSjVLNEl2ekR2OGdfM0x0V1VNdThHTXhtMEtMNk5sYXlncGNoWWhiQ3hkbHoySnJwcktjckhibkxOWXNYRmdMdEJ6Uno4WHV0SmhDRFhHdGt3UFlBdG01TFRNQXZjOW5xTVFoYVBBcURFbDNmREE?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 1.2] _[NATION]_
+- [秋の京都でまたアートの“破壊行為”「ブツブツ言いながらコンクリートの塊投げつける」 先週の被害は犯人が名乗り出る - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMTVtV2hIaXd4aTQtZTd5OU9HdkFnT05wdmNzN2NfcWxGakZEellna2xNMDNqbzY0NDBRT1gtY19DbGlOUzVLeExTTU9PdEt5SDhRMHJSRUhEOWRuWlRXci13WWNxUTJJdFk5Z1Bud1A2UEF5VmtIcEwwbEZFS2c?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 1.2] _[NATION]_
+- [「とがり」ある訴えで保守党躍進 一部陣営とは摩擦も 福岡市長選 - 西日本新聞me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KNTRPME1VdEJvUHBNY3VLQ2tpeUpmT21PdklhZW5CUjZJU1JFelNPQllyZktaME1yR2taTTAwdnhaMHhJcmVsX2p1aDQtLTJncm1KZDNn?oc=5) - 西日本新聞me (Wed, 18 Nov 2026) [score: 1.2] _[NATION]_
+- [富士山で不明の中国人男性、捜索終了 親族はSNSで捜索呼びかけ - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hSVE2VmFoUVNCcjJlVXRSaW9waS1xTWpsQ3JOOEtmSzRrT3FyN1RaQnBCQlh3V1FkbUlsOVlIQloySDA4b1Y0MEtHTDVrXy1LOW0xLWhuN0w2MWM4Tnk0bmZsMWNVZUJt?oc=5) - 毎日新聞 (Thu, 19 Nov 2026) [score: 1.2] _[NATION]_
+- [逮捕の4人は仙台の中高生 愛知・小牧で強盗関与疑い（共同通信） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBzYXZGa0k5aVAwR3RvMklLdU9hSFlXVURRbU1PZTVQalNGWm5FNTRQMWVzNlFLRXh5UFlkemNVTy1NRlBmQnQ2Sm4wQXR3b0h6Nm80OHl6OWdJWFhWeW9HOS1PSzZKWXh1STQ1V2J5UUMydnpxOHpIdTR4ZGRzVVk?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 1.2] _[NATION]_
+- [【速報】東京・町田市の宝石買い取り店で強盗 ネックレス奪われる 男が逃走中 - テレ朝NEWS](https://news.google.com/rss/articles/CBMickFVX3lxTE03YmFzZGxLNUZMS1k1YlR3RHhsc0hpU25CcUljY3ZRUjR4a3pVTWY3eXpSQl93ekY0NmF2VF9OSGRWdXBjbmlIMXdVbFlUS0tDd2VGakE2Y1NlX2kzZ09reUp4UGdicldOQWdqME1LVXJxZw?oc=5) - テレ朝NEWS (Thu, 19 Nov 2026) [score: 1.2] _[NATION]_
+- [全国的に早期流行中のインフルエンザ…目に現れる意外な症状【一生見える目をつくる】 - Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abGJ1NjJVWHhqSFR5M2RsZ1l4WGJmU0RLY0FlU2ZNMHM0YlNXQmRqTjViZ2pIUTFKd0pLUmk5TzNFcXBydmNrRms1TmdCZllmbk1GcHA5ZUh4WEtxNXZMREtBdw?oc=5) - Infoseek (Thu, 19 Nov 2026) [score: 1.2] _[NATION]_
+- [熊本県水俣市やあさぎり町などで震度５弱、マグニチュードは５・７ - 読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1makZ1ejVMSjlUSXdsT2VrZzRja0NWWm1xRTZqMHNaa19Ba2lTTHJmQUkxVHo2SlNSNG9tZEVSa0RkZHdmNlhCMHc0RTR4SG5lNmNiM3pTX3R5NTYxT01aeWZiUlJuUQ?oc=5) - 読売新聞 (Wed, 18 Nov 2026) [score: 1.2] _[NATION]_
+- [「クマに追いかけられた」 通学中の高校生、前橋 - 産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE1sTnRjbkZXcHJPYnlFdWtHZENWYnVaaWhKSUxSZENCaDNVUGtlYmczUTR0Sm9MNlpMb0NuX1FCSVN3TlFMaHVpS0U0ek1RMy1XQjlYVlJSejhGX3RUT0xpVjhvdWlOLXlzQWxWaFJvS3dPb2NtSEE?oc=5) - 産経ニュース (Thu, 19 Nov 2026) [score: 1.2] _[NATION]_
+- [日本政府、米中露首脳会談で国際環境への影響注視…高市首相「日本の利益が損なわれることはない」 - 読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VkxJWkxGdTJkRmxBLVpSbVoxMkVfcjdHcGtTX2hsM0VVSWloVXVhUnNld0FUSndqMEY0TzdUZmtXbXhCNXlURW9WVkFFNzJaSWotUEM1SDNLd28wbGNPcndXNlotQQ?oc=5) - 読売新聞 (Thu, 19 Nov 2026) [score: 1.15] _[トップストーリー]_
+- [｢適切な儀礼上の手配している｣ 中国 高市総理｢冷遇｣に反論 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XV2daTUJITkJDdFgtYlZoTm9VQ3RELWw1WE1ZV294ZlBETGZkQzdyMDcyNTNHUWNoQk9UNXBGTHZXcUpTWUNVVWxfcnBkS1J4?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 1.15] _[トップストーリー]_
+- [ICJ「ロヒンギャ迫害はジェノサイド」 ガザ巡る訴訟に影響か - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PMXBvbG54dkEtTWFnODJPYjlfYmRJeWJBeTdBb0RQS0pXNHE1MFlBaHNpUENfOGFwVUVqdTYtSU5rUVFYTVdtOHpib09NdWI4MW5tU0ZjbUZFLW5FanpIOHQ0MDJXYXpB?oc=5) - 毎日新聞 (Thu, 19 Nov 2026) [score: 1.15] _[トップストーリー]_
+- [愛子さま、リー・シェンロン上級大臣と笑顔で友好親善「心からの感謝を」 天皇ご一家にちなんだランの花束のプレゼントも - FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hRVJIUG9sUEs5N3JscENWSERWQ21Hck96RnBrWDJ2Q21QcXhBamFzODU3WmxOc1lVRVQ3aVFOOWxnN3RvMGpCbC15bDlDQQ?oc=5) - FNNプライムオンライン (Thu, 19 Nov 2026) [score: 1.15] _[トップストーリー]_
+- [高市首相、トランプ氏との電話会談で米中露首脳会談などの説明受ける…「率直に意見交換を行った」 - 読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IVkZNYnJCUjlBbjQxWGJBX0pZQVN0MlU5RHFoMF9lckpUUmNkQ2ZPYXIwc0Z2TzQ2N2hVcUJYYW10ZGtuLThWWW1iRjZYOUtvWjUwMmJ3dkhaZzRTaktybDg3THVTZw?oc=5) - 読売新聞 (Thu, 19 Nov 2026) [score: 1.15] _[トップストーリー]_
+- [20日夜から積雪？ 石川県内の平地で 気象台が注意喚起｜社会｜デジタル版オリジナル - 北國新聞](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZNnZpS3VxQ18xYlZLLXMydEw5WDYtU2hBOXdRU1ZwemhUYUM4QURta0hBZEw3TTRhOC1kLTlKWkRfWjlEMDVSV0xCQVd4R1Q2NENYUVRLVQ?oc=5) - 北國新聞 (Thu, 19 Nov 2026) [score: 1.15] _[トップストーリー]_
+- [児相記録に「パパがたたく、こわい」趣旨の記載 兵庫・伊丹3歳女児死亡 逮捕の29歳父親は容疑否認 警察は過去にも虐待視野に捜査（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1na3JOb0pRVzZmY2pETHlfa01WTFJFQVRNZGN5dDEwb2JQWEhUYjF4MEMzLVdicDliZ250QUw0aHVFbk9KSERZcjdIS3hwRGp1ZjZjQ05yd2ZyQ0I1WlY0S0FoVmFVMmEzQXd6OGZVM0RZalliaG5xMGt5cXl5Zjg?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 1.15] _[トップストーリー]_
+- [コンカフェ店員殺害≫嫉妬して包丁の写真を送りつけ…生活保護受給しながら飲み歩いた“中野のニキ”「シャンパンいれたから家行っていい？」過去にも警察から警告か（集英社オンライン） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9BMUxfc1ViTzRuRHh4YVA3UUNPeFduYkJZbWtCTzMyRmdNekY0YnhJQkYtVHhRb3ZNTTU5TkZEUk9FX2NoNU84em51bWNaQVZsZFphdmdELS1aZTJGUEhNbWFoemtka2U2WFJhb21DWTBDVzhnWmxad0tMTGdHQ1E?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 1.15] _[トップストーリー]_
+- [プーチン氏、欧州特使にモスクワ訪問提案 ウクライナ協議での立場明確化求める（ロイター） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE83MmRHdmhSalptSUxzZy1MWlJ6YkRQMkh4dU9vSER5WDQwbEhRQ1JKcVFkX2d6VENXR0hXdkloS0U0VWR5aWo2aVlUdWV3UFo3REVQd2V1Vy1ORHFlWjliYXVpdVAtWjNCSTRXNEtMX3VBYUREckRGZ24ySjRsMDQ?oc=5) - Yahoo!ニュース (Thu, 19 Nov 2026) [score: 1.15] _[トップストーリー]_
 
 ## 5. 視聴者の関心キーワードプロファイル
 
-- 日本語: すみあお時事(1.0), 映画(0.594), 時事(0.449), AI(0.35), DC(0.33), 中国初(0.319), 三星堆(0.319), ゴジラ(0.304), スーパーガール(0.285), 仕掛(0.261), ドッキリ(0.261), クレイフェイス(0.258), ハリー(0.245), ドル(0.234), ハロウィン(0.232), 殺到(0.229), ミリー(0.214), オールコック(0.214), ジェームズ(0.214), ガン(0.214), 生成(0.191), コケ(0.191), 完全(0.191), 上座率(0.191), 週目(0.187), 大炎上(0.182), 発表(0.182), ポッター(0.182), バーガーキング(0.181), 仮装(0.181)
-- 英語 (海外ニュース照合用): Film(0.594), AI(0.35), DC(0.33), Godzilla(0.304), Supergirl(0.285), Gimmick(0.261), Hidden camera(0.261), Clayface(0.258), Harry(0.245), Dollar(0.234), Halloween(0.232), James(0.214), Generating(0.191), Potter(0.182), Burger King(0.181), Stage clothes(0.181), Trump(0.4), White House(0.4), election(0.4), immigration(0.4), border(0.4), China(0.4), Xi Jinping(0.4), Taiwan(0.4), Russia(0.4), Ukraine(0.4), Putin(0.4), Israel(0.4), Gaza(0.4), Iran(0.4), North Korea(0.4), South Korea(0.4), Japan(0.4), tariff(0.4), inflation(0.4), Hollywood(0.4), Disney(0.4), Marvel(0.4), Netflix(0.4), box office(0.4), Oscars(0.4), woke(0.4), DEI(0.4), transgender(0.4), free speech(0.4), cancel culture(0.4), boycott(0.4), Elon Musk(0.4), Olympics(0.4)
+- 日本語: すみあお時事(1.0), 映画(0.647), ゴジラ(0.39), 時事(0.326), AI(0.314), DC(0.296), 中国初(0.288), 三星堆(0.288), スーパーガール(0.254), 仕掛(0.241), ドッキリ(0.241), クレイフェイス(0.231), 週目(0.231), ハリー(0.221), 殺到(0.217), 北米(0.214), ハロウィン(0.21), ドル(0.209), ミリー(0.191), オールコック(0.191), ジェームズ(0.191), ガン(0.191), IMDb(0.177), 生成(0.176), 自分(0.171), コケ(0.17), 完全(0.17), 上座率(0.17), 発表(0.169), 大炎上(0.165)
+- 英語 (海外ニュース照合用): Film(0.647), Godzilla(0.39), AI(0.314), DC(0.296), Supergirl(0.254), Gimmick(0.241), Hidden camera(0.241), Clayface(0.231), Harry(0.221), North America(0.214), Halloween(0.21), Dollar(0.209), James(0.191), IMDb(0.177), Generating(0.176), Trump(0.4), White House(0.4), election(0.4), immigration(0.4), border(0.4), China(0.4), Xi Jinping(0.4), Taiwan(0.4), Russia(0.4), Ukraine(0.4), Putin(0.4), Israel(0.4), Gaza(0.4), Iran(0.4), North Korea(0.4), South Korea(0.4), Japan(0.4), tariff(0.4), inflation(0.4), Hollywood(0.4), Disney(0.4), Marvel(0.4), Netflix(0.4), box office(0.4), Oscars(0.4), woke(0.4), DEI(0.4), transgender(0.4), free speech(0.4), cancel culture(0.4), boycott(0.4), Elon Musk(0.4), Olympics(0.4)
