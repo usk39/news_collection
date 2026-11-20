@@ -33,7 +33,7 @@ YOUTUBE_FEED_URL = "https://www.youtube.com/feeds/videos.xml"
 MAX_VIDEOS_PER_CHANNEL = 15
 
 # 視聴者コメントを取得する動画数・1動画あたりのコメント数 (APIキー必須)
-COMMENT_VIDEOS_PER_CHANNEL = 5
+COMMENT_VIDEOS_PER_CHANNEL = 15
 MAX_COMMENTS_PER_VIDEO = 30
 
 # ------------------------------------------------------------------
@@ -44,10 +44,10 @@ GOOGLE_NEWS_TOP_URL = "https://news.google.com/rss"
 GOOGLE_NEWS_TOPIC_URL = "https://news.google.com/rss/headlines/section/topic/{topic}"
 
 # 動画に紐づけるニュースを検索する際、何日以内の記事を対象にするか
-NEWS_LOOKBACK_DAYS = 7
+NEWS_LOOKBACK_DAYS = 14
 
 # 1動画あたり保持する関連ニュースの最大件数
-MAX_NEWS_PER_VIDEO = 5
+MAX_NEWS_PER_VIDEO = 10
 
 # 一般トレンドニュースとして保持する最大件数
 MAX_GENERAL_TRENDS = 25
@@ -55,11 +55,11 @@ MAX_GENERAL_TRENDS = 25
 # 時事ニュースチャンネルの視聴者が関心を持ちやすいカテゴリ
 # (Google News のトピックID。値は重み付けスコアの倍率)
 TREND_TOPIC_WEIGHTS = {
-    "NATION": 1.2,        # 社会
+    "NATION": 0.8,        # 社会
     "WORLD": 1.1,          # 国際
     "BUSINESS": 1.0,       # 経済
     "TECHNOLOGY": 1.0,     # IT・科学
-    "ENTERTAINMENT": 0.8,  # エンタメ
+    "ENTERTAINMENT": 1.2,  # エンタメ
     "SCIENCE": 0.9,        # 科学
 }
 
@@ -127,20 +127,20 @@ OVERSEAS_FEEDS = [
 # カテゴリごとの重み (時事ニュースチャンネルの視聴者が反応しやすいものを高めに)
 OVERSEAS_CATEGORY_WEIGHTS = {
     "world": 1.1,
-    "us_politics": 1.15,
+    "us_politics": 1.0,
     "japan": 1.2,
     "asia": 1.1,
     "business": 1.0,
-    "tech": 0.95,
-    "entertainment": 1.0,
-    "sports": 0.8,
+    "tech": 0.8,
+    "entertainment": 1.15,
+    "sports": 0.95,
 }
 
 # 動画1本あたり保持する海外関連ニュースの最大件数
-MAX_OVERSEAS_NEWS_PER_VIDEO = 5
+MAX_OVERSEAS_NEWS_PER_VIDEO = 10
 
 # 「海外で話題・視聴者が興味を持ちそうなニュース」の保持件数
-MAX_OVERSEAS_TRENDS = 30
+MAX_OVERSEAS_TRENDS = 15
 
 # 「海外メディアが報じる日本」の保持件数
 MAX_JAPAN_IN_OVERSEAS = 15
